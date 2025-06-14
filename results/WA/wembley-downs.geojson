@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-19T16:38:24.752780",
+ "generated": "2025-06-14T11:30:03.867347",
  "suburb": "WEMBLEY DOWNS",
  "features": [
   {
@@ -1541,10 +1541,10 @@
    "properties": {
     "name": "2 LANGDALE STREET WEMBLEY DOWNS 6019",
     "locID": "LOC000107884701",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146611315",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -3358,10 +3358,10 @@
    "properties": {
     "name": "12 JENKINS PLACE WEMBLEY DOWNS 6019",
     "locID": "LOC000089594064",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146614358",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -6164,26 +6164,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.77865,
-     -31.91595
-    ]
-   },
-   "properties": {
-    "name": "4 CHADD PLACE WEMBLEY DOWNS 6019",
-    "locID": "LOC000073695944",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_146618190",
-    "tech_change_status": "Eligible to Order",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.76857,
      -31.91562
     ]
@@ -6191,10 +6171,9 @@
    "properties": {
     "name": "43 HAMER AVENUE WEMBLEY DOWNS 6019",
     "locID": "LOC000107906476",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146618220",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -6271,10 +6250,9 @@
    "properties": {
     "name": "8 TANDARRA PLACE WEMBLEY DOWNS 6019",
     "locID": "LOC000067588838",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146618224",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -6650,10 +6628,9 @@
    "properties": {
     "name": "26 BUSSELL ROAD WEMBLEY DOWNS 6019",
     "locID": "LOC000020276547",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146618496",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -6809,10 +6786,10 @@
    "properties": {
     "name": "55 AILSA STREET WEMBLEY DOWNS 6019",
     "locID": "LOC000106018023",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146618522",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -7812,10 +7789,9 @@
    "properties": {
     "name": "125 WEAPONESS ROAD WEMBLEY DOWNS 6019",
     "locID": "LOC000097699738",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146619223",
-    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -8442,10 +8418,10 @@
    "properties": {
     "name": "1 BUSHEY ROAD WEMBLEY DOWNS 6019",
     "locID": "LOC000021595240",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146619399",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -8580,10 +8556,9 @@
    "properties": {
     "name": "19 UNWIN AVENUE WEMBLEY DOWNS 6019",
     "locID": "LOC000051786616",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146619422",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -8937,10 +8912,10 @@
    "properties": {
     "name": "1 LANGDALE STREET WEMBLEY DOWNS 6019",
     "locID": "LOC000004753664",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146619814",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -9152,10 +9127,9 @@
    "properties": {
     "name": "7 EUSTON STREET WEMBLEY DOWNS 6019",
     "locID": "LOC000065931587",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146619997",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -10873,7 +10847,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAWA_146621871",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -12090,10 +12064,9 @@
    "properties": {
     "name": "10 PURDOM ROAD WEMBLEY DOWNS 6019",
     "locID": "LOC000017923760",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146623357",
-    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -12173,26 +12146,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146623362",
-    "tech_change_status": "Eligible to Order",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.77515,
-     -31.91498
-    ]
-   },
-   "properties": {
-    "name": "49 STOCKDALE CRESCENT WEMBLEY DOWNS 6019",
-    "locID": "LOC000004864792",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
-    "gnaf_pid": "GAWA_146623363",
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -13173,10 +13126,9 @@
    "properties": {
     "name": "152 WEAPONESS ROAD WEMBLEY DOWNS 6019",
     "locID": "LOC000043251783",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146623958",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -14454,10 +14406,10 @@
    "properties": {
     "name": "66 EMPIRE AVENUE WEMBLEY DOWNS 6019",
     "locID": "LOC000027050710",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146624602",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -15180,10 +15132,9 @@
    "properties": {
     "name": "12 QUORN STREET WEMBLEY DOWNS 6019",
     "locID": "LOC000002925114",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146624915",
-    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -15203,26 +15154,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_146624918",
-    "tech_change_status": "Eligible to Order",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.77544846,
-     -31.91728487
-    ]
-   },
-   "properties": {
-    "name": "18 QUORN STREET WEMBLEY DOWNS 6019",
-    "locID": "LOC000068124694",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_146624919",
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -17408,10 +17339,10 @@
    "properties": {
     "name": "111 COBB STREET WEMBLEY DOWNS 6019",
     "locID": "LOC000015662267",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146628142",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -17428,10 +17359,10 @@
    "properties": {
     "name": "117 COBB STREET WEMBLEY DOWNS 6019",
     "locID": "LOC000031546036",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146628146",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -17527,10 +17458,10 @@
    "properties": {
     "name": "10 WILSON CRESCENT WEMBLEY DOWNS 6019",
     "locID": "LOC000064417028",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_146628504",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -17547,10 +17478,9 @@
    "properties": {
     "name": "7 ARUNDALE CRESCENT WEMBLEY DOWNS 6019",
     "locID": "LOC000021172704",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146628505",
-    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -17762,8 +17692,8 @@
    "properties": {
     "name": "19 BUNTINE ROAD WEMBLEY DOWNS 6019",
     "locID": "LOC000033827710",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146628538",
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
@@ -18176,10 +18106,9 @@
    "properties": {
     "name": "20 METZ WAY WEMBLEY DOWNS 6019",
     "locID": "LOC000004509755",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146629852",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -20019,10 +19948,10 @@
    "properties": {
     "name": "33 DUNROSSIL STREET WEMBLEY DOWNS 6019",
     "locID": "LOC000084652736",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146633285",
-    "tech_change_status": "New Tech Connected",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -22139,7 +22068,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_146636678",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -22670,9 +22599,9 @@
     "name": "19 BUSSELL ROAD WEMBLEY DOWNS 6019",
     "locID": "LOC000038296961",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP",
     "gnaf_pid": "GAWA_146638773",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -23539,10 +23468,9 @@
    "properties": {
     "name": "14 EDNAH STREET WEMBLEY DOWNS 6019",
     "locID": "LOC000008780953",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147123515",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -23953,10 +23881,9 @@
    "properties": {
     "name": "32 GLENELG AVENUE WEMBLEY DOWNS 6019",
     "locID": "LOC000059565093",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147164023",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -27210,7 +27137,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147264342",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -27382,10 +27309,9 @@
    "properties": {
     "name": "43A STOCKDALE CRESCENT WEMBLEY DOWNS 6019",
     "locID": "LOC000063108369",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147266894",
-    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -28115,10 +28041,10 @@
    "properties": {
     "name": "25 VALLEY ROAD WEMBLEY DOWNS 6019",
     "locID": "LOC000022052427",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147271131",
-    "tech_change_status": "New Tech Connected",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -29298,26 +29224,6 @@
     "upgrade": "FTTP",
     "gnaf_pid": "GAWA_147284722",
     "tech_change_status": "Eligible to Order",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.76816,
-     -31.91162
-    ]
-   },
-   "properties": {
-    "name": "139B CALAIS ROAD WEMBLEY DOWNS 6019",
-    "locID": "LOC000091572532",
-    "tech": "FTTP",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GAWA_147284723",
-    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -30790,10 +30696,9 @@
    "properties": {
     "name": "7A LUITA STREET WEMBLEY DOWNS 6019",
     "locID": "LOC000068358474",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_148184316",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -32582,7 +32487,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAWA_148200446",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -34550,25 +34455,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.76841,
-     -31.91373
-    ]
-   },
-   "properties": {
-    "name": "157B CALAIS ROAD WEMBLEY DOWNS 6019",
-    "locID": "LOC000090571031",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_148205245",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.76772,
      -31.9144
     ]
@@ -34936,26 +34822,6 @@
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_148206891",
     "tech_change_status": "Eligible to Order",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.77550585,
-     -31.91267187
-    ]
-   },
-   "properties": {
-    "name": "24B SULMAN ROAD WEMBLEY DOWNS 6019",
-    "locID": "LOC000055029890",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_148206895",
-    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -35663,10 +35529,9 @@
    "properties": {
     "name": "13A MORDEN STREET WEMBLEY DOWNS 6019",
     "locID": "LOC000041921700",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_148208835",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -35703,10 +35568,10 @@
    "properties": {
     "name": "11B MAISIE CRESCENT WEMBLEY DOWNS 6019",
     "locID": "LOC000003045874",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_148208839",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -36208,26 +36073,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.77431,
-     -31.91716
-    ]
-   },
-   "properties": {
-    "name": "11A LUITA STREET WEMBLEY DOWNS 6019",
-    "locID": "LOC000057889109",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_148208950",
-    "tech_change_status": "Eligible to Order",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.77383,
      -31.90755
     ]
@@ -36663,25 +36508,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.77362,
-     -31.91418
-    ]
-   },
-   "properties": {
-    "name": "20A PURDOM ROAD WEMBLEY DOWNS 6019",
-    "locID": "LOC000043164406",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_148209655",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.7752884,
      -31.90767807
     ]
@@ -37101,9 +36927,9 @@
     "name": "26A AILSA STREET WEMBLEY DOWNS 6019",
     "locID": "LOC000086159922",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP",
     "gnaf_pid": "GAWA_148210615",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -37593,26 +37419,6 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_148212095",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     115.77765639,
-     -31.91188682
-    ]
-   },
-   "properties": {
-    "name": "3 SULMAN ROAD WEMBLEY DOWNS 6019",
-    "locID": "LOC000055513804",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_148212098",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -41329,10 +41135,10 @@
    "properties": {
     "name": "34A SLALOM DRIVE WEMBLEY DOWNS 6019",
     "locID": "LOC000092951592",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_148224251",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -43046,10 +42852,9 @@
    "properties": {
     "name": "150 BROMPTON ROAD WEMBLEY DOWNS 6019",
     "locID": "LOC000014446891",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160875705",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -43129,7 +42934,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160875709",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -43605,7 +43410,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAWA_160877290",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -45803,25 +45608,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     115.77304916,
-     -31.90759229
-    ]
-   },
-   "properties": {
-    "name": "100A WEAPONESS ROAD WEMBLEY DOWNS 6019",
-    "locID": "LOC000011524418",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_161908953",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      115.77326427,
      -31.90791427
     ]
@@ -47207,8 +46993,8 @@
    "properties": {
     "name": "181 WEAPONESS ROAD WEMBLEY DOWNS 6019",
     "locID": "LOC000108419983",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162497928",
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
@@ -48348,10 +48134,10 @@
    "properties": {
     "name": "LOT 420 LANGDALE STREET WEMBLEY DOWNS 6019",
     "locID": "LOC000004753664",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_163080932",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -51560,10 +51346,9 @@
    "properties": {
     "name": "55B SULMAN ROAD WEMBLEY DOWNS 6019",
     "locID": "LOC000163549756",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719224793",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -53177,6 +52962,26 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_720890330",
+    "tech_change_status": "Previous Tech Disconnected",
+    "program_type": "On-Demand N2P SDU/MDU Simple",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.77911532,
+     -31.91193898
+    ]
+   },
+   "properties": {
+    "name": "11A UNWIN AVENUE WEMBLEY DOWNS 6019",
+    "locID": "LOC000189356537",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAWA_720891420",
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
