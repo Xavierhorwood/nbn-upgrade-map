@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T03:49:24.500723",
+ "generated": "2025-06-14T22:46:34.248404",
  "suburb": "SEAFORTH",
  "features": [
   {
@@ -4713,10 +4713,10 @@
    "properties": {
     "name": "40 POINCIANA AVENUE SEAFORTH 4741",
     "locID": "LOC000024074611",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155808813",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -5937,10 +5937,10 @@
    "properties": {
     "name": "14 GEORGE STREET SEAFORTH 4741",
     "locID": "LOC000100576848",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157109061",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -6763,10 +6763,9 @@
    "properties": {
     "name": "28 PALM AVENUE SEAFORTH 4741",
     "locID": "LOC000049651831",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157122968",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -11518,6 +11517,26 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     148.87775115,
+     -20.96054327
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 MULHERINS ROAD SEAFORTH 4741",
+    "locID": "LOC000021595480",
+    "tech": "SATELLITE",
+    "upgrade": "WIRELESS",
+    "gnaf_pid": "GAQLD163219922",
+    "tech_change_status": "Eligible to Order",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      148.9217049,
      -20.95498932
     ]
@@ -11842,6 +11861,26 @@
     "gnaf_pid": "GAQLD425542953",
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.96950105,
+     -20.92354615
+    ]
+   },
+   "properties": {
+    "name": "154 CAPE HILLSBOROUGH ROAD SEAFORTH 4741",
+    "locID": "LOC100078007010",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD425662901",
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
    }
   },
