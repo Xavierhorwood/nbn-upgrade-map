@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-19T20:14:11.560595",
+ "generated": "2025-06-14T16:57:45.210421",
  "suburb": "BOULDER",
  "features": [
   {
@@ -853,11 +853,11 @@
     "name": "36 WITTENOOM STREET BOULDER 6432",
     "locID": "LOC000050668283",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147005625",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -933,11 +933,11 @@
     "name": "1 HAMILTON STREET BOULDER 6432",
     "locID": "LOC000035533869",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147005633",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -1293,26 +1293,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147006306",
-    "tech_change_status": "Committed",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Sep 2025"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     121.48807,
-     -30.76245
-    ]
-   },
-   "properties": {
-    "name": "3 SHORT STREET BOULDER 6432",
-    "locID": "LOC000044644293",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GAWA_147006307",
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -2506,12 +2486,12 @@
    "properties": {
     "name": "6 JONES PLACE BOULDER 6432",
     "locID": "LOC000092963315",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147010362",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -2527,11 +2507,11 @@
     "name": "8 JONES PLACE BOULDER 6432",
     "locID": "LOC000022045558",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147010363",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -2627,11 +2607,11 @@
     "name": "6 STEEL PLACE BOULDER 6432",
     "locID": "LOC000087313711",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147010372",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -2647,11 +2627,11 @@
     "name": "8 STEEL PLACE BOULDER 6432",
     "locID": "LOC000002151513",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147010373",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -4343,11 +4323,11 @@
     "name": "142 BURT STREET BOULDER 6432",
     "locID": "LOC000012013581",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147014789",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -4601,8 +4581,8 @@
    "properties": {
     "name": "1 JOYCE DRIVE BOULDER 6432",
     "locID": "LOC000064143255",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147015325",
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
@@ -4642,11 +4622,11 @@
     "name": "36 CAVALIER CRESCENT BOULDER 6432",
     "locID": "LOC000035382640",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147015327",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -5187,11 +5167,11 @@
     "name": "27 JACKSON STREET BOULDER 6432",
     "locID": "LOC000069663004",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147015986",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -5207,11 +5187,11 @@
     "name": "25 JACKSON STREET BOULDER 6432",
     "locID": "LOC000023652943",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147015987",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -5658,11 +5638,11 @@
     "name": "197 PIESSE STREET BOULDER 6432",
     "locID": "LOC000192768739",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147016324",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -5678,11 +5658,11 @@
     "name": "192 BURT STREET BOULDER 6432",
     "locID": "LOC000037935617",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147016325",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -5718,11 +5698,11 @@
     "name": "195 PIESSE STREET BOULDER 6432",
     "locID": "LOC000066437544",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147016330",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -5738,11 +5718,11 @@
     "name": "188 BURT STREET BOULDER 6432",
     "locID": "LOC000057108884",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147016331",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -5898,11 +5878,11 @@
     "name": "161 RICHARDSON STREET BOULDER 6432",
     "locID": "LOC000102344897",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147016586",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -5978,11 +5958,11 @@
     "name": "29 JACKSON STREET BOULDER 6432",
     "locID": "LOC000060132430",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147016640",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -6080,7 +6060,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147016647",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -7050,26 +7030,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     121.48695,
-     -30.77906
-    ]
-   },
-   "properties": {
-    "name": "69A WITTENOOM STREET BOULDER 6432",
-    "locID": "LOC000100822684",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_147017638",
-    "tech_change_status": "Eligible to Order",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      121.48705906,
      -30.77906177
     ]
@@ -7670,11 +7630,11 @@
     "name": "2 MORGAN LOOP BOULDER 6432",
     "locID": "LOC000012928937",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147018099",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -9423,11 +9383,11 @@
     "name": "199 PIESSE STREET BOULDER 6432",
     "locID": "LOC000021928096",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147019369",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -9475,26 +9435,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     121.47648,
-     -30.7877
-    ]
-   },
-   "properties": {
-    "name": "11 PARRY WAY BOULDER 6432",
-    "locID": "LOC000022104842",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_147019377",
-    "tech_change_status": "Eligible to Order",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      121.47626,
      -30.7877
     ]
@@ -9522,12 +9462,12 @@
    "properties": {
     "name": "157 RICHARDSON STREET BOULDER 6432",
     "locID": "LOC000098232229",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147019379",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -9543,11 +9483,11 @@
     "name": "214 PIESSE STREET BOULDER 6432",
     "locID": "LOC000009474561",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147019380",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -10080,11 +10020,11 @@
     "name": "56 BURT STREET BOULDER 6432",
     "locID": "LOC000032280712",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147019440",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -10412,26 +10352,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     121.47511,
-     -30.78712
-    ]
-   },
-   "properties": {
-    "name": "24 CAVALIER CRESCENT BOULDER 6432",
-    "locID": "LOC000018104731",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_147019980",
-    "tech_change_status": "Eligible to Order",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      121.47501,
      -30.78674
     ]
@@ -10499,11 +10419,11 @@
     "name": "34 CAVALIER CRESCENT BOULDER 6432",
     "locID": "LOC000106381087",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147019989",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -11734,12 +11654,12 @@
    "properties": {
     "name": "144 BURT STREET BOULDER 6432",
     "locID": "LOC000049373629",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147021358",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -11835,11 +11755,11 @@
     "name": "146 BURT STREET BOULDER 6432",
     "locID": "LOC000105919257",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147021363",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -11954,10 +11874,10 @@
    "properties": {
     "name": "19 WITTENOOM STREET BOULDER 6432",
     "locID": "LOC000098493748",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147022073",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -12615,11 +12535,11 @@
     "name": "2 MORAN STREET BOULDER 6432",
     "locID": "LOC000069578418",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147022356",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -13957,10 +13877,10 @@
    "properties": {
     "name": "69 FORREST STREET BOULDER 6432",
     "locID": "LOC000041982687",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147023199",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -15212,12 +15132,9 @@
    "properties": {
     "name": "11 HOLMES STREET BOULDER 6432",
     "locID": "LOC000006518294",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GAWA_147024354",
-    "tech_change_status": "Committed",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Sep 2025"
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_147024354"
    }
   },
   {
@@ -15292,11 +15209,11 @@
     "name": "150 BURT STREET BOULDER 6432",
     "locID": "LOC000025466958",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147024418",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -15312,11 +15229,11 @@
     "name": "154 BURT STREET BOULDER 6432",
     "locID": "LOC000003634568",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147024419",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -16331,11 +16248,11 @@
     "name": "50 BURT STREET BOULDER 6432",
     "locID": "LOC000133294669",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147025388",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -16351,11 +16268,11 @@
     "name": "46 BURT STREET BOULDER 6432",
     "locID": "LOC000050100216",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147025389",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -16831,11 +16748,11 @@
     "name": "18 HAMILTON STREET BOULDER 6432",
     "locID": "LOC000009610862",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147025415",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -16851,11 +16768,11 @@
     "name": "16 HAMILTON STREET BOULDER 6432",
     "locID": "LOC000056708692",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147025416",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -16871,11 +16788,11 @@
     "name": "14 HAMILTON STREET BOULDER 6432",
     "locID": "LOC000035533869",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147025417",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -16931,11 +16848,11 @@
     "name": "1 BOXHALL RETREAT BOULDER 6432",
     "locID": "LOC000077491816",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147025549",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -17108,8 +17025,8 @@
    "properties": {
     "name": "150 PIESSE STREET BOULDER 6432",
     "locID": "LOC000050495627",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147026027",
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
@@ -17744,9 +17661,9 @@
     "name": "177 BURT STREET BOULDER 6432",
     "locID": "LOC000084056605",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP",
     "gnaf_pid": "GAWA_147027776",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -18354,9 +18271,9 @@
     "name": "43 MORAN STREET BOULDER 6432",
     "locID": "LOC000100595480",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP",
     "gnaf_pid": "GAWA_147029255",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -19526,8 +19443,8 @@
    "properties": {
     "name": "9 DAVIS STREET BOULDER 6432",
     "locID": "LOC000002114661",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147031193",
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
@@ -19800,8 +19717,8 @@
    "properties": {
     "name": "90 DAVIS STREET BOULDER 6432",
     "locID": "LOC000059801911",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147031476",
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
@@ -19881,11 +19798,11 @@
     "name": "92 DAVIS STREET BOULDER 6432",
     "locID": "LOC000035229801",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147031481",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -19921,11 +19838,11 @@
     "name": "94 DAVIS STREET BOULDER 6432",
     "locID": "LOC000104164135",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147031483",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -19981,11 +19898,11 @@
     "name": "96 DAVIS STREET BOULDER 6432",
     "locID": "LOC000016495335",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147031486",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -20396,10 +20313,9 @@
    "properties": {
     "name": "65 RICHARDSON STREET BOULDER 6432",
     "locID": "LOC000059703793",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147032163",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -20455,12 +20371,12 @@
    "properties": {
     "name": "190A BURT STREET BOULDER 6432",
     "locID": "LOC000077539548",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147032166",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -20496,11 +20412,11 @@
     "name": "190 BURT STREET BOULDER 6432",
     "locID": "LOC000077747938",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147032168",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -20556,11 +20472,11 @@
     "name": "186A BURT STREET BOULDER 6432",
     "locID": "LOC000046644675",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147032171",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -20875,11 +20791,11 @@
     "name": "1 MORGAN LOOP BOULDER 6432",
     "locID": "LOC000049462841",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147032382",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -21096,10 +21012,9 @@
    "properties": {
     "name": "40A DAVIS STREET BOULDER 6432",
     "locID": "LOC000100731129",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147033482",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -21136,10 +21051,10 @@
    "properties": {
     "name": "66 DAVIS STREET BOULDER 6432",
     "locID": "LOC000093973879",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147033484",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -21394,10 +21309,10 @@
    "properties": {
     "name": "8 CLEMENTS WAY BOULDER 6432",
     "locID": "LOC000064747494",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147034261",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -21572,11 +21487,11 @@
     "name": "70 CLANCY STREET BOULDER 6432",
     "locID": "LOC000002980783",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147034558",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -22490,10 +22405,10 @@
    "properties": {
     "name": "8 MORGAN LOOP BOULDER 6432",
     "locID": "LOC000076880544",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147035801",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -22571,11 +22486,11 @@
     "name": "6 MORGAN LOOP BOULDER 6432",
     "locID": "LOC000068556297",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147035805",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -22591,11 +22506,11 @@
     "name": "4 MORGAN LOOP BOULDER 6432",
     "locID": "LOC000022772674",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147035806",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -23089,11 +23004,11 @@
     "name": "60 BURT STREET BOULDER 6432",
     "locID": "LOC000054514076",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147035928",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -23128,12 +23043,12 @@
    "properties": {
     "name": "62 BURT STREET BOULDER 6432",
     "locID": "LOC000023685044",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147035932",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -23249,11 +23164,11 @@
     "name": "218 PIESSE STREET BOULDER 6432",
     "locID": "LOC000086516590",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147036014",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -23564,10 +23479,10 @@
    "properties": {
     "name": "50 MORAN STREET BOULDER 6432",
     "locID": "LOC000056588807",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147036672",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -24085,11 +24000,11 @@
     "name": "156 BURT STREET BOULDER 6432",
     "locID": "LOC000064236285",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147037113",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -25572,11 +25487,11 @@
     "name": "36A WITTENOOM STREET BOULDER 6432",
     "locID": "LOC000051023984",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147055731",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -25814,11 +25729,11 @@
     "name": "34 JACKSON STREET BOULDER 6432",
     "locID": "LOC000045559491",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147069141",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -25834,11 +25749,11 @@
     "name": "36 JACKSON STREET BOULDER 6432",
     "locID": "LOC000092859625",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147069142",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -26486,11 +26401,11 @@
     "name": "4 CAVALIER CRESCENT BOULDER 6432",
     "locID": "LOC000018590009",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147084189",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -26506,11 +26421,11 @@
     "name": "2 CAVALIER CRESCENT BOULDER 6432",
     "locID": "LOC000072942983",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147084190",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -26953,11 +26868,11 @@
     "name": "2 PIESSE STREET BOULDER 6432",
     "locID": "LOC000039967789",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147100483",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -27563,10 +27478,9 @@
    "properties": {
     "name": "47 RAINSFORD LOOP BOULDER 6432",
     "locID": "LOC000079242633",
-    "tech": "FTTN",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_147110660",
-    "tech_change_status": "Not Planned"
+    "gnaf_pid": "GAWA_147110660"
    }
   },
   {
@@ -28717,11 +28631,11 @@
     "name": "6 ERIN COURT BOULDER 6432",
     "locID": "LOC000027887773",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147150653",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -28737,11 +28651,11 @@
     "name": "8 ERIN COURT BOULDER 6432",
     "locID": "LOC000046609134",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147150654",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -28777,11 +28691,11 @@
     "name": "2 ERIN COURT BOULDER 6432",
     "locID": "LOC000090602888",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147152316",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -28797,11 +28711,11 @@
     "name": "4 ERIN COURT BOULDER 6432",
     "locID": "LOC000098806841",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147152317",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -29214,10 +29128,10 @@
    "properties": {
     "name": "12 ERIN COURT BOULDER 6432",
     "locID": "LOC000103801429",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147176111",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -30926,12 +30840,12 @@
    "properties": {
     "name": "21 POWELL STREET BOULDER 6432",
     "locID": "LOC000010643603",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147344876",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -31147,26 +31061,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147348906",
-    "tech_change_status": "Committed",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Sep 2025"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     121.48658,
-     -30.77198
-    ]
-   },
-   "properties": {
-    "name": "39 JOHNSTON STREET BOULDER 6432",
-    "locID": "LOC000027810403",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GAWA_147348907",
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -31745,26 +31639,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147403639",
-    "tech_change_status": "Committed",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Sep 2025"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     121.48395918,
-     -30.7743594
-    ]
-   },
-   "properties": {
-    "name": "39 MILLEN STREET BOULDER 6432",
-    "locID": "LOC000002160330",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GAWA_147403910",
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -32449,10 +32323,10 @@
    "properties": {
     "name": "66C DAVIS STREET BOULDER 6432",
     "locID": "LOC000093973879",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147512160",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -33565,11 +33439,11 @@
     "name": "70A CLANCY STREET BOULDER 6432",
     "locID": "LOC000002930598",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147518909",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -33957,7 +33831,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAWA_147519784",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -34172,11 +34046,11 @@
     "name": "1A MORAN STREET BOULDER 6432",
     "locID": "LOC000108181662",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_147520013",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -34967,10 +34841,10 @@
    "properties": {
     "name": "15A DAVIS STREET BOULDER 6432",
     "locID": "LOC000038877137",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147521278",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -41682,26 +41556,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     121.48495771,
-     -30.77856353
-    ]
-   },
-   "properties": {
-    "name": "58A DAVIS STREET BOULDER 6432",
-    "locID": "LOC000061315047",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_147532304",
-    "tech_change_status": "Eligible to Order",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      121.48564,
      -30.78101
     ]
@@ -42265,12 +42119,12 @@
    "properties": {
     "name": "68A CLANCY STREET BOULDER 6432",
     "locID": "LOC000085242546",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_147533122",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -43837,12 +43691,12 @@
    "properties": {
     "name": "19 BURT STREET BOULDER 6432",
     "locID": "LOC000077539548",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_161420486",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -43957,10 +43811,10 @@
    "properties": {
     "name": "LOT 3949 CLEMENTS WAY BOULDER 6432",
     "locID": "LOC000064747494",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_161534435",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -44424,10 +44278,10 @@
    "properties": {
     "name": "109 WITTENOOM STREET BOULDER 6432",
     "locID": "LOC000002145966",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_162396257",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -45190,11 +45044,11 @@
     "name": "25 BROOKMAN STREET BOULDER 6432",
     "locID": "LOC000089715254",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_162557260",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -46120,12 +45974,12 @@
    "properties": {
     "name": "LOT 471 BURT STREET BOULDER 6432",
     "locID": "LOC100038888957",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_162776527",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -47353,11 +47207,11 @@
     "name": "52 HAMILTON STREET BOULDER 6432",
     "locID": "LOC000026188918",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163047989",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -47833,26 +47687,6 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163093671",
-    "tech_change_status": "Eligible to Order",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     121.48900355,
-     -30.78015359
-    ]
-   },
-   "properties": {
-    "name": "197B LANE STREET BOULDER 6432",
-    "locID": "LOC000058275257",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GAWA_163093672",
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -48443,12 +48277,12 @@
    "properties": {
     "name": "36 HAMILTON STREET BOULDER 6432",
     "locID": "LOC000111759587",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_163273123",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -48523,10 +48357,10 @@
    "properties": {
     "name": "LOT 500 CLEMENTS WAY BOULDER 6432",
     "locID": "LOC000064747494",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_163336456",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -48896,11 +48730,11 @@
     "name": "49 HAMILTON STREET BOULDER 6432",
     "locID": "LOC000133294598",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_163379846",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -49345,11 +49179,11 @@
     "name": "28 HAMILTON STREET BOULDER 6432",
     "locID": "LOC000116501336",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "FTTP_SA",
     "gnaf_pid": "GAWA_718216316",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Jun 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -49919,26 +49753,6 @@
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     121.48175344,
-     -30.77611436
-    ]
-   },
-   "properties": {
-    "name": "3 THOMSON STREET BOULDER 6432",
-    "locID": "LOC000174649737",
-    "tech": "FTTN",
-    "upgrade": "FTTP_NA",
-    "gnaf_pid": "GAWA_718553120",
-    "tech_change_status": "Committed",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Sep 2025"
    }
   },
   {
