@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-19T23:28:26.550481",
+ "generated": "2025-06-14T19:34:25.628345",
  "suburb": "TOCUMWAL",
  "features": [
   {
@@ -128,10 +128,9 @@
    "properties": {
     "name": "40 BRUTON STREET TOCUMWAL 2714",
     "locID": "LOC000018129579",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW706081571",
-    "tech_change_status": "Eligible to Order"
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706081571"
    }
   },
   {
@@ -164,10 +163,9 @@
    "properties": {
     "name": "44 BRUTON STREET TOCUMWAL 2714",
     "locID": "LOC000065190213",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW706081573",
-    "tech_change_status": "Eligible to Order"
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706081573"
    }
   },
   {
@@ -4278,10 +4276,9 @@
    "properties": {
     "name": "36-40 BAROOGA ROAD TOCUMWAL 2714",
     "locID": "LOC000115542353",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706104605",
-    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -5331,10 +5328,9 @@
    "properties": {
     "name": "62 BRUTON STREET TOCUMWAL 2714",
     "locID": "LOC000085083947",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW706112063",
-    "tech_change_status": "Eligible to Order"
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706112063"
    }
   },
   {
@@ -6074,10 +6070,9 @@
    "properties": {
     "name": "11 MURRAY STREET TOCUMWAL 2714",
     "locID": "LOC000015873168",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW706114857",
-    "tech_change_status": "Eligible to Order"
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706114857"
    }
   },
   {
@@ -6111,9 +6106,9 @@
     "name": "8 MURRAY STREET TOCUMWAL 2714",
     "locID": "LOC000058691878",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP",
     "gnaf_pid": "GANSW706114891",
-    "tech_change_status": "Eligible to Order"
+    "tech_change_status": "New Tech Connected"
    }
   },
   {
@@ -6326,10 +6321,9 @@
    "properties": {
     "name": "30 MURRAY STREET TOCUMWAL 2714",
     "locID": "LOC000094386631",
-    "tech": "FTTC",
-    "upgrade": "FTTP",
-    "gnaf_pid": "GANSW706120899",
-    "tech_change_status": "New Tech Connected"
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706120899"
    }
   },
   {
@@ -6362,10 +6356,9 @@
    "properties": {
     "name": "37 MURRAY STREET TOCUMWAL 2714",
     "locID": "LOC000043336317",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW706120903",
-    "tech_change_status": "Eligible to Order"
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706120903"
    }
   },
   {
@@ -6380,10 +6373,9 @@
    "properties": {
     "name": "39 MURRAY STREET TOCUMWAL 2714",
     "locID": "LOC000045672549",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW706120905",
-    "tech_change_status": "Eligible to Order"
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706120905"
    }
   },
   {
@@ -12423,10 +12415,9 @@
    "properties": {
     "name": "UNIT 1, 39 MURRAY STREET TOCUMWAL 2714",
     "locID": "LOC000045672549",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW715390198",
-    "tech_change_status": "Eligible to Order"
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW715390198"
    }
   },
   {
@@ -17485,10 +17476,9 @@
    "properties": {
     "name": "63 BRUTON STREET TOCUMWAL 2714",
     "locID": "LOC000115552775",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
-    "gnaf_pid": "GANSW717325010",
-    "tech_change_status": "Eligible to Order"
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW717325010"
    }
   },
   {
@@ -24851,9 +24841,8 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW718238790",
-    "tech_change_status": "Committed",
-    "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Sep 2025"
+    "tech_change_status": "Planned",
+    "program_type": "On-Demand N2P SDU/MDU Simple"
    }
   },
   {
@@ -29029,10 +29018,10 @@
    "properties": {
     "name": "UNIT 18, 193 QUICKS ROAD TOCUMWAL 2714",
     "locID": "LOC000171249869",
-    "tech": "WIRELESS",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718851356",
-    "tech_change_status": "Not Planned",
+    "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
    }

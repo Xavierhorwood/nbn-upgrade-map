@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-19T23:20:55.537137",
+ "generated": "2025-06-14T19:28:14.431281",
  "suburb": "PLAINLAND",
  "features": [
   {
@@ -2987,7 +2987,7 @@
    "properties": {
     "name": "9 PATS ROAD PLAINLAND 4341",
     "locID": "LOC000195002007",
-    "tech": "NULL",
+    "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155722086"
    }
@@ -3115,24 +3115,6 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156070690",
-    "tech_change_status": "Not Planned"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     152.43086978,
-     -27.55738507
-    ]
-   },
-   "properties": {
-    "name": "16 MOUNTAIN VIEW DRIVE PLAINLAND 4341",
-    "locID": "LOC000012456411",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD156079748",
     "tech_change_status": "Not Planned"
    }
   },
@@ -8072,10 +8054,10 @@
    "properties": {
     "name": "3 SASSAFRAS COURT PLAINLAND 4341",
     "locID": "LOC000049226183",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158500316",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -9359,6 +9341,26 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     152.41062173,
+     -27.5796492
+    ]
+   },
+   "properties": {
+    "name": "LOT 27 LAIDLEY - PLAINLAND ROAD PLAINLAND 4341",
+    "locID": "LOC000057999501",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161206639",
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      152.4147314,
      -27.57757296
     ]
@@ -10511,12 +10513,12 @@
    "properties": {
     "name": "2 HOOPER DRIVE PLAINLAND 4341",
     "locID": "LOC000006643862",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162155409",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Dec 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -10661,12 +10663,12 @@
    "properties": {
     "name": "LOT 2 HOOPER DRIVE PLAINLAND 4341",
     "locID": "LOC000006643862",
-    "tech": "FTTN",
+    "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162710637",
-    "tech_change_status": "Committed",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Dec 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
