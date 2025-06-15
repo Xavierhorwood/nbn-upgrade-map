@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-21T01:54:54.789713",
+ "generated": "2025-06-15T16:14:34.214040",
  "suburb": "KEITH",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425060649",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425060650",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -56,6 +58,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425061074",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -74,6 +77,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425061075",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -92,6 +96,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425061167",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -110,6 +115,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425061168",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -128,6 +134,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425061169",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -146,6 +153,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425061686",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -164,6 +172,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425061687",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -182,6 +191,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425061828",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -200,6 +210,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425061829",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -218,6 +229,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425061873",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -236,6 +248,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425061888",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -254,6 +267,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425061889",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -272,6 +286,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425061903",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -289,7 +304,8 @@
     "locID": "LOC000079290444",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425061904"
+    "gnaf_pid": "GASA_425061904",
+    "ee": true
    }
   },
   {
@@ -307,6 +323,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062631",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -325,6 +342,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062632",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -343,6 +361,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062633",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -361,6 +380,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062634",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -379,6 +399,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062695",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -397,6 +418,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062906",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -415,6 +437,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062925",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -433,6 +456,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062930",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -451,6 +475,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062933",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -469,6 +494,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062934",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -487,6 +513,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062935",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -505,6 +532,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062937",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -523,6 +551,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062938",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -541,6 +570,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062939",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -559,6 +589,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062940",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -577,6 +608,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062941",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -595,6 +627,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062942",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -613,6 +646,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062943",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -631,6 +665,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425062946",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -649,6 +684,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063089",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -667,6 +703,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063136",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -685,6 +722,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063137",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -703,6 +741,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063138",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -721,6 +760,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063139",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -739,6 +779,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063141",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -757,6 +798,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063142",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -775,6 +817,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063165",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -793,6 +836,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063220",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -811,6 +855,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063221",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -829,6 +874,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063222",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -847,6 +893,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063223",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -865,6 +912,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063224",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -883,6 +931,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063225",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -901,6 +950,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063226",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -919,6 +969,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063883",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -937,6 +988,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063885",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -955,6 +1007,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425063886",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -972,7 +1025,8 @@
     "locID": "LOC000002699262",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425064526"
+    "gnaf_pid": "GASA_425064526",
+    "ee": true
    }
   },
   {
@@ -990,6 +1044,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425064527",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1007,7 +1062,8 @@
     "locID": "LOC000031843866",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425064529"
+    "gnaf_pid": "GASA_425064529",
+    "ee": true
    }
   },
   {
@@ -1025,6 +1081,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425064530",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1043,6 +1100,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425064531",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1061,6 +1119,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425064652",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1079,6 +1138,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425064786",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1097,6 +1157,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425065722",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1115,6 +1176,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425065726",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1133,6 +1195,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425065727",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1151,6 +1214,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425065728",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1169,6 +1233,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425065785",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1187,6 +1252,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425065786",
+    "ee": true,
     "tech_change_status": "Build Finalised",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1207,6 +1273,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425065787",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1227,6 +1294,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425065788",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1247,6 +1315,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425065789",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1267,6 +1336,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425065792",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1287,6 +1357,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425065793",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1305,6 +1376,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425065794",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1323,6 +1395,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425065795",
+    "ee": true,
     "tech_change_status": "Build Finalised",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1343,6 +1416,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425065796",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1363,6 +1437,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425065797",
+    "ee": true,
     "tech_change_status": "Build Finalised",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1383,6 +1458,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425065798",
+    "ee": true,
     "tech_change_status": "Build Finalised",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1403,6 +1479,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425065854",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1421,6 +1498,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425065855",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1439,6 +1517,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425065856",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1457,6 +1536,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425065857",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1475,6 +1555,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425065858",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1493,6 +1574,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425065999",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1511,6 +1593,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425066000",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1529,6 +1612,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425066447",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1547,6 +1631,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425066449",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1565,6 +1650,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425066462",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1583,6 +1669,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425066464",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1601,6 +1688,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425066465",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1619,6 +1707,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425066466",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1637,6 +1726,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425066614",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1655,6 +1745,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425066615",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1673,6 +1764,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425066616",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1691,6 +1783,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425066617",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1709,6 +1802,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425066622",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1727,6 +1821,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067202",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1745,6 +1840,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067203",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1763,6 +1859,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067204",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1781,6 +1878,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067205",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1799,6 +1897,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067206",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1817,6 +1916,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067207",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1835,6 +1935,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067208",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1853,6 +1954,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067211",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1871,6 +1973,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067212",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1889,6 +1992,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067229",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1907,6 +2011,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067323",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1925,6 +2030,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067324",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1943,6 +2049,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067325",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1961,6 +2068,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067889",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1979,6 +2087,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067890",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1997,6 +2106,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067938",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2015,6 +2125,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067942",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2033,6 +2144,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067944",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2051,6 +2163,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425067945",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2069,6 +2182,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425068139",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2087,6 +2201,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425068142",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2105,6 +2220,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425068147",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2123,6 +2239,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425068148",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2141,6 +2258,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425069045",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2159,6 +2277,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425069392",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2176,7 +2295,8 @@
     "locID": "LOC000079821231",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425069394"
+    "gnaf_pid": "GASA_425069394",
+    "ee": true
    }
   },
   {
@@ -2194,6 +2314,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425069397",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2212,6 +2333,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425069540",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2230,6 +2352,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425069974",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2248,6 +2371,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425070558",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2266,6 +2390,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425070559",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2284,6 +2409,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071155",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2302,6 +2428,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071220",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2320,6 +2447,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071221",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2338,6 +2466,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071222",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2356,6 +2485,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071250",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2374,6 +2504,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071251",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2392,6 +2523,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071321",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2410,6 +2542,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071383",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2428,6 +2561,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071384",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2446,6 +2580,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071389",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2464,6 +2599,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071495",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2482,6 +2618,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071496",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2500,6 +2637,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071558",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2518,6 +2656,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071560",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2536,6 +2675,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071561",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2554,6 +2694,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071562",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2572,6 +2713,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071565",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2590,6 +2732,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071566",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2608,6 +2751,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071567",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2626,6 +2770,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071568",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2644,6 +2789,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071573",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2662,6 +2808,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071575",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2680,6 +2827,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071577",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2698,6 +2846,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071696",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2716,6 +2865,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071740",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2734,6 +2884,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071742",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2752,6 +2903,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071743",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2770,6 +2922,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071757",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2788,6 +2941,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071759",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2806,6 +2960,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071764",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2824,6 +2979,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071765",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2842,6 +2998,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071766",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2860,6 +3017,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071768",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2878,6 +3036,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071772",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2896,6 +3055,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071788",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2914,6 +3074,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071917",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2932,6 +3093,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071972",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2950,6 +3112,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425071973",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2968,6 +3131,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072039",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2986,6 +3150,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072117",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3004,6 +3169,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072118",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3022,6 +3188,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072119",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3040,6 +3207,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072120",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3058,6 +3226,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072174",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3076,6 +3245,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072182",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3094,6 +3264,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072219",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3112,6 +3283,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072233",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3130,6 +3302,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072255",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3148,6 +3321,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072289",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3166,6 +3340,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072362",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3184,6 +3359,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072367",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3202,6 +3378,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072394",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3220,6 +3397,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072396",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3238,6 +3416,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072398",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3256,6 +3435,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072402",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3274,6 +3454,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072403",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3292,6 +3473,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072404",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3310,6 +3492,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072406",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3328,6 +3511,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072499",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3346,6 +3530,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072645",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3364,6 +3549,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072705",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3382,6 +3568,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425073273",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3400,6 +3587,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425073347",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3418,6 +3606,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425073446",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3436,6 +3625,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425073451",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3454,6 +3644,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425073606",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3472,6 +3663,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425073607",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3490,6 +3682,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425073608",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3508,6 +3701,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074038",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3526,6 +3720,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074160",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3544,6 +3739,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074162",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3562,6 +3758,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074163",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3580,6 +3777,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074164",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3598,6 +3796,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074166",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3616,6 +3815,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074176",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3634,6 +3834,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074187",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3652,6 +3853,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074188",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3670,6 +3872,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074191",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3688,6 +3891,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074200",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3706,6 +3910,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074201",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3724,6 +3929,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074508",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3742,6 +3948,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074776",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3760,6 +3967,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074777",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3778,6 +3986,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074778",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3796,6 +4005,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074779",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3814,6 +4024,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074831",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3832,6 +4043,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074832",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3850,6 +4062,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074838",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3868,6 +4081,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074979",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3886,6 +4100,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075039",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3904,6 +4119,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075646",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3922,6 +4138,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075647",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3940,6 +4157,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075836",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3958,6 +4176,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425076008",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3976,6 +4195,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425076198",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3994,6 +4214,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425076657",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4012,6 +4233,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425076671",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4030,6 +4252,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425076729",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4048,6 +4271,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425076774",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4066,6 +4290,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186341",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4084,6 +4309,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186342",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4102,6 +4328,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186366",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4120,6 +4347,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186367",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4138,6 +4366,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186368",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4156,6 +4385,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186369",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4174,6 +4404,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186370",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4192,6 +4423,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186372",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4210,6 +4442,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186373",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4228,6 +4461,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186375",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4246,6 +4480,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186378",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4264,6 +4499,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186549",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4282,6 +4518,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186550",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4300,6 +4537,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186552",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4318,6 +4556,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186553",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4336,6 +4575,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186554",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4354,6 +4594,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186555",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4372,6 +4613,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186556",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4390,6 +4632,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186557",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4408,6 +4651,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186558",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4426,6 +4670,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186559",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4444,6 +4689,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186560",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4462,6 +4708,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186561",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4480,6 +4727,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186562",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4498,6 +4746,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186563",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4516,6 +4765,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186564",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4534,6 +4784,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186988",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4552,6 +4803,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186989",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4570,6 +4822,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186990",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4588,6 +4841,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186991",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4606,6 +4860,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186992",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4624,6 +4879,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186993",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4642,6 +4898,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186994",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4660,6 +4917,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186995",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4678,6 +4936,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186996",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4696,6 +4955,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186997",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4714,6 +4974,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425186998",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4732,6 +4993,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187000",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4750,6 +5012,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187001",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4768,6 +5031,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187002",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4786,6 +5050,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187003",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4804,6 +5069,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187055",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4822,6 +5088,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187139",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4840,6 +5107,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187140",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4858,6 +5126,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187195",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4876,6 +5145,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187197",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4894,6 +5164,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187198",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4912,6 +5183,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187200",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4930,6 +5202,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187201",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4948,6 +5221,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187208",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4966,6 +5240,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187209",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4984,6 +5259,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187210",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5002,6 +5278,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187211",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5020,6 +5297,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187212",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5038,6 +5316,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187213",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5056,6 +5335,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187214",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5074,6 +5354,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187215",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5092,6 +5373,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187216",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5110,6 +5392,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187217",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5128,6 +5411,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187218",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5146,6 +5430,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187219",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5164,6 +5449,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187220",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5182,6 +5468,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187221",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5200,6 +5487,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187222",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5218,6 +5506,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187223",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5236,6 +5525,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187224",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5254,6 +5544,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187225",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5272,6 +5563,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187226",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5290,6 +5582,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187227",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5308,6 +5601,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187241",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5326,6 +5620,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187381",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5344,6 +5639,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187382",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5362,6 +5658,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187383",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5380,6 +5677,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187384",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5398,6 +5696,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187970",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5416,6 +5715,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187971",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5434,6 +5734,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187972",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5452,6 +5753,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187973",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5470,6 +5772,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187974",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5488,6 +5791,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187976",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5506,6 +5810,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187977",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5524,6 +5829,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187978",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5542,6 +5848,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187979",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5560,6 +5867,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187980",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5578,6 +5886,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187981",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5596,6 +5905,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187982",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5614,6 +5924,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188011",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5632,6 +5943,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188112",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5650,6 +5962,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188113",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5668,6 +5981,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188118",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5686,6 +6000,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188120",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5704,6 +6019,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188121",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5722,6 +6038,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188122",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5740,6 +6057,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188123",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5758,6 +6076,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188124",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5776,6 +6095,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188125",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5794,6 +6114,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188126",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5812,6 +6133,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188127",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5830,6 +6152,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188128",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5848,6 +6171,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188304",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5866,6 +6190,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188305",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5884,6 +6209,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188306",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5902,6 +6228,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188307",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5920,6 +6247,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188310",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5938,6 +6266,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188311",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5956,6 +6285,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188312",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5974,6 +6304,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188313",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5992,6 +6323,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188314",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6010,6 +6342,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188315",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6028,6 +6361,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188317",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6046,6 +6380,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188318",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6064,6 +6399,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188319",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6082,6 +6418,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188357",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6100,6 +6437,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188358",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6118,6 +6456,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188359",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6136,6 +6475,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188360",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6154,6 +6494,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188361",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6172,6 +6513,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188362",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6190,6 +6532,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188363",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6208,6 +6551,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188364",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6226,6 +6570,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188365",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6244,6 +6589,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188366",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6262,6 +6608,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188367",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6280,6 +6627,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188368",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6298,6 +6646,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188369",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6316,6 +6665,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188370",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6334,6 +6684,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188371",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6352,6 +6703,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188372",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6370,6 +6722,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188373",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6388,6 +6741,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188374",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6406,6 +6760,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188384",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6424,6 +6779,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188385",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6442,6 +6798,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188386",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6460,6 +6817,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188387",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6478,6 +6836,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188388",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6496,6 +6855,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188389",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6514,6 +6874,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188390",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6532,6 +6893,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188391",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6550,6 +6912,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188392",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6568,6 +6931,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188779",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6586,6 +6950,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188780",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6604,6 +6969,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188781",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6622,6 +6988,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188782",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6640,6 +7007,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188783",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6658,6 +7026,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188784",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6676,6 +7045,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188786",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6694,6 +7064,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188787",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6712,6 +7083,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188788",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6730,6 +7102,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188789",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6748,6 +7121,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188790",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6766,6 +7140,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188791",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6784,6 +7159,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188792",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6802,6 +7178,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188793",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6820,6 +7197,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188794",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6838,6 +7216,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188933",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6856,6 +7235,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188934",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6874,6 +7254,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188935",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6892,6 +7273,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188936",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6910,6 +7292,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188937",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6928,6 +7311,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189001",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6946,6 +7330,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189003",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6964,6 +7349,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189019",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6982,6 +7368,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189020",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7000,6 +7387,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189022",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7018,6 +7406,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189023",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7036,6 +7425,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189024",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7054,6 +7444,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189025",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7072,6 +7463,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189026",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7090,6 +7482,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189130",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7108,6 +7501,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189131",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7126,6 +7520,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189289",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7144,6 +7539,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189290",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7162,6 +7558,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189291",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7180,6 +7577,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189292",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7198,6 +7596,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189293",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7216,6 +7615,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189294",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7234,6 +7634,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189295",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7252,6 +7653,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189296",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7270,6 +7672,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189297",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7288,6 +7691,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189500",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7306,6 +7710,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189501",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7324,6 +7729,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189518",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7342,6 +7748,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189519",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7360,6 +7767,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189520",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7378,6 +7786,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189521",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7396,6 +7805,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189522",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7414,6 +7824,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189523",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7432,6 +7843,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189524",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7450,6 +7862,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189552",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7468,6 +7881,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189553",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7486,6 +7900,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189554",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7504,6 +7919,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189558",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7522,6 +7938,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189560",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7540,6 +7957,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189561",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7558,6 +7976,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189573",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7576,6 +7995,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189629",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7594,6 +8014,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189630",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7612,6 +8033,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189631",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7630,6 +8052,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189632",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7648,6 +8071,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189633",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7666,6 +8090,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189634",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7684,6 +8109,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189635",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7702,6 +8128,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189636",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7720,6 +8147,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189637",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7738,6 +8166,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189638",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7756,6 +8185,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189639",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7774,6 +8204,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189640",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7792,6 +8223,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189641",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7810,6 +8242,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189642",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7828,6 +8261,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189643",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7846,6 +8280,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189644",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7864,6 +8299,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189645",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7882,6 +8318,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189646",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7900,6 +8337,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189647",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7918,6 +8356,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189648",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7936,6 +8375,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189649",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7954,6 +8394,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189650",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7972,6 +8413,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189651",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7990,6 +8432,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189652",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8008,6 +8451,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189653",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8026,6 +8470,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189654",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8044,6 +8489,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189655",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8062,6 +8508,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189656",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8080,6 +8527,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189657",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8098,6 +8546,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189658",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8116,6 +8565,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189659",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8134,6 +8584,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189661",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8152,6 +8603,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189662",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8170,6 +8622,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189719",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8188,6 +8641,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189720",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8206,6 +8660,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425189775",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8224,6 +8679,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190070",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8242,6 +8698,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190071",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8260,6 +8717,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190072",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8278,6 +8736,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190073",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8296,6 +8755,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190074",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8314,6 +8774,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190075",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8332,6 +8793,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190226",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8350,6 +8812,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190227",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8368,6 +8831,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190228",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8386,6 +8850,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190229",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8404,6 +8869,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190230",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8422,6 +8888,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190247",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8440,6 +8907,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190248",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8458,6 +8926,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190249",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8476,6 +8945,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190250",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8494,6 +8964,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190252",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8512,6 +8983,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190253",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8530,6 +9002,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190255",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8548,6 +9021,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190264",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8566,6 +9040,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190265",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8584,6 +9059,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190267",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8602,6 +9078,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190268",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8620,6 +9097,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190575",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8638,6 +9116,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190604",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8656,6 +9135,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190605",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8674,6 +9154,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190732",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8692,6 +9173,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190733",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8710,6 +9192,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190734",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8728,6 +9211,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190736",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8746,6 +9230,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190737",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8764,6 +9249,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190738",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8782,6 +9268,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190739",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8800,6 +9287,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190740",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8818,6 +9306,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190793",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8836,6 +9325,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190796",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8854,6 +9344,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190806",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8872,6 +9363,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190810",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8890,6 +9382,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190811",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8908,6 +9401,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190812",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8926,6 +9420,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190813",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8944,6 +9439,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190814",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8962,6 +9458,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190815",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8980,6 +9477,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190832",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8998,6 +9496,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190888",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9016,6 +9515,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190889",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9034,6 +9534,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190891",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9052,6 +9553,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190892",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9070,6 +9572,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190894",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9088,6 +9591,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190895",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9106,6 +9610,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190896",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9124,6 +9629,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190897",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9142,6 +9648,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190898",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9160,6 +9667,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190899",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9178,6 +9686,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190900",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9196,6 +9705,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190901",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9214,6 +9724,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190902",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9232,6 +9743,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190903",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9250,6 +9762,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190904",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9268,6 +9781,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190905",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9286,6 +9800,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190906",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9304,6 +9819,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190907",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9322,6 +9838,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190908",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9340,6 +9857,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190909",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9358,6 +9876,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190911",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9376,6 +9895,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425190912",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9394,6 +9914,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191113",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9412,6 +9933,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191114",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9430,6 +9952,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191116",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9448,6 +9971,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191155",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9466,6 +9990,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191156",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9484,6 +10009,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191157",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9502,6 +10028,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191158",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9520,6 +10047,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191159",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9538,6 +10066,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191160",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9556,6 +10085,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191161",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9574,6 +10104,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191185",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9592,6 +10123,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191364",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9610,6 +10142,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191365",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9628,6 +10161,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191366",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9646,6 +10180,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191367",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9664,6 +10199,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191368",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9682,6 +10218,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191369",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9700,6 +10237,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191370",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9718,6 +10256,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191372",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9736,6 +10275,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191400",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9754,6 +10294,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191482",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9772,6 +10313,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191646",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9790,6 +10332,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191647",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9808,6 +10351,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191648",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9826,6 +10370,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191649",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9844,6 +10389,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191650",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9862,6 +10408,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191680",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9880,6 +10427,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191734",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9898,6 +10446,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191735",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9916,6 +10465,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191736",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9934,6 +10484,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191737",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9952,6 +10503,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191738",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9970,6 +10522,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191739",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9988,6 +10541,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191740",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10006,6 +10560,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191741",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10024,6 +10579,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191776",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10042,6 +10598,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191777",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10060,6 +10617,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191838",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10078,6 +10636,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191839",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10096,6 +10655,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191840",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10114,6 +10674,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191841",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10132,6 +10693,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191842",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10150,6 +10712,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191843",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10168,6 +10731,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191844",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10186,6 +10750,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191845",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10204,6 +10769,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191846",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10222,6 +10788,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191848",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10240,6 +10807,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191849",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10258,6 +10826,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191850",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10276,6 +10845,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425191961",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10294,6 +10864,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192047",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10312,6 +10883,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192048",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10330,6 +10902,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192049",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10348,6 +10921,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192050",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10366,6 +10940,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192052",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10384,6 +10959,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192053",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10402,6 +10978,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192054",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10420,6 +10997,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192201",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10438,6 +11016,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192202",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10456,6 +11035,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192203",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10474,6 +11054,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192204",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10492,6 +11073,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192205",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10510,6 +11092,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192206",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10528,6 +11111,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192207",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10546,6 +11130,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192208",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10564,6 +11149,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192209",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10582,6 +11168,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192210",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10600,6 +11187,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192211",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10618,6 +11206,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192212",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10636,6 +11225,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192213",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10654,6 +11244,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192214",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10672,6 +11263,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192215",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10690,6 +11282,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192216",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10708,6 +11301,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192217",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10726,6 +11320,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192218",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10744,6 +11339,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192219",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10762,6 +11358,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192220",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10780,6 +11377,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192221",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10798,6 +11396,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192290",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10816,6 +11415,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192291",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10834,6 +11434,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192292",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10852,6 +11453,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192293",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10870,6 +11472,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192502",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10888,6 +11491,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192505",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10906,6 +11510,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192506",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10924,6 +11529,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192507",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10942,6 +11548,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192508",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10960,6 +11567,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192509",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10978,6 +11586,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192510",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10996,6 +11605,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192511",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11014,6 +11624,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192512",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11032,6 +11643,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192513",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11050,6 +11662,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192515",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11068,6 +11681,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192516",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11086,6 +11700,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192582",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11104,6 +11719,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192583",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11122,6 +11738,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192585",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11140,6 +11757,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192586",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11158,6 +11776,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192587",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11176,6 +11795,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192588",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11194,6 +11814,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192676",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11212,6 +11833,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192677",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11230,6 +11852,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192680",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11248,6 +11871,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192681",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11266,6 +11890,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192682",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11284,6 +11909,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192684",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11302,6 +11928,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192685",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11320,6 +11947,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192686",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11338,6 +11966,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192687",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11356,6 +11985,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192688",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11374,6 +12004,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192689",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11392,6 +12023,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192690",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11410,6 +12042,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192692",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11428,6 +12061,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192693",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11446,6 +12080,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192694",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11464,6 +12099,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192695",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11482,6 +12118,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192696",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11500,6 +12137,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192697",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11518,6 +12156,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192698",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11536,6 +12175,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192699",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11554,6 +12194,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192700",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11572,6 +12213,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192701",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11590,6 +12232,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192702",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11608,6 +12251,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192703",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11626,6 +12270,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192704",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11644,6 +12289,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192705",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11662,6 +12308,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192706",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11680,6 +12327,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192707",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11698,6 +12346,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192708",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11716,6 +12365,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192924",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11734,6 +12384,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192926",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11752,6 +12403,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192927",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11770,6 +12422,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192928",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11788,6 +12441,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192929",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11806,6 +12460,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192930",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11824,6 +12479,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192931",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11842,6 +12498,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192932",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11860,6 +12517,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192933",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11878,6 +12536,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425192935",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11896,6 +12555,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193218",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11914,6 +12574,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193220",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11932,6 +12593,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193221",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11950,6 +12612,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193222",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11968,6 +12631,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193223",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11986,6 +12650,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193224",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12004,6 +12669,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193225",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12022,6 +12688,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193227",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12040,6 +12707,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193228",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12058,6 +12726,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193236",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12076,6 +12745,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193367",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12094,6 +12764,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193368",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12112,6 +12783,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193369",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12130,6 +12802,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193370",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12148,6 +12821,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193371",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12166,6 +12840,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193373",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12184,6 +12859,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193374",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12202,6 +12878,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193375",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12220,6 +12897,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193376",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12238,6 +12916,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193377",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12256,6 +12935,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193469",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12274,6 +12954,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193470",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12292,6 +12973,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193471",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12310,6 +12992,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193472",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12328,6 +13011,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193473",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12346,6 +13030,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193476",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12364,6 +13049,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193477",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12382,6 +13068,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193478",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12400,6 +13087,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193479",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12418,6 +13106,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193484",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12436,6 +13125,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193486",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12454,6 +13144,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193489",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12472,6 +13163,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193532",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12490,6 +13182,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193533",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12508,6 +13201,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193534",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12526,6 +13220,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193536",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12544,6 +13239,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193696",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12562,6 +13258,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193697",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12580,6 +13277,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193698",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12598,6 +13296,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193699",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12616,6 +13315,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193700",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12634,6 +13334,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193701",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12652,6 +13353,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193726",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12670,6 +13372,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193727",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12688,6 +13391,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193729",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12706,6 +13410,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193731",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12724,6 +13429,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193732",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12742,6 +13448,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193733",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12760,6 +13467,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193734",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12778,6 +13486,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193735",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12796,6 +13505,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193855",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12814,6 +13524,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193856",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12832,6 +13543,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193860",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12850,6 +13562,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193866",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12868,6 +13581,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193867",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12886,6 +13600,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193869",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12904,6 +13619,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193870",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12922,6 +13638,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193871",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12940,6 +13657,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193872",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12958,6 +13676,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193873",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12976,6 +13695,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193874",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12994,6 +13714,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425193875",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13012,6 +13733,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194029",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13030,6 +13752,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194067",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13048,6 +13771,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194068",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13066,6 +13790,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194069",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13084,6 +13809,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194070",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13102,6 +13828,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194071",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13120,6 +13847,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194072",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13138,6 +13866,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194073",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13156,6 +13885,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194074",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13174,6 +13904,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194075",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13192,6 +13923,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194076",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13210,6 +13942,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194077",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13228,6 +13961,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194078",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13246,6 +13980,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194079",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13264,6 +13999,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194080",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13282,6 +14018,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194081",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13300,6 +14037,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194082",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13318,6 +14056,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194083",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13336,6 +14075,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194084",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13354,6 +14094,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194163",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13372,6 +14113,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194164",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13390,6 +14132,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194165",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13408,6 +14151,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194167",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13426,6 +14170,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194169",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13444,6 +14189,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194567",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13462,6 +14208,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194568",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13480,6 +14227,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194569",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13498,6 +14246,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194570",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13516,6 +14265,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194571",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13534,6 +14284,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194572",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13552,6 +14303,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194692",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13570,6 +14322,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194693",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13588,6 +14341,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194694",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13606,6 +14360,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194695",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13624,6 +14379,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194696",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13642,6 +14398,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194697",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13660,6 +14417,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194698",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13678,6 +14436,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194699",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13696,6 +14455,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194700",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13714,6 +14474,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194701",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13732,6 +14493,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194702",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13750,6 +14512,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194703",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13768,6 +14531,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194704",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13786,6 +14550,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194705",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13804,6 +14569,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194706",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13822,6 +14588,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194707",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13840,6 +14607,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194708",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13858,6 +14626,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194709",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13876,6 +14645,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194711",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13894,6 +14664,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194712",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13912,6 +14683,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194713",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13930,6 +14702,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194714",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13948,6 +14721,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194764",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13966,6 +14740,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194765",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13984,6 +14759,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194766",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14002,6 +14778,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194767",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14020,6 +14797,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194768",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14038,6 +14816,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194769",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14056,6 +14835,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194770",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14074,6 +14854,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194771",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14092,6 +14873,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194772",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14110,6 +14892,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194773",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14128,6 +14911,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194860",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14146,6 +14930,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194883",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14164,6 +14949,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194884",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14182,6 +14968,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194885",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14200,6 +14987,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194934",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14218,6 +15006,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194935",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14236,6 +15025,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425194936",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14254,6 +15044,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425352952",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14272,6 +15063,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425353098",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14290,6 +15082,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425353618",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14308,6 +15101,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425353862",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14326,6 +15120,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425355456",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14344,6 +15139,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425355457",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14362,6 +15158,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425355719",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14380,6 +15177,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425357186",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14398,6 +15196,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425359718",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14416,6 +15215,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425388794",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14434,6 +15234,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425389300",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14452,6 +15253,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425395955",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14470,6 +15272,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425433112",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14488,6 +15291,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425438480",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14506,6 +15310,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425438481",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14524,6 +15329,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425440616",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14542,6 +15348,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425440617",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14560,6 +15367,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425444472",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14578,6 +15386,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425444768",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14596,6 +15405,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425445797",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14614,6 +15424,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425447177",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14632,6 +15443,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425451179",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14650,6 +15462,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425451276",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14668,6 +15481,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425451277",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14686,6 +15500,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425455379",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14704,6 +15519,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425455822",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14722,6 +15538,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425510724",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14740,6 +15557,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425533796",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14758,6 +15576,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425533797",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14776,6 +15595,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425533801",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14794,6 +15614,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425533804",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14812,6 +15633,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425533805",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14830,6 +15652,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425533807",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14848,6 +15671,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425534103",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14866,6 +15690,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425534104",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14884,6 +15709,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425534783",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14902,6 +15728,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425582792",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14920,6 +15747,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425582794",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14938,6 +15766,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425584314",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14956,6 +15785,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425597203",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14974,6 +15804,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425598372",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14992,6 +15823,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425598584",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15010,6 +15842,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425629291",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15028,6 +15861,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425708318",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15046,6 +15880,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425709716",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15064,6 +15899,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425709717",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15082,6 +15918,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425719491",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15100,6 +15937,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425721929",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15118,6 +15956,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425723207",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15136,6 +15975,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425801852",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15154,6 +15994,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425807956",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15172,6 +16013,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425807957",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15190,6 +16032,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719046709",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15208,6 +16051,26 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719047405",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.3532322,
+     -36.08731498
+    ]
+   },
+   "properties": {
+    "name": "70 SUGARLOAF ROAD KEITH 5267",
+    "locID": "LOC000130938999",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_719195139",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15226,6 +16089,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719247346",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15244,6 +16108,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719248089",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15262,6 +16127,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719248818",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15280,6 +16146,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719393137",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15298,6 +16165,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719394494",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15316,6 +16184,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719398871",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15334,6 +16203,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719453901",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15352,6 +16222,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719517236",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15370,6 +16241,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719649786",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15388,6 +16260,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719650303",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15406,6 +16279,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719650733",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15424,6 +16298,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719651035",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15442,6 +16317,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719652229",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.34435659,
+     -36.09946092
+    ]
+   },
+   "properties": {
+    "name": "28A MARCH STREET KEITH 5267",
+    "locID": "LOC000130853406",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_719704498",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15460,6 +16355,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719704557",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15478,6 +16374,26 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719773476",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.405034,
+     -36.081807
+    ]
+   },
+   "properties": {
+    "name": "41 EMU RISE ROAD KEITH 5267",
+    "locID": "LOC000130840533",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_719774293",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15496,6 +16412,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719775807",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15514,6 +16431,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719777115",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15532,6 +16450,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719778355",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15550,6 +16469,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719859003",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15568,6 +16488,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719859851",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15586,6 +16507,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719863743",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15604,6 +16526,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719965359",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15622,6 +16545,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720188197",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15640,6 +16564,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720236498",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15658,6 +16583,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720415013",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15676,6 +16602,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720417052",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15694,6 +16621,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720495044",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15712,6 +16640,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720719917",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15730,6 +16659,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720887337",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -15750,6 +16680,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721002955",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15768,6 +16699,26 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721072023",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.35273989,
+     -36.10332061
+    ]
+   },
+   "properties": {
+    "name": "19 PARK TERRACE KEITH 5267",
+    "locID": "LOC000130805647",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_721112809",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15786,6 +16737,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721200932",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15804,6 +16756,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721253541",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15822,6 +16775,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721274882",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -15840,6 +16794,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721276054",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }
