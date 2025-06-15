@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T12:33:31.527566",
+ "generated": "2025-06-15T05:23:52.277532",
  "suburb": "WESTERN CREEK",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161085292",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161085295",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161351504",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -74,6 +77,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161745948",
+    "ee": false,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.8990366,
+     -27.96611504
+    ]
+   },
+   "properties": {
+    "name": "711 BOONDANDILLA ROAD WESTERN CREEK 4357",
+    "locID": "LOC000041309346",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161745949",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -92,6 +115,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161745950",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -110,6 +134,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161746685",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -128,6 +153,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161746686",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -146,6 +172,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161746687",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -164,6 +191,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161746688",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -182,6 +210,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161754607",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -200,6 +229,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161754608",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -218,6 +248,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161754609",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -236,6 +267,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161754610",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -254,6 +286,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161754611",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -272,6 +305,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161754612",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -290,6 +324,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161773107",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -308,6 +343,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162968875",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -326,6 +362,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163302951",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -344,6 +381,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163302952",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -362,6 +400,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD424932960",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   }

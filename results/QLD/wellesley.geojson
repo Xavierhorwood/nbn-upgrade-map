@@ -1,8 +1,29 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T11:54:03.727954",
+ "generated": "2025-06-15T05:03:56.690131",
  "suburb": "WELLESLEY",
  "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.0673046,
+     -27.15875357
+    ]
+   },
+   "properties": {
+    "name": "62 ALEXANDER STREET WELLESLEY 4417",
+    "locID": "LOC000186983577",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155861421",
+    "ee": true,
+    "tech_change_status": "Eligible to Order",
+    "program_type": "Regional Area Flip",
+    "target_eligibility_quarter": "NA"
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -18,6 +39,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155861423",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -37,6 +59,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157190500",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -56,6 +79,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161096063",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -74,6 +98,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161096080",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -92,6 +117,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161096083",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -110,6 +136,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161096084",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -128,6 +155,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161096085",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -146,6 +174,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161096086",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -164,6 +193,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161096087",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.00766728,
+     -27.26867018
+    ]
+   },
+   "properties": {
+    "name": "LOT 24 CARNARVON HIGHWAY WELLESLEY 4417",
+    "locID": "LOC000147720994",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161096088",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -182,6 +231,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161096092",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -200,6 +250,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161096097",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -218,6 +269,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161096101",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -236,6 +288,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161096107",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -254,6 +307,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161461013",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -272,6 +326,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161652168",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -290,6 +345,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161783942",
+    "ee": false,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.07130763,
+     -27.16443754
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 SILVER SPRINGS ROAD WELLESLEY 4417",
+    "locID": "LOC000152803752",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD162364431",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -308,6 +383,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162368242",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -326,6 +402,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163021122",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -344,6 +421,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163022456",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -362,6 +440,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163061012",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -380,6 +459,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163061143",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -398,6 +478,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163061234",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -416,6 +497,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163061235",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -434,6 +516,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163061236",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -452,6 +535,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163061237",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -470,6 +554,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163061238",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -488,6 +573,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163061239",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -506,6 +592,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163061240",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -524,6 +611,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163061241",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -542,6 +630,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163061242",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -560,6 +649,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163061243",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -578,6 +668,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163293665",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -596,6 +687,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163293666",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -614,6 +706,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163300231",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -632,6 +725,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425048331",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -650,6 +744,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425048332",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -668,6 +763,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425328571",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -686,6 +782,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425374564",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -704,6 +801,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425381591",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -722,6 +820,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425473622",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -740,6 +839,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719141777",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -759,6 +859,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719265307",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -778,6 +879,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719266526",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -797,6 +899,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719266857",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -816,6 +919,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719267204",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -835,6 +939,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719267253",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -854,6 +959,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719269256",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -873,6 +979,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719270700",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Regional Area Flip"
    }
@@ -892,6 +999,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719271195",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Regional Area Flip"
    }
@@ -911,6 +1019,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719271213",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -930,6 +1039,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719272690",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -949,6 +1059,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719273077",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -968,6 +1079,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719273196",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Regional Area Flip"
    }
@@ -987,6 +1099,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719274413",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -1006,6 +1119,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719274705",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -1025,6 +1139,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719275177",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -1044,6 +1159,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719278311",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -1063,6 +1179,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719278565",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -1082,6 +1199,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719279164",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Regional Area Flip"
    }
@@ -1101,6 +1219,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721428303",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }
