@@ -1,8 +1,46 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T10:09:10.495551",
+ "generated": "2025-06-15T03:35:02.121691",
  "suburb": "TUEN",
  "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.70618988,
+     -28.55160107
+    ]
+   },
+   "properties": {
+    "name": "LOT 10 MITCHELL HIGHWAY TUEN 4490",
+    "locID": "LOC000128098992",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161239531",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.78961412,
+     -28.40337595
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 MITCHELL HIGHWAY TUEN 4490",
+    "locID": "LOC000128103081",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161239532",
+    "ee": false,
+    "tech_change_status": "Not Planned"
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -18,6 +56,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162039677",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +75,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162039678",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +94,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162240069",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +113,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162240070",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +132,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719708137",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -108,6 +151,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719711026",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   }

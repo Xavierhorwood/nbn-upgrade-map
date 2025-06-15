@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T09:16:57.119236",
+ "generated": "2025-06-15T03:04:28.343695",
  "suburb": "TIERI",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155894441",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -38,27 +39,10 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155894442",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     148.33740383,
-     -23.03089257
-    ]
-   },
-   "properties": {
-    "name": "20 GUM STREET TIERI 4709",
-    "locID": "LOC000027556308",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155895371",
-    "tech_change_status": "Eligible to Order"
    }
   },
   {
@@ -76,25 +60,8 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD155895372",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     148.33749015,
-     -23.03054043
-    ]
-   },
-   "properties": {
-    "name": "24 GUM STREET TIERI 4709",
-    "locID": "LOC000083795871",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155895373",
-    "tech_change_status": "Not Planned"
    }
   },
   {
@@ -112,6 +79,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895375",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -131,6 +99,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895376",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -150,6 +119,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895377",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -169,6 +139,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895379",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -188,6 +159,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895380",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -207,6 +179,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895387",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -226,6 +199,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895388",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -245,6 +219,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895389",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -264,6 +239,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895390",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -283,6 +259,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895391",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -302,6 +279,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895392",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -321,6 +299,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895393",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -340,6 +319,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895395",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -360,6 +340,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD155895396",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -380,6 +361,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155895398",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -400,6 +382,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155895399",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -420,6 +403,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895400",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -440,6 +424,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895401",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -460,6 +445,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895402",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -480,6 +466,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895404",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -500,6 +487,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155895405",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -520,6 +508,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895437",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -539,6 +528,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895438",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -558,6 +548,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895439",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -577,6 +568,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895440",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -596,6 +588,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895441",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -615,6 +608,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895442",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -634,6 +628,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895443",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -653,6 +648,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895445",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -672,6 +668,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155895447",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -690,6 +687,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155895448",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -709,6 +707,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155896216",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -728,6 +727,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155896236",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -747,6 +747,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155896237",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -766,6 +767,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155896238",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -785,6 +787,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155896239",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -804,6 +807,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155896240",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -823,6 +827,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155896241",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -842,6 +847,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155896242",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -861,6 +867,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155896243",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -880,6 +887,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155897279",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -899,6 +907,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155897280",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -918,6 +927,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155898263",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -938,6 +948,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD155898265",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -958,6 +969,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155898267",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -977,6 +989,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD155898268",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -997,6 +1010,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155898271",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1017,6 +1031,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155898272",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1036,6 +1051,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899416",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1055,6 +1071,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899417",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1074,6 +1091,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899419",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1093,6 +1111,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899420",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1112,6 +1131,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899422",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1131,6 +1151,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899424",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1150,6 +1171,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899435",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1169,6 +1191,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899438",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1188,6 +1211,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899439",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1207,6 +1231,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899440",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1226,6 +1251,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899441",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1245,6 +1271,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899442",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1264,6 +1291,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899444",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1284,6 +1312,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155899448",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1303,6 +1332,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD155899449",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1321,6 +1351,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155901421",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1340,6 +1371,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155901426",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1359,6 +1391,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155901937",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1379,6 +1412,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155901941",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1398,6 +1432,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155901942",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1418,6 +1453,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155902029",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1437,6 +1473,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903378",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1456,6 +1493,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903379",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1475,6 +1513,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903380",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1494,6 +1533,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903381",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1513,6 +1553,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903645",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1532,6 +1573,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903646",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1551,6 +1593,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903647",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1570,6 +1613,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903648",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1589,6 +1633,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903649",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1608,6 +1653,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903650",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1627,6 +1673,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903670",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1646,6 +1693,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903671",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1665,6 +1713,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903672",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1684,6 +1733,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903673",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1703,6 +1753,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903674",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1722,6 +1773,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903675",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1741,6 +1793,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903676",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -1760,6 +1813,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155903677",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1780,6 +1834,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903678",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1800,6 +1855,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155903680",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1820,6 +1876,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155903682",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1840,6 +1897,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155903683",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1860,6 +1918,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903685",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1880,6 +1939,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903686",
+    "ee": true,
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -1900,6 +1960,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD155903687",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1920,6 +1981,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903688",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1940,6 +2002,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155903729",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1960,6 +2023,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD155903730",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1980,6 +2044,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903732",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -2000,6 +2065,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903848",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2019,6 +2085,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903849",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2038,6 +2105,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903850",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2057,6 +2125,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903851",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2076,6 +2145,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903852",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2095,6 +2165,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903853",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2114,6 +2185,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903854",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2133,6 +2205,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903932",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2152,6 +2225,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155903942",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2171,6 +2245,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904593",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2190,6 +2265,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904594",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2209,6 +2285,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904595",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2228,6 +2305,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904599",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2247,6 +2325,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904600",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2266,6 +2345,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904614",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2285,6 +2365,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904615",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2304,6 +2385,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904616",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2323,6 +2405,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904617",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2342,6 +2425,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904618",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2361,6 +2445,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904619",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2380,6 +2465,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904620",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2399,6 +2485,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904621",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2418,6 +2505,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904623",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2437,6 +2525,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904862",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2456,6 +2545,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904863",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2475,6 +2565,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904864",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2494,6 +2585,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904865",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2513,6 +2605,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904866",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2532,6 +2625,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904870",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2551,6 +2645,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904885",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2570,6 +2665,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155904886",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2589,6 +2685,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905028",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2608,6 +2705,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905029",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2627,6 +2725,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905030",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2646,6 +2745,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905031",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2665,6 +2765,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905032",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2684,6 +2785,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905034",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2703,6 +2805,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905035",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2722,6 +2825,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905036",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2741,6 +2845,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905037",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2760,6 +2865,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905038",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2779,6 +2885,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905039",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2798,6 +2905,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905609",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2817,6 +2925,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905931",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2836,6 +2945,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905951",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2855,6 +2965,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905952",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2874,6 +2985,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905953",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2893,6 +3005,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905954",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2912,6 +3025,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905955",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2931,6 +3045,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905956",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2950,6 +3065,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905957",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2969,6 +3085,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155905958",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -2988,6 +3105,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155906552",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3007,6 +3125,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155906553",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3026,6 +3145,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155906660",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3045,6 +3165,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155906663",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3064,6 +3185,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155906684",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3083,6 +3205,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155906685",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3102,6 +3225,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155906688",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3121,24 +3245,8 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD155907430",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     148.33824747,
-     -23.03026752
-    ]
-   },
-   "properties": {
-    "name": "47 CASSIA STREET TIERI 4709",
-    "locID": "LOC000065924102",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155907433"
    }
   },
   {
@@ -3156,6 +3264,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155907436",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3175,6 +3284,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155907437",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3194,6 +3304,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155907440",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3212,6 +3323,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155907458",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3231,6 +3343,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155909507",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3250,6 +3363,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155909514",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3269,6 +3383,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155909516",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3288,6 +3403,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155909518",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3307,6 +3423,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155909532",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3326,6 +3443,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155909534",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3345,6 +3463,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155909536",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3364,6 +3483,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155909539",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3383,6 +3503,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155909540",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3402,6 +3523,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155909543",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3421,6 +3543,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155910274",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -3438,10 +3561,10 @@
    "properties": {
     "name": "12 OLYMPIC STREET TIERI 4709",
     "locID": "LOC000030008095",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155910275",
-    "tech_change_status": "Eligible to Order",
+    "ee": true,
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -3461,6 +3584,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155910276",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -3481,6 +3605,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155910277",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -3501,6 +3626,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155910278",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -3521,6 +3647,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155910280",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -3541,6 +3668,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155910281",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -3561,6 +3689,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155910303",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3580,6 +3709,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155910304",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3599,6 +3729,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155910305",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3618,6 +3749,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155910306",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3637,6 +3769,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155910307",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3656,6 +3789,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155910308",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3675,6 +3809,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155910309",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3694,6 +3829,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155910310",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3713,6 +3849,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155910312",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3732,6 +3869,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155910313",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3751,6 +3889,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155911137",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3770,6 +3909,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155911164",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3789,6 +3929,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155911363",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -3809,6 +3950,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155911365",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -3829,6 +3971,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155912246",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3848,6 +3991,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155912247",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3867,6 +4011,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155912248",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3886,6 +4031,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155912249",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3905,6 +4051,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155912250",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3924,6 +4071,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD155912251",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3943,6 +4091,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156068462",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -3962,6 +4111,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156083338",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -3982,6 +4132,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156083340",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4001,6 +4152,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156083341",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4020,6 +4172,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156083342",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4039,6 +4192,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156086813",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4058,6 +4212,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156086814",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4077,6 +4232,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156091080",
+    "ee": true,
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -4096,6 +4252,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156093222",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4115,6 +4272,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156099114",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4134,6 +4292,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156099115",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4153,6 +4312,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156099116",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4172,6 +4332,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156099117",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4191,6 +4352,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156099141",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4210,6 +4372,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156099142",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4229,6 +4392,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156106715",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -4246,10 +4410,10 @@
    "properties": {
     "name": "15 OLYMPIC STREET TIERI 4709",
     "locID": "LOC000030008095",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156106718",
-    "tech_change_status": "Eligible to Order",
+    "ee": true,
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -4269,6 +4433,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156106720",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -4289,6 +4454,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156106721",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -4309,6 +4475,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156106726",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4327,6 +4494,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156106760",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -4347,6 +4515,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156106762",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -4367,6 +4536,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD156106767",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -4387,6 +4557,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156106770",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -4407,6 +4578,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD156106772",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -4427,6 +4599,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156107478",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4446,6 +4619,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108440",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4465,6 +4639,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108441",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4484,6 +4659,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108442",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4503,6 +4679,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108443",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4522,6 +4699,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108444",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4541,6 +4719,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108445",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4560,6 +4739,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108446",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4579,6 +4759,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108448",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4598,6 +4779,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108449",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4617,6 +4799,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108921",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4636,6 +4819,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108922",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4655,6 +4839,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108923",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4674,6 +4859,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108924",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4693,6 +4879,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108925",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4712,6 +4899,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108926",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4731,6 +4919,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108927",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4750,6 +4939,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108928",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4769,6 +4959,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108929",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4788,6 +4979,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108930",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4807,6 +4999,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108931",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4826,6 +5019,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108932",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4845,6 +5039,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108933",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4864,6 +5059,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD156108934",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4883,6 +5079,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157211012",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4902,6 +5099,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157211013",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4921,6 +5119,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157211014",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4940,6 +5139,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157211015",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4959,6 +5159,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157214524",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4978,6 +5179,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157214680",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -4997,6 +5199,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157214681",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5016,6 +5219,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157214685",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5035,6 +5239,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157214802",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5054,6 +5259,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157217986",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5073,6 +5279,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157217987",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5092,6 +5299,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157218006",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5111,6 +5319,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157218009",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5129,6 +5338,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157218011",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5148,6 +5358,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157218013",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5167,6 +5378,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221527",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5186,6 +5398,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221528",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5205,6 +5418,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221529",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5224,6 +5438,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221530",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5243,6 +5458,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221531",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5262,6 +5478,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221532",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5281,6 +5498,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221533",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5300,6 +5518,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221534",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5319,6 +5538,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221535",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5338,6 +5558,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221536",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5357,6 +5578,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221543",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5376,6 +5598,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221544",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5395,6 +5618,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221546",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5414,6 +5638,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221562",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5433,6 +5658,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221577",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5452,6 +5678,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221582",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5471,6 +5698,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221583",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5490,6 +5718,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221584",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5509,6 +5738,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221585",
+    "ee": true,
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -5529,6 +5759,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157221586",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -5549,6 +5780,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221587",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -5569,6 +5801,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157221590",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -5589,6 +5822,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157221592",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -5609,6 +5843,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221683",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5628,6 +5863,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221684",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5647,6 +5883,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221686",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5666,6 +5903,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD157221718",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5684,6 +5922,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221837",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5703,6 +5942,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221841",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5722,6 +5962,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221846",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5741,6 +5982,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221857",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5760,6 +6002,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221858",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5779,6 +6022,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221860",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5798,6 +6042,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221861",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5817,6 +6062,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221862",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5836,6 +6082,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221863",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5855,6 +6102,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221864",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5874,6 +6122,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221865",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5893,6 +6142,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157221867",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -5912,6 +6162,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157222164",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -5932,6 +6183,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157225468",
+    "ee": true,
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -5951,7 +6203,8 @@
     "locID": "LOC000088265733",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157228708"
+    "gnaf_pid": "GAQLD157228708",
+    "ee": true
    }
   },
   {
@@ -5969,94 +6222,8 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD157228709",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     148.33852013,
-     -23.03087489
-    ]
-   },
-   "properties": {
-    "name": "40 CASSIA STREET TIERI 4709",
-    "locID": "LOC000107295890",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157228710"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     148.33884571,
-     -23.03039268
-    ]
-   },
-   "properties": {
-    "name": "41 CASSIA STREET TIERI 4709",
-    "locID": "LOC000099409488",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157228711"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     148.33832237,
-     -23.03084181
-    ]
-   },
-   "properties": {
-    "name": "42 CASSIA STREET TIERI 4709",
-    "locID": "LOC000087230230",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157228712"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     148.3386302,
-     -23.03035674
-    ]
-   },
-   "properties": {
-    "name": "43 CASSIA STREET TIERI 4709",
-    "locID": "LOC000020217665",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157228713",
-    "tech_change_status": "Not Planned"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     148.33847372,
-     -23.03026791
-    ]
-   },
-   "properties": {
-    "name": "45 CASSIA STREET TIERI 4709",
-    "locID": "LOC000049347581",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157228715",
-    "tech_change_status": "Not Planned"
    }
   },
   {
@@ -6074,25 +6241,8 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD157228716",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     148.33807226,
-     -23.0302011
-    ]
-   },
-   "properties": {
-    "name": "49 CASSIA STREET TIERI 4709",
-    "locID": "LOC000088061638",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157228718",
-    "tech_change_status": "Not Planned"
    }
   },
   {
@@ -6110,6 +6260,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228719",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6129,6 +6280,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228726",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6148,6 +6300,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228727",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6167,6 +6320,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228728",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6186,6 +6340,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228729",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6205,6 +6360,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228730",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6224,6 +6380,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228731",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6243,6 +6400,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228732",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6262,6 +6420,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228733",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6281,6 +6440,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228734",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6300,6 +6460,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228735",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6319,6 +6480,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228736",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6338,6 +6500,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228883",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6357,6 +6520,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228885",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6376,6 +6540,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228886",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6395,6 +6560,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228887",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6414,6 +6580,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228888",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6433,6 +6600,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228889",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6452,6 +6620,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228890",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6471,6 +6640,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228891",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6490,6 +6660,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228892",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6509,6 +6680,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228912",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6528,6 +6700,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228913",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6547,6 +6720,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228914",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6566,6 +6740,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228916",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6585,6 +6760,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228917",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6604,6 +6780,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157228938",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6623,6 +6800,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157231721",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6642,6 +6820,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157231729",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6661,6 +6840,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157231745",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6680,6 +6860,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD157231748",
+    "ee": true,
     "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -6700,6 +6881,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD157231750",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -6720,6 +6902,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157231756",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -6740,6 +6923,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157231792",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -6760,6 +6944,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157231795",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -6780,6 +6965,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235170",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6799,6 +6985,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235171",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6818,6 +7005,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235173",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6837,6 +7025,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235174",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6856,6 +7045,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235175",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6875,6 +7065,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235176",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6894,6 +7085,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235177",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6913,6 +7105,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235178",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6932,6 +7125,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235179",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6951,6 +7145,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235181",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6970,6 +7165,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235182",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -6989,6 +7185,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235183",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7008,6 +7205,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235184",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7027,6 +7225,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235185",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7046,6 +7245,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235200",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7065,6 +7265,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235878",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7084,6 +7285,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235879",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7103,6 +7305,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235880",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7122,6 +7325,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235881",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7141,6 +7345,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235882",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7160,6 +7365,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235883",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7179,6 +7385,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235885",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7198,6 +7405,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235886",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7217,6 +7425,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235887",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7236,6 +7445,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235888",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7255,6 +7465,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235908",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7274,6 +7485,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235909",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7293,6 +7505,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235910",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7312,6 +7525,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235911",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7331,6 +7545,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235912",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7350,6 +7565,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235913",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7369,6 +7585,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235914",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7388,6 +7605,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235915",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7407,6 +7625,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235916",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7426,6 +7645,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235917",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7445,6 +7665,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235918",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7464,6 +7685,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157235919",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7483,6 +7705,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157238829",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -7503,6 +7726,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157238849",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7522,6 +7746,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157238850",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7541,6 +7766,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157238851",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7560,6 +7786,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157238852",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7579,6 +7806,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157239138",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -7599,6 +7827,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157239144",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -7619,6 +7848,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239154",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -7639,6 +7869,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239161",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7658,6 +7889,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239164",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7677,6 +7909,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239295",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7696,6 +7929,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239296",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7715,6 +7949,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239297",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7734,6 +7969,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239298",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7753,6 +7989,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239299",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7772,6 +8009,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239300",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7791,6 +8029,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239301",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7810,6 +8049,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239302",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7829,6 +8069,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239303",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7848,6 +8089,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239304",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7867,6 +8109,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239305",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7886,6 +8129,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239306",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7905,6 +8149,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239307",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7924,6 +8169,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239308",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7943,6 +8189,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239309",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7962,6 +8209,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239315",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -7981,6 +8229,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239316",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8000,6 +8249,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239317",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8019,6 +8269,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239318",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8038,6 +8289,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239319",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8057,6 +8309,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239320",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8076,6 +8329,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239321",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8095,6 +8349,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239322",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8114,6 +8369,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239324",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8133,6 +8389,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157239325",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8152,6 +8409,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242400",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -8172,6 +8430,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242627",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8191,6 +8450,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157242757",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -8211,6 +8471,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD157242758",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -8231,6 +8492,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242798",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8250,6 +8512,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242891",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8269,6 +8532,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242893",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8288,6 +8552,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242894",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8307,6 +8572,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242896",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8326,6 +8592,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242898",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8345,6 +8612,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242912",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8364,6 +8632,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242913",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8383,6 +8652,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242915",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8402,6 +8672,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242917",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8421,6 +8692,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242919",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8440,6 +8712,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242921",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8459,6 +8732,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242924",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8478,6 +8752,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157242926",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8497,6 +8772,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246534",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8516,6 +8792,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246535",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8535,6 +8812,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246537",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8554,6 +8832,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246538",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8573,6 +8852,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246539",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8592,6 +8872,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246540",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8611,6 +8892,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246558",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8630,6 +8912,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246559",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8649,6 +8932,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246560",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8668,6 +8952,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246561",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8687,6 +8972,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246562",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8706,6 +8992,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246563",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8725,6 +9012,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246569",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8744,6 +9032,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246570",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8763,6 +9052,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246571",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8782,6 +9072,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246572",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8801,6 +9092,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246574",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8820,6 +9112,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246575",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8839,6 +9132,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157246706",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8858,6 +9152,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157253243",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8877,6 +9172,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157253244",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8896,6 +9192,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157253247",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8915,6 +9212,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157253250",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8934,6 +9232,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157253252",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8953,6 +9252,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157253254",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8972,6 +9272,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157253255",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -8991,6 +9292,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157253266",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9010,6 +9312,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157253268",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9029,6 +9332,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157253269",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9048,6 +9352,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157253275",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9067,26 +9372,9 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD157253277",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     148.33736075,
-     -23.03106882
-    ]
-   },
-   "properties": {
-    "name": "18 GUM STREET TIERI 4709",
-    "locID": "LOC000004050762",
-    "tech": "FTTN",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157253280",
-    "tech_change_status": "Not Planned"
    }
   },
   {
@@ -9104,6 +9392,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158720526",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9123,6 +9412,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158720528",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9142,6 +9432,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158724278",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9161,6 +9452,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158724282",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -9181,6 +9473,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158728864",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -9201,6 +9494,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158728865",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9220,6 +9514,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158728882",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9239,6 +9534,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158728884",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9258,6 +9554,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158730160",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9277,6 +9574,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158730167",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9296,6 +9594,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158739252",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9315,6 +9614,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158745032",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -9335,6 +9635,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158745461",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -9355,6 +9656,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158745464",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9374,6 +9676,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158745470",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9393,6 +9696,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158745579",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9412,6 +9716,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158745580",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9431,6 +9736,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158747050",
+    "ee": true,
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -9451,6 +9757,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158747053",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9470,6 +9777,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158747055",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -9490,6 +9798,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158747057",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -9510,6 +9819,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158749268",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9529,6 +9839,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158749277",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9548,6 +9859,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158749519",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9567,6 +9879,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158751730",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -9587,6 +9900,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158758394",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9606,6 +9920,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158758395",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -9626,6 +9941,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD158758402",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -9646,6 +9962,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158758439",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9665,6 +9982,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158761909",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9684,6 +10002,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158763958",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9703,6 +10022,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158764099",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9722,6 +10042,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD158764101",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -9742,6 +10063,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158765099",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9761,6 +10083,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158766851",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -9781,6 +10104,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158767408",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9799,6 +10123,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158768902",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9818,6 +10143,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158790665",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9837,6 +10163,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158790668",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -9857,6 +10184,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158796944",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9876,6 +10204,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158796945",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9895,6 +10224,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158796946",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9914,6 +10244,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158797684",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9933,6 +10264,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158797693",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -9952,6 +10284,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158800772",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -9971,6 +10304,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158800774",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9989,6 +10323,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158800776",
+    "ee": true,
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -10009,6 +10344,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158800777",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10028,6 +10364,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158800781",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -10048,6 +10385,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD160355706",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10066,6 +10404,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160355707",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10085,6 +10424,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160355709",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10104,6 +10444,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD160364692",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -10124,6 +10465,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160368616",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -10143,6 +10485,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160368617",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -10162,6 +10505,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160368618",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -10181,6 +10525,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160368621",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -10200,6 +10545,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160368623",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -10219,6 +10565,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160368624",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -10238,6 +10585,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160368625",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -10257,6 +10605,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160380665",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10276,6 +10625,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160380666",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10295,6 +10645,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160380667",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10314,6 +10665,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160380668",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10333,6 +10685,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160380669",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10352,6 +10705,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160380670",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10371,6 +10725,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160380735",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10390,6 +10745,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385321",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10409,6 +10765,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385324",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10428,6 +10785,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385325",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10447,6 +10805,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385326",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10466,6 +10825,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385327",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10485,6 +10845,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385328",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10504,6 +10865,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385329",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10523,6 +10885,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385330",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10542,6 +10905,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385331",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10561,6 +10925,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385332",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10580,6 +10945,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385333",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10599,6 +10965,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385334",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10618,6 +10985,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385335",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10637,6 +11005,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385336",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10656,6 +11025,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385337",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10675,6 +11045,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385338",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10694,6 +11065,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385339",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10713,6 +11085,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385340",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10732,6 +11105,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385341",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10751,6 +11125,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385342",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10770,6 +11145,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385356",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10789,6 +11165,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160385357",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10808,6 +11185,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160386586",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -10828,6 +11206,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160390014",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10847,6 +11226,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160398507",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10866,6 +11246,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160402917",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10885,6 +11266,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160402956",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10904,6 +11286,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160942037",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10923,6 +11306,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160942038",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10942,6 +11326,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160942039",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10961,6 +11346,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160942040",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10980,6 +11366,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160942041",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -10999,6 +11386,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160960676",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11018,6 +11406,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160960677",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11037,6 +11426,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160991946",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11056,6 +11446,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160992538",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11075,26 +11466,9 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160993995",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     148.33892351,
-     -23.0309751
-    ]
-   },
-   "properties": {
-    "name": "36 CASSIA STREET TIERI 4709",
-    "locID": "LOC000054783550",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD160994101",
-    "tech_change_status": "Eligible to Order"
    }
   },
   {
@@ -11112,6 +11486,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160996074",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11131,6 +11506,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160996570",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11150,6 +11526,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD160997226",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11169,6 +11546,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161006042",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11188,6 +11566,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161115459",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11206,6 +11585,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161115460",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11224,6 +11604,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161166509",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -11244,6 +11625,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161224162",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11263,6 +11645,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD161224163",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -11283,6 +11666,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD161224164",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -11303,6 +11687,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229884",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11321,6 +11706,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229885",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11339,6 +11725,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229886",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11357,6 +11744,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229887",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11375,6 +11763,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229888",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11393,6 +11782,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229889",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11411,6 +11801,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229890",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11429,6 +11820,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229891",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11447,6 +11839,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229892",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11465,6 +11858,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229893",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11483,6 +11877,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229894",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11501,6 +11896,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229895",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11519,6 +11915,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229896",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11537,6 +11934,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229897",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11555,6 +11953,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229898",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11573,6 +11972,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229899",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11591,6 +11991,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229900",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11609,6 +12010,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161229901",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11627,6 +12029,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161279751",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11646,6 +12049,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161323767",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11665,6 +12069,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161323768",
+    "ee": true,
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -11685,6 +12090,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161323769",
+    "ee": true,
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -11705,6 +12111,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161737739",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -11725,6 +12132,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162120822",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11744,6 +12152,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162129445",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11763,6 +12172,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD162168942",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -11783,6 +12193,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD162168943",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -11803,6 +12214,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162168944",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -11823,6 +12235,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162168945",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -11843,6 +12256,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162168946",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11862,6 +12276,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162168947",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -11882,6 +12297,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162168948",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -11902,6 +12318,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162168949",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -11922,6 +12339,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162168950",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -11941,6 +12359,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162199012",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -11961,6 +12380,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162357191",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11979,6 +12399,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162523364",
+    "ee": true,
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -11999,6 +12420,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162523365",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -12018,6 +12440,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162523366",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -12037,6 +12460,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163025702",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -12056,6 +12480,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163260307",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12075,6 +12500,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163260309",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12094,6 +12520,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163260310",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12113,6 +12540,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD163268930",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -12132,6 +12560,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD425197335",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -12152,6 +12581,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425200711",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -12171,6 +12601,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425200731",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -12190,26 +12621,9 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425200732",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     148.34086797,
-     -23.03040048
-    ]
-   },
-   "properties": {
-    "name": "LOT 36 CASSIA STREET TIERI 4709",
-    "locID": "LOC000054783550",
-    "tech": "FTTP",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD425201005",
-    "tech_change_status": "Eligible to Order"
    }
   },
   {
@@ -12227,6 +12641,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425201168",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12246,6 +12661,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425201169",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12265,6 +12681,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425202354",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12283,6 +12700,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425202355",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12301,6 +12719,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425203814",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -12320,6 +12739,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425209995",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -12340,6 +12760,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425210642",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12358,6 +12779,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425213021",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12376,6 +12798,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425218672",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12394,6 +12817,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425218673",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -12414,6 +12838,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAQLD425218674",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -12434,6 +12859,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425218675",
+    "ee": true,
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -12454,6 +12880,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425218676",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -12473,6 +12900,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425218955",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -12492,6 +12920,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425345507",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -12512,6 +12941,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425493242",
+    "ee": true,
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -12532,6 +12962,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425551892",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12551,6 +12982,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425551893",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12570,6 +13002,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425551894",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12589,6 +13022,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425551895",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12608,6 +13042,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425551896",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12627,6 +13062,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425551897",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12646,6 +13082,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425551898",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12665,6 +13102,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425551899",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12684,6 +13122,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425551900",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -12703,6 +13142,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD425766308",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
@@ -12722,6 +13162,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD719328849",
+    "ee": true,
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
    }
