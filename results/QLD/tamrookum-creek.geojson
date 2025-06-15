@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T07:41:02.194295",
+ "generated": "2025-06-15T01:32:10.683903",
  "suburb": "TAMROOKUM CREEK",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160714307",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -38,6 +39,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160714308",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -58,6 +60,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160764625",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -78,6 +81,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160764626",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -98,6 +102,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160766730",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -118,6 +123,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160766731",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -138,6 +144,49 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160766732",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.87909792,
+     -28.1682569
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 MOUNT LINDESAY HIGHWAY TAMROOKUM CREEK 4285",
+    "locID": "LOC000109076330",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161245777",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.80167057,
+     -28.16276229
+    ]
+   },
+   "properties": {
+    "name": "LOT 107 TAMROOKUM CREEK ROAD TAMROOKUM CREEK 4285",
+    "locID": "LOC000068660523",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161324633",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -158,6 +207,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161324635",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -176,6 +226,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GAQLD161324636",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -196,7 +247,29 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161324637",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.84743,
+     -28.16945245
+    ]
+   },
+   "properties": {
+    "name": "LOT 3 TAMROOKUM CREEK ROAD TAMROOKUM CREEK 4285",
+    "locID": "LOC000024060117",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161324639",
+    "ee": true,
+    "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
    }
@@ -216,6 +289,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161324643",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -236,6 +310,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GAQLD161324644",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -256,6 +331,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161770298",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -274,6 +350,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GAQLD161967438",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -294,6 +371,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163065205",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -314,6 +392,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163229593",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -334,6 +413,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425058379",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -354,6 +434,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425754976",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -374,6 +455,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720180601",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T08:35:25.856962",
+ "generated": "2025-06-15T02:06:56.743914",
  "suburb": "TELLEBANG",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155878957",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158726496",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -56,6 +58,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158726498",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -74,6 +77,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158726500",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -92,6 +96,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158731535",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -110,6 +115,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158731537",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -128,6 +134,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158731538",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -146,6 +153,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158762649",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -166,6 +174,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158762650",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -186,6 +195,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161476828",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -206,6 +216,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161476829",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.266951,
+     -25.00908804
+    ]
+   },
+   "properties": {
+    "name": "596 TELLEBANG ROAD TELLEBANG 4630",
+    "locID": "LOC000032662044",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161717588",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -224,6 +254,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161800245",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -242,6 +273,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162103254",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -260,6 +292,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162106111",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -280,6 +313,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162133379",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -300,6 +334,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162160383",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -318,6 +353,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162160384",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -336,6 +372,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162160385",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -354,6 +391,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162185564",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -374,6 +412,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162185565",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -394,6 +433,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162185566",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -414,6 +454,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162185567",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -434,6 +475,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162185571",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -454,6 +496,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162199727",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -472,6 +515,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162199728",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -490,6 +534,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501604",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -510,6 +555,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501605",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -530,6 +576,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501606",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -550,6 +597,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501607",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -570,6 +618,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501608",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -590,6 +639,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501609",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -610,6 +660,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501610",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -628,6 +679,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501611",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -646,6 +698,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501612",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -664,6 +717,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501613",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -682,6 +736,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501614",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -702,6 +757,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501615",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -720,6 +776,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501616",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -738,6 +795,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162501617",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -756,6 +814,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162703611",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -776,6 +835,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD424933008",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -796,6 +856,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD424933009",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -816,6 +877,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425046628",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -836,6 +898,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425046630",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -856,6 +919,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425046631",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -876,6 +940,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719268886",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -894,6 +959,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719270743",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }
