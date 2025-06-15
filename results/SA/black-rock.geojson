@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T17:03:44.717827",
+ "generated": "2025-06-15T09:13:38.343468",
  "suburb": "BLACK ROCK",
  "features": [
   {
@@ -17,7 +17,8 @@
     "locID": "LOC000042194009",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424300966"
+    "gnaf_pid": "GASA_424300966",
+    "ee": true
    }
   },
   {
@@ -35,6 +36,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424327721",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -52,7 +54,8 @@
     "locID": "LOC000170814180",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424327723"
+    "gnaf_pid": "GASA_424327723",
+    "ee": true
    }
   },
   {
@@ -70,6 +73,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424558003",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -88,6 +92,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424562186",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -108,6 +113,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424562187",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -128,6 +134,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424563862",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -148,6 +155,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075641",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -166,6 +174,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075642",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -184,6 +193,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425139011",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -204,6 +214,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425139012",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -224,6 +235,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425139013",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -244,6 +256,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425139014",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -262,6 +275,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425139015",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -280,6 +294,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425139648",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -298,9 +313,29 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425139720",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.63953001,
+     -32.81945077
+    ]
+   },
+   "properties": {
+    "name": "279 TEAGUE ROAD BLACK ROCK 5431",
+    "locID": "LOC000150242442",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_425140928",
+    "ee": true,
+    "tech_change_status": "Not Planned"
    }
   },
   {
@@ -318,6 +353,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188777",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -336,6 +372,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425188778",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -353,7 +390,8 @@
     "locID": "LOC000170814105",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_719772416"
+    "gnaf_pid": "GASA_719772416",
+    "ee": true
    }
   },
   {
@@ -370,7 +408,8 @@
     "locID": "LOC000170814082",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_719777854"
+    "gnaf_pid": "GASA_719777854",
+    "ee": true
    }
   },
   {
@@ -388,6 +427,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720185428",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -406,6 +446,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720188548",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -426,6 +467,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720848234",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
