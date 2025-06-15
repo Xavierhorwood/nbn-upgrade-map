@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-21T04:08:30.640850",
+ "generated": "2025-06-15T17:53:13.811059",
  "suburb": "LYNDHURST",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_423777173",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424130937",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -53,7 +55,8 @@
     "locID": "LOC100018257759",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424168140"
+    "gnaf_pid": "GASA_424168140",
+    "ee": true
    }
   },
   {
@@ -71,6 +74,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424191917",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -89,6 +93,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424191918",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -107,6 +112,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424191919",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -125,6 +131,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424219704",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -143,6 +150,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424219705",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -161,9 +169,10 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424299109",
-    "tech_change_status": "Committed",
+    "ee": true,
+    "tech_change_status": "Build Finalised",
     "program_type": "On-Demand N2P SDU/MDU Simple",
-    "target_eligibility_quarter": "Sep 2025"
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -180,7 +189,8 @@
     "locID": "LOC000175248245",
     "tech": "FTTC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424340356"
+    "gnaf_pid": "GASA_424340356",
+    "ee": true
    }
   },
   {
@@ -197,7 +207,8 @@
     "locID": "LOC000170814146",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424401538"
+    "gnaf_pid": "GASA_424401538",
+    "ee": true
    }
   },
   {
@@ -214,7 +225,8 @@
     "locID": "LOC000170814105",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424411233"
+    "gnaf_pid": "GASA_424411233",
+    "ee": true
    }
   },
   {
@@ -232,6 +244,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424425535",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -250,6 +263,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424425536",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -267,7 +281,8 @@
     "locID": "LOC000028386817",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425503969"
+    "gnaf_pid": "GASA_425503969",
+    "ee": true
    }
   },
   {
@@ -285,6 +300,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425503971",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -302,7 +318,8 @@
     "locID": "LOC000170814200",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425723991"
+    "gnaf_pid": "GASA_425723991",
+    "ee": true
    }
   },
   {
@@ -319,7 +336,8 @@
     "locID": "LOC000055289830",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_719246561"
+    "gnaf_pid": "GASA_719246561",
+    "ee": true
    }
   },
   {
@@ -337,6 +355,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719859356",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -355,6 +374,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_720187157",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   }
