@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T19:32:20.492425",
+ "generated": "2025-06-15T11:10:30.704595",
  "suburb": "CLINTON CENTRE",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424114530",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -38,6 +39,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424294964",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -58,7 +60,29 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424836422",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.96791786,
+     -34.24047729
+    ]
+   },
+   "properties": {
+    "name": "1662 MELTON SOUTH ROAD CLINTON CENTRE 5570",
+    "locID": "LOC000131472288",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424836423",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -76,6 +100,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424900574",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -94,6 +119,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424900768",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -114,6 +140,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424900769",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -132,6 +159,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424904112",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -150,6 +178,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424924871",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -168,6 +197,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424925489",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -186,6 +216,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425359514",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -206,6 +237,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425389676",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -224,6 +256,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425395735",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -242,6 +275,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425709520",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -260,6 +294,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425709521",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -278,7 +313,29 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425719895",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     137.96397707,
+     -34.21703626
+    ]
+   },
+   "properties": {
+    "name": "1295 MELTON SOUTH ROAD CLINTON CENTRE 5570",
+    "locID": "LOC000116327739",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_719045474",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -296,6 +353,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719648773",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -314,6 +372,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719648893",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -332,6 +391,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719649261",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -350,6 +410,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719774979",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -368,6 +429,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719776548",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T20:01:44.612308",
+ "generated": "2025-06-15T11:21:53.753485",
  "suburb": "COLTON",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424149321",
+    "ee": true,
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -38,6 +39,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424171560",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -56,6 +58,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424171562",
+    "ee": true,
     "tech_change_status": "Committed",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "Sep 2025"
@@ -76,6 +79,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424171564",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -94,6 +98,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424295400",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -112,6 +117,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424295401",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -130,6 +136,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424301285",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -148,6 +155,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424301287",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -166,6 +174,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424301288",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -184,6 +193,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424301289",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -202,6 +212,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424301291",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -220,6 +231,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424301297",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -238,6 +250,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424923461",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -256,6 +269,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424923462",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -274,6 +288,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424923727",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -292,6 +307,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424923728",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -310,6 +326,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424923729",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -328,6 +345,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424923730",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -346,6 +364,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424923731",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -364,6 +383,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424923733",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -382,6 +402,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424923735",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -400,6 +421,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424923736",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -418,6 +440,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424923737",
+    "ee": false,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.97139409,
+     -33.43539614
+    ]
+   },
+   "properties": {
+    "name": "470 KOORINGAL ROAD COLTON 5670",
+    "locID": "LOC000148407389",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424924717",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -436,6 +478,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424925553",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -454,6 +497,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424925973",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -472,6 +516,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425108891",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -490,6 +535,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425501473",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -508,6 +554,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719861882",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   }
