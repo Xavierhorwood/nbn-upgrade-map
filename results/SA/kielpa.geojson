@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-21T02:12:28.358136",
+ "generated": "2025-06-15T16:34:38.179275",
  "suburb": "KIELPA",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_415706841",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,8 +37,10 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424119438",
-    "tech_change_status": "Planned",
-    "program_type": "On-Demand N2P SDU/MDU Simple"
+    "ee": true,
+    "tech_change_status": "Committed",
+    "program_type": "On-Demand N2P SDU/MDU Simple",
+    "target_eligibility_quarter": "Jun 2025"
    }
   },
   {
@@ -55,6 +58,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424178789",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -73,6 +77,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424178790",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -91,6 +96,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424178791",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -109,6 +115,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424178792",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.22486033,
+     -33.58729939
+    ]
+   },
+   "properties": {
+    "name": "LOT 13 RAILWAY TERRACE KIELPA 5642",
+    "locID": "LOC000108612537",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424203795",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -127,6 +153,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424203802",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -145,6 +172,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424307441",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -163,6 +191,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424307442",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -181,6 +210,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424307443",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -199,6 +229,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424307444",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.22407919,
+     -33.5850711
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 RAILWAY TERRACE KIELPA 5642",
+    "locID": "LOC000108612537",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424327791",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -217,6 +267,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424557605",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -235,6 +286,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424557608",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -253,6 +305,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424557611",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -271,6 +324,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424557612",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -289,6 +343,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424557613",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -307,6 +362,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424559582",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -325,6 +381,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424561463",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -343,6 +400,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424561464",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -361,6 +419,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424562066",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -379,6 +438,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424562078",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -397,6 +457,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424562622",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -415,6 +476,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424563912",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -433,6 +495,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424563914",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -451,6 +514,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424563916",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -469,6 +533,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424563917",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -487,6 +552,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424565226",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -505,6 +571,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424566618",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -523,6 +590,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072786",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -541,6 +609,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072787",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -559,6 +628,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072829",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -577,6 +647,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425073256",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -595,6 +666,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425073291",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -613,6 +685,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425074747",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -631,6 +704,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075248",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -649,6 +723,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075249",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -667,6 +742,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075250",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -685,6 +761,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075251",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -703,6 +780,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075381",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -721,6 +799,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075382",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -739,6 +818,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075383",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -757,6 +837,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075523",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -775,6 +856,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075524",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -793,6 +875,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075525",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -811,6 +894,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075687",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -829,6 +913,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075816",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -847,6 +932,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075818",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -865,6 +951,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425076174",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -883,6 +970,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425076339",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -901,6 +989,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425076340",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -919,6 +1008,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425076341",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -937,6 +1027,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425076342",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -955,6 +1046,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425076552",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -973,6 +1065,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425136945",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -991,6 +1084,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425138020",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1009,6 +1103,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425138021",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1027,6 +1122,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425138022",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1045,6 +1141,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425138950",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1063,6 +1160,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425138951",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1081,6 +1179,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425138953",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1099,6 +1198,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425138954",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1117,6 +1217,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425138975",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1135,6 +1236,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425138976",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1153,6 +1255,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425138977",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1171,6 +1274,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425138978",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1189,6 +1293,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425138979",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1207,6 +1312,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425138980",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1225,6 +1331,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425393262",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1243,6 +1350,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425629881",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1261,6 +1369,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425718898",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1279,6 +1388,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425723781",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1297,6 +1407,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720235374",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1315,6 +1426,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720238061",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }

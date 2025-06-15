@@ -1,8 +1,27 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-21T02:51:18.898159",
+ "generated": "2025-06-15T16:53:55.245848",
  "suburb": "KOONOONA",
  "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9233987,
+     -33.82703858
+    ]
+   },
+   "properties": {
+    "name": "19 KOONOONA ROAD KOONOONA 5417",
+    "locID": "LOC000010813441",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424645616",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -18,6 +37,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425304044",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +56,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425506868",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +75,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425507212",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +94,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720189679",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +113,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721277749",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-21T02:08:14.476522",
+ "generated": "2025-06-15T16:30:43.977496",
  "suburb": "KESWICK TERMINAL",
  "features": [
   {
@@ -17,7 +17,8 @@
     "locID": "LOC000151516413",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_415508649"
+    "gnaf_pid": "GASA_415508649",
+    "ee": true
    }
   },
   {
@@ -34,7 +35,8 @@
     "locID": "LOC000130054640",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424402109"
+    "gnaf_pid": "GASA_424402109",
+    "ee": true
    }
   },
   {
@@ -52,6 +54,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424524317",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -70,6 +73,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424692927",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -88,6 +92,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424904030",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -105,7 +110,8 @@
     "locID": "LOC000130054655",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424960365"
+    "gnaf_pid": "GASA_424960365",
+    "ee": true
    }
   },
   {
@@ -122,7 +128,8 @@
     "locID": "LOC000130054655",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424960366"
+    "gnaf_pid": "GASA_424960366",
+    "ee": true
    }
   },
   {
@@ -139,7 +146,8 @@
     "locID": "LOC000130054655",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424960367"
+    "gnaf_pid": "GASA_424960367",
+    "ee": true
    }
   },
   {
@@ -156,7 +164,8 @@
     "locID": "LOC000170826820",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424960368"
+    "gnaf_pid": "GASA_424960368",
+    "ee": true
    }
   },
   {
@@ -171,10 +180,10 @@
    "properties": {
     "name": "165 RAILWAY TERRACE KESWICK TERMINAL 5035",
     "locID": "LOC000181179872",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425356509",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -192,6 +201,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_425394067",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -209,7 +219,8 @@
     "locID": "LOC000161940293",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425394068"
+    "gnaf_pid": "GASA_425394068",
+    "ee": true
    }
   },
   {
@@ -227,6 +238,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425398054",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -245,6 +257,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425398055",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -263,6 +276,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425398056",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -281,6 +295,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425503426",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -298,7 +313,8 @@
     "locID": "LOC000151533540",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425723959"
+    "gnaf_pid": "GASA_425723959",
+    "ee": true
    }
   },
   {
@@ -315,7 +331,8 @@
     "locID": "LOC000151516421",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425723960"
+    "gnaf_pid": "GASA_425723960",
+    "ee": true
    }
   },
   {
@@ -332,7 +349,8 @@
     "locID": "LOC100067697705",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425724075"
+    "gnaf_pid": "GASA_425724075",
+    "ee": true
    }
   },
   {
@@ -350,6 +368,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425724079",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -368,6 +387,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425724592",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -385,7 +405,8 @@
     "locID": "LOC000170826831",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_719048089"
+    "gnaf_pid": "GASA_719048089",
+    "ee": true
    }
   },
   {
@@ -402,7 +423,8 @@
     "locID": "LOC000013417360",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_720236532"
+    "gnaf_pid": "GASA_720236532",
+    "ee": true
    }
   },
   {
@@ -419,7 +441,8 @@
     "locID": "LOC000186785478",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_720301920"
+    "gnaf_pid": "GASA_720301920",
+    "ee": true
    }
   },
   {
@@ -436,7 +459,8 @@
     "locID": "LOC000130054640",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_720722562"
+    "gnaf_pid": "GASA_720722562",
+    "ee": true
    }
   }
  ]
