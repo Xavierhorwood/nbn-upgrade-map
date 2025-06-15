@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-21T08:17:19.676667",
+ "generated": "2025-06-15T20:58:15.051528",
  "suburb": "NEPABUNNA",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719244877",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719245603",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719246070",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +75,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719246071",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -87,9 +91,10 @@
    "properties": {
     "name": "4 ALKU VIEW NEPABUNNA 5732",
     "locID": "LOC100071939800",
-    "tech": "NULL",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719246321",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -108,6 +113,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719246553",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -126,6 +132,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719246783",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -144,6 +151,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719246814",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -162,6 +170,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719247302",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -180,6 +189,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719247303",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -198,6 +208,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719247305",
+    "ee": false,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.9776306,
+     -30.58351107
+    ]
+   },
+   "properties": {
+    "name": "10 GAMMON RANGES ROAD NEPABUNNA 5732",
+    "locID": "LOC000171891465",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_719247612",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -216,6 +246,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719248051",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -234,6 +265,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719248052",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -252,6 +284,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719248787",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -270,6 +303,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719248790",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -288,6 +322,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719248954",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -306,6 +341,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719249036",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -324,6 +360,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719249266",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -342,6 +379,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719249525",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -360,6 +398,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719249806",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -378,6 +417,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719250023",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -396,6 +436,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719250049",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -414,6 +455,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719250315",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   }
