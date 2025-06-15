@@ -30,6 +30,7 @@ class Address:
     tech_change_status: str = None
     program_type: str = None
     target_eligibility_quarter: str = None
+    ee: str = None
 
 
 AddressList = list[Address]

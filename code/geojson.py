@@ -21,6 +21,7 @@ def format_addresses(addresses: AddressList, suburb: str, generated: datetime = 
                 "tech": address.tech,
                 "upgrade": address.upgrade,
                 "gnaf_pid": address.gnaf_pid,
+                "ee": address.ee,
             },
         }
         if address.tech_change_status:

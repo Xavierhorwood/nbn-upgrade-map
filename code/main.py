@@ -90,6 +90,7 @@ def get_address(nbn: NBNApi, address: Address, get_status=True) -> Address:
             address.tech_change_status = address_detail.get("techChangeStatus")
             address.program_type = address_detail.get("programType")
             address.target_eligibility_quarter = address_detail.get("targetEligibilityQuarter")
+            address.ee = address_detail.get("ee")
     except (requests.exceptions.RequestException, ValueError) as err:
         logging.warning("Error fetching NBN data for %s: %s", address.name, err)
     except Exception:
