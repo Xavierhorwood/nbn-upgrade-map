@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-21T07:11:32.528658",
+ "generated": "2025-06-15T20:10:44.389851",
  "suburb": "MOUNT WEDGE",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424312192",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424521796",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424521798",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +75,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424923134",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +94,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424924397",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -108,6 +113,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424924748",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -126,6 +132,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424924749",
+    "ee": false,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.12386466,
+     -33.49164811
+    ]
+   },
+   "properties": {
+    "name": "2139 ROCKY VALLEY ROAD MOUNT WEDGE 5670",
+    "locID": "LOC000148246065",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424925557",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -144,6 +170,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425139023",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -162,6 +189,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425502274",
+    "ee": false,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     134.9739066,
+     -33.44718018
+    ]
+   },
+   "properties": {
+    "name": "60 KOORINGAL ROAD MOUNT WEDGE 5670",
+    "locID": "LOC000131736170",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_425509666",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -180,6 +227,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425722020",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -198,6 +246,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425722021",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -216,6 +265,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720303642",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   }
