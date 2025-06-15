@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T10:20:51.476168",
+ "generated": "2025-06-15T03:50:09.494095",
  "suburb": "UPPER BROOKFIELD",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155064545",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -35,7 +36,8 @@
     "locID": "LOC000098869603",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155084508"
+    "gnaf_pid": "GAQLD155084508",
+    "ee": true
    }
   },
   {
@@ -53,6 +55,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155084509",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -71,6 +74,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155914018",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -89,6 +93,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155914042",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -107,6 +112,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155914043",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -125,6 +131,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155914044",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -143,6 +150,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155915362",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -161,6 +169,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155915363",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -179,6 +188,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155915364",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -197,6 +207,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155915748",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -215,6 +226,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155916056",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -233,6 +245,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155916059",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -251,6 +264,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155916061",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -269,6 +283,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155916519",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -286,7 +301,8 @@
     "locID": "LOC000027707029",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155917099"
+    "gnaf_pid": "GAQLD155917099",
+    "ee": true
    }
   },
   {
@@ -302,8 +318,10 @@
     "name": "63 HAVEN ROAD UPPER BROOKFIELD 4069",
     "locID": "LOC000060878487",
     "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155917102"
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD155917102",
+    "ee": true,
+    "tech_change_status": "Eligible to Order"
    }
   },
   {
@@ -321,6 +339,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155917115",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -339,6 +358,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155917116",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -357,6 +377,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155917120",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -375,6 +396,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155917121",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -393,6 +415,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155917124",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -411,6 +434,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155917823",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -429,6 +453,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155918293",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -447,6 +472,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155918296",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -465,6 +491,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155918297",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -483,6 +510,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919703",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -501,6 +529,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919704",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -519,6 +548,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919717",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -537,6 +567,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919718",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -555,6 +586,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919719",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -573,6 +605,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919720",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -591,6 +624,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919721",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -609,6 +643,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919722",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -627,6 +662,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919723",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -645,6 +681,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919724",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -663,6 +700,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919725",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -681,6 +719,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919726",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -699,6 +738,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919727",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -716,7 +756,8 @@
     "locID": "LOC000045834692",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155919786"
+    "gnaf_pid": "GAQLD155919786",
+    "ee": true
    }
   },
   {
@@ -734,6 +775,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919788",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -752,6 +794,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155919789",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -769,7 +812,8 @@
     "locID": "LOC000009485092",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155920000"
+    "gnaf_pid": "GAQLD155920000",
+    "ee": true
    }
   },
   {
@@ -787,6 +831,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155920002",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -805,6 +850,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155920003",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -823,6 +869,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155920006",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -841,6 +888,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155920008",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -859,6 +907,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155920009",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -877,6 +926,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155920010",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -895,6 +945,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155920011",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -913,6 +964,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155921554",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -931,6 +983,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155921556",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -949,6 +1002,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155921629",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -967,6 +1021,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155921630",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -985,6 +1040,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155921632",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1003,6 +1059,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155921633",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1021,6 +1078,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155921635",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1039,6 +1097,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155922082",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1057,6 +1116,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155922083",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1075,6 +1135,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155922085",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1093,6 +1154,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155922086",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1111,6 +1173,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155922087",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1129,6 +1192,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155922712",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1147,6 +1211,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155922713",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1165,7 +1230,27 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155922714",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.89191104,
+     -27.48688921
+    ]
+   },
+   "properties": {
+    "name": "195 UPPER BROOKFIELD ROAD UPPER BROOKFIELD 4069",
+    "locID": "LOC000024921694",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD155922715",
+    "ee": true,
+    "tech_change_status": "Eligible to Order"
    }
   },
   {
@@ -1183,6 +1268,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155922948",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1201,6 +1287,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155922949",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1219,6 +1306,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923093",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1237,6 +1325,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923096",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1255,6 +1344,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923097",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1273,6 +1363,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923098",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1291,6 +1382,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923146",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1309,7 +1401,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923147",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.89035065,
+     -27.48627793
+    ]
+   },
+   "properties": {
+    "name": "207 UPPER BROOKFIELD ROAD UPPER BROOKFIELD 4069",
+    "locID": "LOC000171887212",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155923414",
+    "ee": true
    }
   },
   {
@@ -1327,6 +1438,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155923415",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1345,6 +1457,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155923416",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1362,7 +1475,8 @@
     "locID": "LOC000049105062",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155923417"
+    "gnaf_pid": "GAQLD155923417",
+    "ee": true
    }
   },
   {
@@ -1380,6 +1494,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155923418",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1398,6 +1513,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155923420",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1415,7 +1531,8 @@
     "locID": "LOC000126337518",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155923421"
+    "gnaf_pid": "GAQLD155923421",
+    "ee": true
    }
   },
   {
@@ -1433,6 +1550,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155923422",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1451,6 +1569,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155923423",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1466,10 +1585,10 @@
    "properties": {
     "name": "295 UPPER BROOKFIELD ROAD UPPER BROOKFIELD 4069",
     "locID": "LOC000047631184",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923425",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -1486,7 +1605,8 @@
     "locID": "LOC000014529149",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155923426"
+    "gnaf_pid": "GAQLD155923426",
+    "ee": true
    }
   },
   {
@@ -1503,7 +1623,8 @@
     "locID": "LOC000051268488",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155923427"
+    "gnaf_pid": "GAQLD155923427",
+    "ee": true
    }
   },
   {
@@ -1521,6 +1642,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923590",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1539,6 +1661,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923591",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1557,6 +1680,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923592",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1575,6 +1699,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923595",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1593,6 +1718,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923596",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1611,6 +1737,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923597",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1629,6 +1756,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923615",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1647,6 +1775,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923616",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1665,6 +1794,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923618",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1683,6 +1813,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923620",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1701,6 +1832,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923621",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1719,6 +1851,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923623",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1737,6 +1870,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923648",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1755,6 +1889,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923649",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1773,6 +1908,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923650",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1791,6 +1927,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923651",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1809,6 +1946,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155923652",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.88781951,
+     -27.49230361
+    ]
+   },
+   "properties": {
+    "name": "22 HAVEN ROAD UPPER BROOKFIELD 4069",
+    "locID": "LOC000039257069",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD155923665",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1827,6 +1984,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155923666",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1844,7 +2002,8 @@
     "locID": "LOC000029934043",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155923667"
+    "gnaf_pid": "GAQLD155923667",
+    "ee": true
    }
   },
   {
@@ -1862,6 +2021,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155924904",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1880,6 +2040,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155925482",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1898,6 +2059,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155925483",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1915,7 +2077,8 @@
     "locID": "LOC000051584749",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155925561"
+    "gnaf_pid": "GAQLD155925561",
+    "ee": true
    }
   },
   {
@@ -1933,6 +2096,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155926210",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1951,6 +2115,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155926212",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1969,6 +2134,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155926213",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1987,6 +2153,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155926214",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2005,6 +2172,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155926625",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2023,6 +2191,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155926628",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2041,6 +2210,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155926641",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2058,7 +2228,8 @@
     "locID": "LOC000095383667",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155926643"
+    "gnaf_pid": "GAQLD155926643",
+    "ee": true
    }
   },
   {
@@ -2076,6 +2247,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155926644",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2093,7 +2265,8 @@
     "locID": "LOC000026502117",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD155926645"
+    "gnaf_pid": "GAQLD155926645",
+    "ee": true
    }
   },
   {
@@ -2111,6 +2284,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927291",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2129,6 +2303,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927292",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2147,6 +2322,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927293",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2165,6 +2341,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927294",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2183,6 +2360,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927296",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2201,6 +2379,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927298",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2219,6 +2398,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927300",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2237,6 +2417,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927319",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2255,6 +2436,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927691",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2273,6 +2455,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927693",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2291,6 +2474,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927696",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2309,6 +2493,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927698",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2327,6 +2512,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927699",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2345,6 +2531,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927718",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2363,6 +2550,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927725",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2381,6 +2569,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155927726",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2399,6 +2588,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156061480",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2417,6 +2607,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156072084",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2435,6 +2626,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156082049",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2453,6 +2645,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156084049",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2471,6 +2664,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156084100",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2489,6 +2683,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD156085022",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2507,6 +2702,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210009",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2525,6 +2721,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210010",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2543,6 +2740,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210011",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2561,6 +2759,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210012",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2579,6 +2778,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210013",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2597,6 +2797,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210014",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2615,6 +2816,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210015",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2633,6 +2835,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210017",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2651,6 +2854,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210018",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2669,6 +2873,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210019",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2687,6 +2892,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210020",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2705,6 +2911,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210021",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2723,6 +2930,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210022",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2741,6 +2949,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210023",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2759,6 +2968,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157210025",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2777,6 +2987,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157212948",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2795,6 +3006,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157212950",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2813,6 +3025,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157212952",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2831,6 +3044,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157212954",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2849,6 +3063,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157212970",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2867,6 +3082,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157212971",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2885,6 +3101,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157212972",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2903,6 +3120,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157212974",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2921,6 +3139,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157216590",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2939,6 +3158,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157216591",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2957,6 +3177,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157216592",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2975,6 +3196,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157216593",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2993,6 +3215,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157216594",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3011,6 +3234,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157216596",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3029,6 +3253,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157216597",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3047,6 +3272,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157216843",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3065,6 +3291,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157216846",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3083,6 +3310,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157216990",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3101,6 +3329,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157216992",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3119,6 +3348,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157216995",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3137,6 +3367,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157216996",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3155,6 +3386,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157230725",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3173,6 +3405,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157230726",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3191,6 +3424,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157230727",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3209,6 +3443,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157230729",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3227,6 +3462,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157230733",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3245,6 +3481,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157233970",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3263,6 +3500,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157233972",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3281,6 +3519,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157233975",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3299,6 +3538,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157233977",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3317,6 +3557,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157233978",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3335,6 +3576,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157233979",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3353,6 +3595,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157233980",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3371,6 +3614,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157233982",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3389,6 +3633,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157234437",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3407,6 +3652,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157234440",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3425,6 +3671,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157240886",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3443,6 +3690,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157240915",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3461,6 +3709,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157240919",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3479,6 +3728,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157240920",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3497,6 +3747,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157241279",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3515,6 +3766,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157241437",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3533,6 +3785,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157241438",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3551,6 +3804,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157241440",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3569,6 +3823,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157241441",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3587,6 +3842,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157241444",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3605,6 +3861,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157241445",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3623,6 +3880,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157241465",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3641,6 +3899,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157241466",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3659,6 +3918,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157244548",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3677,6 +3937,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157244559",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3695,6 +3956,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157244562",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3713,6 +3975,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157244563",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3731,6 +3994,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157244564",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3749,6 +4013,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157244565",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3767,6 +4032,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157244566",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3785,6 +4051,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157244567",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3803,6 +4070,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157244568",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3820,7 +4088,8 @@
     "locID": "LOC000058748043",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157247915"
+    "gnaf_pid": "GAQLD157247915",
+    "ee": true
    }
   },
   {
@@ -3838,6 +4107,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157248234",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3856,7 +4126,27 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157248236",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.8680443,
+     -27.47742582
+    ]
+   },
+   "properties": {
+    "name": "508 UPPER BROOKFIELD ROAD UPPER BROOKFIELD 4069",
+    "locID": "LOC000052390516",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD157248402",
+    "ee": true,
+    "tech_change_status": "Not Planned"
    }
   },
   {
@@ -3874,6 +4164,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157248403",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3892,6 +4183,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157248404",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3910,6 +4202,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157251439",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3928,6 +4221,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157251441",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3946,6 +4240,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157251443",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3964,6 +4259,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157251492",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3982,6 +4278,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157251823",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4000,6 +4297,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157251826",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4018,6 +4316,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157251827",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4036,6 +4335,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157251844",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4053,7 +4353,8 @@
     "locID": "LOC000055593567",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157251849"
+    "gnaf_pid": "GAQLD157251849",
+    "ee": true
    }
   },
   {
@@ -4071,6 +4372,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157251852",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4089,6 +4391,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157251854",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4107,6 +4410,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157251855",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4125,6 +4429,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157251856",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4143,6 +4448,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157255106",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4160,7 +4466,8 @@
     "locID": "LOC000095246082",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157255109"
+    "gnaf_pid": "GAQLD157255109",
+    "ee": true
    }
   },
   {
@@ -4178,6 +4485,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD157255110",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4195,7 +4503,8 @@
     "locID": "LOC000004965509",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD157255111"
+    "gnaf_pid": "GAQLD157255111",
+    "ee": true
    }
   },
   {
@@ -4213,6 +4522,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258501",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4231,6 +4541,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258504",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4249,6 +4560,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258510",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4267,6 +4579,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258515",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4285,6 +4598,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258516",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4303,6 +4617,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258518",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4321,6 +4636,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258520",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4339,6 +4655,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258521",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4357,6 +4674,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258522",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4375,6 +4693,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258524",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4393,6 +4712,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258526",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4411,6 +4731,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258527",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4429,6 +4750,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258528",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4447,6 +4769,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258529",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4465,6 +4788,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157258530",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4483,6 +4807,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262172",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4501,6 +4826,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262174",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4519,6 +4845,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262448",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4537,6 +4864,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262449",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4555,6 +4883,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262450",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4573,6 +4902,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262451",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4591,6 +4921,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262452",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4609,6 +4940,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262453",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4627,6 +4959,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262454",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4645,6 +4978,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262464",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4663,6 +4997,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262465",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4681,6 +5016,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262466",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4699,6 +5035,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262468",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4717,6 +5054,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262469",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4735,6 +5073,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262470",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4753,6 +5092,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157262473",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.87408301,
+     -27.49402526
+    ]
+   },
+   "properties": {
+    "name": "44 HAVEN ROAD UPPER BROOKFIELD 4069",
+    "locID": "LOC000036653059",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD157321605",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4771,6 +5130,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158772375",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4789,6 +5149,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158775958",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4807,6 +5168,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158775963",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4824,7 +5186,8 @@
     "locID": "LOC000001764438",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD158781517"
+    "gnaf_pid": "GAQLD158781517",
+    "ee": true
    }
   },
   {
@@ -4842,6 +5205,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158781524",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4860,6 +5224,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158803782",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4878,6 +5243,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158803784",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4896,6 +5262,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158803789",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4914,6 +5281,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158803790",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4932,6 +5300,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158807541",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4950,6 +5319,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158807544",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4968,6 +5338,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158808153",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4986,6 +5357,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158810222",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5004,7 +5376,27 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158814219",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.84957109,
+     -27.48066153
+    ]
+   },
+   "properties": {
+    "name": "658 UPPER BROOKFIELD ROAD UPPER BROOKFIELD 4069",
+    "locID": "LOC000044223833",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD158814768",
+    "ee": true,
+    "tech_change_status": "Eligible to Order"
    }
   },
   {
@@ -5022,6 +5414,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158822596",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5040,6 +5433,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD159197933",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5058,7 +5452,29 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD159197934",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.85771788,
+     -27.4741828
+    ]
+   },
+   "properties": {
+    "name": "271 UPPER BROOKFIELD ROAD UPPER BROOKFIELD 4069",
+    "locID": "LOC000087874988",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAQLD159212869",
+    "ee": true,
+    "tech_change_status": "Committed",
+    "program_type": "On-Demand N2P SDU/MDU Simple",
+    "target_eligibility_quarter": "Dec 2025"
    }
   },
   {
@@ -5076,6 +5492,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD159214611",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5094,6 +5511,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD159217730",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5112,6 +5530,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD159220031",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5130,6 +5549,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160708828",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5148,6 +5568,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD160729925",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5166,6 +5587,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160753683",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5184,6 +5606,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160753684",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5202,6 +5625,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160753685",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5220,6 +5644,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160753686",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5238,6 +5663,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160753689",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5256,6 +5682,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160957900",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5274,6 +5701,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161021301",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5292,6 +5720,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161094760",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5310,6 +5739,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161154445",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5328,6 +5758,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161154446",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5346,6 +5777,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161367784",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5364,6 +5796,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161480372",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5382,6 +5815,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161719680",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5400,6 +5834,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162469648",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5418,6 +5853,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162532597",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5436,6 +5872,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD162616369",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5454,6 +5891,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162713513",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5472,6 +5910,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162862346",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5490,6 +5929,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162862347",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5508,6 +5948,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162862348",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5523,9 +5964,10 @@
    "properties": {
     "name": "607C UPPER BROOKFIELD ROAD UPPER BROOKFIELD 4069",
     "locID": "LOC000078273590",
-    "tech": "NULL",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162862349",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5544,6 +5986,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162862350",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5562,6 +6005,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162862351",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5580,6 +6024,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162919326",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.85121033,
+     -27.47966933
+    ]
+   },
+   "properties": {
+    "name": "660 UPPER BROOKFIELD ROAD UPPER BROOKFIELD 4069",
+    "locID": "LOC000058839692",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD162919329",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5598,6 +6062,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162919333",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5616,6 +6081,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163064367",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5634,6 +6100,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163147485",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5652,6 +6119,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163236030",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5670,6 +6138,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD424997340",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5688,6 +6157,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD424997341",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5706,6 +6176,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425053171",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5724,6 +6195,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425053172",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5742,6 +6214,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425053173",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5760,7 +6233,26 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD425185494",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.87754098,
+     -27.49146786
+    ]
+   },
+   "properties": {
+    "name": "358 UPPER BROOKFIELD ROAD UPPER BROOKFIELD 4069",
+    "locID": "LOC000036627569",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD425219854",
+    "ee": true
    }
   },
   {
@@ -5777,7 +6269,8 @@
     "locID": "LOC100076481081",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD425842895"
+    "gnaf_pid": "GAQLD425842895",
+    "ee": true
    }
   },
   {
@@ -5795,6 +6288,45 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719341666",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.86369646,
+     -27.45410743
+    ]
+   },
+   "properties": {
+    "name": "681 GOLD CREEK ROAD UPPER BROOKFIELD 4069",
+    "locID": "LOC000182533521",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD719636958",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.88441697,
+     -27.48472068
+    ]
+   },
+   "properties": {
+    "name": "297 UPPER BROOKFIELD ROAD UPPER BROOKFIELD 4069",
+    "locID": "LOC000021732291",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD720111832",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }

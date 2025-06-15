@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T10:33:28.210338",
+ "generated": "2025-06-15T04:02:09.968642",
  "suburb": "UPPER STONE",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158789526",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158789527",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158813776",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +75,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158813892",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +94,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160707945",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -108,6 +113,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160949343",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -126,6 +132,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160953946",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -146,6 +153,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160962041",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -164,6 +172,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161056362",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -182,6 +191,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161056378",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -200,6 +210,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161065707",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -218,6 +229,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161065709",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -236,6 +248,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161065710",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -254,6 +267,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161065711",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -272,6 +286,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161065713",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -290,6 +305,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161144064",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -308,6 +324,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161144067",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -326,6 +343,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161213346",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -346,7 +364,29 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161213348",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.97370029,
+     -18.67137497
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 SERIS ROAD UPPER STONE 4850",
+    "locID": "LOC000056675789",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161305492",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -364,6 +404,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318375",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -384,6 +425,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318376",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -404,6 +446,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318377",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -422,9 +465,29 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318378",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.9609153,
+     -18.7088787
+    ]
+   },
+   "properties": {
+    "name": "LOT 15 STONE RIVER ROAD UPPER STONE 4850",
+    "locID": "LOC100078002636",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161318379",
+    "ee": true,
+    "tech_change_status": "Not Planned"
    }
   },
   {
@@ -442,6 +505,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318380",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -460,6 +524,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318381",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -478,6 +543,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318382",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -496,6 +562,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318384",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -514,6 +581,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318385",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -532,7 +600,29 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318386",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.99424219,
+     -18.67417487
+    ]
+   },
+   "properties": {
+    "name": "LOT 3 STONE RIVER ROAD UPPER STONE 4850",
+    "locID": "LOC100078002662",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161318388",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -550,6 +640,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318390",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -568,7 +659,29 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318391",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.99344406,
+     -18.6801985
+    ]
+   },
+   "properties": {
+    "name": "LOT 5 STONE RIVER ROAD UPPER STONE 4850",
+    "locID": "LOC100078002555",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161318392",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -586,9 +699,29 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318393",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.90334471,
+     -18.74344558
+    ]
+   },
+   "properties": {
+    "name": "LOT 7 STONE RIVER ROAD UPPER STONE 4850",
+    "locID": "LOC100078002636",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161318394",
+    "ee": true,
+    "tech_change_status": "Not Planned"
    }
   },
   {
@@ -606,6 +739,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318515",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -624,6 +758,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318516",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -642,6 +777,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318517",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -660,6 +796,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318519",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -678,6 +815,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161318520",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -696,6 +834,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161368950",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -714,6 +853,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161369726",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -732,6 +872,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161663321",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -750,6 +891,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161918630",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -768,6 +910,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161918632",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -786,6 +929,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161920886",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -804,6 +948,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161966938",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -822,6 +967,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162080685",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -840,6 +986,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162080686",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -858,6 +1005,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162088983",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -876,6 +1024,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162088984",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -894,6 +1043,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162095211",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -912,6 +1062,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162211482",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -930,6 +1081,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162217569",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -950,6 +1102,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162217571",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -970,6 +1123,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162218729",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -988,6 +1142,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162222623",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1006,6 +1161,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162222626",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1024,6 +1180,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162312531",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1042,6 +1199,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162528912",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1060,6 +1218,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162528913",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1078,6 +1237,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162528914",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1096,6 +1256,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162620746",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1114,6 +1275,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162665153",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1132,6 +1294,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162734959",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1150,6 +1313,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162736570",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1168,6 +1332,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162736572",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1186,6 +1351,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162850768",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1204,6 +1370,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163098979",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1222,6 +1389,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163098981",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1240,6 +1408,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163098982",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1258,6 +1427,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163146377",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1276,6 +1446,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163146378",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1294,6 +1465,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163146379",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1312,6 +1484,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163254152",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1330,6 +1503,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163298925",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1348,6 +1522,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163302648",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1366,6 +1541,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163319072",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1384,6 +1560,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163319073",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1402,6 +1579,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163369282",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1420,6 +1598,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163369283",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1438,6 +1617,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163374693",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1456,6 +1636,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425052465",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1474,6 +1655,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425697178",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1492,6 +1674,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425697331",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1510,6 +1693,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425698933",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1530,6 +1714,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425698935",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1550,6 +1735,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425699687",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1568,6 +1754,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425699761",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1586,6 +1773,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425700202",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1604,6 +1792,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425701361",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1622,6 +1811,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425701365",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1640,6 +1830,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719963128",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1658,6 +1849,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720375071",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1678,6 +1870,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720379709",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1696,6 +1889,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720944619",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }

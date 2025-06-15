@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T11:30:03.270117",
+ "generated": "2025-06-15T04:36:29.412119",
  "suburb": "WALMUL",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155056072",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158814503",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158817079",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +75,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161088601",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -92,6 +96,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161680783",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -110,6 +115,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161948429",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -128,6 +134,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163124234",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -146,6 +153,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163124235",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.37269471,
+     -23.72625291
+    ]
+   },
+   "properties": {
+    "name": "114 HEMPSEEDS ROAD WALMUL 4714",
+    "locID": "LOC000148356605",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD424857971",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -164,6 +191,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD424857972",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -182,6 +210,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425122627",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -200,6 +229,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721559613",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -218,6 +248,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721561027",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }
