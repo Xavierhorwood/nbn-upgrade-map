@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T15:50:56.869939",
+ "generated": "2025-06-15T08:10:39.942603",
  "suburb": "ALTONA",
  "features": [
   {
@@ -17,7 +17,8 @@
     "locID": "LOC000095262296",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423413554"
+    "gnaf_pid": "GASA_423413554",
+    "ee": true
    }
   },
   {
@@ -35,6 +36,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413555",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -53,7 +55,29 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413556",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.90789205,
+     -34.59029453
+    ]
+   },
+   "properties": {
+    "name": "124 ALTONA ROAD ALTONA 5351",
+    "locID": "LOC000148243037",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_423413557",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -71,6 +95,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413558",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -89,6 +114,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413559",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -107,6 +133,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413560",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -125,6 +152,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413561",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -143,6 +171,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413562",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -161,6 +190,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413563",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -179,6 +209,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413564",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -197,6 +228,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413565",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -212,10 +244,10 @@
    "properties": {
     "name": "172 ALTONA ROAD ALTONA 5351",
     "locID": "LOC000007560313",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_423413566",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -233,6 +265,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413569",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -251,6 +284,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413570",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -269,6 +303,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413571",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -287,6 +322,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413572",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -304,7 +340,8 @@
     "locID": "LOC000064891466",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423413573"
+    "gnaf_pid": "GASA_423413573",
+    "ee": true
    }
   },
   {
@@ -321,7 +358,8 @@
     "locID": "LOC000085924683",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423413574"
+    "gnaf_pid": "GASA_423413574",
+    "ee": true
    }
   },
   {
@@ -338,7 +376,8 @@
     "locID": "LOC000052900437",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423413575"
+    "gnaf_pid": "GASA_423413575",
+    "ee": true
    }
   },
   {
@@ -355,7 +394,8 @@
     "locID": "LOC000021783145",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423413576"
+    "gnaf_pid": "GASA_423413576",
+    "ee": true
    }
   },
   {
@@ -372,7 +412,8 @@
     "locID": "LOC000050002104",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423413577"
+    "gnaf_pid": "GASA_423413577",
+    "ee": true
    }
   },
   {
@@ -389,7 +430,8 @@
     "locID": "LOC000041210146",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423413578"
+    "gnaf_pid": "GASA_423413578",
+    "ee": true
    }
   },
   {
@@ -406,7 +448,8 @@
     "locID": "LOC000050864245",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423413579"
+    "gnaf_pid": "GASA_423413579",
+    "ee": true
    }
   },
   {
@@ -424,6 +467,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413580",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -442,6 +486,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413581",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -460,6 +505,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423413582",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -478,6 +524,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423416542",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -496,6 +543,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423416543",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -514,6 +562,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423416544",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -532,6 +581,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423416545",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -550,6 +600,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423416547",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -568,6 +619,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423420783",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -586,6 +638,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423420784",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -604,6 +657,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423420785",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -621,7 +675,8 @@
     "locID": "LOC000072061907",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423420786"
+    "gnaf_pid": "GASA_423420786",
+    "ee": true
    }
   },
   {
@@ -639,6 +694,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423420787",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -656,7 +712,8 @@
     "locID": "LOC000048642223",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423420788"
+    "gnaf_pid": "GASA_423420788",
+    "ee": true
    }
   },
   {
@@ -674,6 +731,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423420789",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -692,6 +750,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423420790",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -709,7 +768,8 @@
     "locID": "LOC000103794790",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423420791"
+    "gnaf_pid": "GASA_423420791",
+    "ee": true
    }
   },
   {
@@ -726,7 +786,8 @@
     "locID": "LOC000052410644",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423420792"
+    "gnaf_pid": "GASA_423420792",
+    "ee": true
    }
   },
   {
@@ -743,7 +804,8 @@
     "locID": "LOC000008493124",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423779882"
+    "gnaf_pid": "GASA_423779882",
+    "ee": true
    }
   },
   {
@@ -760,7 +822,8 @@
     "locID": "LOC000021850446",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_423779883"
+    "gnaf_pid": "GASA_423779883",
+    "ee": true
    }
   },
   {
@@ -778,6 +841,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_423780890",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -796,6 +860,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424203247",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -814,6 +879,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424216939",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -834,6 +900,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424661107",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -854,6 +921,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424661108",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -874,6 +942,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424665722",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -892,6 +961,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424665723",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -912,6 +982,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424665724",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -932,6 +1003,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424665822",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -952,6 +1024,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424707065",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -970,6 +1043,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424707066",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -988,7 +1062,29 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424800236",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.90815341,
+     -34.60029773
+    ]
+   },
+   "properties": {
+    "name": "LOT 2 BAROSSA VALLEY WAY ALTONA 5351",
+    "locID": "LOC000110849854",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424800239",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -1006,6 +1102,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424800243",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1024,6 +1121,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424817232",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1042,6 +1140,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424817233",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1060,6 +1159,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424817234",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1078,6 +1178,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424817235",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1095,7 +1196,8 @@
     "locID": "LOC000116314774",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424817236"
+    "gnaf_pid": "GASA_424817236",
+    "ee": true
    }
   },
   {
@@ -1113,6 +1215,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424817237",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1133,6 +1236,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424817238",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1153,6 +1257,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424817239",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1173,6 +1278,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424817240",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1193,6 +1299,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425108345",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1213,6 +1320,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425186389",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1231,6 +1339,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425186390",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1248,7 +1357,8 @@
     "locID": "LOC100016138442",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425186391"
+    "gnaf_pid": "GASA_425186391",
+    "ee": true
    }
   },
   {
@@ -1266,6 +1376,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_425352661",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1283,7 +1394,8 @@
     "locID": "LOC000184879147",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425352662"
+    "gnaf_pid": "GASA_425352662",
+    "ee": true
    }
   },
   {
@@ -1300,7 +1412,29 @@
     "locID": "LOC000051119742",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_425357725"
+    "gnaf_pid": "GASA_425357725",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.94404923,
+     -34.61920868
+    ]
+   },
+   "properties": {
+    "name": "146 TRIAL HILL ROAD ALTONA 5351",
+    "locID": "LOC000088859318",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_425715376",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -1318,6 +1452,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_718983780",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1336,6 +1471,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719775647",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1356,6 +1492,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719778988",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"

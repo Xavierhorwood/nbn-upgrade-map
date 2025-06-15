@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T16:47:50.260050",
+ "generated": "2025-06-15T08:53:28.810078",
  "suburb": "BELALIE EAST",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424058596",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -38,9 +39,29 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424214030",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6542409,
+     -33.29502397
+    ]
+   },
+   "properties": {
+    "name": "LOT 3 BELALIE EAST ROAD BELALIE EAST 5491",
+    "locID": "LOC000131316403",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424289294",
+    "ee": true,
+    "tech_change_status": "Not Planned"
    }
   },
   {
@@ -58,6 +79,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424290517",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -76,6 +98,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424290518",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -94,6 +117,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424290519",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -112,6 +136,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424290521",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -130,6 +155,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424335354",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -150,6 +176,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424340841",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -168,6 +195,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424520131",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -188,6 +216,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425105425",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -206,6 +235,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425105428",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -226,6 +256,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425105690",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -244,6 +275,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425108032",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -262,6 +294,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425108033",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -280,6 +313,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425108034",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -298,6 +332,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425108613",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -316,6 +351,49 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425108614",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.70735453,
+     -33.21795426
+    ]
+   },
+   "properties": {
+    "name": "722 JAMESTOWN-WHYTE YARCOWIE ROAD BELALIE EAST 5491",
+    "locID": "LOC100078656856",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_425108615",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.71211471,
+     -33.21828189
+    ]
+   },
+   "properties": {
+    "name": "766 JAMESTOWN-WHYTE YARCOWIE ROAD BELALIE EAST 5491",
+    "locID": "LOC100078656873",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_425108616",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -336,6 +414,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425108813",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -354,6 +433,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425112518",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -374,6 +454,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425113187",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -394,6 +475,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GASA_425113390",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -414,6 +496,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425113391",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -434,6 +517,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425113392",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -452,6 +536,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425113393",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -472,6 +557,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425113394",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -490,6 +576,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425113395",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -508,6 +595,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425113396",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -526,6 +614,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425113397",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -544,6 +633,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425113398",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -562,6 +652,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425113399",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -580,6 +671,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425113400",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -598,6 +690,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425113402",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -616,6 +709,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187692",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -634,6 +728,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425629301",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -652,6 +747,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425630728",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -670,6 +766,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425802307",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -688,6 +785,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425845487",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -708,6 +806,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425848859",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -728,6 +827,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425848860",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -748,6 +848,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425849526",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -766,6 +867,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720491742",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.732808,
+     -33.239389
+    ]
+   },
+   "properties": {
+    "name": "315 WATERSHED ROAD BELALIE EAST 5491",
+    "locID": "LOC000131316403",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_720588167",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }
