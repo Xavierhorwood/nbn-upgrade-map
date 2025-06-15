@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T22:07:52.644675",
+ "generated": "2025-06-15T13:10:43.441103",
  "suburb": "FARINA",
  "features": [
   {
@@ -17,7 +17,8 @@
     "locID": "LOC000012874631",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424210981"
+    "gnaf_pid": "GASA_424210981",
+    "ee": true
    }
   },
   {
@@ -35,6 +36,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424210982",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -53,6 +55,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424429600",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -71,6 +74,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GASA_424429601",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply",
     "program_type": "Customer-initiated N2P MDU Complex"
    }
@@ -90,6 +94,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424429602",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -107,7 +112,8 @@
     "locID": "LOC100059620307",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GASA_424429605"
+    "gnaf_pid": "GASA_424429605",
+    "ee": true
    }
   },
   {
@@ -125,6 +131,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GASA_424429606",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -143,6 +150,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424429607",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   }
