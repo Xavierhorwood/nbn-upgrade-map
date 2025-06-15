@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T12:57:13.315422",
+ "generated": "2025-06-15T05:51:05.544859",
  "suburb": "WINDERA",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155981554",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,7 +37,10 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD157279462",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "Sep 2025"
    }
   },
   {
@@ -54,6 +58,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158874958",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +77,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158878524",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +96,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160204748",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -108,6 +115,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160205246",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -126,6 +134,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160220693",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -144,6 +153,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160220700",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -162,6 +172,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD160953104",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -180,6 +191,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161249918",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -198,6 +210,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161617373",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -216,6 +229,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161617374",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -234,6 +248,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161632236",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -252,6 +267,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161634858",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -270,6 +286,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161634859",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -288,6 +305,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161634860",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -306,6 +324,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161634861",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -324,6 +343,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161634862",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -342,6 +362,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161634863",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -360,6 +381,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161635833",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -378,6 +400,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161635834",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -396,6 +419,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161635835",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -414,6 +438,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161635837",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -432,6 +457,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161635838",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -450,6 +476,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161635839",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -468,6 +495,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161635840",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -486,6 +514,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161635842",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -504,6 +533,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161635843",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -522,6 +552,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161635844",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -540,6 +571,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161635847",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -558,6 +590,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161636269",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -576,6 +609,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161647504",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -594,6 +628,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161647505",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -612,6 +647,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161647506",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.82348701,
+     -26.07440764
+    ]
+   },
+   "properties": {
+    "name": "LOT 8 WILSONS ROAD WINDERA 4605",
+    "locID": "LOC000095164219",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD161647509",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -630,6 +685,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161705172",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -648,6 +704,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161705173",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -666,6 +723,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161705174",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -684,6 +742,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161705176",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -702,6 +761,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161705177",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -720,6 +780,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161705178",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -738,6 +799,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161705179",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -756,6 +818,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161740278",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -774,6 +837,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161740279",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -792,6 +856,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161745541",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -810,6 +875,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162284224",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -828,6 +894,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162287819",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -846,6 +913,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162295701",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -864,6 +932,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162358477",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -882,6 +951,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162736429",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -900,6 +970,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162736431",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -918,6 +989,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162825421",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -936,6 +1008,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162825422",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -954,6 +1027,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162829741",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -972,6 +1046,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162829742",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -990,6 +1065,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162829746",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1008,6 +1084,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162848680",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.84851012,
+     -25.97938596
+    ]
+   },
+   "properties": {
+    "name": "1674 MURGON - GAYNDAH ROAD WINDERA 4605",
+    "locID": "LOC000036050249",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD162969687",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1026,6 +1122,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD424847698",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1044,6 +1141,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425040250",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1062,6 +1160,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425198775",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1080,6 +1179,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719266723",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1098,6 +1198,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719566961",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1116,6 +1217,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719954437",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1134,6 +1236,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720464380",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1152,6 +1255,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720671100",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1170,6 +1274,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721145138",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1188,6 +1293,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721146410",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1206,6 +1312,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721147179",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1224,6 +1331,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721147838",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1242,6 +1350,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721147974",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1260,6 +1369,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721148224",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1278,6 +1388,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721148380",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1296,6 +1407,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721148668",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1314,6 +1426,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721149225",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1332,6 +1445,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721150946",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1350,6 +1464,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721150969",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1368,6 +1483,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721151890",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1386,6 +1502,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721189747",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1404,6 +1521,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD721393623",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }

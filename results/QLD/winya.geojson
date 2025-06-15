@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T13:08:30.463362",
+ "generated": "2025-06-15T06:03:39.931067",
  "suburb": "WINYA",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155980929",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155980930",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155980931",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -72,6 +75,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155980932",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -90,6 +94,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155980934",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -108,6 +113,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155980935",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -126,6 +132,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155980936",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -144,6 +151,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD155980937",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -162,6 +170,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155983752",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -182,6 +191,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155983753",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -202,6 +212,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155983754",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -222,6 +233,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD155983755",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -242,6 +254,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158876281",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -262,6 +275,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158876285",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -281,7 +295,8 @@
     "locID": "LOC000111914092",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD158876286"
+    "gnaf_pid": "GAQLD158876286",
+    "ee": true
    }
   },
   {
@@ -299,6 +314,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158876287",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -317,9 +333,67 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158880414",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.57520068,
+     -26.94149073
+    ]
+   },
+   "properties": {
+    "name": "5011 D'AGUILAR HIGHWAY WINYA 4515",
+    "locID": "LOC000041656257",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD158889495",
+    "ee": true,
+    "tech_change_status": "Eligible to Order"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.5727275,
+     -26.94213875
+    ]
+   },
+   "properties": {
+    "name": "5041 D'AGUILAR HIGHWAY WINYA 4515",
+    "locID": "LOC000109986782",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD158889496",
+    "ee": true,
+    "tech_change_status": "Eligible to Order"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.57335074,
+     -26.94193902
+    ]
+   },
+   "properties": {
+    "name": "5035 D'AGUILAR HIGHWAY WINYA 4515",
+    "locID": "LOC000073983682",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAQLD158889497",
+    "ee": true,
+    "tech_change_status": "Eligible to Order"
    }
   },
   {
@@ -337,6 +411,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158889500",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -355,6 +430,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158889502",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -375,6 +451,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158889503",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -395,6 +472,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158890500",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -413,6 +491,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158890502",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -431,6 +510,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158890503",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -451,6 +531,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158890505",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -471,6 +552,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158890506",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -491,6 +573,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD158890507",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -509,9 +592,28 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158895205",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.57104196,
+     -26.94283513
+    ]
+   },
+   "properties": {
+    "name": "5057 D'AGUILAR HIGHWAY WINYA 4515",
+    "locID": "LOC000035253462",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD158895347",
+    "ee": true
    }
   },
   {
@@ -528,7 +630,8 @@
     "locID": "LOC000017283056",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD158899935"
+    "gnaf_pid": "GAQLD158899935",
+    "ee": true
    }
   },
   {
@@ -546,6 +649,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158903785",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -566,6 +670,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158903788",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -586,6 +691,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD158963254",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -606,6 +712,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD158963313",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -624,6 +731,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161119361",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -644,6 +752,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161119362",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -664,6 +773,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161119370",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -684,6 +794,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161119378",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -704,6 +815,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD161119401",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -722,6 +834,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161119402",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -742,6 +855,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161119403",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -762,6 +876,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161119405",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -782,6 +897,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161198180",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -802,6 +918,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161198181",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -822,6 +939,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161198187",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -842,6 +960,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161198190",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -862,6 +981,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161245473",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -882,6 +1002,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161245474",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -902,6 +1023,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161245475",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -922,6 +1044,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161299294",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -940,6 +1063,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161299295",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -958,6 +1082,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161741981",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -976,6 +1101,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD161797206",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -994,6 +1120,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD161802073",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1014,6 +1141,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD162135584",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1034,6 +1162,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162135586",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -1052,6 +1181,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162465207",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -1070,6 +1200,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162465209",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -1088,6 +1219,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162465211",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -1106,6 +1238,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAQLD162465212",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -1124,6 +1257,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163056009",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1144,6 +1278,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163057514",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1163,7 +1298,8 @@
     "locID": "LOC000191977839",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD163057515"
+    "gnaf_pid": "GAQLD163057515",
+    "ee": true
    }
   },
   {
@@ -1181,6 +1317,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163057517",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1201,6 +1338,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163057518",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1221,6 +1359,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163057519",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1241,6 +1380,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163057520",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1261,6 +1401,28 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163058249",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.6048427,
+     -26.94147098
+    ]
+   },
+   "properties": {
+    "name": "LOT 4 NEURUM ROAD WINYA 4515",
+    "locID": "LOC000054198173",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163058401",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1281,6 +1443,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163059143",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1301,6 +1464,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163059145",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1319,6 +1483,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163059146",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1337,6 +1502,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD163060491",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1355,6 +1521,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163193977",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1375,6 +1542,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163226067",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1395,6 +1563,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163226068",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1415,6 +1584,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163356775",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1435,9 +1605,50 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163360410",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.59368217,
+     -26.93753606
+    ]
+   },
+   "properties": {
+    "name": "LOT 16 WINYA ROAD WINYA 4515",
+    "locID": "LOC000001716122",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163363947",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.59385379,
+     -26.93763263
+    ]
+   },
+   "properties": {
+    "name": "LOT 17 WINYA ROAD WINYA 4515",
+    "locID": "LOC000059727393",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163363948",
+    "ee": true,
+    "tech_change_status": "Eligible to Order"
    }
   },
   {
@@ -1455,9 +1666,48 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD163363949",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.59419706,
+     -26.93782575
+    ]
+   },
+   "properties": {
+    "name": "LOT 19 WINYA ROAD WINYA 4515",
+    "locID": "LOC000083922434",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD163363950",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.59436868,
+     -26.93792232
+    ]
+   },
+   "properties": {
+    "name": "LOT 20 WINYA ROAD WINYA 4515",
+    "locID": "LOC000019999702",
+    "tech": "FTTN",
+    "upgrade": "FTTP",
+    "gnaf_pid": "GAQLD163363951",
+    "ee": true,
+    "tech_change_status": "Eligible to Order"
    }
   },
   {
@@ -1475,6 +1725,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425148813",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1495,6 +1746,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425208063",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1515,6 +1767,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD425330907",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1535,6 +1788,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719367007",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1555,6 +1809,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719367082",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1575,6 +1830,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719367674",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1595,6 +1851,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719368285",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1615,6 +1872,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719368289",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1635,6 +1893,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719368492",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1655,6 +1914,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719368606",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1675,6 +1935,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719368684",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1695,6 +1956,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719369503",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1715,6 +1977,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719370072",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1735,6 +1998,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719370416",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1755,6 +2019,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719371205",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1775,6 +2040,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719371292",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1795,6 +2061,28 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719623030",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.59316728,
+     -26.93724637
+    ]
+   },
+   "properties": {
+    "name": "LOT 14 WINYA ROAD WINYA 4515",
+    "locID": "LOC000102991138",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD719623484",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1815,9 +2103,50 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719624390",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.59214094,
+     -26.93661632
+    ]
+   },
+   "properties": {
+    "name": "LOT 8 WINYA ROAD WINYA 4515",
+    "locID": "LOC000054814604",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD719628292",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.59265241,
+     -26.93695667
+    ]
+   },
+   "properties": {
+    "name": "LOT 11 WINYA ROAD WINYA 4515",
+    "locID": "LOC000016650032",
+    "tech": "FTTN",
+    "upgrade": "FTTP",
+    "gnaf_pid": "GAQLD719628335",
+    "ee": true,
+    "tech_change_status": "Eligible to Order"
    }
   },
   {
@@ -1835,7 +2164,29 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719629116",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.59282403,
+     -26.93705325
+    ]
+   },
+   "properties": {
+    "name": "LOT 12 WINYA ROAD WINYA 4515",
+    "locID": "LOC000128227334",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD719629672",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -1853,6 +2204,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAQLD719630032",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1871,6 +2223,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719708724",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1891,6 +2244,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719711970",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1911,6 +2265,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719711983",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1931,6 +2286,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719953424",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1951,6 +2307,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719957974",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1971,6 +2328,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD719959394",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1991,6 +2349,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAQLD720376463",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2010,7 +2369,8 @@
     "locID": "LOC000186772772",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720596542"
+    "gnaf_pid": "GAQLD720596542",
+    "ee": true
    }
   },
   {
@@ -2027,7 +2387,8 @@
     "locID": "LOC000186772803",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720663647"
+    "gnaf_pid": "GAQLD720663647",
+    "ee": true
    }
   },
   {
@@ -2044,7 +2405,8 @@
     "locID": "LOC000186772819",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720664891"
+    "gnaf_pid": "GAQLD720664891",
+    "ee": true
    }
   },
   {
@@ -2061,7 +2423,8 @@
     "locID": "LOC000186772786",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720667332"
+    "gnaf_pid": "GAQLD720667332",
+    "ee": true
    }
   },
   {
@@ -2078,7 +2441,8 @@
     "locID": "LOC000186772857",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720668023"
+    "gnaf_pid": "GAQLD720668023",
+    "ee": true
    }
   },
   {
@@ -2095,7 +2459,8 @@
     "locID": "LOC000186772793",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720671675"
+    "gnaf_pid": "GAQLD720671675",
+    "ee": true
    }
   },
   {
@@ -2112,7 +2477,8 @@
     "locID": "LOC000186772835",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720671841"
+    "gnaf_pid": "GAQLD720671841",
+    "ee": true
    }
   },
   {
@@ -2129,7 +2495,8 @@
     "locID": "LOC000186772764",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720672290"
+    "gnaf_pid": "GAQLD720672290",
+    "ee": true
    }
   },
   {
@@ -2146,7 +2513,8 @@
     "locID": "LOC000186772755",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720672459"
+    "gnaf_pid": "GAQLD720672459",
+    "ee": true
    }
   },
   {
@@ -2163,7 +2531,8 @@
     "locID": "LOC000186772826",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720673405"
+    "gnaf_pid": "GAQLD720673405",
+    "ee": true
    }
   },
   {
@@ -2180,7 +2549,8 @@
     "locID": "LOC000186772740",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720674623"
+    "gnaf_pid": "GAQLD720674623",
+    "ee": true
    }
   },
   {
@@ -2197,7 +2567,8 @@
     "locID": "LOC000186772772",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720675945"
+    "gnaf_pid": "GAQLD720675945",
+    "ee": true
    }
   },
   {
@@ -2214,7 +2585,8 @@
     "locID": "LOC000186772738",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720676348"
+    "gnaf_pid": "GAQLD720676348",
+    "ee": true
    }
   },
   {
@@ -2231,7 +2603,8 @@
     "locID": "LOC000186772842",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720677027"
+    "gnaf_pid": "GAQLD720677027",
+    "ee": true
    }
   },
   {
@@ -2248,7 +2621,8 @@
     "locID": "LOC000186772772",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720694364"
+    "gnaf_pid": "GAQLD720694364",
+    "ee": true
    }
   },
   {
@@ -2265,7 +2639,8 @@
     "locID": "LOC000187947236",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720856477"
+    "gnaf_pid": "GAQLD720856477",
+    "ee": true
    }
   },
   {
@@ -2282,7 +2657,8 @@
     "locID": "LOC000187947150",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720861681"
+    "gnaf_pid": "GAQLD720861681",
+    "ee": true
    }
   },
   {
@@ -2299,7 +2675,8 @@
     "locID": "LOC000187947204",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720862425"
+    "gnaf_pid": "GAQLD720862425",
+    "ee": true
    }
   },
   {
@@ -2316,7 +2693,8 @@
     "locID": "LOC000186772861",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720862543"
+    "gnaf_pid": "GAQLD720862543",
+    "ee": true
    }
   },
   {
@@ -2333,7 +2711,8 @@
     "locID": "LOC000187947132",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720864037"
+    "gnaf_pid": "GAQLD720864037",
+    "ee": true
    }
   },
   {
@@ -2350,7 +2729,8 @@
     "locID": "LOC000187947145",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720865315"
+    "gnaf_pid": "GAQLD720865315",
+    "ee": true
    }
   },
   {
@@ -2367,7 +2747,8 @@
     "locID": "LOC000187947178",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720866245"
+    "gnaf_pid": "GAQLD720866245",
+    "ee": true
    }
   },
   {
@@ -2384,7 +2765,8 @@
     "locID": "LOC000187947113",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720867934"
+    "gnaf_pid": "GAQLD720867934",
+    "ee": true
    }
   },
   {
@@ -2401,7 +2783,8 @@
     "locID": "LOC000187947121",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720869142"
+    "gnaf_pid": "GAQLD720869142",
+    "ee": true
    }
   },
   {
@@ -2418,7 +2801,8 @@
     "locID": "LOC000187947215",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720870049"
+    "gnaf_pid": "GAQLD720870049",
+    "ee": true
    }
   },
   {
@@ -2435,7 +2819,8 @@
     "locID": "LOC000187947099",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720872588"
+    "gnaf_pid": "GAQLD720872588",
+    "ee": true
    }
   },
   {
@@ -2452,7 +2837,8 @@
     "locID": "LOC000187947227",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720873375"
+    "gnaf_pid": "GAQLD720873375",
+    "ee": true
    }
   },
   {
@@ -2469,7 +2855,8 @@
     "locID": "LOC000187947166",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720873909"
+    "gnaf_pid": "GAQLD720873909",
+    "ee": true
    }
   },
   {
@@ -2486,7 +2873,8 @@
     "locID": "LOC000187947109",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720876150"
+    "gnaf_pid": "GAQLD720876150",
+    "ee": true
    }
   },
   {
@@ -2503,7 +2891,8 @@
     "locID": "LOC000187947184",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720876396"
+    "gnaf_pid": "GAQLD720876396",
+    "ee": true
    }
   },
   {
@@ -2520,7 +2909,8 @@
     "locID": "LOC000188996591",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720976481"
+    "gnaf_pid": "GAQLD720976481",
+    "ee": true
    }
   },
   {
@@ -2537,7 +2927,8 @@
     "locID": "LOC000188996639",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720976645"
+    "gnaf_pid": "GAQLD720976645",
+    "ee": true
    }
   },
   {
@@ -2554,7 +2945,8 @@
     "locID": "LOC000188996706",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720976885"
+    "gnaf_pid": "GAQLD720976885",
+    "ee": true
    }
   },
   {
@@ -2571,7 +2963,8 @@
     "locID": "LOC000072740418",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720977393"
+    "gnaf_pid": "GAQLD720977393",
+    "ee": true
    }
   },
   {
@@ -2588,7 +2981,8 @@
     "locID": "LOC000188996694",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720977841"
+    "gnaf_pid": "GAQLD720977841",
+    "ee": true
    }
   },
   {
@@ -2605,7 +2999,8 @@
     "locID": "LOC000188996618",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720977958"
+    "gnaf_pid": "GAQLD720977958",
+    "ee": true
    }
   },
   {
@@ -2622,7 +3017,8 @@
     "locID": "LOC000188996536",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720978327"
+    "gnaf_pid": "GAQLD720978327",
+    "ee": true
    }
   },
   {
@@ -2639,7 +3035,8 @@
     "locID": "LOC000188996660",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720978651"
+    "gnaf_pid": "GAQLD720978651",
+    "ee": true
    }
   },
   {
@@ -2656,7 +3053,8 @@
     "locID": "LOC000188996589",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720978798"
+    "gnaf_pid": "GAQLD720978798",
+    "ee": true
    }
   },
   {
@@ -2673,7 +3071,8 @@
     "locID": "LOC000188996687",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720979057"
+    "gnaf_pid": "GAQLD720979057",
+    "ee": true
    }
   },
   {
@@ -2690,7 +3089,8 @@
     "locID": "LOC000188996723",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720979130"
+    "gnaf_pid": "GAQLD720979130",
+    "ee": true
    }
   },
   {
@@ -2707,7 +3107,8 @@
     "locID": "LOC000188996515",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720979346"
+    "gnaf_pid": "GAQLD720979346",
+    "ee": true
    }
   },
   {
@@ -2724,7 +3125,8 @@
     "locID": "LOC000188996673",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720979960"
+    "gnaf_pid": "GAQLD720979960",
+    "ee": true
    }
   },
   {
@@ -2741,7 +3143,8 @@
     "locID": "LOC000188996821",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720979974"
+    "gnaf_pid": "GAQLD720979974",
+    "ee": true
    }
   },
   {
@@ -2758,7 +3161,8 @@
     "locID": "LOC000188996625",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720980019"
+    "gnaf_pid": "GAQLD720980019",
+    "ee": true
    }
   },
   {
@@ -2775,7 +3179,8 @@
     "locID": "LOC000188996656",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720980043"
+    "gnaf_pid": "GAQLD720980043",
+    "ee": true
    }
   },
   {
@@ -2792,7 +3197,8 @@
     "locID": "LOC000188996775",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720980144"
+    "gnaf_pid": "GAQLD720980144",
+    "ee": true
    }
   },
   {
@@ -2809,7 +3215,8 @@
     "locID": "LOC000188996562",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720981906"
+    "gnaf_pid": "GAQLD720981906",
+    "ee": true
    }
   },
   {
@@ -2826,7 +3233,8 @@
     "locID": "LOC000188996809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720981974"
+    "gnaf_pid": "GAQLD720981974",
+    "ee": true
    }
   },
   {
@@ -2843,7 +3251,8 @@
     "locID": "LOC000188996747",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720982252"
+    "gnaf_pid": "GAQLD720982252",
+    "ee": true
    }
   },
   {
@@ -2860,7 +3269,8 @@
     "locID": "LOC000188996710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD720982908"
+    "gnaf_pid": "GAQLD720982908",
+    "ee": true
    }
   },
   {
@@ -2877,7 +3287,8 @@
     "locID": "LOC000188996543",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721115918"
+    "gnaf_pid": "GAQLD721115918",
+    "ee": true
    }
   },
   {
@@ -2894,7 +3305,8 @@
     "locID": "LOC000190822614",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721133461"
+    "gnaf_pid": "GAQLD721133461",
+    "ee": true
    }
   },
   {
@@ -2911,7 +3323,8 @@
     "locID": "LOC000190822772",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721133462"
+    "gnaf_pid": "GAQLD721133462",
+    "ee": true
    }
   },
   {
@@ -2928,7 +3341,8 @@
     "locID": "LOC000190822740",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721133763"
+    "gnaf_pid": "GAQLD721133763",
+    "ee": true
    }
   },
   {
@@ -2945,7 +3359,8 @@
     "locID": "LOC000190822772",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721133764"
+    "gnaf_pid": "GAQLD721133764",
+    "ee": true
    }
   },
   {
@@ -2962,7 +3377,8 @@
     "locID": "LOC000190822729",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721133916"
+    "gnaf_pid": "GAQLD721133916",
+    "ee": true
    }
   },
   {
@@ -2979,7 +3395,8 @@
     "locID": "LOC000190822646",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721133917"
+    "gnaf_pid": "GAQLD721133917",
+    "ee": true
    }
   },
   {
@@ -2996,7 +3413,8 @@
     "locID": "LOC000190822717",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721133918"
+    "gnaf_pid": "GAQLD721133918",
+    "ee": true
    }
   },
   {
@@ -3013,7 +3431,8 @@
     "locID": "LOC000190822701",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721133919"
+    "gnaf_pid": "GAQLD721133919",
+    "ee": true
    }
   },
   {
@@ -3030,7 +3449,8 @@
     "locID": "LOC000190822786",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721133920"
+    "gnaf_pid": "GAQLD721133920",
+    "ee": true
    }
   },
   {
@@ -3047,7 +3467,8 @@
     "locID": "LOC000190822698",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721134149"
+    "gnaf_pid": "GAQLD721134149",
+    "ee": true
    }
   },
   {
@@ -3064,7 +3485,8 @@
     "locID": "LOC000190822633",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721134388"
+    "gnaf_pid": "GAQLD721134388",
+    "ee": true
    }
   },
   {
@@ -3081,7 +3503,8 @@
     "locID": "LOC000190822667",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721134644"
+    "gnaf_pid": "GAQLD721134644",
+    "ee": true
    }
   },
   {
@@ -3098,7 +3521,8 @@
     "locID": "LOC000190822679",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721134866"
+    "gnaf_pid": "GAQLD721134866",
+    "ee": true
    }
   },
   {
@@ -3115,7 +3539,8 @@
     "locID": "LOC000190822755",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721134867"
+    "gnaf_pid": "GAQLD721134867",
+    "ee": true
    }
   },
   {
@@ -3132,7 +3557,8 @@
     "locID": "LOC000190822764",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721134941"
+    "gnaf_pid": "GAQLD721134941",
+    "ee": true
    }
   },
   {
@@ -3149,7 +3575,8 @@
     "locID": "LOC000190822651",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721135159"
+    "gnaf_pid": "GAQLD721135159",
+    "ee": true
    }
   },
   {
@@ -3166,7 +3593,8 @@
     "locID": "LOC000190822738",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721135294"
+    "gnaf_pid": "GAQLD721135294",
+    "ee": true
    }
   },
   {
@@ -3183,7 +3611,8 @@
     "locID": "LOC000188996641",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721182772"
+    "gnaf_pid": "GAQLD721182772",
+    "ee": true
    }
   },
   {
@@ -3200,7 +3629,8 @@
     "locID": "LOC000188996602",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721183178"
+    "gnaf_pid": "GAQLD721183178",
+    "ee": true
    }
   },
   {
@@ -3217,7 +3647,8 @@
     "locID": "LOC000192912989",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721388417"
+    "gnaf_pid": "GAQLD721388417",
+    "ee": true
    }
   },
   {
@@ -3234,7 +3665,8 @@
     "locID": "LOC000192912825",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721391057"
+    "gnaf_pid": "GAQLD721391057",
+    "ee": true
    }
   },
   {
@@ -3251,7 +3683,26 @@
     "locID": "LOC000190822614",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721449966"
+    "gnaf_pid": "GAQLD721449966",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.5664175,
+     -26.92832901
+    ]
+   },
+   "properties": {
+    "name": "6 ROSELLA COURT WINYA 4515",
+    "locID": "LOC000192912894",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721514267",
+    "ee": true
    }
   },
   {
@@ -3268,7 +3719,26 @@
     "locID": "LOC000192912989",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721514348"
+    "gnaf_pid": "GAQLD721514348",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.56715922,
+     -26.9293498
+    ]
+   },
+   "properties": {
+    "name": "9 JACANA PLACE WINYA 4515",
+    "locID": "LOC000192913003",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721514349",
+    "ee": true
    }
   },
   {
@@ -3285,7 +3755,8 @@
     "locID": "LOC000192913035",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721514351"
+    "gnaf_pid": "GAQLD721514351",
+    "ee": true
    }
   },
   {
@@ -3302,7 +3773,8 @@
     "locID": "LOC000192912989",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721514937"
+    "gnaf_pid": "GAQLD721514937",
+    "ee": true
    }
   },
   {
@@ -3319,7 +3791,8 @@
     "locID": "LOC000192913035",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721514959"
+    "gnaf_pid": "GAQLD721514959",
+    "ee": true
    }
   },
   {
@@ -3336,7 +3809,8 @@
     "locID": "LOC000192913035",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721514968"
+    "gnaf_pid": "GAQLD721514968",
+    "ee": true
    }
   },
   {
@@ -3353,7 +3827,44 @@
     "locID": "LOC000192913057",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAQLD721514972"
+    "gnaf_pid": "GAQLD721514972",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.5664175,
+     -26.92832901
+    ]
+   },
+   "properties": {
+    "name": "4 ROSELLA COURT WINYA 4515",
+    "locID": "LOC000192912894",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721515203",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.56715922,
+     -26.9293498
+    ]
+   },
+   "properties": {
+    "name": "11 JACANA PLACE WINYA 4515",
+    "locID": "LOC000192913019",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD721515249",
+    "ee": true
    }
   }
  ]
