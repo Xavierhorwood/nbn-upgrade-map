@@ -1,8 +1,27 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T22:39:24.902310",
+ "generated": "2025-06-15T13:26:37.463841",
  "suburb": "FLINDERS CHASE",
  "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     136.74866446,
+     -35.86962147
+    ]
+   },
+   "properties": {
+    "name": "LOT 1 PLAYFORD HIGHWAY FLINDERS CHASE 5223",
+    "locID": "LOC100072973515",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424325643",
+    "ee": false,
+    "tech_change_status": "Not Planned"
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -18,6 +37,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424697473",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +56,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424697474",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +75,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424818308",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +94,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424818309",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +113,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424818310",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -108,6 +132,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424818311",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -126,6 +151,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_720415149",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   }
