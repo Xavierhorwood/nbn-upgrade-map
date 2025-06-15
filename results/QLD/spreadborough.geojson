@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T05:54:01.221760",
+ "generated": "2025-06-15T00:00:55.360080",
  "suburb": "SPREADBOROUGH",
  "features": [
   {
@@ -800,6 +800,24 @@
     "gnaf_pid": "GAQLD163357595",
     "tech_change_status": "Planned",
     "program_type": "On-Demand N2P SDU/MDU Simple"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.49861771,
+     -20.76890539
+    ]
+   },
+   "properties": {
+    "name": "188 DUCHESS ROAD SPREADBOROUGH 4825",
+    "locID": "LOC000002446393",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAQLD425148965",
+    "tech_change_status": "Not Planned"
    }
   },
   {

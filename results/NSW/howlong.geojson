@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T04:38:54.223942",
+ "generated": "2025-06-14T23:13:35.290918",
  "suburb": "HOWLONG",
  "features": [
   {
@@ -276,7 +276,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704973483",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -593,10 +593,10 @@
    "properties": {
     "name": "149 KENNEDY STREET HOWLONG 2643",
     "locID": "LOC000042944890",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GANSW704973520",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -1149,9 +1149,9 @@
     "name": "71 HAWKINS STREET HOWLONG 2643",
     "locID": "LOC000078873870",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP",
     "gnaf_pid": "GANSW704974211",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -5975,10 +5975,9 @@
    "properties": {
     "name": "21 VICTORIA STREET HOWLONG 2643",
     "locID": "LOC000070993173",
-    "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704985519",
-    "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -6708,10 +6707,9 @@
    "properties": {
     "name": "75 STURT STREET HOWLONG 2643",
     "locID": "LOC000053962489",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704987888",
-    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -7094,8 +7092,8 @@
    "properties": {
     "name": "125 PELL STREET HOWLONG 2643",
     "locID": "LOC000018884000",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704988430",
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
@@ -8260,10 +8258,9 @@
    "properties": {
     "name": "81 STURT STREET HOWLONG 2643",
     "locID": "LOC000022193069",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW704990486",
-    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -10777,7 +10774,7 @@
     "name": "110 TOWNSEND STREET HOWLONG 2643",
     "locID": "LOC000062982196",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP",
     "gnaf_pid": "GANSW704993710",
     "tech_change_status": "Eligible to Order"
    }
@@ -13637,9 +13634,9 @@
     "name": "119 HUME STREET HOWLONG 2643",
     "locID": "LOC000091039442",
     "tech": "FTTN",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP",
     "gnaf_pid": "GANSW712695762",
-    "tech_change_status": "Eligible to Order",
+    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -13970,10 +13967,9 @@
    "properties": {
     "name": "51 STURT STREET HOWLONG 2643",
     "locID": "LOC000159497209",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712696336",
-    "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -16581,7 +16577,7 @@
     "name": "188 KENNEDY STREET HOWLONG 2643",
     "locID": "LOC000121891916",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP",
     "gnaf_pid": "GANSW712733276",
     "tech_change_status": "Eligible to Order"
    }
@@ -16677,8 +16673,8 @@
    "properties": {
     "name": "76 RUSSELL STREET HOWLONG 2643",
     "locID": "LOC000057664999",
-    "tech": "FTTN",
-    "upgrade": "FTTP",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712735941",
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
@@ -19673,23 +19669,6 @@
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     146.63911074,
-     -35.98167782
-    ]
-   },
-   "properties": {
-    "name": "142-160 HAWKINS STREET HOWLONG 2643",
-    "locID": "LOC000121886272",
-    "tech": "FTTC",
-    "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717163398"
    }
   },
   {
@@ -24969,6 +24948,26 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.57895513,
+     -35.95750232
+    ]
+   },
+   "properties": {
+    "name": "10 HOWLONG-BALLDALE ROAD HOWLONG 2643",
+    "locID": "LOC000177565010",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718284271",
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.57869814,
      -35.9561841
     ]
@@ -27654,6 +27653,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     146.6457875,
+     -35.98333594
+    ]
+   },
+   "properties": {
+    "name": "4580 RIVERINA HIGHWAY HOWLONG 2643",
+    "locID": "LOC000159497923",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718605710",
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      146.62478823,
      -35.97151429
     ]
@@ -28059,10 +28076,10 @@
    "properties": {
     "name": "1 GILSON PLACE HOWLONG 2643",
     "locID": "LOC000159498552",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718886185",
-    "tech_change_status": "Eligible to Order"
+    "tech_change_status": "Previous Tech Disconnected"
    }
   },
   {
@@ -28275,7 +28292,7 @@
     "name": "3 GILSON PLACE HOWLONG 2643",
     "locID": "LOC000159498484",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP",
     "gnaf_pid": "GANSW718886198",
     "tech_change_status": "Eligible to Order"
    }
