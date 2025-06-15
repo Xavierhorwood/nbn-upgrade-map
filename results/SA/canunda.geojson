@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T18:57:08.145150",
+ "generated": "2025-06-15T10:35:07.861113",
  "suburb": "CANUNDA",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424160837",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424160838",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424160839",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +75,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424160840",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.11518853,
+     -37.57064946
+    ]
+   },
+   "properties": {
+    "name": "103 CAPE BUFFON DRIVE CANUNDA 5280",
+    "locID": "LOC000131206448",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_424955343",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +113,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072945",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -108,6 +132,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072946",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -126,6 +151,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425072951",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -146,6 +172,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075410",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -166,6 +193,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425075411",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -186,6 +214,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425106177",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -204,6 +233,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425106178",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -222,6 +252,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187161",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -240,6 +271,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425187162",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }

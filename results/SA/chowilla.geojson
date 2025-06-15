@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-20T19:22:58.290776",
+ "generated": "2025-06-15T10:57:57.063042",
  "suburb": "CHOWILLA",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425725811",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719778882",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_721075244",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   }
