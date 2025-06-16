@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-22T01:23:25.238180",
+ "generated": "2025-06-16T10:09:57.806124",
  "suburb": "GRANTON",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702189777",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -38,6 +39,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702189778",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -58,6 +60,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702189779",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -77,7 +80,8 @@
     "locID": "LOC000050964830",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702199074"
+    "gnaf_pid": "GATAS702199074",
+    "ee": true
    }
   },
   {
@@ -94,7 +98,8 @@
     "locID": "LOC000091446487",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702199075"
+    "gnaf_pid": "GATAS702199075",
+    "ee": true
    }
   },
   {
@@ -111,7 +116,8 @@
     "locID": "LOC000112259690",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702199076"
+    "gnaf_pid": "GATAS702199076",
+    "ee": true
    }
   },
   {
@@ -128,7 +134,8 @@
     "locID": "LOC000092311567",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702199077"
+    "gnaf_pid": "GATAS702199077",
+    "ee": true
    }
   },
   {
@@ -145,7 +152,8 @@
     "locID": "LOC000029210212",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702199078"
+    "gnaf_pid": "GATAS702199078",
+    "ee": true
    }
   },
   {
@@ -162,7 +170,8 @@
     "locID": "LOC000096690933",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702199080"
+    "gnaf_pid": "GATAS702199080",
+    "ee": true
    }
   },
   {
@@ -179,7 +188,8 @@
     "locID": "LOC000099644889",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702199081"
+    "gnaf_pid": "GATAS702199081",
+    "ee": true
    }
   },
   {
@@ -196,7 +206,8 @@
     "locID": "LOC000051020574",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702199082"
+    "gnaf_pid": "GATAS702199082",
+    "ee": true
    }
   },
   {
@@ -213,7 +224,8 @@
     "locID": "LOC000007663066",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702199083"
+    "gnaf_pid": "GATAS702199083",
+    "ee": true
    }
   },
   {
@@ -230,7 +242,8 @@
     "locID": "LOC000096453202",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702199084"
+    "gnaf_pid": "GATAS702199084",
+    "ee": true
    }
   },
   {
@@ -247,7 +260,8 @@
     "locID": "LOC000014314835",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702199085"
+    "gnaf_pid": "GATAS702199085",
+    "ee": true
    }
   },
   {
@@ -265,6 +279,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702199086",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -284,7 +299,8 @@
     "locID": "LOC000056519282",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702199087"
+    "gnaf_pid": "GATAS702199087",
+    "ee": true
    }
   },
   {
@@ -301,7 +317,8 @@
     "locID": "LOC000184858666",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702200191"
+    "gnaf_pid": "GATAS702200191",
+    "ee": true
    }
   },
   {
@@ -316,9 +333,10 @@
    "properties": {
     "name": "258 BLACK SNAKE ROAD GRANTON 7030",
     "locID": "LOC100081509071",
-    "tech": "NULL",
+    "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702200192",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -336,7 +354,8 @@
     "locID": "LOC000040413209",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202621"
+    "gnaf_pid": "GATAS702202621",
+    "ee": true
    }
   },
   {
@@ -353,7 +372,8 @@
     "locID": "LOC000008426302",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202622"
+    "gnaf_pid": "GATAS702202622",
+    "ee": true
    }
   },
   {
@@ -370,7 +390,8 @@
     "locID": "LOC000038635556",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202623"
+    "gnaf_pid": "GATAS702202623",
+    "ee": true
    }
   },
   {
@@ -387,7 +408,8 @@
     "locID": "LOC000059169458",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202638"
+    "gnaf_pid": "GATAS702202638",
+    "ee": true
    }
   },
   {
@@ -404,7 +426,8 @@
     "locID": "LOC000083312357",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202639"
+    "gnaf_pid": "GATAS702202639",
+    "ee": true
    }
   },
   {
@@ -421,7 +444,8 @@
     "locID": "LOC000011170924",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202640"
+    "gnaf_pid": "GATAS702202640",
+    "ee": true
    }
   },
   {
@@ -438,7 +462,8 @@
     "locID": "LOC000061873766",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202641"
+    "gnaf_pid": "GATAS702202641",
+    "ee": true
    }
   },
   {
@@ -455,7 +480,8 @@
     "locID": "LOC000078445001",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202642"
+    "gnaf_pid": "GATAS702202642",
+    "ee": true
    }
   },
   {
@@ -472,7 +498,8 @@
     "locID": "LOC000042719263",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202767"
+    "gnaf_pid": "GATAS702202767",
+    "ee": true
    }
   },
   {
@@ -489,7 +516,8 @@
     "locID": "LOC000040986650",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202768"
+    "gnaf_pid": "GATAS702202768",
+    "ee": true
    }
   },
   {
@@ -506,7 +534,8 @@
     "locID": "LOC000056601073",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202769"
+    "gnaf_pid": "GATAS702202769",
+    "ee": true
    }
   },
   {
@@ -523,7 +552,8 @@
     "locID": "LOC000079662316",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202770"
+    "gnaf_pid": "GATAS702202770",
+    "ee": true
    }
   },
   {
@@ -540,7 +570,8 @@
     "locID": "LOC000058333665",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202771"
+    "gnaf_pid": "GATAS702202771",
+    "ee": true
    }
   },
   {
@@ -557,7 +588,8 @@
     "locID": "LOC000050989180",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202772"
+    "gnaf_pid": "GATAS702202772",
+    "ee": true
    }
   },
   {
@@ -574,7 +606,8 @@
     "locID": "LOC000078413483",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702202773"
+    "gnaf_pid": "GATAS702202773",
+    "ee": true
    }
   },
   {
@@ -591,7 +624,8 @@
     "locID": "LOC000082007990",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702203875"
+    "gnaf_pid": "GATAS702203875",
+    "ee": true
    }
   },
   {
@@ -608,7 +642,8 @@
     "locID": "LOC000054302586",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702203876"
+    "gnaf_pid": "GATAS702203876",
+    "ee": true
    }
   },
   {
@@ -625,7 +660,8 @@
     "locID": "LOC000079613108",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702203877"
+    "gnaf_pid": "GATAS702203877",
+    "ee": true
    }
   },
   {
@@ -642,7 +678,8 @@
     "locID": "LOC000032129241",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702203878"
+    "gnaf_pid": "GATAS702203878",
+    "ee": true
    }
   },
   {
@@ -659,7 +696,8 @@
     "locID": "LOC000036132385",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702203879"
+    "gnaf_pid": "GATAS702203879",
+    "ee": true
    }
   },
   {
@@ -676,7 +714,8 @@
     "locID": "LOC000028467734",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702203880"
+    "gnaf_pid": "GATAS702203880",
+    "ee": true
    }
   },
   {
@@ -693,7 +732,8 @@
     "locID": "LOC000041286236",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702203881"
+    "gnaf_pid": "GATAS702203881",
+    "ee": true
    }
   },
   {
@@ -710,7 +750,8 @@
     "locID": "LOC000012592696",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702203882"
+    "gnaf_pid": "GATAS702203882",
+    "ee": true
    }
   },
   {
@@ -727,7 +768,8 @@
     "locID": "LOC000103236227",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702203883"
+    "gnaf_pid": "GATAS702203883",
+    "ee": true
    }
   },
   {
@@ -744,7 +786,8 @@
     "locID": "LOC000062314356",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702203884"
+    "gnaf_pid": "GATAS702203884",
+    "ee": true
    }
   },
   {
@@ -761,7 +804,8 @@
     "locID": "LOC000048545740",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702204020"
+    "gnaf_pid": "GATAS702204020",
+    "ee": true
    }
   },
   {
@@ -778,7 +822,8 @@
     "locID": "LOC000070915576",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702204021"
+    "gnaf_pid": "GATAS702204021",
+    "ee": true
    }
   },
   {
@@ -795,7 +840,8 @@
     "locID": "LOC000091371376",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702204022"
+    "gnaf_pid": "GATAS702204022",
+    "ee": true
    }
   },
   {
@@ -812,7 +858,8 @@
     "locID": "LOC000015086852",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702204068"
+    "gnaf_pid": "GATAS702204068",
+    "ee": true
    }
   },
   {
@@ -829,7 +876,8 @@
     "locID": "LOC000048255360",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702204069"
+    "gnaf_pid": "GATAS702204069",
+    "ee": true
    }
   },
   {
@@ -846,7 +894,8 @@
     "locID": "LOC000035012949",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702204071"
+    "gnaf_pid": "GATAS702204071",
+    "ee": true
    }
   },
   {
@@ -863,7 +912,8 @@
     "locID": "LOC000008359757",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702212116"
+    "gnaf_pid": "GATAS702212116",
+    "ee": true
    }
   },
   {
@@ -880,7 +930,8 @@
     "locID": "LOC000052459189",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702212117"
+    "gnaf_pid": "GATAS702212117",
+    "ee": true
    }
   },
   {
@@ -897,7 +948,8 @@
     "locID": "LOC000103828962",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702212118"
+    "gnaf_pid": "GATAS702212118",
+    "ee": true
    }
   },
   {
@@ -914,7 +966,8 @@
     "locID": "LOC000047593055",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702219148"
+    "gnaf_pid": "GATAS702219148",
+    "ee": true
    }
   },
   {
@@ -931,7 +984,8 @@
     "locID": "LOC000104703897",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702239857"
+    "gnaf_pid": "GATAS702239857",
+    "ee": true
    }
   },
   {
@@ -949,6 +1003,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702240720",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -968,7 +1023,8 @@
     "locID": "LOC000059847522",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702243163"
+    "gnaf_pid": "GATAS702243163",
+    "ee": true
    }
   },
   {
@@ -985,7 +1041,8 @@
     "locID": "LOC000025116083",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702243164"
+    "gnaf_pid": "GATAS702243164",
+    "ee": true
    }
   },
   {
@@ -1002,7 +1059,8 @@
     "locID": "LOC000025106276",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702243165"
+    "gnaf_pid": "GATAS702243165",
+    "ee": true
    }
   },
   {
@@ -1020,6 +1078,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702244619",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1039,7 +1098,8 @@
     "locID": "LOC000059881461",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702244714"
+    "gnaf_pid": "GATAS702244714",
+    "ee": true
    }
   },
   {
@@ -1056,7 +1116,8 @@
     "locID": "LOC000060216753",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245091"
+    "gnaf_pid": "GATAS702245091",
+    "ee": true
    }
   },
   {
@@ -1073,7 +1134,8 @@
     "locID": "LOC000104544442",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245092"
+    "gnaf_pid": "GATAS702245092",
+    "ee": true
    }
   },
   {
@@ -1090,7 +1152,8 @@
     "locID": "LOC000104544442",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245093"
+    "gnaf_pid": "GATAS702245093",
+    "ee": true
    }
   },
   {
@@ -1107,7 +1170,8 @@
     "locID": "LOC000104544442",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245094"
+    "gnaf_pid": "GATAS702245094",
+    "ee": true
    }
   },
   {
@@ -1124,7 +1188,8 @@
     "locID": "LOC000020184074",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245095"
+    "gnaf_pid": "GATAS702245095",
+    "ee": true
    }
   },
   {
@@ -1141,7 +1206,8 @@
     "locID": "LOC000103946312",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245096"
+    "gnaf_pid": "GATAS702245096",
+    "ee": true
    }
   },
   {
@@ -1158,7 +1224,8 @@
     "locID": "LOC000067883647",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245097"
+    "gnaf_pid": "GATAS702245097",
+    "ee": true
    }
   },
   {
@@ -1175,7 +1242,8 @@
     "locID": "LOC000052226557",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245098"
+    "gnaf_pid": "GATAS702245098",
+    "ee": true
    }
   },
   {
@@ -1192,7 +1260,8 @@
     "locID": "LOC000059083399",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245099"
+    "gnaf_pid": "GATAS702245099",
+    "ee": true
    }
   },
   {
@@ -1209,7 +1278,8 @@
     "locID": "LOC000019274494",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245100"
+    "gnaf_pid": "GATAS702245100",
+    "ee": true
    }
   },
   {
@@ -1226,7 +1296,8 @@
     "locID": "LOC000052345357",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245101"
+    "gnaf_pid": "GATAS702245101",
+    "ee": true
    }
   },
   {
@@ -1243,7 +1314,8 @@
     "locID": "LOC000073936130",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245102"
+    "gnaf_pid": "GATAS702245102",
+    "ee": true
    }
   },
   {
@@ -1260,7 +1332,8 @@
     "locID": "LOC000034226294",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245103"
+    "gnaf_pid": "GATAS702245103",
+    "ee": true
    }
   },
   {
@@ -1277,7 +1350,8 @@
     "locID": "LOC000050301746",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245104"
+    "gnaf_pid": "GATAS702245104",
+    "ee": true
    }
   },
   {
@@ -1295,6 +1369,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702245149",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1314,7 +1389,8 @@
     "locID": "LOC000098260901",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702245182"
+    "gnaf_pid": "GATAS702245182",
+    "ee": true
    }
   },
   {
@@ -1331,7 +1407,8 @@
     "locID": "LOC000065816431",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702247721"
+    "gnaf_pid": "GATAS702247721",
+    "ee": true
    }
   },
   {
@@ -1348,7 +1425,8 @@
     "locID": "LOC000066962264",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702247722"
+    "gnaf_pid": "GATAS702247722",
+    "ee": true
    }
   },
   {
@@ -1366,6 +1444,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702248283",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1386,6 +1465,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702248284",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1406,6 +1486,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702248285",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1426,6 +1507,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GATAS702248286",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1446,6 +1528,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702248287",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1466,6 +1549,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702248288",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1486,6 +1570,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702248289",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1506,6 +1591,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702248292",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1526,6 +1612,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702248294",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1546,6 +1633,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702248296",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1565,7 +1653,8 @@
     "locID": "LOC000059772035",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702248534"
+    "gnaf_pid": "GATAS702248534",
+    "ee": true
    }
   },
   {
@@ -1582,7 +1671,8 @@
     "locID": "LOC000040520244",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702248535"
+    "gnaf_pid": "GATAS702248535",
+    "ee": true
    }
   },
   {
@@ -1599,7 +1689,8 @@
     "locID": "LOC000040633534",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702248536"
+    "gnaf_pid": "GATAS702248536",
+    "ee": true
    }
   },
   {
@@ -1617,6 +1708,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702248981",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1636,7 +1728,8 @@
     "locID": "LOC000006800089",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702249503"
+    "gnaf_pid": "GATAS702249503",
+    "ee": true
    }
   },
   {
@@ -1653,7 +1746,8 @@
     "locID": "LOC000030013695",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702249504"
+    "gnaf_pid": "GATAS702249504",
+    "ee": true
    }
   },
   {
@@ -1670,7 +1764,8 @@
     "locID": "LOC000049705145",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702251098"
+    "gnaf_pid": "GATAS702251098",
+    "ee": true
    }
   },
   {
@@ -1687,7 +1782,8 @@
     "locID": "LOC000024144967",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702251099"
+    "gnaf_pid": "GATAS702251099",
+    "ee": true
    }
   },
   {
@@ -1704,7 +1800,8 @@
     "locID": "LOC000103337062",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702251100"
+    "gnaf_pid": "GATAS702251100",
+    "ee": true
    }
   },
   {
@@ -1721,7 +1818,8 @@
     "locID": "LOC000021775997",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702251101"
+    "gnaf_pid": "GATAS702251101",
+    "ee": true
    }
   },
   {
@@ -1738,7 +1836,8 @@
     "locID": "LOC000046867550",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702251102"
+    "gnaf_pid": "GATAS702251102",
+    "ee": true
    }
   },
   {
@@ -1755,7 +1854,8 @@
     "locID": "LOC000001873487",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702258578"
+    "gnaf_pid": "GATAS702258578",
+    "ee": true
    }
   },
   {
@@ -1772,7 +1872,8 @@
     "locID": "LOC000057285374",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702258579"
+    "gnaf_pid": "GATAS702258579",
+    "ee": true
    }
   },
   {
@@ -1789,7 +1890,8 @@
     "locID": "LOC000059901460",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702258580"
+    "gnaf_pid": "GATAS702258580",
+    "ee": true
    }
   },
   {
@@ -1806,7 +1908,8 @@
     "locID": "LOC000081424032",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702258581"
+    "gnaf_pid": "GATAS702258581",
+    "ee": true
    }
   },
   {
@@ -1823,7 +1926,8 @@
     "locID": "LOC000058917854",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702258582"
+    "gnaf_pid": "GATAS702258582",
+    "ee": true
    }
   },
   {
@@ -1840,7 +1944,8 @@
     "locID": "LOC000067138244",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702258583"
+    "gnaf_pid": "GATAS702258583",
+    "ee": true
    }
   },
   {
@@ -1857,7 +1962,8 @@
     "locID": "LOC000090873655",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702259022"
+    "gnaf_pid": "GATAS702259022",
+    "ee": true
    }
   },
   {
@@ -1874,7 +1980,8 @@
     "locID": "LOC000078134264",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702259023"
+    "gnaf_pid": "GATAS702259023",
+    "ee": true
    }
   },
   {
@@ -1891,7 +1998,8 @@
     "locID": "LOC000103690359",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702259024"
+    "gnaf_pid": "GATAS702259024",
+    "ee": true
    }
   },
   {
@@ -1908,7 +2016,8 @@
     "locID": "LOC000002670415",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702260587"
+    "gnaf_pid": "GATAS702260587",
+    "ee": true
    }
   },
   {
@@ -1925,7 +2034,8 @@
     "locID": "LOC000022439924",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702260588"
+    "gnaf_pid": "GATAS702260588",
+    "ee": true
    }
   },
   {
@@ -1942,7 +2052,8 @@
     "locID": "LOC000102703416",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702260589"
+    "gnaf_pid": "GATAS702260589",
+    "ee": true
    }
   },
   {
@@ -1959,7 +2070,8 @@
     "locID": "LOC000066007025",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702260590"
+    "gnaf_pid": "GATAS702260590",
+    "ee": true
    }
   },
   {
@@ -1976,7 +2088,8 @@
     "locID": "LOC000041245724",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702260591"
+    "gnaf_pid": "GATAS702260591",
+    "ee": true
    }
   },
   {
@@ -1993,7 +2106,8 @@
     "locID": "LOC000079449365",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702261204"
+    "gnaf_pid": "GATAS702261204",
+    "ee": true
    }
   },
   {
@@ -2010,7 +2124,8 @@
     "locID": "LOC000026665338",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702261205"
+    "gnaf_pid": "GATAS702261205",
+    "ee": true
    }
   },
   {
@@ -2027,7 +2142,8 @@
     "locID": "LOC000102897310",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702261206"
+    "gnaf_pid": "GATAS702261206",
+    "ee": true
    }
   },
   {
@@ -2044,7 +2160,8 @@
     "locID": "LOC000026233283",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702261207"
+    "gnaf_pid": "GATAS702261207",
+    "ee": true
    }
   },
   {
@@ -2061,7 +2178,8 @@
     "locID": "LOC000028423059",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702261208"
+    "gnaf_pid": "GATAS702261208",
+    "ee": true
    }
   },
   {
@@ -2078,7 +2196,8 @@
     "locID": "LOC000002738075",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702261340"
+    "gnaf_pid": "GATAS702261340",
+    "ee": true
    }
   },
   {
@@ -2095,7 +2214,8 @@
     "locID": "LOC000006271240",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702261341"
+    "gnaf_pid": "GATAS702261341",
+    "ee": true
    }
   },
   {
@@ -2112,7 +2232,8 @@
     "locID": "LOC000082152838",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702262449"
+    "gnaf_pid": "GATAS702262449",
+    "ee": true
    }
   },
   {
@@ -2129,7 +2250,8 @@
     "locID": "LOC000079079211",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702262450"
+    "gnaf_pid": "GATAS702262450",
+    "ee": true
    }
   },
   {
@@ -2146,7 +2268,8 @@
     "locID": "LOC000061732599",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702262451"
+    "gnaf_pid": "GATAS702262451",
+    "ee": true
    }
   },
   {
@@ -2163,7 +2286,8 @@
     "locID": "LOC000056561477",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702262452"
+    "gnaf_pid": "GATAS702262452",
+    "ee": true
    }
   },
   {
@@ -2180,7 +2304,8 @@
     "locID": "LOC000030020345",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702262453"
+    "gnaf_pid": "GATAS702262453",
+    "ee": true
    }
   },
   {
@@ -2197,7 +2322,8 @@
     "locID": "LOC000041485076",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702262454"
+    "gnaf_pid": "GATAS702262454",
+    "ee": true
    }
   },
   {
@@ -2214,7 +2340,8 @@
     "locID": "LOC000032649487",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702262455"
+    "gnaf_pid": "GATAS702262455",
+    "ee": true
    }
   },
   {
@@ -2231,7 +2358,8 @@
     "locID": "LOC000039483004",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702262456"
+    "gnaf_pid": "GATAS702262456",
+    "ee": true
    }
   },
   {
@@ -2248,7 +2376,8 @@
     "locID": "LOC000008439719",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702263680"
+    "gnaf_pid": "GATAS702263680",
+    "ee": true
    }
   },
   {
@@ -2265,7 +2394,8 @@
     "locID": "LOC000060919811",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702264570"
+    "gnaf_pid": "GATAS702264570",
+    "ee": true
    }
   },
   {
@@ -2282,7 +2412,8 @@
     "locID": "LOC000096868186",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702264572"
+    "gnaf_pid": "GATAS702264572",
+    "ee": true
    }
   },
   {
@@ -2299,7 +2430,8 @@
     "locID": "LOC000021754621",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702264573"
+    "gnaf_pid": "GATAS702264573",
+    "ee": true
    }
   },
   {
@@ -2316,7 +2448,8 @@
     "locID": "LOC000025094700",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702264642"
+    "gnaf_pid": "GATAS702264642",
+    "ee": true
    }
   },
   {
@@ -2333,7 +2466,8 @@
     "locID": "LOC000103170810",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702264643"
+    "gnaf_pid": "GATAS702264643",
+    "ee": true
    }
   },
   {
@@ -2350,7 +2484,8 @@
     "locID": "LOC000040794405",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702264644"
+    "gnaf_pid": "GATAS702264644",
+    "ee": true
    }
   },
   {
@@ -2367,7 +2502,8 @@
     "locID": "LOC000022618845",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702264645"
+    "gnaf_pid": "GATAS702264645",
+    "ee": true
    }
   },
   {
@@ -2384,7 +2520,8 @@
     "locID": "LOC000009266248",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702264646"
+    "gnaf_pid": "GATAS702264646",
+    "ee": true
    }
   },
   {
@@ -2401,7 +2538,8 @@
     "locID": "LOC000028463795",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702264647"
+    "gnaf_pid": "GATAS702264647",
+    "ee": true
    }
   },
   {
@@ -2418,7 +2556,8 @@
     "locID": "LOC000078300347",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702264648"
+    "gnaf_pid": "GATAS702264648",
+    "ee": true
    }
   },
   {
@@ -2435,7 +2574,8 @@
     "locID": "LOC000096527911",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702264649"
+    "gnaf_pid": "GATAS702264649",
+    "ee": true
    }
   },
   {
@@ -2452,7 +2592,8 @@
     "locID": "LOC000085949006",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702264650"
+    "gnaf_pid": "GATAS702264650",
+    "ee": true
    }
   },
   {
@@ -2469,7 +2610,8 @@
     "locID": "LOC000082467015",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271594"
+    "gnaf_pid": "GATAS702271594",
+    "ee": true
    }
   },
   {
@@ -2486,7 +2628,8 @@
     "locID": "LOC000028426904",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271595"
+    "gnaf_pid": "GATAS702271595",
+    "ee": true
    }
   },
   {
@@ -2503,7 +2646,8 @@
     "locID": "LOC000066313687",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271596"
+    "gnaf_pid": "GATAS702271596",
+    "ee": true
    }
   },
   {
@@ -2520,7 +2664,8 @@
     "locID": "LOC000047566313",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271597"
+    "gnaf_pid": "GATAS702271597",
+    "ee": true
    }
   },
   {
@@ -2537,7 +2682,8 @@
     "locID": "LOC000001836865",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271598"
+    "gnaf_pid": "GATAS702271598",
+    "ee": true
    }
   },
   {
@@ -2554,7 +2700,8 @@
     "locID": "LOC000015935958",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271599"
+    "gnaf_pid": "GATAS702271599",
+    "ee": true
    }
   },
   {
@@ -2571,7 +2718,8 @@
     "locID": "LOC000039571100",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271600"
+    "gnaf_pid": "GATAS702271600",
+    "ee": true
    }
   },
   {
@@ -2588,7 +2736,8 @@
     "locID": "LOC000031970499",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271601"
+    "gnaf_pid": "GATAS702271601",
+    "ee": true
    }
   },
   {
@@ -2605,7 +2754,8 @@
     "locID": "LOC000026241470",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271602"
+    "gnaf_pid": "GATAS702271602",
+    "ee": true
    }
   },
   {
@@ -2622,7 +2772,8 @@
     "locID": "LOC000052950241",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271603"
+    "gnaf_pid": "GATAS702271603",
+    "ee": true
    }
   },
   {
@@ -2639,7 +2790,8 @@
     "locID": "LOC000060733696",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271604"
+    "gnaf_pid": "GATAS702271604",
+    "ee": true
    }
   },
   {
@@ -2656,7 +2808,8 @@
     "locID": "LOC000009353923",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271605"
+    "gnaf_pid": "GATAS702271605",
+    "ee": true
    }
   },
   {
@@ -2673,7 +2826,8 @@
     "locID": "LOC000104748626",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271606"
+    "gnaf_pid": "GATAS702271606",
+    "ee": true
    }
   },
   {
@@ -2690,7 +2844,8 @@
     "locID": "LOC000104506315",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271607"
+    "gnaf_pid": "GATAS702271607",
+    "ee": true
    }
   },
   {
@@ -2707,7 +2862,8 @@
     "locID": "LOC000098450015",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271608"
+    "gnaf_pid": "GATAS702271608",
+    "ee": true
    }
   },
   {
@@ -2724,7 +2880,8 @@
     "locID": "LOC000005077787",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271609"
+    "gnaf_pid": "GATAS702271609",
+    "ee": true
    }
   },
   {
@@ -2741,7 +2898,8 @@
     "locID": "LOC000059814629",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702271610"
+    "gnaf_pid": "GATAS702271610",
+    "ee": true
    }
   },
   {
@@ -2758,7 +2916,8 @@
     "locID": "LOC000072033531",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702279321"
+    "gnaf_pid": "GATAS702279321",
+    "ee": true
    }
   },
   {
@@ -2776,6 +2935,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702280608",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2795,7 +2955,8 @@
     "locID": "LOC000098066235",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702280816"
+    "gnaf_pid": "GATAS702280816",
+    "ee": true
    }
   },
   {
@@ -2812,7 +2973,8 @@
     "locID": "LOC000059366967",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702280949"
+    "gnaf_pid": "GATAS702280949",
+    "ee": true
    }
   },
   {
@@ -2829,7 +2991,8 @@
     "locID": "LOC000066773599",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702280950"
+    "gnaf_pid": "GATAS702280950",
+    "ee": true
    }
   },
   {
@@ -2846,7 +3009,8 @@
     "locID": "LOC000009364193",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702280966"
+    "gnaf_pid": "GATAS702280966",
+    "ee": true
    }
   },
   {
@@ -2863,7 +3027,8 @@
     "locID": "LOC000106017797",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702281625"
+    "gnaf_pid": "GATAS702281625",
+    "ee": true
    }
   },
   {
@@ -2880,7 +3045,8 @@
     "locID": "LOC000023409627",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702283220"
+    "gnaf_pid": "GATAS702283220",
+    "ee": true
    }
   },
   {
@@ -2897,7 +3063,8 @@
     "locID": "LOC000025074642",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702284197"
+    "gnaf_pid": "GATAS702284197",
+    "ee": true
    }
   },
   {
@@ -2914,7 +3081,8 @@
     "locID": "LOC000080045538",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702284418"
+    "gnaf_pid": "GATAS702284418",
+    "ee": true
    }
   },
   {
@@ -2931,7 +3099,8 @@
     "locID": "LOC000031955199",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702284481"
+    "gnaf_pid": "GATAS702284481",
+    "ee": true
    }
   },
   {
@@ -2948,7 +3117,8 @@
     "locID": "LOC000031936576",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702284482"
+    "gnaf_pid": "GATAS702284482",
+    "ee": true
    }
   },
   {
@@ -2965,7 +3135,8 @@
     "locID": "LOC000068174208",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702285070"
+    "gnaf_pid": "GATAS702285070",
+    "ee": true
    }
   },
   {
@@ -2983,6 +3154,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702285242",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3002,7 +3174,8 @@
     "locID": "LOC000133586529",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702285296"
+    "gnaf_pid": "GATAS702285296",
+    "ee": true
    }
   },
   {
@@ -3019,7 +3192,8 @@
     "locID": "LOC000087764322",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702285343"
+    "gnaf_pid": "GATAS702285343",
+    "ee": true
    }
   },
   {
@@ -3036,7 +3210,8 @@
     "locID": "LOC000067881893",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702286127"
+    "gnaf_pid": "GATAS702286127",
+    "ee": true
    }
   },
   {
@@ -3053,7 +3228,8 @@
     "locID": "LOC000088599490",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702286128"
+    "gnaf_pid": "GATAS702286128",
+    "ee": true
    }
   },
   {
@@ -3070,7 +3246,8 @@
     "locID": "LOC000093883571",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702286129"
+    "gnaf_pid": "GATAS702286129",
+    "ee": true
    }
   },
   {
@@ -3087,7 +3264,8 @@
     "locID": "LOC000072109539",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702286131"
+    "gnaf_pid": "GATAS702286131",
+    "ee": true
    }
   },
   {
@@ -3104,7 +3282,8 @@
     "locID": "LOC000026260168",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702286132"
+    "gnaf_pid": "GATAS702286132",
+    "ee": true
    }
   },
   {
@@ -3121,7 +3300,8 @@
     "locID": "LOC000075961964",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702286133"
+    "gnaf_pid": "GATAS702286133",
+    "ee": true
    }
   },
   {
@@ -3138,7 +3318,8 @@
     "locID": "LOC000072716935",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702286140"
+    "gnaf_pid": "GATAS702286140",
+    "ee": true
    }
   },
   {
@@ -3155,7 +3336,8 @@
     "locID": "LOC000066595201",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702286148"
+    "gnaf_pid": "GATAS702286148",
+    "ee": true
    }
   },
   {
@@ -3173,6 +3355,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702286818",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3193,6 +3376,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702286820",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3212,7 +3396,8 @@
     "locID": "LOC000005145793",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702286971"
+    "gnaf_pid": "GATAS702286971",
+    "ee": true
    }
   },
   {
@@ -3230,6 +3415,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702287653",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3250,6 +3436,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702287655",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3270,6 +3457,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702288015",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3290,6 +3478,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702288017",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3309,7 +3498,8 @@
     "locID": "LOC000085937033",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702288521"
+    "gnaf_pid": "GATAS702288521",
+    "ee": true
    }
   },
   {
@@ -3326,7 +3516,8 @@
     "locID": "LOC000024204441",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702288661"
+    "gnaf_pid": "GATAS702288661",
+    "ee": true
    }
   },
   {
@@ -3344,6 +3535,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702289251",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3364,6 +3556,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702289256",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3384,6 +3577,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702289259",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3404,6 +3598,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702289441",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3424,6 +3619,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702289716",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3444,6 +3640,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702289717",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3464,6 +3661,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702290308",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3483,7 +3681,8 @@
     "locID": "LOC000022674010",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702290426"
+    "gnaf_pid": "GATAS702290426",
+    "ee": true
    }
   },
   {
@@ -3501,6 +3700,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702290458",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3521,6 +3721,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702290459",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3540,7 +3741,8 @@
     "locID": "LOC000071229454",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702290677"
+    "gnaf_pid": "GATAS702290677",
+    "ee": true
    }
   },
   {
@@ -3558,6 +3760,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702290703",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3578,6 +3781,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702290712",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3598,6 +3802,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702290715",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3617,7 +3822,8 @@
     "locID": "LOC000035022993",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702291545"
+    "gnaf_pid": "GATAS702291545",
+    "ee": true
    }
   },
   {
@@ -3634,7 +3840,8 @@
     "locID": "LOC000170152355",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702291546"
+    "gnaf_pid": "GATAS702291546",
+    "ee": true
    }
   },
   {
@@ -3652,6 +3859,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702292054",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3672,6 +3880,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702292057",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3691,7 +3900,8 @@
     "locID": "LOC000080282491",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702292378"
+    "gnaf_pid": "GATAS702292378",
+    "ee": true
    }
   },
   {
@@ -3708,7 +3918,8 @@
     "locID": "LOC000032437630",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702292379"
+    "gnaf_pid": "GATAS702292379",
+    "ee": true
    }
   },
   {
@@ -3725,7 +3936,8 @@
     "locID": "LOC000057447770",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702292613"
+    "gnaf_pid": "GATAS702292613",
+    "ee": true
    }
   },
   {
@@ -3743,6 +3955,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702293235",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3763,6 +3976,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702293236",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3783,6 +3997,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702293237",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3803,6 +4018,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702293239",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3823,6 +4039,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702293240",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3842,7 +4059,8 @@
     "locID": "LOC000103849009",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702296623"
+    "gnaf_pid": "GATAS702296623",
+    "ee": true
    }
   },
   {
@@ -3860,6 +4078,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702296650",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3880,6 +4099,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702296651",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3900,6 +4120,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702296652",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3919,7 +4140,8 @@
     "locID": "LOC000032462113",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702297095"
+    "gnaf_pid": "GATAS702297095",
+    "ee": true
    }
   },
   {
@@ -3936,7 +4158,8 @@
     "locID": "LOC000097196541",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702297096"
+    "gnaf_pid": "GATAS702297096",
+    "ee": true
    }
   },
   {
@@ -3953,7 +4176,8 @@
     "locID": "LOC000091579663",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702298417"
+    "gnaf_pid": "GATAS702298417",
+    "ee": true
    }
   },
   {
@@ -3970,7 +4194,8 @@
     "locID": "LOC000002611319",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702298473"
+    "gnaf_pid": "GATAS702298473",
+    "ee": true
    }
   },
   {
@@ -3987,7 +4212,8 @@
     "locID": "LOC000008525342",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702298474"
+    "gnaf_pid": "GATAS702298474",
+    "ee": true
    }
   },
   {
@@ -4004,7 +4230,8 @@
     "locID": "LOC000047721960",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702298475"
+    "gnaf_pid": "GATAS702298475",
+    "ee": true
    }
   },
   {
@@ -4021,7 +4248,8 @@
     "locID": "LOC000060600066",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702298476"
+    "gnaf_pid": "GATAS702298476",
+    "ee": true
    }
   },
   {
@@ -4038,7 +4266,8 @@
     "locID": "LOC000067322928",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702298477"
+    "gnaf_pid": "GATAS702298477",
+    "ee": true
    }
   },
   {
@@ -4055,7 +4284,8 @@
     "locID": "LOC000099636098",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702298478"
+    "gnaf_pid": "GATAS702298478",
+    "ee": true
    }
   },
   {
@@ -4072,7 +4302,8 @@
     "locID": "LOC000060513939",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702298479"
+    "gnaf_pid": "GATAS702298479",
+    "ee": true
    }
   },
   {
@@ -4089,7 +4320,8 @@
     "locID": "LOC000066133684",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702298480"
+    "gnaf_pid": "GATAS702298480",
+    "ee": true
    }
   },
   {
@@ -4106,7 +4338,8 @@
     "locID": "LOC000006300620",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702298481"
+    "gnaf_pid": "GATAS702298481",
+    "ee": true
    }
   },
   {
@@ -4123,7 +4356,8 @@
     "locID": "LOC000093065611",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702298893"
+    "gnaf_pid": "GATAS702298893",
+    "ee": true
    }
   },
   {
@@ -4140,7 +4374,8 @@
     "locID": "LOC000039583368",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702301169"
+    "gnaf_pid": "GATAS702301169",
+    "ee": true
    }
   },
   {
@@ -4157,7 +4392,8 @@
     "locID": "LOC000077239327",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702301170"
+    "gnaf_pid": "GATAS702301170",
+    "ee": true
    }
   },
   {
@@ -4174,7 +4410,8 @@
     "locID": "LOC000096651118",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702301171"
+    "gnaf_pid": "GATAS702301171",
+    "ee": true
    }
   },
   {
@@ -4191,7 +4428,8 @@
     "locID": "LOC000047019022",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702301172"
+    "gnaf_pid": "GATAS702301172",
+    "ee": true
    }
   },
   {
@@ -4208,7 +4446,8 @@
     "locID": "LOC000051117065",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702301173"
+    "gnaf_pid": "GATAS702301173",
+    "ee": true
    }
   },
   {
@@ -4225,7 +4464,8 @@
     "locID": "LOC000059268137",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702301174"
+    "gnaf_pid": "GATAS702301174",
+    "ee": true
    }
   },
   {
@@ -4242,7 +4482,8 @@
     "locID": "LOC000096750579",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702301175"
+    "gnaf_pid": "GATAS702301175",
+    "ee": true
    }
   },
   {
@@ -4259,7 +4500,8 @@
     "locID": "LOC000060351149",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702301176"
+    "gnaf_pid": "GATAS702301176",
+    "ee": true
    }
   },
   {
@@ -4276,7 +4518,8 @@
     "locID": "LOC000023404532",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702301177"
+    "gnaf_pid": "GATAS702301177",
+    "ee": true
    }
   },
   {
@@ -4293,7 +4536,8 @@
     "locID": "LOC000048636723",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702301178"
+    "gnaf_pid": "GATAS702301178",
+    "ee": true
    }
   },
   {
@@ -4310,7 +4554,8 @@
     "locID": "LOC000016042458",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702301179"
+    "gnaf_pid": "GATAS702301179",
+    "ee": true
    }
   },
   {
@@ -4327,7 +4572,8 @@
     "locID": "LOC000061854248",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702301180"
+    "gnaf_pid": "GATAS702301180",
+    "ee": true
    }
   },
   {
@@ -4344,7 +4590,8 @@
     "locID": "LOC000063480822",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702322460"
+    "gnaf_pid": "GATAS702322460",
+    "ee": true
    }
   },
   {
@@ -4361,7 +4608,8 @@
     "locID": "LOC000097291232",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702322461"
+    "gnaf_pid": "GATAS702322461",
+    "ee": true
    }
   },
   {
@@ -4378,7 +4626,8 @@
     "locID": "LOC000012126050",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702322462"
+    "gnaf_pid": "GATAS702322462",
+    "ee": true
    }
   },
   {
@@ -4395,7 +4644,8 @@
     "locID": "LOC000038187220",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702322463"
+    "gnaf_pid": "GATAS702322463",
+    "ee": true
    }
   },
   {
@@ -4412,7 +4662,8 @@
     "locID": "LOC000037743016",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702322464"
+    "gnaf_pid": "GATAS702322464",
+    "ee": true
    }
   },
   {
@@ -4429,7 +4680,8 @@
     "locID": "LOC000024298681",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702322465"
+    "gnaf_pid": "GATAS702322465",
+    "ee": true
    }
   },
   {
@@ -4446,7 +4698,8 @@
     "locID": "LOC000030183100",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702322466"
+    "gnaf_pid": "GATAS702322466",
+    "ee": true
    }
   },
   {
@@ -4463,7 +4716,8 @@
     "locID": "LOC000093148102",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702322467"
+    "gnaf_pid": "GATAS702322467",
+    "ee": true
    }
   },
   {
@@ -4481,6 +4735,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702322794",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4501,6 +4756,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702322839",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4521,6 +4777,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702322840",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4541,6 +4798,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702322841",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4561,6 +4819,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702326621",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4581,6 +4840,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702326622",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4601,6 +4861,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702326623",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4621,6 +4882,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702326624",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4641,6 +4903,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702326625",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4661,6 +4924,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702326626",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4681,6 +4945,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702326627",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4701,6 +4966,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702326628",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4721,6 +4987,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702326629",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4741,6 +5008,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702326630",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4761,6 +5029,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702326631",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4781,6 +5050,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702326632",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4800,7 +5070,8 @@
     "locID": "LOC000076019551",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702328786"
+    "gnaf_pid": "GATAS702328786",
+    "ee": true
    }
   },
   {
@@ -4817,7 +5088,8 @@
     "locID": "LOC000013460747",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702328787"
+    "gnaf_pid": "GATAS702328787",
+    "ee": true
    }
   },
   {
@@ -4834,7 +5106,8 @@
     "locID": "LOC000106597326",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702328788"
+    "gnaf_pid": "GATAS702328788",
+    "ee": true
    }
   },
   {
@@ -4851,7 +5124,8 @@
     "locID": "LOC000106647765",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702328789"
+    "gnaf_pid": "GATAS702328789",
+    "ee": true
    }
   },
   {
@@ -4868,7 +5142,8 @@
     "locID": "LOC000066539707",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702328790"
+    "gnaf_pid": "GATAS702328790",
+    "ee": true
    }
   },
   {
@@ -4885,7 +5160,8 @@
     "locID": "LOC000058287214",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331329"
+    "gnaf_pid": "GATAS702331329",
+    "ee": true
    }
   },
   {
@@ -4902,7 +5178,8 @@
     "locID": "LOC000105744133",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331330"
+    "gnaf_pid": "GATAS702331330",
+    "ee": true
    }
   },
   {
@@ -4919,7 +5196,8 @@
     "locID": "LOC000059419616",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331331"
+    "gnaf_pid": "GATAS702331331",
+    "ee": true
    }
   },
   {
@@ -4936,7 +5214,8 @@
     "locID": "LOC000021155501",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331332"
+    "gnaf_pid": "GATAS702331332",
+    "ee": true
    }
   },
   {
@@ -4953,7 +5232,8 @@
     "locID": "LOC000080332856",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331333"
+    "gnaf_pid": "GATAS702331333",
+    "ee": true
    }
   },
   {
@@ -4970,7 +5250,8 @@
     "locID": "LOC000041461140",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331334"
+    "gnaf_pid": "GATAS702331334",
+    "ee": true
    }
   },
   {
@@ -4987,7 +5268,8 @@
     "locID": "LOC000027561462",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331335"
+    "gnaf_pid": "GATAS702331335",
+    "ee": true
    }
   },
   {
@@ -5004,7 +5286,8 @@
     "locID": "LOC000092054512",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331336"
+    "gnaf_pid": "GATAS702331336",
+    "ee": true
    }
   },
   {
@@ -5021,7 +5304,8 @@
     "locID": "LOC000042654420",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331405"
+    "gnaf_pid": "GATAS702331405",
+    "ee": true
    }
   },
   {
@@ -5038,7 +5322,8 @@
     "locID": "LOC000011167910",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331406"
+    "gnaf_pid": "GATAS702331406",
+    "ee": true
    }
   },
   {
@@ -5055,7 +5340,8 @@
     "locID": "LOC000079465127",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331407"
+    "gnaf_pid": "GATAS702331407",
+    "ee": true
    }
   },
   {
@@ -5072,7 +5358,8 @@
     "locID": "LOC000044960434",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331408"
+    "gnaf_pid": "GATAS702331408",
+    "ee": true
    }
   },
   {
@@ -5089,7 +5376,8 @@
     "locID": "LOC000085855403",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331409"
+    "gnaf_pid": "GATAS702331409",
+    "ee": true
    }
   },
   {
@@ -5106,7 +5394,8 @@
     "locID": "LOC000028357130",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702331410"
+    "gnaf_pid": "GATAS702331410",
+    "ee": true
    }
   },
   {
@@ -5123,7 +5412,8 @@
     "locID": "LOC000058185616",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334820"
+    "gnaf_pid": "GATAS702334820",
+    "ee": true
    }
   },
   {
@@ -5140,7 +5430,8 @@
     "locID": "LOC000058611983",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334821"
+    "gnaf_pid": "GATAS702334821",
+    "ee": true
    }
   },
   {
@@ -5157,7 +5448,8 @@
     "locID": "LOC000104758529",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334822"
+    "gnaf_pid": "GATAS702334822",
+    "ee": true
    }
   },
   {
@@ -5174,7 +5466,8 @@
     "locID": "LOC000069713332",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334823"
+    "gnaf_pid": "GATAS702334823",
+    "ee": true
    }
   },
   {
@@ -5191,7 +5484,8 @@
     "locID": "LOC000044774697",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334824"
+    "gnaf_pid": "GATAS702334824",
+    "ee": true
    }
   },
   {
@@ -5208,7 +5502,8 @@
     "locID": "LOC000090906566",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334825"
+    "gnaf_pid": "GATAS702334825",
+    "ee": true
    }
   },
   {
@@ -5225,7 +5520,8 @@
     "locID": "LOC000109913525",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334826"
+    "gnaf_pid": "GATAS702334826",
+    "ee": true
    }
   },
   {
@@ -5242,7 +5538,8 @@
     "locID": "LOC000075356074",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334827"
+    "gnaf_pid": "GATAS702334827",
+    "ee": true
    }
   },
   {
@@ -5259,7 +5556,8 @@
     "locID": "LOC000037983027",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334828"
+    "gnaf_pid": "GATAS702334828",
+    "ee": true
    }
   },
   {
@@ -5276,7 +5574,8 @@
     "locID": "LOC000083097147",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334829"
+    "gnaf_pid": "GATAS702334829",
+    "ee": true
    }
   },
   {
@@ -5293,7 +5592,8 @@
     "locID": "LOC000073948547",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334962"
+    "gnaf_pid": "GATAS702334962",
+    "ee": true
    }
   },
   {
@@ -5310,7 +5610,8 @@
     "locID": "LOC000068217423",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334963"
+    "gnaf_pid": "GATAS702334963",
+    "ee": true
    }
   },
   {
@@ -5327,7 +5628,8 @@
     "locID": "LOC000096292367",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334964"
+    "gnaf_pid": "GATAS702334964",
+    "ee": true
    }
   },
   {
@@ -5344,7 +5646,8 @@
     "locID": "LOC000103677907",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334965"
+    "gnaf_pid": "GATAS702334965",
+    "ee": true
    }
   },
   {
@@ -5361,7 +5664,8 @@
     "locID": "LOC000073795087",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334966"
+    "gnaf_pid": "GATAS702334966",
+    "ee": true
    }
   },
   {
@@ -5378,7 +5682,8 @@
     "locID": "LOC000042648149",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334967"
+    "gnaf_pid": "GATAS702334967",
+    "ee": true
    }
   },
   {
@@ -5395,7 +5700,8 @@
     "locID": "LOC000020151429",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702334968"
+    "gnaf_pid": "GATAS702334968",
+    "ee": true
    }
   },
   {
@@ -5412,7 +5718,8 @@
     "locID": "LOC000039331228",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702336770"
+    "gnaf_pid": "GATAS702336770",
+    "ee": true
    }
   },
   {
@@ -5429,7 +5736,8 @@
     "locID": "LOC000034171431",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702336771"
+    "gnaf_pid": "GATAS702336771",
+    "ee": true
    }
   },
   {
@@ -5446,7 +5754,8 @@
     "locID": "LOC000039427670",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702336772"
+    "gnaf_pid": "GATAS702336772",
+    "ee": true
    }
   },
   {
@@ -5463,7 +5772,8 @@
     "locID": "LOC000094655263",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702336773"
+    "gnaf_pid": "GATAS702336773",
+    "ee": true
    }
   },
   {
@@ -5480,7 +5790,8 @@
     "locID": "LOC000056661322",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702336774"
+    "gnaf_pid": "GATAS702336774",
+    "ee": true
    }
   },
   {
@@ -5497,7 +5808,8 @@
     "locID": "LOC000060513010",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702336775"
+    "gnaf_pid": "GATAS702336775",
+    "ee": true
    }
   },
   {
@@ -5515,6 +5827,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702338057",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5535,6 +5848,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702338058",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5555,6 +5869,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702338059",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5575,6 +5890,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702338060",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5595,6 +5911,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702338061",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5615,6 +5932,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702338062",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5634,7 +5952,8 @@
     "locID": "LOC000103720286",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702338686"
+    "gnaf_pid": "GATAS702338686",
+    "ee": true
    }
   },
   {
@@ -5651,7 +5970,8 @@
     "locID": "LOC000004290664",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702345666"
+    "gnaf_pid": "GATAS702345666",
+    "ee": true
    }
   },
   {
@@ -5668,7 +5988,8 @@
     "locID": "LOC000006239637",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702345667"
+    "gnaf_pid": "GATAS702345667",
+    "ee": true
    }
   },
   {
@@ -5685,7 +6006,8 @@
     "locID": "LOC000044754296",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702345668"
+    "gnaf_pid": "GATAS702345668",
+    "ee": true
    }
   },
   {
@@ -5702,7 +6024,8 @@
     "locID": "LOC000033589201",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702345669"
+    "gnaf_pid": "GATAS702345669",
+    "ee": true
    }
   },
   {
@@ -5719,7 +6042,8 @@
     "locID": "LOC000024251330",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702345670"
+    "gnaf_pid": "GATAS702345670",
+    "ee": true
    }
   },
   {
@@ -5736,7 +6060,8 @@
     "locID": "LOC000019312827",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702345671"
+    "gnaf_pid": "GATAS702345671",
+    "ee": true
    }
   },
   {
@@ -5753,7 +6078,8 @@
     "locID": "LOC000012525322",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702345672"
+    "gnaf_pid": "GATAS702345672",
+    "ee": true
    }
   },
   {
@@ -5770,7 +6096,8 @@
     "locID": "LOC000012117960",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702345673"
+    "gnaf_pid": "GATAS702345673",
+    "ee": true
    }
   },
   {
@@ -5787,7 +6114,8 @@
     "locID": "LOC000094432562",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702348317"
+    "gnaf_pid": "GATAS702348317",
+    "ee": true
    }
   },
   {
@@ -5804,7 +6132,8 @@
     "locID": "LOC000052914213",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702348318"
+    "gnaf_pid": "GATAS702348318",
+    "ee": true
    }
   },
   {
@@ -5821,7 +6150,8 @@
     "locID": "LOC000044486770",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702348319"
+    "gnaf_pid": "GATAS702348319",
+    "ee": true
    }
   },
   {
@@ -5838,7 +6168,8 @@
     "locID": "LOC000009159841",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702348320"
+    "gnaf_pid": "GATAS702348320",
+    "ee": true
    }
   },
   {
@@ -5855,7 +6186,8 @@
     "locID": "LOC000070795656",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702348321"
+    "gnaf_pid": "GATAS702348321",
+    "ee": true
    }
   },
   {
@@ -5872,7 +6204,8 @@
     "locID": "LOC000103881847",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702348322"
+    "gnaf_pid": "GATAS702348322",
+    "ee": true
    }
   },
   {
@@ -5889,7 +6222,8 @@
     "locID": "LOC000100452006",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702348323"
+    "gnaf_pid": "GATAS702348323",
+    "ee": true
    }
   },
   {
@@ -5906,7 +6240,8 @@
     "locID": "LOC000033543283",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702348324"
+    "gnaf_pid": "GATAS702348324",
+    "ee": true
    }
   },
   {
@@ -5923,7 +6258,8 @@
     "locID": "LOC000070965015",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702349526"
+    "gnaf_pid": "GATAS702349526",
+    "ee": true
    }
   },
   {
@@ -5940,7 +6276,8 @@
     "locID": "LOC000017683545",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702349527"
+    "gnaf_pid": "GATAS702349527",
+    "ee": true
    }
   },
   {
@@ -5957,7 +6294,8 @@
     "locID": "LOC000034860974",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702349528"
+    "gnaf_pid": "GATAS702349528",
+    "ee": true
    }
   },
   {
@@ -5974,7 +6312,8 @@
     "locID": "LOC000046644993",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702349529"
+    "gnaf_pid": "GATAS702349529",
+    "ee": true
    }
   },
   {
@@ -5991,7 +6330,8 @@
     "locID": "LOC000049604460",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702349530"
+    "gnaf_pid": "GATAS702349530",
+    "ee": true
    }
   },
   {
@@ -6008,7 +6348,8 @@
     "locID": "LOC000062271511",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702349531"
+    "gnaf_pid": "GATAS702349531",
+    "ee": true
    }
   },
   {
@@ -6025,7 +6366,8 @@
     "locID": "LOC000098963879",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702349532"
+    "gnaf_pid": "GATAS702349532",
+    "ee": true
    }
   },
   {
@@ -6042,7 +6384,8 @@
     "locID": "LOC000052834305",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702350380"
+    "gnaf_pid": "GATAS702350380",
+    "ee": true
    }
   },
   {
@@ -6060,6 +6403,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702351339",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6080,6 +6424,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702351340",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6100,6 +6445,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702351341",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6120,6 +6466,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702351342",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6140,6 +6487,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702351343",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6160,6 +6508,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702351344",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6180,6 +6529,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702351345",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6200,6 +6550,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702351347",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6220,6 +6571,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702351348",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6240,6 +6592,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702351349",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6259,7 +6612,8 @@
     "locID": "LOC000053113847",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702357568"
+    "gnaf_pid": "GATAS702357568",
+    "ee": true
    }
   },
   {
@@ -6276,7 +6630,8 @@
     "locID": "LOC000020040399",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702357569"
+    "gnaf_pid": "GATAS702357569",
+    "ee": true
    }
   },
   {
@@ -6293,7 +6648,8 @@
     "locID": "LOC000026127591",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702357570"
+    "gnaf_pid": "GATAS702357570",
+    "ee": true
    }
   },
   {
@@ -6310,7 +6666,8 @@
     "locID": "LOC000001912189",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702357571"
+    "gnaf_pid": "GATAS702357571",
+    "ee": true
    }
   },
   {
@@ -6327,7 +6684,8 @@
     "locID": "LOC000016010466",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702357572"
+    "gnaf_pid": "GATAS702357572",
+    "ee": true
    }
   },
   {
@@ -6344,7 +6702,8 @@
     "locID": "LOC000009231428",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702357573"
+    "gnaf_pid": "GATAS702357573",
+    "ee": true
    }
   },
   {
@@ -6361,7 +6720,8 @@
     "locID": "LOC000021312008",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702357574"
+    "gnaf_pid": "GATAS702357574",
+    "ee": true
    }
   },
   {
@@ -6378,7 +6738,8 @@
     "locID": "LOC000085587099",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702357575"
+    "gnaf_pid": "GATAS702357575",
+    "ee": true
    }
   },
   {
@@ -6395,7 +6756,8 @@
     "locID": "LOC000051232453",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702357576"
+    "gnaf_pid": "GATAS702357576",
+    "ee": true
    }
   },
   {
@@ -6412,7 +6774,8 @@
     "locID": "LOC000041013252",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702357577"
+    "gnaf_pid": "GATAS702357577",
+    "ee": true
    }
   },
   {
@@ -6429,7 +6792,8 @@
     "locID": "LOC000106087218",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702357578"
+    "gnaf_pid": "GATAS702357578",
+    "ee": true
    }
   },
   {
@@ -6446,7 +6810,8 @@
     "locID": "LOC000048423739",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702357579"
+    "gnaf_pid": "GATAS702357579",
+    "ee": true
    }
   },
   {
@@ -6464,6 +6829,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702361420",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6484,6 +6850,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702361567",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6504,6 +6871,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702361568",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6524,6 +6892,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702361569",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6543,7 +6912,8 @@
     "locID": "LOC000104544442",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702365671"
+    "gnaf_pid": "GATAS702365671",
+    "ee": true
    }
   },
   {
@@ -6560,7 +6930,8 @@
     "locID": "LOC000012634309",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702372334"
+    "gnaf_pid": "GATAS702372334",
+    "ee": true
    }
   },
   {
@@ -6577,7 +6948,8 @@
     "locID": "LOC000189658684",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702372335"
+    "gnaf_pid": "GATAS702372335",
+    "ee": true
    }
   },
   {
@@ -6594,7 +6966,8 @@
     "locID": "LOC000094870121",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702372336"
+    "gnaf_pid": "GATAS702372336",
+    "ee": true
    }
   },
   {
@@ -6611,7 +6984,8 @@
     "locID": "LOC000171890095",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702372337"
+    "gnaf_pid": "GATAS702372337",
+    "ee": true
    }
   },
   {
@@ -6628,7 +7002,8 @@
     "locID": "LOC000007712210",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702374314"
+    "gnaf_pid": "GATAS702374314",
+    "ee": true
    }
   },
   {
@@ -6645,7 +7020,8 @@
     "locID": "LOC000095264796",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702374315"
+    "gnaf_pid": "GATAS702374315",
+    "ee": true
    }
   },
   {
@@ -6662,7 +7038,8 @@
     "locID": "LOC000088968098",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702374316"
+    "gnaf_pid": "GATAS702374316",
+    "ee": true
    }
   },
   {
@@ -6679,7 +7056,8 @@
     "locID": "LOC000007703784",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702374317"
+    "gnaf_pid": "GATAS702374317",
+    "ee": true
    }
   },
   {
@@ -6696,7 +7074,8 @@
     "locID": "LOC000043815101",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702374318"
+    "gnaf_pid": "GATAS702374318",
+    "ee": true
    }
   },
   {
@@ -6713,7 +7092,8 @@
     "locID": "LOC000069782847",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702376874"
+    "gnaf_pid": "GATAS702376874",
+    "ee": true
    }
   },
   {
@@ -6730,7 +7110,8 @@
     "locID": "LOC000014320359",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702376875"
+    "gnaf_pid": "GATAS702376875",
+    "ee": true
    }
   },
   {
@@ -6747,7 +7128,8 @@
     "locID": "LOC000039453199",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702376876"
+    "gnaf_pid": "GATAS702376876",
+    "ee": true
    }
   },
   {
@@ -6764,7 +7146,8 @@
     "locID": "LOC000017514038",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702376877"
+    "gnaf_pid": "GATAS702376877",
+    "ee": true
    }
   },
   {
@@ -6781,7 +7164,8 @@
     "locID": "LOC000062552325",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702377065"
+    "gnaf_pid": "GATAS702377065",
+    "ee": true
    }
   },
   {
@@ -6798,7 +7182,8 @@
     "locID": "LOC000088793831",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702377066"
+    "gnaf_pid": "GATAS702377066",
+    "ee": true
    }
   },
   {
@@ -6815,7 +7200,8 @@
     "locID": "LOC000008493294",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702377067"
+    "gnaf_pid": "GATAS702377067",
+    "ee": true
    }
   },
   {
@@ -6832,7 +7218,8 @@
     "locID": "LOC000056227374",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702379332"
+    "gnaf_pid": "GATAS702379332",
+    "ee": true
    }
   },
   {
@@ -6849,7 +7236,8 @@
     "locID": "LOC000035810962",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702437249"
+    "gnaf_pid": "GATAS702437249",
+    "ee": true
    }
   },
   {
@@ -6866,7 +7254,8 @@
     "locID": "LOC000050483314",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702437250"
+    "gnaf_pid": "GATAS702437250",
+    "ee": true
    }
   },
   {
@@ -6883,7 +7272,8 @@
     "locID": "LOC000048087161",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702438207"
+    "gnaf_pid": "GATAS702438207",
+    "ee": true
    }
   },
   {
@@ -6900,7 +7290,8 @@
     "locID": "LOC000024323433",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702438287"
+    "gnaf_pid": "GATAS702438287",
+    "ee": true
    }
   },
   {
@@ -6917,7 +7308,8 @@
     "locID": "LOC000002690411",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702438288"
+    "gnaf_pid": "GATAS702438288",
+    "ee": true
    }
   },
   {
@@ -6934,7 +7326,8 @@
     "locID": "LOC000094945080",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702438297"
+    "gnaf_pid": "GATAS702438297",
+    "ee": true
    }
   },
   {
@@ -6951,7 +7344,8 @@
     "locID": "LOC000050961475",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702438298"
+    "gnaf_pid": "GATAS702438298",
+    "ee": true
    }
   },
   {
@@ -6968,7 +7362,8 @@
     "locID": "LOC000079015332",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702438299"
+    "gnaf_pid": "GATAS702438299",
+    "ee": true
    }
   },
   {
@@ -6985,7 +7380,8 @@
     "locID": "LOC000015948552",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702438300"
+    "gnaf_pid": "GATAS702438300",
+    "ee": true
    }
   },
   {
@@ -7002,7 +7398,8 @@
     "locID": "LOC000034298535",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702438301"
+    "gnaf_pid": "GATAS702438301",
+    "ee": true
    }
   },
   {
@@ -7019,7 +7416,8 @@
     "locID": "LOC000098398770",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702438398"
+    "gnaf_pid": "GATAS702438398",
+    "ee": true
    }
   },
   {
@@ -7037,6 +7435,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702438405",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7057,6 +7456,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702438406",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7077,6 +7477,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702438407",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7097,6 +7498,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702438408",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7116,7 +7518,8 @@
     "locID": "LOC000087707509",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702438549"
+    "gnaf_pid": "GATAS702438549",
+    "ee": true
    }
   },
   {
@@ -7133,7 +7536,8 @@
     "locID": "LOC000048103589",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702438551"
+    "gnaf_pid": "GATAS702438551",
+    "ee": true
    }
   },
   {
@@ -7150,7 +7554,8 @@
     "locID": "LOC000100644188",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702438554"
+    "gnaf_pid": "GATAS702438554",
+    "ee": true
    }
   },
   {
@@ -7167,7 +7572,8 @@
     "locID": "LOC000055957586",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702438555"
+    "gnaf_pid": "GATAS702438555",
+    "ee": true
    }
   },
   {
@@ -7184,7 +7590,8 @@
     "locID": "LOC000111090498",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702440923"
+    "gnaf_pid": "GATAS702440923",
+    "ee": true
    }
   },
   {
@@ -7201,7 +7608,8 @@
     "locID": "LOC000075401808",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702444532"
+    "gnaf_pid": "GATAS702444532",
+    "ee": true
    }
   },
   {
@@ -7218,7 +7626,8 @@
     "locID": "LOC000058529685",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702446752"
+    "gnaf_pid": "GATAS702446752",
+    "ee": true
    }
   },
   {
@@ -7235,7 +7644,8 @@
     "locID": "LOC000133590251",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702446756"
+    "gnaf_pid": "GATAS702446756",
+    "ee": true
    }
   },
   {
@@ -7252,7 +7662,8 @@
     "locID": "LOC000104544442",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702447129"
+    "gnaf_pid": "GATAS702447129",
+    "ee": true
    }
   },
   {
@@ -7269,7 +7680,8 @@
     "locID": "LOC000022614914",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702447184"
+    "gnaf_pid": "GATAS702447184",
+    "ee": true
    }
   },
   {
@@ -7286,7 +7698,8 @@
     "locID": "LOC000061707739",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702447741"
+    "gnaf_pid": "GATAS702447741",
+    "ee": true
    }
   },
   {
@@ -7303,7 +7716,8 @@
     "locID": "LOC000009300871",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702448169"
+    "gnaf_pid": "GATAS702448169",
+    "ee": true
    }
   },
   {
@@ -7320,7 +7734,8 @@
     "locID": "LOC000047257617",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702448184"
+    "gnaf_pid": "GATAS702448184",
+    "ee": true
    }
   },
   {
@@ -7338,6 +7753,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702449712",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7357,7 +7773,8 @@
     "locID": "LOC000017691600",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702451047"
+    "gnaf_pid": "GATAS702451047",
+    "ee": true
    }
   },
   {
@@ -7374,7 +7791,8 @@
     "locID": "LOC000065683757",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702451048"
+    "gnaf_pid": "GATAS702451048",
+    "ee": true
    }
   },
   {
@@ -7391,7 +7809,8 @@
     "locID": "LOC000061939082",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702451049"
+    "gnaf_pid": "GATAS702451049",
+    "ee": true
    }
   },
   {
@@ -7408,7 +7827,8 @@
     "locID": "LOC000096944925",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702451052"
+    "gnaf_pid": "GATAS702451052",
+    "ee": true
    }
   },
   {
@@ -7425,7 +7845,8 @@
     "locID": "LOC000079685465",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702451782"
+    "gnaf_pid": "GATAS702451782",
+    "ee": true
    }
   },
   {
@@ -7442,7 +7863,8 @@
     "locID": "LOC000030033288",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702451842"
+    "gnaf_pid": "GATAS702451842",
+    "ee": true
    }
   },
   {
@@ -7460,6 +7882,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702452920",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7480,6 +7903,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702452924",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7499,7 +7923,8 @@
     "locID": "LOC000039630400",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702454286"
+    "gnaf_pid": "GATAS702454286",
+    "ee": true
    }
   },
   {
@@ -7517,6 +7942,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702456104",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7537,6 +7963,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702456106",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7557,6 +7984,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702456119",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7577,6 +8005,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702456120",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7597,6 +8026,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702456159",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7617,6 +8047,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702456170",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7637,6 +8068,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702456173",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7657,6 +8089,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702459814",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7677,6 +8110,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702459817",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7697,6 +8131,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702459821",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7717,6 +8152,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702459823",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7737,6 +8173,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702459889",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7756,7 +8193,8 @@
     "locID": "LOC000082987841",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702461505"
+    "gnaf_pid": "GATAS702461505",
+    "ee": true
    }
   },
   {
@@ -7774,6 +8212,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702461514",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7794,6 +8233,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702462845",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7814,6 +8254,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702462846",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7834,6 +8275,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702462847",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7854,6 +8296,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702462849",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7874,6 +8317,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702462850",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7894,6 +8338,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702462851",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -7913,7 +8358,8 @@
     "locID": "LOC000051259324",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702694847"
+    "gnaf_pid": "GATAS702694847",
+    "ee": true
    }
   },
   {
@@ -7930,7 +8376,8 @@
     "locID": "LOC000008466735",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702694851"
+    "gnaf_pid": "GATAS702694851",
+    "ee": true
    }
   },
   {
@@ -7947,7 +8394,8 @@
     "locID": "LOC000148171190",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702694856"
+    "gnaf_pid": "GATAS702694856",
+    "ee": true
    }
   },
   {
@@ -7964,7 +8412,8 @@
     "locID": "LOC000007639188",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702694915"
+    "gnaf_pid": "GATAS702694915",
+    "ee": true
    }
   },
   {
@@ -7981,7 +8430,8 @@
     "locID": "LOC000008476078",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702694923"
+    "gnaf_pid": "GATAS702694923",
+    "ee": true
    }
   },
   {
@@ -7998,7 +8448,8 @@
     "locID": "LOC000023441669",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702694927"
+    "gnaf_pid": "GATAS702694927",
+    "ee": true
    }
   },
   {
@@ -8015,7 +8466,8 @@
     "locID": "LOC000078292419",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702694928"
+    "gnaf_pid": "GATAS702694928",
+    "ee": true
    }
   },
   {
@@ -8032,7 +8484,8 @@
     "locID": "LOC000083590100",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702694933"
+    "gnaf_pid": "GATAS702694933",
+    "ee": true
    }
   },
   {
@@ -8049,7 +8502,8 @@
     "locID": "LOC000058611983",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702697281"
+    "gnaf_pid": "GATAS702697281",
+    "ee": true
    }
   },
   {
@@ -8066,7 +8520,8 @@
     "locID": "LOC000091446487",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702698591"
+    "gnaf_pid": "GATAS702698591",
+    "ee": true
    }
   },
   {
@@ -8083,7 +8538,8 @@
     "locID": "LOC000194408596",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702698593"
+    "gnaf_pid": "GATAS702698593",
+    "ee": true
    }
   },
   {
@@ -8100,7 +8556,8 @@
     "locID": "LOC000036850899",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702698596"
+    "gnaf_pid": "GATAS702698596",
+    "ee": true
    }
   },
   {
@@ -8117,7 +8574,8 @@
     "locID": "LOC000091446487",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702699508"
+    "gnaf_pid": "GATAS702699508",
+    "ee": true
    }
   },
   {
@@ -8135,6 +8593,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702700160",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8154,7 +8613,8 @@
     "locID": "LOC000066841393",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702700199"
+    "gnaf_pid": "GATAS702700199",
+    "ee": true
    }
   },
   {
@@ -8171,7 +8631,8 @@
     "locID": "LOC000043816536",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702700206"
+    "gnaf_pid": "GATAS702700206",
+    "ee": true
    }
   },
   {
@@ -8188,7 +8649,8 @@
     "locID": "LOC000051409740",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702700596"
+    "gnaf_pid": "GATAS702700596",
+    "ee": true
    }
   },
   {
@@ -8205,7 +8667,8 @@
     "locID": "LOC000187053583",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702700601"
+    "gnaf_pid": "GATAS702700601",
+    "ee": true
    }
   },
   {
@@ -8222,7 +8685,8 @@
     "locID": "LOC000020147731",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702700610"
+    "gnaf_pid": "GATAS702700610",
+    "ee": true
    }
   },
   {
@@ -8240,6 +8704,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS702706337",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8259,7 +8724,8 @@
     "locID": "LOC000082619636",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702714333"
+    "gnaf_pid": "GATAS702714333",
+    "ee": true
    }
   },
   {
@@ -8276,7 +8742,8 @@
     "locID": "LOC000050240549",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702714339"
+    "gnaf_pid": "GATAS702714339",
+    "ee": true
    }
   },
   {
@@ -8293,7 +8760,8 @@
     "locID": "LOC000196584302",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS702715249"
+    "gnaf_pid": "GATAS702715249",
+    "ee": true
    }
   },
   {
@@ -8311,6 +8779,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS715257458",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8330,7 +8799,8 @@
     "locID": "LOC000080282491",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS715257625"
+    "gnaf_pid": "GATAS715257625",
+    "ee": true
    }
   },
   {
@@ -8347,7 +8817,8 @@
     "locID": "LOC000006652732",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS715257626"
+    "gnaf_pid": "GATAS715257626",
+    "ee": true
    }
   },
   {
@@ -8364,7 +8835,8 @@
     "locID": "LOC000002687101",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS715257627"
+    "gnaf_pid": "GATAS715257627",
+    "ee": true
    }
   },
   {
@@ -8381,7 +8853,8 @@
     "locID": "LOC000029202330",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS715272995"
+    "gnaf_pid": "GATAS715272995",
+    "ee": true
    }
   },
   {
@@ -8398,7 +8871,8 @@
     "locID": "LOC000037024300",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS715272996"
+    "gnaf_pid": "GATAS715272996",
+    "ee": true
    }
   },
   {
@@ -8415,7 +8889,8 @@
     "locID": "LOC000024318839",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS715277691"
+    "gnaf_pid": "GATAS715277691",
+    "ee": true
    }
   },
   {
@@ -8432,7 +8907,8 @@
     "locID": "LOC000041511597",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS715277692"
+    "gnaf_pid": "GATAS715277692",
+    "ee": true
    }
   },
   {
@@ -8449,7 +8925,8 @@
     "locID": "LOC000021798894",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS715278749"
+    "gnaf_pid": "GATAS715278749",
+    "ee": true
    }
   },
   {
@@ -8467,6 +8944,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716458697",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8487,6 +8965,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716458698",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8507,6 +8986,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716458699",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8527,6 +9007,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716458700",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8547,6 +9028,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716458701",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8567,6 +9049,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716458702",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8587,6 +9070,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716458703",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8607,6 +9091,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716458704",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8627,6 +9112,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716458705",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8647,6 +9133,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716458706",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8667,6 +9154,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716458707",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8687,6 +9175,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716459701",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -8706,7 +9195,8 @@
     "locID": "LOC000043619825",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716462109"
+    "gnaf_pid": "GATAS716462109",
+    "ee": true
    }
   },
   {
@@ -8723,7 +9213,8 @@
     "locID": "LOC000033518122",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620267"
+    "gnaf_pid": "GATAS716620267",
+    "ee": true
    }
   },
   {
@@ -8740,7 +9231,8 @@
     "locID": "LOC000051007806",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620268"
+    "gnaf_pid": "GATAS716620268",
+    "ee": true
    }
   },
   {
@@ -8757,7 +9249,8 @@
     "locID": "LOC000056211824",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620269"
+    "gnaf_pid": "GATAS716620269",
+    "ee": true
    }
   },
   {
@@ -8774,7 +9267,8 @@
     "locID": "LOC000024308589",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620270"
+    "gnaf_pid": "GATAS716620270",
+    "ee": true
    }
   },
   {
@@ -8791,7 +9285,8 @@
     "locID": "LOC000062009324",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620271"
+    "gnaf_pid": "GATAS716620271",
+    "ee": true
    }
   },
   {
@@ -8808,7 +9303,8 @@
     "locID": "LOC000022566212",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620272"
+    "gnaf_pid": "GATAS716620272",
+    "ee": true
    }
   },
   {
@@ -8825,7 +9321,8 @@
     "locID": "LOC000098355728",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620273"
+    "gnaf_pid": "GATAS716620273",
+    "ee": true
    }
   },
   {
@@ -8842,7 +9339,8 @@
     "locID": "LOC000071262171",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620274"
+    "gnaf_pid": "GATAS716620274",
+    "ee": true
    }
   },
   {
@@ -8859,7 +9357,8 @@
     "locID": "LOC000029155734",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620275"
+    "gnaf_pid": "GATAS716620275",
+    "ee": true
    }
   },
   {
@@ -8876,7 +9375,8 @@
     "locID": "LOC000065809794",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620308"
+    "gnaf_pid": "GATAS716620308",
+    "ee": true
    }
   },
   {
@@ -8893,7 +9393,8 @@
     "locID": "LOC000029155821",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620309"
+    "gnaf_pid": "GATAS716620309",
+    "ee": true
    }
   },
   {
@@ -8910,7 +9411,8 @@
     "locID": "LOC000075034599",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620310"
+    "gnaf_pid": "GATAS716620310",
+    "ee": true
    }
   },
   {
@@ -8927,7 +9429,8 @@
     "locID": "LOC000107238083",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620311"
+    "gnaf_pid": "GATAS716620311",
+    "ee": true
    }
   },
   {
@@ -8944,7 +9447,8 @@
     "locID": "LOC000091093910",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620312"
+    "gnaf_pid": "GATAS716620312",
+    "ee": true
    }
   },
   {
@@ -8961,7 +9465,8 @@
     "locID": "LOC000021163247",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620313"
+    "gnaf_pid": "GATAS716620313",
+    "ee": true
    }
   },
   {
@@ -8978,7 +9483,8 @@
     "locID": "LOC000097181295",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620314"
+    "gnaf_pid": "GATAS716620314",
+    "ee": true
    }
   },
   {
@@ -8995,7 +9501,8 @@
     "locID": "LOC000068245897",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620315"
+    "gnaf_pid": "GATAS716620315",
+    "ee": true
    }
   },
   {
@@ -9012,7 +9519,8 @@
     "locID": "LOC000034990642",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620316"
+    "gnaf_pid": "GATAS716620316",
+    "ee": true
    }
   },
   {
@@ -9029,7 +9537,8 @@
     "locID": "LOC000046704786",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620317"
+    "gnaf_pid": "GATAS716620317",
+    "ee": true
    }
   },
   {
@@ -9046,7 +9555,8 @@
     "locID": "LOC000093890565",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620318"
+    "gnaf_pid": "GATAS716620318",
+    "ee": true
    }
   },
   {
@@ -9063,7 +9573,8 @@
     "locID": "LOC000107004939",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716620319"
+    "gnaf_pid": "GATAS716620319",
+    "ee": true
    }
   },
   {
@@ -9080,7 +9591,8 @@
     "locID": "LOC000098066235",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716621117"
+    "gnaf_pid": "GATAS716621117",
+    "ee": true
    }
   },
   {
@@ -9097,7 +9609,8 @@
     "locID": "LOC000098296406",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716621118"
+    "gnaf_pid": "GATAS716621118",
+    "ee": true
    }
   },
   {
@@ -9114,7 +9627,8 @@
     "locID": "LOC000133590246",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716621119"
+    "gnaf_pid": "GATAS716621119",
+    "ee": true
    }
   },
   {
@@ -9131,7 +9645,8 @@
     "locID": "LOC000017057851",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716621120"
+    "gnaf_pid": "GATAS716621120",
+    "ee": true
    }
   },
   {
@@ -9148,7 +9663,8 @@
     "locID": "LOC000106946892",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711337"
+    "gnaf_pid": "GATAS716711337",
+    "ee": true
    }
   },
   {
@@ -9165,7 +9681,8 @@
     "locID": "LOC000133586314",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711338"
+    "gnaf_pid": "GATAS716711338",
+    "ee": true
    }
   },
   {
@@ -9182,7 +9699,8 @@
     "locID": "LOC000098823880",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711339"
+    "gnaf_pid": "GATAS716711339",
+    "ee": true
    }
   },
   {
@@ -9199,7 +9717,8 @@
     "locID": "LOC000133586322",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711340"
+    "gnaf_pid": "GATAS716711340",
+    "ee": true
    }
   },
   {
@@ -9216,7 +9735,8 @@
     "locID": "LOC000081479671",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711341"
+    "gnaf_pid": "GATAS716711341",
+    "ee": true
    }
   },
   {
@@ -9233,7 +9753,8 @@
     "locID": "LOC000070683098",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711342"
+    "gnaf_pid": "GATAS716711342",
+    "ee": true
    }
   },
   {
@@ -9250,7 +9771,8 @@
     "locID": "LOC000016026511",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711343"
+    "gnaf_pid": "GATAS716711343",
+    "ee": true
    }
   },
   {
@@ -9267,7 +9789,8 @@
     "locID": "LOC000071025184",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711344"
+    "gnaf_pid": "GATAS716711344",
+    "ee": true
    }
   },
   {
@@ -9284,7 +9807,8 @@
     "locID": "LOC000037889252",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711345"
+    "gnaf_pid": "GATAS716711345",
+    "ee": true
    }
   },
   {
@@ -9301,7 +9825,8 @@
     "locID": "LOC000087897261",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711346"
+    "gnaf_pid": "GATAS716711346",
+    "ee": true
    }
   },
   {
@@ -9318,7 +9843,8 @@
     "locID": "LOC000059138442",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711347"
+    "gnaf_pid": "GATAS716711347",
+    "ee": true
    }
   },
   {
@@ -9335,7 +9861,8 @@
     "locID": "LOC000063630125",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711348"
+    "gnaf_pid": "GATAS716711348",
+    "ee": true
    }
   },
   {
@@ -9352,7 +9879,8 @@
     "locID": "LOC000061685373",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711349"
+    "gnaf_pid": "GATAS716711349",
+    "ee": true
    }
   },
   {
@@ -9369,7 +9897,8 @@
     "locID": "LOC000094479057",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716711350"
+    "gnaf_pid": "GATAS716711350",
+    "ee": true
    }
   },
   {
@@ -9387,6 +9916,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716711387",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -9407,6 +9937,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GATAS716712373",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -9426,7 +9957,8 @@
     "locID": "LOC000014260738",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716712517"
+    "gnaf_pid": "GATAS716712517",
+    "ee": true
    }
   },
   {
@@ -9443,7 +9975,8 @@
     "locID": "LOC000078710303",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716712518"
+    "gnaf_pid": "GATAS716712518",
+    "ee": true
    }
   },
   {
@@ -9460,7 +9993,8 @@
     "locID": "LOC000030074972",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716712519"
+    "gnaf_pid": "GATAS716712519",
+    "ee": true
    }
   },
   {
@@ -9477,7 +10011,8 @@
     "locID": "LOC000106752086",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716712520"
+    "gnaf_pid": "GATAS716712520",
+    "ee": true
    }
   },
   {
@@ -9494,7 +10029,8 @@
     "locID": "LOC000092089546",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716712521"
+    "gnaf_pid": "GATAS716712521",
+    "ee": true
    }
   },
   {
@@ -9511,7 +10047,8 @@
     "locID": "LOC000035075667",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716712522"
+    "gnaf_pid": "GATAS716712522",
+    "ee": true
    }
   },
   {
@@ -9528,7 +10065,8 @@
     "locID": "LOC000074315255",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716712523"
+    "gnaf_pid": "GATAS716712523",
+    "ee": true
    }
   },
   {
@@ -9545,7 +10083,8 @@
     "locID": "LOC000094533532",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716712524"
+    "gnaf_pid": "GATAS716712524",
+    "ee": true
    }
   },
   {
@@ -9563,6 +10102,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716712615",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -9582,7 +10122,8 @@
     "locID": "LOC000083688697",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716845435"
+    "gnaf_pid": "GATAS716845435",
+    "ee": true
    }
   },
   {
@@ -9600,6 +10141,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716846592",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -9619,7 +10161,8 @@
     "locID": "LOC000116509243",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716976393"
+    "gnaf_pid": "GATAS716976393",
+    "ee": true
    }
   },
   {
@@ -9637,6 +10180,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716976615",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -9657,6 +10201,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716976812",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -9676,7 +10221,8 @@
     "locID": "LOC000022618845",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS716976836"
+    "gnaf_pid": "GATAS716976836",
+    "ee": true
    }
   },
   {
@@ -9693,7 +10239,8 @@
     "locID": "LOC000013517520",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058861"
+    "gnaf_pid": "GATAS717058861",
+    "ee": true
    }
   },
   {
@@ -9710,7 +10257,8 @@
     "locID": "LOC000044758710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058862"
+    "gnaf_pid": "GATAS717058862",
+    "ee": true
    }
   },
   {
@@ -9727,7 +10275,8 @@
     "locID": "LOC000045740518",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058863"
+    "gnaf_pid": "GATAS717058863",
+    "ee": true
    }
   },
   {
@@ -9744,7 +10293,8 @@
     "locID": "LOC000074011607",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058864"
+    "gnaf_pid": "GATAS717058864",
+    "ee": true
    }
   },
   {
@@ -9761,7 +10311,8 @@
     "locID": "LOC000078558232",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058865"
+    "gnaf_pid": "GATAS717058865",
+    "ee": true
    }
   },
   {
@@ -9778,7 +10329,8 @@
     "locID": "LOC000097026651",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058866"
+    "gnaf_pid": "GATAS717058866",
+    "ee": true
    }
   },
   {
@@ -9795,7 +10347,8 @@
     "locID": "LOC000040667056",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058867"
+    "gnaf_pid": "GATAS717058867",
+    "ee": true
    }
   },
   {
@@ -9812,7 +10365,8 @@
     "locID": "LOC000104990456",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058868"
+    "gnaf_pid": "GATAS717058868",
+    "ee": true
    }
   },
   {
@@ -9829,7 +10383,8 @@
     "locID": "LOC000039415504",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058869"
+    "gnaf_pid": "GATAS717058869",
+    "ee": true
    }
   },
   {
@@ -9846,7 +10401,8 @@
     "locID": "LOC000039451274",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058870"
+    "gnaf_pid": "GATAS717058870",
+    "ee": true
    }
   },
   {
@@ -9863,7 +10419,8 @@
     "locID": "LOC000001853389",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058871"
+    "gnaf_pid": "GATAS717058871",
+    "ee": true
    }
   },
   {
@@ -9880,7 +10437,8 @@
     "locID": "LOC000015154886",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058872"
+    "gnaf_pid": "GATAS717058872",
+    "ee": true
    }
   },
   {
@@ -9897,7 +10455,8 @@
     "locID": "LOC000085868077",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058873"
+    "gnaf_pid": "GATAS717058873",
+    "ee": true
    }
   },
   {
@@ -9914,7 +10473,8 @@
     "locID": "LOC000065854483",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058874"
+    "gnaf_pid": "GATAS717058874",
+    "ee": true
    }
   },
   {
@@ -9931,7 +10491,8 @@
     "locID": "LOC000001851892",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058875"
+    "gnaf_pid": "GATAS717058875",
+    "ee": true
    }
   },
   {
@@ -9948,7 +10509,8 @@
     "locID": "LOC000059148734",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058876"
+    "gnaf_pid": "GATAS717058876",
+    "ee": true
    }
   },
   {
@@ -9965,7 +10527,8 @@
     "locID": "LOC000026642637",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058877"
+    "gnaf_pid": "GATAS717058877",
+    "ee": true
    }
   },
   {
@@ -9982,7 +10545,8 @@
     "locID": "LOC000068275785",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058878"
+    "gnaf_pid": "GATAS717058878",
+    "ee": true
    }
   },
   {
@@ -9999,7 +10563,8 @@
     "locID": "LOC000133586501",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058881"
+    "gnaf_pid": "GATAS717058881",
+    "ee": true
    }
   },
   {
@@ -10016,7 +10581,8 @@
     "locID": "LOC000050172897",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058882"
+    "gnaf_pid": "GATAS717058882",
+    "ee": true
    }
   },
   {
@@ -10033,7 +10599,8 @@
     "locID": "LOC000014234342",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717058883"
+    "gnaf_pid": "GATAS717058883",
+    "ee": true
    }
   },
   {
@@ -10050,7 +10617,8 @@
     "locID": "LOC000133590267",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717059040"
+    "gnaf_pid": "GATAS717059040",
+    "ee": true
    }
   },
   {
@@ -10067,7 +10635,8 @@
     "locID": "LOC000100320584",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717122807"
+    "gnaf_pid": "GATAS717122807",
+    "ee": true
    }
   },
   {
@@ -10085,6 +10654,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717123654",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10105,6 +10675,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717123655",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10124,7 +10695,8 @@
     "locID": "LOC000058814870",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717123685"
+    "gnaf_pid": "GATAS717123685",
+    "ee": true
    }
   },
   {
@@ -10141,7 +10713,8 @@
     "locID": "LOC000043684239",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717124027"
+    "gnaf_pid": "GATAS717124027",
+    "ee": true
    }
   },
   {
@@ -10158,7 +10731,8 @@
     "locID": "LOC000176252728",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717124028"
+    "gnaf_pid": "GATAS717124028",
+    "ee": true
    }
   },
   {
@@ -10175,7 +10749,8 @@
     "locID": "LOC000096493568",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717124029"
+    "gnaf_pid": "GATAS717124029",
+    "ee": true
    }
   },
   {
@@ -10192,7 +10767,8 @@
     "locID": "LOC000047040197",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717233532"
+    "gnaf_pid": "GATAS717233532",
+    "ee": true
    }
   },
   {
@@ -10209,7 +10785,8 @@
     "locID": "LOC000133586333",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717233533"
+    "gnaf_pid": "GATAS717233533",
+    "ee": true
    }
   },
   {
@@ -10226,7 +10803,8 @@
     "locID": "LOC000176252728",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717233534"
+    "gnaf_pid": "GATAS717233534",
+    "ee": true
    }
   },
   {
@@ -10243,7 +10821,8 @@
     "locID": "LOC000003539892",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717233535"
+    "gnaf_pid": "GATAS717233535",
+    "ee": true
    }
   },
   {
@@ -10260,7 +10839,8 @@
     "locID": "LOC000068164711",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717233536"
+    "gnaf_pid": "GATAS717233536",
+    "ee": true
    }
   },
   {
@@ -10277,7 +10857,8 @@
     "locID": "LOC000060216753",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717235792"
+    "gnaf_pid": "GATAS717235792",
+    "ee": true
    }
   },
   {
@@ -10294,7 +10875,8 @@
     "locID": "LOC000104544442",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717235794"
+    "gnaf_pid": "GATAS717235794",
+    "ee": true
    }
   },
   {
@@ -10311,7 +10893,8 @@
     "locID": "LOC000025116083",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717235795"
+    "gnaf_pid": "GATAS717235795",
+    "ee": true
    }
   },
   {
@@ -10328,7 +10911,8 @@
     "locID": "LOC000040520244",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717235796"
+    "gnaf_pid": "GATAS717235796",
+    "ee": true
    }
   },
   {
@@ -10345,7 +10929,8 @@
     "locID": "LOC000014234342",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717240654"
+    "gnaf_pid": "GATAS717240654",
+    "ee": true
    }
   },
   {
@@ -10362,7 +10947,8 @@
     "locID": "LOC000014296414",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717240655"
+    "gnaf_pid": "GATAS717240655",
+    "ee": true
    }
   },
   {
@@ -10379,7 +10965,8 @@
     "locID": "LOC000028305410",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717317601"
+    "gnaf_pid": "GATAS717317601",
+    "ee": true
    }
   },
   {
@@ -10397,6 +10984,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717317978",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10417,6 +11005,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717317979",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10436,7 +11025,8 @@
     "locID": "LOC000058545027",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717318645"
+    "gnaf_pid": "GATAS717318645",
+    "ee": true
    }
   },
   {
@@ -10453,7 +11043,8 @@
     "locID": "LOC000050172897",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717491043"
+    "gnaf_pid": "GATAS717491043",
+    "ee": true
    }
   },
   {
@@ -10470,7 +11061,8 @@
     "locID": "LOC000050483314",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717491044"
+    "gnaf_pid": "GATAS717491044",
+    "ee": true
    }
   },
   {
@@ -10487,7 +11079,8 @@
     "locID": "LOC000050040058",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717491045"
+    "gnaf_pid": "GATAS717491045",
+    "ee": true
    }
   },
   {
@@ -10504,7 +11097,8 @@
     "locID": "LOC000050982349",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717609184"
+    "gnaf_pid": "GATAS717609184",
+    "ee": true
    }
   },
   {
@@ -10521,7 +11115,8 @@
     "locID": "LOC000116522401",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717609185"
+    "gnaf_pid": "GATAS717609185",
+    "ee": true
    }
   },
   {
@@ -10539,6 +11134,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717609437",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10558,7 +11154,8 @@
     "locID": "LOC000133586295",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717615533"
+    "gnaf_pid": "GATAS717615533",
+    "ee": true
    }
   },
   {
@@ -10576,6 +11173,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717615638",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10595,7 +11193,8 @@
     "locID": "LOC000112442817",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717615642"
+    "gnaf_pid": "GATAS717615642",
+    "ee": true
    }
   },
   {
@@ -10612,7 +11211,8 @@
     "locID": "LOC000133593644",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717615829"
+    "gnaf_pid": "GATAS717615829",
+    "ee": true
    }
   },
   {
@@ -10629,7 +11229,8 @@
     "locID": "LOC000133593692",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717615830"
+    "gnaf_pid": "GATAS717615830",
+    "ee": true
    }
   },
   {
@@ -10646,7 +11247,8 @@
     "locID": "LOC000133606288",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717615831"
+    "gnaf_pid": "GATAS717615831",
+    "ee": true
    }
   },
   {
@@ -10663,7 +11265,8 @@
     "locID": "LOC000060216753",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717738757"
+    "gnaf_pid": "GATAS717738757",
+    "ee": true
    }
   },
   {
@@ -10680,7 +11283,8 @@
     "locID": "LOC000058545027",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717739270"
+    "gnaf_pid": "GATAS717739270",
+    "ee": true
    }
   },
   {
@@ -10697,7 +11301,8 @@
     "locID": "LOC000087211501",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717912434"
+    "gnaf_pid": "GATAS717912434",
+    "ee": true
    }
   },
   {
@@ -10714,7 +11319,8 @@
     "locID": "LOC000030171333",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717912435"
+    "gnaf_pid": "GATAS717912435",
+    "ee": true
    }
   },
   {
@@ -10731,7 +11337,8 @@
     "locID": "LOC000062475780",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717912436"
+    "gnaf_pid": "GATAS717912436",
+    "ee": true
    }
   },
   {
@@ -10748,7 +11355,8 @@
     "locID": "LOC000099254896",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717912437"
+    "gnaf_pid": "GATAS717912437",
+    "ee": true
    }
   },
   {
@@ -10765,7 +11373,8 @@
     "locID": "LOC000048087231",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717912439"
+    "gnaf_pid": "GATAS717912439",
+    "ee": true
    }
   },
   {
@@ -10783,6 +11392,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717912515",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10803,6 +11413,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717912516",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10822,7 +11433,8 @@
     "locID": "LOC000133586540",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717912662"
+    "gnaf_pid": "GATAS717912662",
+    "ee": true
    }
   },
   {
@@ -10839,7 +11451,8 @@
     "locID": "LOC000133590205",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717912663"
+    "gnaf_pid": "GATAS717912663",
+    "ee": true
    }
   },
   {
@@ -10856,7 +11469,8 @@
     "locID": "LOC000133590233",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717912664"
+    "gnaf_pid": "GATAS717912664",
+    "ee": true
    }
   },
   {
@@ -10873,7 +11487,8 @@
     "locID": "LOC000133590279",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717912665"
+    "gnaf_pid": "GATAS717912665",
+    "ee": true
    }
   },
   {
@@ -10890,7 +11505,8 @@
     "locID": "LOC000111216506",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717912666"
+    "gnaf_pid": "GATAS717912666",
+    "ee": true
    }
   },
   {
@@ -10907,7 +11523,8 @@
     "locID": "LOC000133590298",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717912667"
+    "gnaf_pid": "GATAS717912667",
+    "ee": true
    }
   },
   {
@@ -10924,7 +11541,8 @@
     "locID": "LOC000133590308",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717912668"
+    "gnaf_pid": "GATAS717912668",
+    "ee": true
    }
   },
   {
@@ -10942,6 +11560,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717913624",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10961,7 +11580,8 @@
     "locID": "LOC000133586305",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913665"
+    "gnaf_pid": "GATAS717913665",
+    "ee": true
    }
   },
   {
@@ -10978,7 +11598,8 @@
     "locID": "LOC000110739319",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913666"
+    "gnaf_pid": "GATAS717913666",
+    "ee": true
    }
   },
   {
@@ -10995,7 +11616,8 @@
     "locID": "LOC000054136313",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913667"
+    "gnaf_pid": "GATAS717913667",
+    "ee": true
    }
   },
   {
@@ -11012,7 +11634,8 @@
     "locID": "LOC000181794564",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913668"
+    "gnaf_pid": "GATAS717913668",
+    "ee": true
    }
   },
   {
@@ -11029,7 +11652,8 @@
     "locID": "LOC000110298692",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913669"
+    "gnaf_pid": "GATAS717913669",
+    "ee": true
    }
   },
   {
@@ -11046,7 +11670,8 @@
     "locID": "LOC000133586367",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913670"
+    "gnaf_pid": "GATAS717913670",
+    "ee": true
    }
   },
   {
@@ -11063,7 +11688,8 @@
     "locID": "LOC000133586398",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913671"
+    "gnaf_pid": "GATAS717913671",
+    "ee": true
    }
   },
   {
@@ -11080,7 +11706,8 @@
     "locID": "LOC000133586426",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913672"
+    "gnaf_pid": "GATAS717913672",
+    "ee": true
    }
   },
   {
@@ -11097,7 +11724,8 @@
     "locID": "LOC000133586442",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913673"
+    "gnaf_pid": "GATAS717913673",
+    "ee": true
    }
   },
   {
@@ -11114,7 +11742,8 @@
     "locID": "LOC000133586457",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913674"
+    "gnaf_pid": "GATAS717913674",
+    "ee": true
    }
   },
   {
@@ -11131,7 +11760,8 @@
     "locID": "LOC000111551932",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913675"
+    "gnaf_pid": "GATAS717913675",
+    "ee": true
    }
   },
   {
@@ -11148,7 +11778,8 @@
     "locID": "LOC000110658355",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913676"
+    "gnaf_pid": "GATAS717913676",
+    "ee": true
    }
   },
   {
@@ -11165,7 +11796,8 @@
     "locID": "LOC000133586538",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913677"
+    "gnaf_pid": "GATAS717913677",
+    "ee": true
    }
   },
   {
@@ -11182,7 +11814,8 @@
     "locID": "LOC000180082524",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913678"
+    "gnaf_pid": "GATAS717913678",
+    "ee": true
    }
   },
   {
@@ -11199,7 +11832,8 @@
     "locID": "LOC000133590280",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913679"
+    "gnaf_pid": "GATAS717913679",
+    "ee": true
    }
   },
   {
@@ -11216,7 +11850,8 @@
     "locID": "LOC000133590312",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913680"
+    "gnaf_pid": "GATAS717913680",
+    "ee": true
    }
   },
   {
@@ -11233,7 +11868,8 @@
     "locID": "LOC000133590320",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717913681"
+    "gnaf_pid": "GATAS717913681",
+    "ee": true
    }
   },
   {
@@ -11251,6 +11887,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717914453",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -11270,7 +11907,8 @@
     "locID": "LOC000032512589",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717933225"
+    "gnaf_pid": "GATAS717933225",
+    "ee": true
    }
   },
   {
@@ -11287,7 +11925,8 @@
     "locID": "LOC000026758940",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717933226"
+    "gnaf_pid": "GATAS717933226",
+    "ee": true
    }
   },
   {
@@ -11304,7 +11943,8 @@
     "locID": "LOC000082181553",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717933227"
+    "gnaf_pid": "GATAS717933227",
+    "ee": true
    }
   },
   {
@@ -11321,7 +11961,8 @@
     "locID": "LOC000084635175",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717933228"
+    "gnaf_pid": "GATAS717933228",
+    "ee": true
    }
   },
   {
@@ -11338,7 +11979,8 @@
     "locID": "LOC000010139043",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717933229"
+    "gnaf_pid": "GATAS717933229",
+    "ee": true
    }
   },
   {
@@ -11355,7 +11997,8 @@
     "locID": "LOC000047493088",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717933230"
+    "gnaf_pid": "GATAS717933230",
+    "ee": true
    }
   },
   {
@@ -11372,7 +12015,8 @@
     "locID": "LOC000052032044",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717933231"
+    "gnaf_pid": "GATAS717933231",
+    "ee": true
    }
   },
   {
@@ -11389,7 +12033,8 @@
     "locID": "LOC000026687561",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717940192"
+    "gnaf_pid": "GATAS717940192",
+    "ee": true
    }
   },
   {
@@ -11406,7 +12051,8 @@
     "locID": "LOC000026766265",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717940193"
+    "gnaf_pid": "GATAS717940193",
+    "ee": true
    }
   },
   {
@@ -11423,7 +12069,8 @@
     "locID": "LOC000026642637",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717940194"
+    "gnaf_pid": "GATAS717940194",
+    "ee": true
    }
   },
   {
@@ -11440,7 +12087,8 @@
     "locID": "LOC000026642637",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS717990359"
+    "gnaf_pid": "GATAS717990359",
+    "ee": true
    }
   },
   {
@@ -11458,6 +12106,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS717991019",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -11478,6 +12127,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS718019400",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -11497,7 +12147,8 @@
     "locID": "LOC000110486498",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062114"
+    "gnaf_pid": "GATAS718062114",
+    "ee": true
    }
   },
   {
@@ -11514,7 +12165,8 @@
     "locID": "LOC000196182306",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062115"
+    "gnaf_pid": "GATAS718062115",
+    "ee": true
    }
   },
   {
@@ -11531,7 +12183,8 @@
     "locID": "LOC000110430110",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062116"
+    "gnaf_pid": "GATAS718062116",
+    "ee": true
    }
   },
   {
@@ -11548,7 +12201,8 @@
     "locID": "LOC000112427717",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062117"
+    "gnaf_pid": "GATAS718062117",
+    "ee": true
    }
   },
   {
@@ -11565,7 +12219,8 @@
     "locID": "LOC000113756186",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062118"
+    "gnaf_pid": "GATAS718062118",
+    "ee": true
    }
   },
   {
@@ -11582,7 +12237,8 @@
     "locID": "LOC000110801374",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062119"
+    "gnaf_pid": "GATAS718062119",
+    "ee": true
    }
   },
   {
@@ -11599,7 +12255,8 @@
     "locID": "LOC000113833618",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062120"
+    "gnaf_pid": "GATAS718062120",
+    "ee": true
    }
   },
   {
@@ -11616,7 +12273,8 @@
     "locID": "LOC000113915255",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062121"
+    "gnaf_pid": "GATAS718062121",
+    "ee": true
    }
   },
   {
@@ -11633,7 +12291,8 @@
     "locID": "LOC000112068453",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062122"
+    "gnaf_pid": "GATAS718062122",
+    "ee": true
    }
   },
   {
@@ -11650,7 +12309,8 @@
     "locID": "LOC000112164098",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062123"
+    "gnaf_pid": "GATAS718062123",
+    "ee": true
    }
   },
   {
@@ -11667,7 +12327,8 @@
     "locID": "LOC000113498820",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062124"
+    "gnaf_pid": "GATAS718062124",
+    "ee": true
    }
   },
   {
@@ -11684,7 +12345,8 @@
     "locID": "LOC000175681645",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062417"
+    "gnaf_pid": "GATAS718062417",
+    "ee": true
    }
   },
   {
@@ -11701,7 +12363,8 @@
     "locID": "LOC000175681595",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062418"
+    "gnaf_pid": "GATAS718062418",
+    "ee": true
    }
   },
   {
@@ -11718,7 +12381,8 @@
     "locID": "LOC000193517057",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062419"
+    "gnaf_pid": "GATAS718062419",
+    "ee": true
    }
   },
   {
@@ -11735,7 +12399,8 @@
     "locID": "LOC000175681645",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062420"
+    "gnaf_pid": "GATAS718062420",
+    "ee": true
    }
   },
   {
@@ -11752,7 +12417,8 @@
     "locID": "LOC000110568122",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062421"
+    "gnaf_pid": "GATAS718062421",
+    "ee": true
    }
   },
   {
@@ -11769,7 +12435,8 @@
     "locID": "LOC000111286722",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062423"
+    "gnaf_pid": "GATAS718062423",
+    "ee": true
    }
   },
   {
@@ -11786,7 +12453,8 @@
     "locID": "LOC000177801614",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062424"
+    "gnaf_pid": "GATAS718062424",
+    "ee": true
    }
   },
   {
@@ -11803,7 +12471,8 @@
     "locID": "LOC000191229846",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062425"
+    "gnaf_pid": "GATAS718062425",
+    "ee": true
    }
   },
   {
@@ -11820,7 +12489,8 @@
     "locID": "LOC000112119839",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062426"
+    "gnaf_pid": "GATAS718062426",
+    "ee": true
    }
   },
   {
@@ -11837,7 +12507,8 @@
     "locID": "LOC000110451790",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062868"
+    "gnaf_pid": "GATAS718062868",
+    "ee": true
    }
   },
   {
@@ -11854,7 +12525,8 @@
     "locID": "LOC000113459506",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062869"
+    "gnaf_pid": "GATAS718062869",
+    "ee": true
    }
   },
   {
@@ -11871,7 +12543,8 @@
     "locID": "LOC000113644335",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062870"
+    "gnaf_pid": "GATAS718062870",
+    "ee": true
    }
   },
   {
@@ -11888,7 +12561,8 @@
     "locID": "LOC000111616000",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062871"
+    "gnaf_pid": "GATAS718062871",
+    "ee": true
    }
   },
   {
@@ -11905,7 +12579,8 @@
     "locID": "LOC000111303565",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062872"
+    "gnaf_pid": "GATAS718062872",
+    "ee": true
    }
   },
   {
@@ -11922,7 +12597,8 @@
     "locID": "LOC000110378633",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718062873"
+    "gnaf_pid": "GATAS718062873",
+    "ee": true
    }
   },
   {
@@ -11939,7 +12615,8 @@
     "locID": "LOC000184626720",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718063583"
+    "gnaf_pid": "GATAS718063583",
+    "ee": true
    }
   },
   {
@@ -11956,7 +12633,8 @@
     "locID": "LOC000113968831",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718093456"
+    "gnaf_pid": "GATAS718093456",
+    "ee": true
    }
   },
   {
@@ -11973,7 +12651,8 @@
     "locID": "LOC000110740858",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718093457"
+    "gnaf_pid": "GATAS718093457",
+    "ee": true
    }
   },
   {
@@ -11990,7 +12669,8 @@
     "locID": "LOC100057912569",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718093458"
+    "gnaf_pid": "GATAS718093458",
+    "ee": true
    }
   },
   {
@@ -12007,7 +12687,8 @@
     "locID": "LOC000113841090",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718093459"
+    "gnaf_pid": "GATAS718093459",
+    "ee": true
    }
   },
   {
@@ -12024,7 +12705,8 @@
     "locID": "LOC000111799144",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718093460"
+    "gnaf_pid": "GATAS718093460",
+    "ee": true
    }
   },
   {
@@ -12041,7 +12723,8 @@
     "locID": "LOC000112790951",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718093548"
+    "gnaf_pid": "GATAS718093548",
+    "ee": true
    }
   },
   {
@@ -12058,7 +12741,8 @@
     "locID": "LOC000133586490",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718110946"
+    "gnaf_pid": "GATAS718110946",
+    "ee": true
    }
   },
   {
@@ -12075,7 +12759,8 @@
     "locID": "LOC000133590116",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718182391"
+    "gnaf_pid": "GATAS718182391",
+    "ee": true
    }
   },
   {
@@ -12092,7 +12777,8 @@
     "locID": "LOC000133590128",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718182392"
+    "gnaf_pid": "GATAS718182392",
+    "ee": true
    }
   },
   {
@@ -12109,7 +12795,8 @@
     "locID": "LOC000133590137",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718182393"
+    "gnaf_pid": "GATAS718182393",
+    "ee": true
    }
   },
   {
@@ -12126,7 +12813,8 @@
     "locID": "LOC000133590144",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718182394"
+    "gnaf_pid": "GATAS718182394",
+    "ee": true
    }
   },
   {
@@ -12143,7 +12831,8 @@
     "locID": "LOC000133590159",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718182395"
+    "gnaf_pid": "GATAS718182395",
+    "ee": true
    }
   },
   {
@@ -12160,7 +12849,8 @@
     "locID": "LOC000133590171",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718182397"
+    "gnaf_pid": "GATAS718182397",
+    "ee": true
    }
   },
   {
@@ -12177,7 +12867,8 @@
     "locID": "LOC000133590185",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718182398"
+    "gnaf_pid": "GATAS718182398",
+    "ee": true
    }
   },
   {
@@ -12194,7 +12885,8 @@
     "locID": "LOC000050982349",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718183940"
+    "gnaf_pid": "GATAS718183940",
+    "ee": true
    }
   },
   {
@@ -12211,7 +12903,8 @@
     "locID": "LOC000012634309",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718245729"
+    "gnaf_pid": "GATAS718245729",
+    "ee": true
    }
   },
   {
@@ -12228,7 +12921,8 @@
     "locID": "LOC000133586517",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718336343"
+    "gnaf_pid": "GATAS718336343",
+    "ee": true
    }
   },
   {
@@ -12245,7 +12939,8 @@
     "locID": "LOC000168863372",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718336883"
+    "gnaf_pid": "GATAS718336883",
+    "ee": true
    }
   },
   {
@@ -12262,7 +12957,8 @@
     "locID": "LOC000133582570",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718336884"
+    "gnaf_pid": "GATAS718336884",
+    "ee": true
    }
   },
   {
@@ -12279,7 +12975,8 @@
     "locID": "LOC000133582589",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718336885"
+    "gnaf_pid": "GATAS718336885",
+    "ee": true
    }
   },
   {
@@ -12296,7 +12993,8 @@
     "locID": "LOC000133582591",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718336886"
+    "gnaf_pid": "GATAS718336886",
+    "ee": true
    }
   },
   {
@@ -12313,7 +13011,8 @@
     "locID": "LOC000133582602",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718336887"
+    "gnaf_pid": "GATAS718336887",
+    "ee": true
    }
   },
   {
@@ -12330,7 +13029,8 @@
     "locID": "LOC000133582562",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718336888"
+    "gnaf_pid": "GATAS718336888",
+    "ee": true
    }
   },
   {
@@ -12348,6 +13048,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS718337158",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -12367,7 +13068,8 @@
     "locID": "LOC000137147856",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718385641"
+    "gnaf_pid": "GATAS718385641",
+    "ee": true
    }
   },
   {
@@ -12384,7 +13086,8 @@
     "locID": "LOC000170152355",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718386163"
+    "gnaf_pid": "GATAS718386163",
+    "ee": true
    }
   },
   {
@@ -12401,7 +13104,8 @@
     "locID": "LOC000144373144",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718394074"
+    "gnaf_pid": "GATAS718394074",
+    "ee": true
    }
   },
   {
@@ -12419,6 +13123,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS718398170",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -12438,7 +13143,8 @@
     "locID": "LOC000168863329",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718479687"
+    "gnaf_pid": "GATAS718479687",
+    "ee": true
    }
   },
   {
@@ -12455,7 +13161,8 @@
     "locID": "LOC000168863338",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718479688"
+    "gnaf_pid": "GATAS718479688",
+    "ee": true
    }
   },
   {
@@ -12472,7 +13179,8 @@
     "locID": "LOC000144372943",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718479690"
+    "gnaf_pid": "GATAS718479690",
+    "ee": true
    }
   },
   {
@@ -12489,7 +13197,8 @@
     "locID": "LOC000144372958",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718479691"
+    "gnaf_pid": "GATAS718479691",
+    "ee": true
    }
   },
   {
@@ -12506,7 +13215,8 @@
     "locID": "LOC000133582562",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718479692"
+    "gnaf_pid": "GATAS718479692",
+    "ee": true
    }
   },
   {
@@ -12523,7 +13233,8 @@
     "locID": "LOC000144372962",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718480396"
+    "gnaf_pid": "GATAS718480396",
+    "ee": true
    }
   },
   {
@@ -12540,7 +13251,8 @@
     "locID": "LOC000168863355",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718480397"
+    "gnaf_pid": "GATAS718480397",
+    "ee": true
    }
   },
   {
@@ -12557,7 +13269,8 @@
     "locID": "LOC000168863317",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718480398"
+    "gnaf_pid": "GATAS718480398",
+    "ee": true
    }
   },
   {
@@ -12574,7 +13287,8 @@
     "locID": "LOC000168863340",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718480559"
+    "gnaf_pid": "GATAS718480559",
+    "ee": true
    }
   },
   {
@@ -12591,7 +13305,8 @@
     "locID": "LOC000168863364",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718480560"
+    "gnaf_pid": "GATAS718480560",
+    "ee": true
    }
   },
   {
@@ -12608,7 +13323,8 @@
     "locID": "LOC000168863372",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718480561"
+    "gnaf_pid": "GATAS718480561",
+    "ee": true
    }
   },
   {
@@ -12625,7 +13341,8 @@
     "locID": "LOC000168863386",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718480562"
+    "gnaf_pid": "GATAS718480562",
+    "ee": true
    }
   },
   {
@@ -12642,7 +13359,8 @@
     "locID": "LOC000168863393",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718480563"
+    "gnaf_pid": "GATAS718480563",
+    "ee": true
    }
   },
   {
@@ -12659,7 +13377,8 @@
     "locID": "LOC000168863408",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718480564"
+    "gnaf_pid": "GATAS718480564",
+    "ee": true
    }
   },
   {
@@ -12676,7 +13395,8 @@
     "locID": "LOC000168863412",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718480565"
+    "gnaf_pid": "GATAS718480565",
+    "ee": true
    }
   },
   {
@@ -12693,7 +13413,8 @@
     "locID": "LOC000170152355",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718480566"
+    "gnaf_pid": "GATAS718480566",
+    "ee": true
    }
   },
   {
@@ -12710,7 +13431,8 @@
     "locID": "LOC000170152355",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718480567"
+    "gnaf_pid": "GATAS718480567",
+    "ee": true
    }
   },
   {
@@ -12727,7 +13449,8 @@
     "locID": "LOC000147975409",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718658907"
+    "gnaf_pid": "GATAS718658907",
+    "ee": true
    }
   },
   {
@@ -12744,7 +13467,8 @@
     "locID": "LOC000147975394",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718658908"
+    "gnaf_pid": "GATAS718658908",
+    "ee": true
    }
   },
   {
@@ -12761,7 +13485,8 @@
     "locID": "LOC000147975360",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718658909"
+    "gnaf_pid": "GATAS718658909",
+    "ee": true
    }
   },
   {
@@ -12778,7 +13503,8 @@
     "locID": "LOC000147975432",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718658910"
+    "gnaf_pid": "GATAS718658910",
+    "ee": true
    }
   },
   {
@@ -12795,7 +13521,8 @@
     "locID": "LOC000147975356",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718658911"
+    "gnaf_pid": "GATAS718658911",
+    "ee": true
    }
   },
   {
@@ -12812,7 +13539,8 @@
     "locID": "LOC000147975421",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718658912"
+    "gnaf_pid": "GATAS718658912",
+    "ee": true
    }
   },
   {
@@ -12829,7 +13557,8 @@
     "locID": "LOC000147975373",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718658913"
+    "gnaf_pid": "GATAS718658913",
+    "ee": true
    }
   },
   {
@@ -12846,7 +13575,8 @@
     "locID": "LOC000147975413",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718658914"
+    "gnaf_pid": "GATAS718658914",
+    "ee": true
    }
   },
   {
@@ -12863,7 +13593,8 @@
     "locID": "LOC000147975387",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718658915"
+    "gnaf_pid": "GATAS718658915",
+    "ee": true
    }
   },
   {
@@ -12880,7 +13611,8 @@
     "locID": "LOC000145097414",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718670836"
+    "gnaf_pid": "GATAS718670836",
+    "ee": true
    }
   },
   {
@@ -12897,7 +13629,8 @@
     "locID": "LOC000144301538",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718670837"
+    "gnaf_pid": "GATAS718670837",
+    "ee": true
    }
   },
   {
@@ -12914,7 +13647,8 @@
     "locID": "LOC000188484882",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718670838"
+    "gnaf_pid": "GATAS718670838",
+    "ee": true
    }
   },
   {
@@ -12931,7 +13665,8 @@
     "locID": "LOC000188484882",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718670839"
+    "gnaf_pid": "GATAS718670839",
+    "ee": true
    }
   },
   {
@@ -12948,7 +13683,8 @@
     "locID": "LOC000160449622",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718670840"
+    "gnaf_pid": "GATAS718670840",
+    "ee": true
    }
   },
   {
@@ -12965,7 +13701,8 @@
     "locID": "LOC000177210728",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718670841"
+    "gnaf_pid": "GATAS718670841",
+    "ee": true
    }
   },
   {
@@ -12982,7 +13719,8 @@
     "locID": "LOC000155350013",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718670842"
+    "gnaf_pid": "GATAS718670842",
+    "ee": true
    }
   },
   {
@@ -12999,7 +13737,8 @@
     "locID": "LOC000149777768",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS718711004"
+    "gnaf_pid": "GATAS718711004",
+    "ee": true
    }
   },
   {
@@ -13017,6 +13756,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS718875216",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -13036,7 +13776,8 @@
     "locID": "LOC000176002650",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145206"
+    "gnaf_pid": "GATAS719145206",
+    "ee": true
    }
   },
   {
@@ -13053,7 +13794,8 @@
     "locID": "LOC000176002915",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145226"
+    "gnaf_pid": "GATAS719145226",
+    "ee": true
    }
   },
   {
@@ -13070,7 +13812,8 @@
     "locID": "LOC000176002645",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145232"
+    "gnaf_pid": "GATAS719145232",
+    "ee": true
    }
   },
   {
@@ -13087,7 +13830,8 @@
     "locID": "LOC000176002621",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145294"
+    "gnaf_pid": "GATAS719145294",
+    "ee": true
    }
   },
   {
@@ -13104,7 +13848,8 @@
     "locID": "LOC000176002943",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145316"
+    "gnaf_pid": "GATAS719145316",
+    "ee": true
    }
   },
   {
@@ -13121,7 +13866,8 @@
     "locID": "LOC000176003042",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145350"
+    "gnaf_pid": "GATAS719145350",
+    "ee": true
    }
   },
   {
@@ -13138,7 +13884,8 @@
     "locID": "LOC000176002927",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145403"
+    "gnaf_pid": "GATAS719145403",
+    "ee": true
    }
   },
   {
@@ -13155,7 +13902,8 @@
     "locID": "LOC000176002632",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145471"
+    "gnaf_pid": "GATAS719145471",
+    "ee": true
    }
   },
   {
@@ -13172,7 +13920,8 @@
     "locID": "LOC000176002936",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145496"
+    "gnaf_pid": "GATAS719145496",
+    "ee": true
    }
   },
   {
@@ -13189,7 +13938,8 @@
     "locID": "LOC000176002962",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145590"
+    "gnaf_pid": "GATAS719145590",
+    "ee": true
    }
   },
   {
@@ -13206,7 +13956,8 @@
     "locID": "LOC000176002613",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145655"
+    "gnaf_pid": "GATAS719145655",
+    "ee": true
    }
   },
   {
@@ -13223,7 +13974,8 @@
     "locID": "LOC000176002697",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145673"
+    "gnaf_pid": "GATAS719145673",
+    "ee": true
    }
   },
   {
@@ -13240,7 +13992,8 @@
     "locID": "LOC000176002991",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145768"
+    "gnaf_pid": "GATAS719145768",
+    "ee": true
    }
   },
   {
@@ -13257,7 +14010,8 @@
     "locID": "LOC000176002970",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145830"
+    "gnaf_pid": "GATAS719145830",
+    "ee": true
    }
   },
   {
@@ -13274,7 +14028,8 @@
     "locID": "LOC000176002958",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719145842"
+    "gnaf_pid": "GATAS719145842",
+    "ee": true
    }
   },
   {
@@ -13291,7 +14046,8 @@
     "locID": "LOC000149777710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719381395"
+    "gnaf_pid": "GATAS719381395",
+    "ee": true
    }
   },
   {
@@ -13308,7 +14064,8 @@
     "locID": "LOC000149777752",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719381435"
+    "gnaf_pid": "GATAS719381435",
+    "ee": true
    }
   },
   {
@@ -13326,6 +14083,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS719381711",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -13345,7 +14103,8 @@
     "locID": "LOC000149777723",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719381758"
+    "gnaf_pid": "GATAS719381758",
+    "ee": true
    }
   },
   {
@@ -13362,7 +14121,8 @@
     "locID": "LOC000149777734",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719381928"
+    "gnaf_pid": "GATAS719381928",
+    "ee": true
    }
   },
   {
@@ -13379,7 +14139,8 @@
     "locID": "LOC000149777747",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719385344"
+    "gnaf_pid": "GATAS719385344",
+    "ee": true
    }
   },
   {
@@ -13396,7 +14157,8 @@
     "locID": "LOC000133593644",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719401532"
+    "gnaf_pid": "GATAS719401532",
+    "ee": true
    }
   },
   {
@@ -13413,7 +14175,8 @@
     "locID": "LOC000133593644",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719401599"
+    "gnaf_pid": "GATAS719401599",
+    "ee": true
    }
   },
   {
@@ -13430,7 +14193,8 @@
     "locID": "LOC000133593644",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719401708"
+    "gnaf_pid": "GATAS719401708",
+    "ee": true
    }
   },
   {
@@ -13447,7 +14211,8 @@
     "locID": "LOC000149777768",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719672313"
+    "gnaf_pid": "GATAS719672313",
+    "ee": true
    }
   },
   {
@@ -13464,7 +14229,8 @@
     "locID": "LOC000149777775",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719672398"
+    "gnaf_pid": "GATAS719672398",
+    "ee": true
    }
   },
   {
@@ -13481,7 +14247,8 @@
     "locID": "LOC000149777706",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719672502"
+    "gnaf_pid": "GATAS719672502",
+    "ee": true
    }
   },
   {
@@ -13498,7 +14265,8 @@
     "locID": "LOC000181267504",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719672534"
+    "gnaf_pid": "GATAS719672534",
+    "ee": true
    }
   },
   {
@@ -13515,7 +14283,8 @@
     "locID": "LOC000173274702",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719672550"
+    "gnaf_pid": "GATAS719672550",
+    "ee": true
    }
   },
   {
@@ -13532,7 +14301,8 @@
     "locID": "LOC000165825172",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719672807"
+    "gnaf_pid": "GATAS719672807",
+    "ee": true
    }
   },
   {
@@ -13549,7 +14319,8 @@
     "locID": "LOC000175681632",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719952367"
+    "gnaf_pid": "GATAS719952367",
+    "ee": true
    }
   },
   {
@@ -13567,6 +14338,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS719952662",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -13586,7 +14358,8 @@
     "locID": "LOC000175681650",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719952737"
+    "gnaf_pid": "GATAS719952737",
+    "ee": true
    }
   },
   {
@@ -13603,7 +14376,8 @@
     "locID": "LOC000175681595",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS719952865"
+    "gnaf_pid": "GATAS719952865",
+    "ee": true
    }
   },
   {
@@ -13621,6 +14395,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS720027306",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -13641,6 +14416,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS720123506",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -13661,6 +14437,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS720123547",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -13681,6 +14458,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS720123580",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -13701,6 +14479,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS720484475",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -13721,6 +14500,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS720484569",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -13741,6 +14521,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS720484894",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -13760,7 +14541,8 @@
     "locID": "LOC000177031129",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558229"
+    "gnaf_pid": "GATAS720558229",
+    "ee": true
    }
   },
   {
@@ -13777,7 +14559,8 @@
     "locID": "LOC000177030845",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558233"
+    "gnaf_pid": "GATAS720558233",
+    "ee": true
    }
   },
   {
@@ -13794,7 +14577,8 @@
     "locID": "LOC000177030832",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558300"
+    "gnaf_pid": "GATAS720558300",
+    "ee": true
    }
   },
   {
@@ -13811,7 +14595,8 @@
     "locID": "LOC000177030907",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558369"
+    "gnaf_pid": "GATAS720558369",
+    "ee": true
    }
   },
   {
@@ -13828,7 +14613,8 @@
     "locID": "LOC000177031172",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558379"
+    "gnaf_pid": "GATAS720558379",
+    "ee": true
    }
   },
   {
@@ -13845,7 +14631,8 @@
     "locID": "LOC000177030821",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558410"
+    "gnaf_pid": "GATAS720558410",
+    "ee": true
    }
   },
   {
@@ -13862,7 +14649,8 @@
     "locID": "LOC000177030809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558475"
+    "gnaf_pid": "GATAS720558475",
+    "ee": true
    }
   },
   {
@@ -13879,7 +14667,8 @@
     "locID": "LOC000177030884",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558484"
+    "gnaf_pid": "GATAS720558484",
+    "ee": true
    }
   },
   {
@@ -13896,7 +14685,8 @@
     "locID": "LOC000177031138",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558493"
+    "gnaf_pid": "GATAS720558493",
+    "ee": true
    }
   },
   {
@@ -13913,7 +14703,8 @@
     "locID": "LOC000177031117",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558540"
+    "gnaf_pid": "GATAS720558540",
+    "ee": true
    }
   },
   {
@@ -13930,7 +14721,8 @@
     "locID": "LOC000177030850",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558563"
+    "gnaf_pid": "GATAS720558563",
+    "ee": true
    }
   },
   {
@@ -13947,7 +14739,8 @@
     "locID": "LOC000177030897",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558598"
+    "gnaf_pid": "GATAS720558598",
+    "ee": true
    }
   },
   {
@@ -13964,7 +14757,8 @@
     "locID": "LOC000177030866",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558683"
+    "gnaf_pid": "GATAS720558683",
+    "ee": true
    }
   },
   {
@@ -13981,7 +14775,8 @@
     "locID": "LOC000177031155",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558717"
+    "gnaf_pid": "GATAS720558717",
+    "ee": true
    }
   },
   {
@@ -13998,7 +14793,8 @@
     "locID": "LOC000177031140",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558806"
+    "gnaf_pid": "GATAS720558806",
+    "ee": true
    }
   },
   {
@@ -14015,7 +14811,8 @@
     "locID": "LOC000184858684",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558813"
+    "gnaf_pid": "GATAS720558813",
+    "ee": true
    }
   },
   {
@@ -14032,7 +14829,8 @@
     "locID": "LOC000177030878",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558847"
+    "gnaf_pid": "GATAS720558847",
+    "ee": true
    }
   },
   {
@@ -14049,7 +14847,8 @@
     "locID": "LOC000184858678",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558917"
+    "gnaf_pid": "GATAS720558917",
+    "ee": true
    }
   },
   {
@@ -14066,7 +14865,8 @@
     "locID": "LOC000177030813",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558941"
+    "gnaf_pid": "GATAS720558941",
+    "ee": true
    }
   },
   {
@@ -14083,7 +14883,8 @@
     "locID": "LOC000177031164",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720558953"
+    "gnaf_pid": "GATAS720558953",
+    "ee": true
    }
   },
   {
@@ -14100,7 +14901,8 @@
     "locID": "LOC000176002991",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720559089"
+    "gnaf_pid": "GATAS720559089",
+    "ee": true
    }
   },
   {
@@ -14118,6 +14920,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS720712430",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -14138,6 +14941,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS720712585",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -14157,7 +14961,8 @@
     "locID": "LOC000189063505",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720951267"
+    "gnaf_pid": "GATAS720951267",
+    "ee": true
    }
   },
   {
@@ -14174,7 +14979,8 @@
     "locID": "LOC000189063522",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720951268"
+    "gnaf_pid": "GATAS720951268",
+    "ee": true
    }
   },
   {
@@ -14191,7 +14997,8 @@
     "locID": "LOC000189063465",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720951269"
+    "gnaf_pid": "GATAS720951269",
+    "ee": true
    }
   },
   {
@@ -14208,7 +15015,8 @@
     "locID": "LOC000189063454",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720951296"
+    "gnaf_pid": "GATAS720951296",
+    "ee": true
    }
   },
   {
@@ -14225,7 +15033,8 @@
     "locID": "LOC000189063496",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720951305"
+    "gnaf_pid": "GATAS720951305",
+    "ee": true
    }
   },
   {
@@ -14242,7 +15051,8 @@
     "locID": "LOC000189063483",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720951316"
+    "gnaf_pid": "GATAS720951316",
+    "ee": true
    }
   },
   {
@@ -14259,7 +15069,8 @@
     "locID": "LOC000189063514",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720951320"
+    "gnaf_pid": "GATAS720951320",
+    "ee": true
    }
   },
   {
@@ -14276,7 +15087,8 @@
     "locID": "LOC000189063431",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720951324"
+    "gnaf_pid": "GATAS720951324",
+    "ee": true
    }
   },
   {
@@ -14293,7 +15105,8 @@
     "locID": "LOC000189063477",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720951328"
+    "gnaf_pid": "GATAS720951328",
+    "ee": true
    }
   },
   {
@@ -14310,7 +15123,8 @@
     "locID": "LOC000189063546",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720951360"
+    "gnaf_pid": "GATAS720951360",
+    "ee": true
    }
   },
   {
@@ -14327,7 +15141,8 @@
     "locID": "LOC000189063449",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720951361"
+    "gnaf_pid": "GATAS720951361",
+    "ee": true
    }
   },
   {
@@ -14344,7 +15159,8 @@
     "locID": "LOC000189063533",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720951372"
+    "gnaf_pid": "GATAS720951372",
+    "ee": true
    }
   },
   {
@@ -14361,7 +15177,8 @@
     "locID": "LOC000189063514",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GATAS720951373"
+    "gnaf_pid": "GATAS720951373",
+    "ee": true
    }
   }
  ]
