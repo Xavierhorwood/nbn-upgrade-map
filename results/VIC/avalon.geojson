@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-22T13:48:45.230863",
+ "generated": "2025-06-16T19:22:39.532611",
  "suburb": "AVALON",
  "features": [
   {
@@ -17,7 +17,8 @@
     "locID": "LOC000182969900",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC410790180"
+    "gnaf_pid": "GAVIC410790180",
+    "ee": true
    }
   },
   {
@@ -34,7 +35,8 @@
     "locID": "LOC000046652405",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC410793819"
+    "gnaf_pid": "GAVIC410793819",
+    "ee": true
    }
   },
   {
@@ -52,6 +54,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GAVIC419636986",
+    "ee": true,
     "tech_change_status": "New Tech Connected",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -72,6 +75,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419637027",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -91,7 +95,8 @@
     "locID": "LOC000066894968",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419637753"
+    "gnaf_pid": "GAVIC419637753",
+    "ee": true
    }
   },
   {
@@ -108,7 +113,8 @@
     "locID": "LOC000060208181",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419640426"
+    "gnaf_pid": "GAVIC419640426",
+    "ee": true
    }
   },
   {
@@ -125,7 +131,8 @@
     "locID": "LOC000065903033",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419640427"
+    "gnaf_pid": "GAVIC419640427",
+    "ee": true
    }
   },
   {
@@ -142,7 +149,8 @@
     "locID": "LOC000029394121",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419640475"
+    "gnaf_pid": "GAVIC419640475",
+    "ee": true
    }
   },
   {
@@ -159,7 +167,8 @@
     "locID": "LOC000030296666",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419640476"
+    "gnaf_pid": "GAVIC419640476",
+    "ee": true
    }
   },
   {
@@ -177,6 +186,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419641077",
+    "ee": false,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -196,7 +206,8 @@
     "locID": "LOC000004312374",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419645581"
+    "gnaf_pid": "GAVIC419645581",
+    "ee": true
    }
   },
   {
@@ -213,7 +224,8 @@
     "locID": "LOC000083680188",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419648652"
+    "gnaf_pid": "GAVIC419648652",
+    "ee": true
    }
   },
   {
@@ -230,7 +242,8 @@
     "locID": "LOC000026016428",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419649502"
+    "gnaf_pid": "GAVIC419649502",
+    "ee": true
    }
   },
   {
@@ -247,7 +260,29 @@
     "locID": "LOC000056801674",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419649503"
+    "gnaf_pid": "GAVIC419649503",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.42581286,
+     -38.06424693
+    ]
+   },
+   "properties": {
+    "name": "310 AVALON ROAD AVALON 3212",
+    "locID": "LOC000019372018",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC419844698",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -264,7 +299,8 @@
     "locID": "LOC000002921515",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419939161"
+    "gnaf_pid": "GAVIC419939161",
+    "ee": true
    }
   },
   {
@@ -281,7 +317,8 @@
     "locID": "LOC000058540826",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419944571"
+    "gnaf_pid": "GAVIC419944571",
+    "ee": true
    }
   },
   {
@@ -299,6 +336,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419955138",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -318,7 +356,8 @@
     "locID": "LOC000093943414",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419958090"
+    "gnaf_pid": "GAVIC419958090",
+    "ee": true
    }
   },
   {
@@ -335,7 +374,8 @@
     "locID": "LOC000056991839",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419958094"
+    "gnaf_pid": "GAVIC419958094",
+    "ee": true
    }
   },
   {
@@ -352,7 +392,8 @@
     "locID": "LOC000055936511",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419958097"
+    "gnaf_pid": "GAVIC419958097",
+    "ee": true
    }
   },
   {
@@ -369,7 +410,8 @@
     "locID": "LOC000059975294",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419962838"
+    "gnaf_pid": "GAVIC419962838",
+    "ee": true
    }
   },
   {
@@ -386,7 +428,8 @@
     "locID": "LOC000093607378",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419962839"
+    "gnaf_pid": "GAVIC419962839",
+    "ee": true
    }
   },
   {
@@ -403,7 +446,8 @@
     "locID": "LOC000044751241",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419963893"
+    "gnaf_pid": "GAVIC419963893",
+    "ee": true
    }
   },
   {
@@ -421,6 +465,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420042375",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -440,7 +485,8 @@
     "locID": "LOC000031113930",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420224147"
+    "gnaf_pid": "GAVIC420224147",
+    "ee": true
    }
   },
   {
@@ -457,7 +503,8 @@
     "locID": "LOC000057137879",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420224149"
+    "gnaf_pid": "GAVIC420224149",
+    "ee": true
    }
   },
   {
@@ -474,7 +521,8 @@
     "locID": "LOC000056215005",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420224151"
+    "gnaf_pid": "GAVIC420224151",
+    "ee": true
    }
   },
   {
@@ -491,7 +539,8 @@
     "locID": "LOC000088940454",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420226987"
+    "gnaf_pid": "GAVIC420226987",
+    "ee": true
    }
   },
   {
@@ -508,7 +557,8 @@
     "locID": "LOC000044751241",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420227749"
+    "gnaf_pid": "GAVIC420227749",
+    "ee": true
    }
   },
   {
@@ -525,7 +575,8 @@
     "locID": "LOC000100579175",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420243408"
+    "gnaf_pid": "GAVIC420243408",
+    "ee": true
    }
   },
   {
@@ -542,7 +593,8 @@
     "locID": "LOC000037876226",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420246226"
+    "gnaf_pid": "GAVIC420246226",
+    "ee": true
    }
   },
   {
@@ -560,6 +612,28 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420552965",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.42964328,
+     -38.04567414
+    ]
+   },
+   "properties": {
+    "name": "75 AVALON ROAD AVALON 3212",
+    "locID": "LOC000109983387",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420555110",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -580,6 +654,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420563494",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -599,7 +674,8 @@
     "locID": "LOC000088848019",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420563502"
+    "gnaf_pid": "GAVIC420563502",
+    "ee": true
    }
   },
   {
@@ -616,7 +692,8 @@
     "locID": "LOC000060208181",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420563522"
+    "gnaf_pid": "GAVIC420563522",
+    "ee": true
    }
   },
   {
@@ -633,7 +710,8 @@
     "locID": "LOC000087531672",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420563524"
+    "gnaf_pid": "GAVIC420563524",
+    "ee": true
    }
   },
   {
@@ -650,7 +728,8 @@
     "locID": "LOC000073273529",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420563931"
+    "gnaf_pid": "GAVIC420563931",
+    "ee": true
    }
   },
   {
@@ -667,7 +746,8 @@
     "locID": "LOC000006077277",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420568367"
+    "gnaf_pid": "GAVIC420568367",
+    "ee": true
    }
   },
   {
@@ -684,7 +764,8 @@
     "locID": "LOC000030296666",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420568431"
+    "gnaf_pid": "GAVIC420568431",
+    "ee": true
    }
   },
   {
@@ -701,7 +782,8 @@
     "locID": "LOC000027730263",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420568432"
+    "gnaf_pid": "GAVIC420568432",
+    "ee": true
    }
   },
   {
@@ -718,7 +800,8 @@
     "locID": "LOC000060208181",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420568442"
+    "gnaf_pid": "GAVIC420568442",
+    "ee": true
    }
   },
   {
@@ -735,7 +818,29 @@
     "locID": "LOC000052070352",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420737420"
+    "gnaf_pid": "GAVIC420737420",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.42383233,
+     -38.07527256
+    ]
+   },
+   "properties": {
+    "name": "440 AVALON ROAD AVALON 3212",
+    "locID": "LOC000049312642",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420844680",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -752,7 +857,8 @@
     "locID": "LOC000034890028",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420844791"
+    "gnaf_pid": "GAVIC420844791",
+    "ee": true
    }
   },
   {
@@ -769,7 +875,8 @@
     "locID": "LOC000102292379",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420844792"
+    "gnaf_pid": "GAVIC420844792",
+    "ee": true
    }
   },
   {
@@ -786,7 +893,8 @@
     "locID": "LOC000124366691",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420844794"
+    "gnaf_pid": "GAVIC420844794",
+    "ee": true
    }
   },
   {
@@ -803,7 +911,8 @@
     "locID": "LOC000033473105",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420856106"
+    "gnaf_pid": "GAVIC420856106",
+    "ee": true
    }
   },
   {
@@ -820,7 +929,8 @@
     "locID": "LOC000088735863",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420858167"
+    "gnaf_pid": "GAVIC420858167",
+    "ee": true
    }
   },
   {
@@ -837,7 +947,8 @@
     "locID": "LOC000046652405",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420859022"
+    "gnaf_pid": "GAVIC420859022",
+    "ee": true
    }
   },
   {
@@ -854,7 +965,8 @@
     "locID": "LOC000084961153",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420859026"
+    "gnaf_pid": "GAVIC420859026",
+    "ee": true
    }
   },
   {
@@ -871,7 +983,8 @@
     "locID": "LOC000065640295",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420861682"
+    "gnaf_pid": "GAVIC420861682",
+    "ee": true
    }
   },
   {
@@ -888,7 +1001,8 @@
     "locID": "LOC000010220279",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420861683"
+    "gnaf_pid": "GAVIC420861683",
+    "ee": true
    }
   },
   {
@@ -905,7 +1019,8 @@
     "locID": "LOC100078188824",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420864188"
+    "gnaf_pid": "GAVIC420864188",
+    "ee": true
    }
   },
   {
@@ -922,7 +1037,8 @@
     "locID": "LOC000059685736",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420873523"
+    "gnaf_pid": "GAVIC420873523",
+    "ee": true
    }
   },
   {
@@ -939,7 +1055,8 @@
     "locID": "LOC000023551153",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420873634"
+    "gnaf_pid": "GAVIC420873634",
+    "ee": true
    }
   },
   {
@@ -956,7 +1073,8 @@
     "locID": "LOC000056923458",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421146265"
+    "gnaf_pid": "GAVIC421146265",
+    "ee": true
    }
   },
   {
@@ -973,7 +1091,8 @@
     "locID": "LOC000082194014",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421146267"
+    "gnaf_pid": "GAVIC421146267",
+    "ee": true
    }
   },
   {
@@ -990,7 +1109,8 @@
     "locID": "LOC000007982503",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421152677"
+    "gnaf_pid": "GAVIC421152677",
+    "ee": true
    }
   },
   {
@@ -1007,7 +1127,8 @@
     "locID": "LOC000046303868",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421152820"
+    "gnaf_pid": "GAVIC421152820",
+    "ee": true
    }
   },
   {
@@ -1025,6 +1146,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421160010",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1044,7 +1166,50 @@
     "locID": "LOC000094374622",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421160024"
+    "gnaf_pid": "GAVIC421160024",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.42268389,
+     -38.08382944
+    ]
+   },
+   "properties": {
+    "name": "295 AVALON ROAD AVALON 3212",
+    "locID": "LOC000071268281",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421162881",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.42964328,
+     -38.04567414
+    ]
+   },
+   "properties": {
+    "name": "275 AVALON ROAD AVALON 3212",
+    "locID": "LOC000056450276",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421162882",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -1061,7 +1226,8 @@
     "locID": "LOC000065679800",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421163468"
+    "gnaf_pid": "GAVIC421163468",
+    "ee": true
    }
   },
   {
@@ -1078,7 +1244,8 @@
     "locID": "LOC000059665700",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421165288"
+    "gnaf_pid": "GAVIC421165288",
+    "ee": true
    }
   },
   {
@@ -1095,7 +1262,8 @@
     "locID": "LOC000007160020",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421165290"
+    "gnaf_pid": "GAVIC421165290",
+    "ee": true
    }
   },
   {
@@ -1112,7 +1280,8 @@
     "locID": "LOC000080056834",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421174569"
+    "gnaf_pid": "GAVIC421174569",
+    "ee": true
    }
   },
   {
@@ -1130,6 +1299,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421174573",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1149,7 +1319,8 @@
     "locID": "LOC000027157471",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421174925"
+    "gnaf_pid": "GAVIC421174925",
+    "ee": true
    }
   },
   {
@@ -1166,7 +1337,8 @@
     "locID": "LOC000024332219",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421402059"
+    "gnaf_pid": "GAVIC421402059",
+    "ee": true
    }
   },
   {
@@ -1184,6 +1356,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421432401",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1203,7 +1376,8 @@
     "locID": "LOC000023918631",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421443185"
+    "gnaf_pid": "GAVIC421443185",
+    "ee": true
    }
   },
   {
@@ -1220,7 +1394,8 @@
     "locID": "LOC000062619608",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421454193"
+    "gnaf_pid": "GAVIC421454193",
+    "ee": true
    }
   },
   {
@@ -1237,7 +1412,8 @@
     "locID": "LOC000030136945",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421454198"
+    "gnaf_pid": "GAVIC421454198",
+    "ee": true
    }
   },
   {
@@ -1254,7 +1430,8 @@
     "locID": "LOC000075602822",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421454199"
+    "gnaf_pid": "GAVIC421454199",
+    "ee": true
    }
   },
   {
@@ -1272,6 +1449,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421464956",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1291,7 +1469,8 @@
     "locID": "LOC000061892155",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421479280"
+    "gnaf_pid": "GAVIC421479280",
+    "ee": true
    }
   },
   {
@@ -1309,6 +1488,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GAVIC421630380",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1329,6 +1509,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421644200",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1348,7 +1529,8 @@
     "locID": "LOC000092049978",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421722075"
+    "gnaf_pid": "GAVIC421722075",
+    "ee": true
    }
   },
   {
@@ -1365,7 +1547,8 @@
     "locID": "LOC000021905789",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421722076"
+    "gnaf_pid": "GAVIC421722076",
+    "ee": true
    }
   },
   {
@@ -1382,7 +1565,8 @@
     "locID": "LOC000178038422",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421747574"
+    "gnaf_pid": "GAVIC421747574",
+    "ee": true
    }
   },
   {
@@ -1399,7 +1583,8 @@
     "locID": "LOC000107569989",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421750875"
+    "gnaf_pid": "GAVIC421750875",
+    "ee": true
    }
   },
   {
@@ -1416,7 +1601,8 @@
     "locID": "LOC000073126224",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421750880"
+    "gnaf_pid": "GAVIC421750880",
+    "ee": true
    }
   },
   {
@@ -1433,7 +1619,8 @@
     "locID": "LOC000022661156",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421750885"
+    "gnaf_pid": "GAVIC421750885",
+    "ee": true
    }
   },
   {
@@ -1450,7 +1637,8 @@
     "locID": "LOC000007995840",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421765554"
+    "gnaf_pid": "GAVIC421765554",
+    "ee": true
    }
   },
   {
@@ -1468,6 +1656,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421781650",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1488,6 +1677,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421781655",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1507,7 +1697,8 @@
     "locID": "LOC000097090596",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421796090"
+    "gnaf_pid": "GAVIC421796090",
+    "ee": true
    }
   },
   {
@@ -1524,7 +1715,8 @@
     "locID": "LOC000033664105",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421796092"
+    "gnaf_pid": "GAVIC421796092",
+    "ee": true
    }
   },
   {
@@ -1542,6 +1734,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421950375",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1562,6 +1755,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424349545",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1582,6 +1776,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424349546",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1601,7 +1796,8 @@
     "locID": "LOC100078188824",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424350278"
+    "gnaf_pid": "GAVIC424350278",
+    "ee": true
    }
   },
   {
@@ -1618,7 +1814,8 @@
     "locID": "LOC100078188824",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424350279"
+    "gnaf_pid": "GAVIC424350279",
+    "ee": true
    }
   },
   {
@@ -1635,7 +1832,8 @@
     "locID": "LOC100078188824",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424350280"
+    "gnaf_pid": "GAVIC424350280",
+    "ee": true
    }
   },
   {
@@ -1652,7 +1850,8 @@
     "locID": "LOC100078188824",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424350281"
+    "gnaf_pid": "GAVIC424350281",
+    "ee": true
    }
   },
   {
@@ -1669,7 +1868,8 @@
     "locID": "LOC000178039125",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424350282"
+    "gnaf_pid": "GAVIC424350282",
+    "ee": true
    }
   },
   {
@@ -1687,6 +1887,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424353975",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1707,6 +1908,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424353977",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1726,7 +1928,8 @@
     "locID": "LOC000007160020",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424365446"
+    "gnaf_pid": "GAVIC424365446",
+    "ee": true
    }
   },
   {
@@ -1744,6 +1947,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424775508",
+    "ee": false,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1764,6 +1968,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425089935",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1783,7 +1988,8 @@
     "locID": "LOC000147203361",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425275217"
+    "gnaf_pid": "GAVIC425275217",
+    "ee": true
    }
   },
   {
@@ -1800,7 +2006,8 @@
     "locID": "LOC000147203479",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425275218"
+    "gnaf_pid": "GAVIC425275218",
+    "ee": true
    }
   },
   {
@@ -1818,6 +2025,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398824",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1838,6 +2046,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398825",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1858,6 +2067,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398829",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1878,6 +2088,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398831",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1898,6 +2109,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398837",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1918,6 +2130,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398838",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1938,6 +2151,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398839",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1958,6 +2172,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398840",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1978,6 +2193,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398841",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1998,6 +2214,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398843",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2018,6 +2235,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398844",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2038,6 +2256,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398846",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2058,6 +2277,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398847",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2078,6 +2298,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398848",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2098,6 +2319,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425398849",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2118,6 +2340,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425539112",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2138,6 +2361,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425729445",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2158,6 +2382,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC718990815",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2178,6 +2403,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC718999054",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2198,6 +2424,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719003393",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2218,6 +2445,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719010053",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2238,6 +2466,28 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719019341",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.42534265,
+     -38.06916428
+    ]
+   },
+   "properties": {
+    "name": "265 AVALON ROAD AVALON 3212",
+    "locID": "LOC000036948919",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC719429849",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2257,7 +2507,8 @@
     "locID": "LOC000183141840",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC719765404"
+    "gnaf_pid": "GAVIC719765404",
+    "ee": true
    }
   },
   {
@@ -2274,7 +2525,8 @@
     "locID": "LOC000178038433",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720558071"
+    "gnaf_pid": "GAVIC720558071",
+    "ee": true
    }
   },
   {
@@ -2291,7 +2543,8 @@
     "locID": "LOC000178038498",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720758281"
+    "gnaf_pid": "GAVIC720758281",
+    "ee": true
    }
   },
   {
@@ -2308,7 +2561,8 @@
     "locID": "LOC100081480750",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721152445"
+    "gnaf_pid": "GAVIC721152445",
+    "ee": true
    }
   },
   {
@@ -2325,7 +2579,8 @@
     "locID": "LOC100078188824",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721153625"
+    "gnaf_pid": "GAVIC721153625",
+    "ee": true
    }
   },
   {
@@ -2342,7 +2597,8 @@
     "locID": "LOC000192824722",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721154581"
+    "gnaf_pid": "GAVIC721154581",
+    "ee": true
    }
   },
   {
@@ -2359,7 +2615,8 @@
     "locID": "LOC000183141840",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721157724"
+    "gnaf_pid": "GAVIC721157724",
+    "ee": true
    }
   }
  ]

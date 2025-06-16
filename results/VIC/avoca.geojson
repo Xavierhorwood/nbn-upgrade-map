@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-22T13:52:19.178243",
+ "generated": "2025-06-16T19:25:54.292538",
  "suburb": "AVOCA",
  "features": [
   {
@@ -15,10 +15,10 @@
    "properties": {
     "name": "24 NORTH STREET AVOCA 3467",
     "locID": "LOC000059167275",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC410779416",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -36,6 +36,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410779422",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -54,6 +55,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410779699",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -72,6 +74,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410779706",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -90,6 +93,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410779711",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -108,6 +112,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410780417",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -126,6 +131,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC410780624",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -144,6 +150,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410780630",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -162,6 +169,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410782112",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -180,6 +188,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410782964",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -198,6 +207,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC410786580",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -216,6 +226,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP",
     "gnaf_pid": "GAVIC410786582",
+    "ee": true,
     "tech_change_status": "New Tech Connected"
    }
   },
@@ -234,6 +245,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410786602",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -252,6 +264,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410786614",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -270,6 +283,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC410788538",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -288,6 +302,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC410788540",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -306,6 +321,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC410791945",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -324,6 +340,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410799109",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -342,6 +359,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC410799158",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -360,6 +378,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410799167",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -378,6 +397,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410800091",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -396,6 +416,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC410803715",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -414,6 +435,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC410803716",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -432,6 +454,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC410803720",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -450,6 +473,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC410803726",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -468,6 +492,26 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410804528",
+    "ee": true,
+    "tech_change_status": "Eligible to Order"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.47890093,
+     -37.07802957
+    ]
+   },
+   "properties": {
+    "name": "63 HOMEBUSH ROAD AVOCA 3467",
+    "locID": "LOC000085413541",
+    "tech": "FTTC",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC410804578",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -486,6 +530,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410804599",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -504,6 +549,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410804612",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -522,6 +568,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC410804616",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -539,7 +586,8 @@
     "locID": "LOC000038681685",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC414345416"
+    "gnaf_pid": "GAVIC414345416",
+    "ee": true
    }
   },
   {
@@ -557,6 +605,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC414358840",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -575,6 +624,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC414358846",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -590,10 +640,10 @@
    "properties": {
     "name": "125A HIGH STREET AVOCA 3467",
     "locID": "LOC000038686145",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC414374697",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -611,6 +661,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC414384414",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -629,6 +680,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419665155",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -647,6 +699,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419665156",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -665,6 +718,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419665157",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -683,6 +737,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419665158",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -701,6 +756,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419665159",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -719,6 +775,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419665162",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -737,6 +794,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419665165",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -755,6 +813,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419665166",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -773,6 +832,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419665168",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -791,6 +851,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419667803",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -809,6 +870,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419667806",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -827,6 +889,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419667807",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -845,6 +908,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419667808",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -863,6 +927,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419667810",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -881,6 +946,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419667811",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -899,6 +965,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419667812",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -917,6 +984,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419667813",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -934,7 +1002,8 @@
     "locID": "LOC000022123143",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419667814"
+    "gnaf_pid": "GAVIC419667814",
+    "ee": true
    }
   },
   {
@@ -952,6 +1021,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419670485",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -970,6 +1040,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419670642",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -988,6 +1059,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419670643",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1006,6 +1078,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419670644",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1024,6 +1097,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419670646",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1042,6 +1116,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419674858",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1060,6 +1135,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419675700",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1078,6 +1154,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419675701",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1096,6 +1173,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419675704",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1114,6 +1192,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419675705",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1132,6 +1211,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419675707",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1150,6 +1230,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419675708",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1168,6 +1249,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419675709",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1186,6 +1268,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419675711",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1204,6 +1287,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419677697",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1221,7 +1305,8 @@
     "locID": "LOC000063690504",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419677698"
+    "gnaf_pid": "GAVIC419677698",
+    "ee": true
    }
   },
   {
@@ -1239,6 +1324,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419677699",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1257,6 +1343,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419677700",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1275,6 +1362,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419678583",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1293,6 +1381,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419721730",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1310,7 +1399,8 @@
     "locID": "LOC000124961064",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419721731"
+    "gnaf_pid": "GAVIC419721731",
+    "ee": true
    }
   },
   {
@@ -1328,6 +1418,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419725507",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1346,6 +1437,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419728109",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1364,6 +1456,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419728118",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1382,6 +1475,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419728119",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1400,6 +1494,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419728120",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1418,6 +1513,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419728121",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1436,6 +1532,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419732761",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1454,6 +1551,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419732763",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1472,6 +1570,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419737022",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1490,6 +1589,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419765675",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1505,10 +1605,10 @@
    "properties": {
     "name": "28 CAMBRIDGE STREET AVOCA 3467",
     "locID": "LOC000006848924",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419769196",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -1526,6 +1626,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419769276",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1544,6 +1645,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419769277",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1562,6 +1664,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419769278",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1580,6 +1683,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419769279",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1598,6 +1702,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP",
     "gnaf_pid": "GAVIC419769280",
+    "ee": true,
     "tech_change_status": "New Tech Connected"
    }
   },
@@ -1616,6 +1721,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419769281",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1634,6 +1740,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419769939",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1652,6 +1759,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419769940",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1670,6 +1778,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419769942",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1688,6 +1797,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419769943",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1705,7 +1815,8 @@
     "locID": "LOC000017655771",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419769944"
+    "gnaf_pid": "GAVIC419769944",
+    "ee": true
    }
   },
   {
@@ -1723,6 +1834,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419769945",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1740,7 +1852,8 @@
     "locID": "LOC000041233511",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419771190"
+    "gnaf_pid": "GAVIC419771190",
+    "ee": true
    }
   },
   {
@@ -1758,6 +1871,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419771191",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1776,6 +1890,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419771192",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1794,6 +1909,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419771193",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1812,6 +1928,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419771194",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1830,6 +1947,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419771195",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1848,6 +1966,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419824094",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1866,6 +1985,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419831743",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1884,6 +2004,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419832147",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1902,6 +2023,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419832837",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1920,6 +2042,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419835192",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1938,6 +2061,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC419835197",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -1956,6 +2080,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419847261",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -1973,7 +2098,8 @@
     "locID": "LOC000088894945",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419966045"
+    "gnaf_pid": "GAVIC419966045",
+    "ee": true
    }
   },
   {
@@ -1991,6 +2117,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419966046",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2009,6 +2136,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419966047",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2027,6 +2155,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419966048",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2045,6 +2174,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419967206",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2063,6 +2193,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419967207",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2081,6 +2212,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419975762",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2099,6 +2231,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP",
     "gnaf_pid": "GAVIC419976828",
+    "ee": true,
     "tech_change_status": "New Tech Connected"
    }
   },
@@ -2117,6 +2250,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419976829",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2135,6 +2269,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419976830",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2153,6 +2288,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419976832",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2171,6 +2307,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419976833",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2188,7 +2325,8 @@
     "locID": "LOC000104690369",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419976834"
+    "gnaf_pid": "GAVIC419976834",
+    "ee": true
    }
   },
   {
@@ -2206,6 +2344,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419976836",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2224,6 +2363,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419976837",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2242,6 +2382,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419976838",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2260,6 +2401,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419976839",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2278,6 +2420,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419977081",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2296,6 +2439,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419977084",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2314,6 +2458,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419977085",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2332,6 +2477,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419977086",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2350,6 +2496,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419977087",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2368,6 +2515,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419977088",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2386,6 +2534,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419982080",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2404,6 +2553,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419982081",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2422,6 +2572,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419982082",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2439,7 +2590,8 @@
     "locID": "LOC000056839244",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419982083"
+    "gnaf_pid": "GAVIC419982083",
+    "ee": true
    }
   },
   {
@@ -2457,6 +2609,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419982084",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2475,6 +2628,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419985633",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2493,6 +2647,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419985634",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2511,6 +2666,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419989135",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2529,6 +2685,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419989136",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2547,6 +2704,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419989137",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2565,6 +2723,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419989138",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -2583,6 +2742,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419989140",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2601,6 +2761,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419989141",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2619,6 +2780,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC419989143",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2636,7 +2798,8 @@
     "locID": "LOC000093158017",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC419991972"
+    "gnaf_pid": "GAVIC419991972",
+    "ee": true
    }
   },
   {
@@ -2654,6 +2817,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420008652",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2672,6 +2836,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420008653",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2690,6 +2855,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420012996",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2708,6 +2874,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420012997",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2726,6 +2893,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420023380",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2744,6 +2912,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420023381",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2762,6 +2931,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420025252",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2780,6 +2950,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420025253",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2798,6 +2969,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420025257",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2816,6 +2988,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420053290",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2834,6 +3007,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420056805",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2851,7 +3025,8 @@
     "locID": "LOC000088866083",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420056806"
+    "gnaf_pid": "GAVIC420056806",
+    "ee": true
    }
   },
   {
@@ -2869,6 +3044,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420056807",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2887,6 +3063,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420056808",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2905,6 +3082,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420056809",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2923,6 +3101,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420056810",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2941,6 +3120,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420056811",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -2958,7 +3138,8 @@
     "locID": "LOC000031947375",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420056816"
+    "gnaf_pid": "GAVIC420056816",
+    "ee": true
    }
   },
   {
@@ -2975,7 +3156,8 @@
     "locID": "LOC000070349387",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420056817"
+    "gnaf_pid": "GAVIC420056817",
+    "ee": true
    }
   },
   {
@@ -2993,6 +3175,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420056820",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3011,6 +3194,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420060979",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3029,6 +3213,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420062116",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3046,7 +3231,8 @@
     "locID": "LOC000053098291",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420085979"
+    "gnaf_pid": "GAVIC420085979",
+    "ee": true
    }
   },
   {
@@ -3064,6 +3250,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420085980",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3082,6 +3269,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420121912",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3099,7 +3287,8 @@
     "locID": "LOC000068479210",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420136993"
+    "gnaf_pid": "GAVIC420136993",
+    "ee": true
    }
   },
   {
@@ -3117,6 +3306,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420142904",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3135,6 +3325,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420152844",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3152,7 +3343,8 @@
     "locID": "LOC000026985771",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420152845"
+    "gnaf_pid": "GAVIC420152845",
+    "ee": true
    }
   },
   {
@@ -3170,6 +3362,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420152948",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3188,6 +3381,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420159278",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3206,6 +3400,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420255273",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3224,6 +3419,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420255275",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3241,7 +3437,8 @@
     "locID": "LOC000194997722",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420255283"
+    "gnaf_pid": "GAVIC420255283",
+    "ee": true
    }
   },
   {
@@ -3259,6 +3456,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420255284",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3277,6 +3475,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420269653",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -3295,6 +3494,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420269655",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3313,6 +3513,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420269656",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3331,6 +3532,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420269661",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3347,9 +3549,10 @@
     "name": "143 HIGH STREET AVOCA 3467",
     "locID": "LOC000076119888",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP",
     "gnaf_pid": "GAVIC420269662",
-    "tech_change_status": "Eligible to Order"
+    "ee": true,
+    "tech_change_status": "New Tech Connected"
    }
   },
   {
@@ -3367,6 +3570,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420269663",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3385,6 +3589,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420269664",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3403,6 +3608,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420269665",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3421,6 +3627,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420273167",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3439,6 +3646,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420273508",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3457,6 +3665,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420273509",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3475,6 +3684,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420273510",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3493,6 +3703,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420273512",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3511,6 +3722,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420273617",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3529,6 +3741,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420273618",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3547,6 +3760,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420273619",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3565,6 +3779,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420273621",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3583,6 +3798,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420273622",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3600,7 +3816,8 @@
     "locID": "LOC000056309076",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420274397"
+    "gnaf_pid": "GAVIC420274397",
+    "ee": true
    }
   },
   {
@@ -3618,6 +3835,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420274398",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3636,6 +3854,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420274400",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3654,6 +3873,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420274402",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3672,6 +3892,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420274403",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3690,6 +3911,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420274404",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3708,6 +3930,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420274407",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3726,6 +3949,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420274408",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3743,7 +3967,8 @@
     "locID": "LOC000081180630",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420274409"
+    "gnaf_pid": "GAVIC420274409",
+    "ee": true
    }
   },
   {
@@ -3761,6 +3986,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420274410",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3778,7 +4004,8 @@
     "locID": "LOC000021759331",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420274411"
+    "gnaf_pid": "GAVIC420274411",
+    "ee": true
    }
   },
   {
@@ -3795,7 +4022,8 @@
     "locID": "LOC000066828095",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420274412"
+    "gnaf_pid": "GAVIC420274412",
+    "ee": true
    }
   },
   {
@@ -3813,6 +4041,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420292575",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3831,6 +4060,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420328271",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3849,6 +4079,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420328272",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -3867,6 +4098,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420328273",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3885,6 +4117,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420328274",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3903,6 +4136,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420328276",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3920,7 +4154,8 @@
     "locID": "LOC000021263075",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420332286"
+    "gnaf_pid": "GAVIC420332286",
+    "ee": true
    }
   },
   {
@@ -3938,6 +4173,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420333180",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3956,6 +4192,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420335790",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3974,6 +4211,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420335791",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -3992,6 +4230,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420335792",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4010,6 +4249,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420352586",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4028,6 +4268,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420359370",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4046,6 +4287,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420366263",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4064,6 +4306,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP",
     "gnaf_pid": "GAVIC420366265",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4082,6 +4325,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420366267",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4100,6 +4344,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420367172",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4118,6 +4363,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420367173",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4136,6 +4382,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420367174",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4154,6 +4401,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420367185",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4172,6 +4420,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420367186",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4190,6 +4439,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420375133",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4208,6 +4458,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420375134",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4226,6 +4477,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420375136",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4244,6 +4496,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420415170",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4262,6 +4515,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420415174",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4280,6 +4534,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420415177",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4298,6 +4553,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420415178",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4316,6 +4572,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420416127",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4334,6 +4591,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420432586",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4351,7 +4609,8 @@
     "locID": "LOC000029410528",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420432587"
+    "gnaf_pid": "GAVIC420432587",
+    "ee": true
    }
   },
   {
@@ -4368,7 +4627,8 @@
     "locID": "LOC000086580778",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420438035"
+    "gnaf_pid": "GAVIC420438035",
+    "ee": true
    }
   },
   {
@@ -4386,6 +4646,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420441389",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4404,6 +4665,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420450657",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4419,10 +4681,10 @@
    "properties": {
     "name": "64 DUNDAS STREET AVOCA 3467",
     "locID": "LOC000166277414",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420450658",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -4439,7 +4701,8 @@
     "locID": "LOC000060392001",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420450660"
+    "gnaf_pid": "GAVIC420450660",
+    "ee": true
    }
   },
   {
@@ -4457,6 +4720,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420566969",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4475,6 +4739,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420566973",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4493,6 +4758,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420566974",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4508,10 +4774,10 @@
    "properties": {
     "name": "167 HIGH STREET AVOCA 3467",
     "locID": "LOC000032994886",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420566975",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -4529,6 +4795,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420572037",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4547,6 +4814,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420572039",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4565,6 +4833,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420572041",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4583,6 +4852,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420572042",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4601,6 +4871,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420572043",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4619,6 +4890,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420572044",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4637,6 +4909,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420572045",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4655,6 +4928,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420572046",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4673,6 +4947,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420572050",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4691,6 +4966,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420572448",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4709,6 +4985,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420572449",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4727,6 +5004,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420572450",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4745,6 +5023,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420572451",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4763,6 +5042,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420573133",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4781,6 +5061,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420573135",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4799,6 +5080,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420573136",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4817,6 +5099,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420573137",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4835,6 +5118,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420573139",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4852,7 +5136,8 @@
     "locID": "LOC000074831611",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420573140"
+    "gnaf_pid": "GAVIC420573140",
+    "ee": true
    }
   },
   {
@@ -4870,6 +5155,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420573144",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4888,6 +5174,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420574001",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4906,6 +5193,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420574828",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4924,6 +5212,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420574829",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -4942,6 +5231,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420577454",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4960,6 +5250,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420577467",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4978,6 +5269,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420577468",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -4996,6 +5288,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420577469",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5014,6 +5307,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420577470",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5032,6 +5326,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420577472",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5050,6 +5345,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420577542",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5068,6 +5364,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420614007",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5086,6 +5383,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420614008",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5104,6 +5402,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420614009",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5122,6 +5421,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420614012",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5139,7 +5439,8 @@
     "locID": "LOC000104521752",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420614014"
+    "gnaf_pid": "GAVIC420614014",
+    "ee": true
    }
   },
   {
@@ -5157,6 +5458,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420627064",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5175,6 +5477,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420627068",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5193,6 +5496,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420627076",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5211,6 +5515,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420627078",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5226,10 +5531,10 @@
    "properties": {
     "name": "133 HIGH STREET AVOCA 3467",
     "locID": "LOC000036085334",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420636166",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -5247,6 +5552,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420636167",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5265,6 +5571,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420636168",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5282,7 +5589,8 @@
     "locID": "LOC000091673892",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420636170"
+    "gnaf_pid": "GAVIC420636170",
+    "ee": true
    }
   },
   {
@@ -5300,6 +5608,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420657557",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5318,6 +5627,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420665101",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5335,7 +5645,8 @@
     "locID": "LOC000048909809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420676802"
+    "gnaf_pid": "GAVIC420676802",
+    "ee": true
    }
   },
   {
@@ -5352,7 +5663,8 @@
     "locID": "LOC000075031931",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420680075"
+    "gnaf_pid": "GAVIC420680075",
+    "ee": true
    }
   },
   {
@@ -5370,6 +5682,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420680076",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5388,6 +5701,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420683962",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5406,6 +5720,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420683963",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5424,6 +5739,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420685899",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5442,6 +5758,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420691103",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5460,6 +5777,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420691104",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5478,6 +5796,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420691105",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5496,6 +5815,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420691106",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5514,6 +5834,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420691107",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5532,6 +5853,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420691108",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5550,6 +5872,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420691109",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5568,6 +5891,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420691110",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5586,6 +5910,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420691111",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5604,6 +5929,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420691112",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5621,7 +5947,8 @@
     "locID": "LOC000086558101",
     "tech": "FTTC",
     "upgrade": "FTTP",
-    "gnaf_pid": "GAVIC420691113"
+    "gnaf_pid": "GAVIC420691113",
+    "ee": true
    }
   },
   {
@@ -5639,6 +5966,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420691115",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5657,6 +5985,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420723285",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5675,6 +6004,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420726681",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5690,10 +6020,10 @@
    "properties": {
     "name": "17 ASTBURY STREET AVOCA 3467",
     "locID": "LOC100059402685",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420732648",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -5710,7 +6040,8 @@
     "locID": "LOC000079680220",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420739705"
+    "gnaf_pid": "GAVIC420739705",
+    "ee": true
    }
   },
   {
@@ -5727,7 +6058,8 @@
     "locID": "LOC000083516901",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420746836"
+    "gnaf_pid": "GAVIC420746836",
+    "ee": true
    }
   },
   {
@@ -5745,6 +6077,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420748665",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5762,7 +6095,8 @@
     "locID": "LOC000084964594",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420865552"
+    "gnaf_pid": "GAVIC420865552",
+    "ee": true
    }
   },
   {
@@ -5777,10 +6111,10 @@
    "properties": {
     "name": "97 HIGH STREET AVOCA 3467",
     "locID": "LOC000087702898",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420868376",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -5798,6 +6132,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420868378",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5816,6 +6151,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420868379",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5833,7 +6169,8 @@
     "locID": "LOC000056426087",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420868381"
+    "gnaf_pid": "GAVIC420868381",
+    "ee": true
    }
   },
   {
@@ -5851,6 +6188,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420868383",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5869,6 +6207,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420868385",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5887,6 +6226,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP",
     "gnaf_pid": "GAVIC420874613",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5905,6 +6245,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420875848",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5923,6 +6264,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420875849",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5941,6 +6283,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420875851",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5958,7 +6301,8 @@
     "locID": "LOC000174571576",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC420875855"
+    "gnaf_pid": "GAVIC420875855",
+    "ee": true
    }
   },
   {
@@ -5976,6 +6320,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420875856",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -5994,6 +6339,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420875857",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6012,6 +6358,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420875858",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6030,6 +6377,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420875860",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6048,6 +6396,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420929750",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6066,6 +6415,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420934399",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6084,6 +6434,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420934400",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6102,6 +6453,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420934401",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6120,6 +6472,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420934402",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6138,6 +6491,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420954840",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6156,6 +6510,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420966865",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6174,6 +6529,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420966866",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6192,6 +6548,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420966868",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6210,6 +6567,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420966871",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6228,6 +6586,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420966872",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6246,6 +6605,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC420966873",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -6264,6 +6624,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420966877",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6282,6 +6643,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420971889",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6300,6 +6662,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420972934",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6318,6 +6681,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC420981521",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6336,6 +6700,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421026546",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6354,6 +6719,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421042362",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6372,6 +6738,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421045225",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6390,6 +6757,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421047212",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6408,6 +6776,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421050761",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6426,6 +6795,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421053588",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6444,6 +6814,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421054233",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -6462,6 +6833,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421055208",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6480,6 +6852,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421157085",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6498,6 +6871,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421159693",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6516,6 +6890,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421159694",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6534,6 +6909,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421159695",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6552,6 +6928,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421159696",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6570,6 +6947,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421159697",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6588,6 +6966,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421159698",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6606,6 +6985,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421159699",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6624,6 +7004,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421159700",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6642,6 +7023,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421159701",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6660,6 +7042,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421159703",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6678,6 +7061,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421159705",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6696,6 +7080,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421159706",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6714,6 +7099,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421161432",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6732,6 +7118,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421161433",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6750,6 +7137,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421161434",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6767,7 +7155,8 @@
     "locID": "LOC000105815752",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421162117"
+    "gnaf_pid": "GAVIC421162117",
+    "ee": true
    }
   },
   {
@@ -6785,6 +7174,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421162119",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6802,7 +7192,8 @@
     "locID": "LOC000093047988",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421162120"
+    "gnaf_pid": "GAVIC421162120",
+    "ee": true
    }
   },
   {
@@ -6820,6 +7211,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421167758",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6838,6 +7230,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421167760",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6856,6 +7249,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421168504",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6874,6 +7268,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421168507",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6892,6 +7287,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421168508",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6910,6 +7306,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421171329",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6928,6 +7325,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421171331",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6946,6 +7344,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421171332",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6964,6 +7363,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421171333",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -6982,6 +7382,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421171334",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7000,6 +7401,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421174838",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7018,6 +7420,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421174839",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7035,7 +7438,8 @@
     "locID": "LOC000124961208",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421174841"
+    "gnaf_pid": "GAVIC421174841",
+    "ee": true
    }
   },
   {
@@ -7052,7 +7456,8 @@
     "locID": "LOC000079304426",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421176848"
+    "gnaf_pid": "GAVIC421176848",
+    "ee": true
    }
   },
   {
@@ -7070,6 +7475,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421176849",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7088,6 +7494,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421176850",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7106,6 +7513,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421176851",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7124,6 +7532,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421176852",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7141,7 +7550,8 @@
     "locID": "LOC000009234993",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421176853"
+    "gnaf_pid": "GAVIC421176853",
+    "ee": true
    }
   },
   {
@@ -7156,10 +7566,10 @@
    "properties": {
     "name": "129 HIGH STREET AVOCA 3467",
     "locID": "LOC000105795803",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421176854",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -7176,7 +7586,8 @@
     "locID": "LOC000069898694",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421225250"
+    "gnaf_pid": "GAVIC421225250",
+    "ee": true
    }
   },
   {
@@ -7194,6 +7605,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421229618",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7211,7 +7623,8 @@
     "locID": "LOC000048587289",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421229619"
+    "gnaf_pid": "GAVIC421229619",
+    "ee": true
    }
   },
   {
@@ -7229,6 +7642,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421229620",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7247,6 +7661,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421229621",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7264,7 +7679,8 @@
     "locID": "LOC000184461747",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421229634"
+    "gnaf_pid": "GAVIC421229634",
+    "ee": true
    }
   },
   {
@@ -7282,6 +7698,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421242168",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7300,6 +7717,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421242169",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7317,7 +7735,8 @@
     "locID": "LOC000081406919",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421242171"
+    "gnaf_pid": "GAVIC421242171",
+    "ee": true
    }
   },
   {
@@ -7335,6 +7754,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421254806",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7353,6 +7773,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421254807",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7371,6 +7792,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421254808",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7389,6 +7811,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421254809",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7406,7 +7829,8 @@
     "locID": "LOC000011899449",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421254810"
+    "gnaf_pid": "GAVIC421254810",
+    "ee": true
    }
   },
   {
@@ -7424,6 +7848,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421254818",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7442,6 +7867,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421260854",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7460,6 +7886,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421276944",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7478,6 +7905,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421284743",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7496,6 +7924,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421284744",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7514,6 +7943,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421284745",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7531,7 +7961,8 @@
     "locID": "LOC000017784406",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421284746"
+    "gnaf_pid": "GAVIC421284746",
+    "ee": true
    }
   },
   {
@@ -7549,6 +7980,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421284747",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7567,6 +7999,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421284748",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7585,6 +8018,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421284750",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7603,6 +8037,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421284751",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7621,6 +8056,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421291082",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7639,6 +8075,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421291085",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7657,6 +8094,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421291086",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -7675,6 +8113,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421291087",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7693,6 +8132,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421292047",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7711,6 +8151,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421292048",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7728,7 +8169,8 @@
     "locID": "LOC000077384861",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421292050"
+    "gnaf_pid": "GAVIC421292050",
+    "ee": true
    }
   },
   {
@@ -7746,6 +8188,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421292051",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7764,6 +8207,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421321765",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7781,7 +8225,8 @@
     "locID": "LOC000103580893",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421328459"
+    "gnaf_pid": "GAVIC421328459",
+    "ee": true
    }
   },
   {
@@ -7799,6 +8244,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421331307",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7817,6 +8263,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421340008",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7835,6 +8282,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421348523",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7853,6 +8301,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421350516",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7871,6 +8320,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421433324",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7889,6 +8339,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421482592",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7907,6 +8358,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421488746",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7925,6 +8377,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421488747",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7943,6 +8396,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421488749",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7961,6 +8415,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421488751",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7979,6 +8434,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421488753",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -7997,6 +8453,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421488754",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8015,6 +8472,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421488755",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8033,6 +8491,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421488756",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8050,7 +8509,8 @@
     "locID": "LOC000054026447",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421496885"
+    "gnaf_pid": "GAVIC421496885",
+    "ee": true
    }
   },
   {
@@ -8068,6 +8528,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421496886",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8086,6 +8547,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421496887",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8104,6 +8566,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421496888",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8121,7 +8584,8 @@
     "locID": "LOC000033458329",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421496889"
+    "gnaf_pid": "GAVIC421496889",
+    "ee": true
    }
   },
   {
@@ -8136,10 +8600,10 @@
    "properties": {
     "name": "1 HOMEBUSH ROAD AVOCA 3467",
     "locID": "LOC000058065948",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421496890",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -8157,6 +8621,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421499749",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8175,6 +8640,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421499750",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8192,7 +8658,8 @@
     "locID": "LOC000067007225",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421499753"
+    "gnaf_pid": "GAVIC421499753",
+    "ee": true
    }
   },
   {
@@ -8210,6 +8677,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421499754",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8228,6 +8696,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421500312",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8246,6 +8715,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421500313",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8264,6 +8734,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421500531",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8282,6 +8753,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421500532",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8299,7 +8771,8 @@
     "locID": "LOC000036857444",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421500533"
+    "gnaf_pid": "GAVIC421500533",
+    "ee": true
    }
   },
   {
@@ -8317,6 +8790,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421500534",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8335,6 +8809,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421500535",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8353,6 +8828,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421511292",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8371,6 +8847,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421511294",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8389,6 +8866,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421511296",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8407,6 +8885,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421511297",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8425,6 +8904,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421511298",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8440,10 +8920,10 @@
    "properties": {
     "name": "100 BARNETT STREET AVOCA 3467",
     "locID": "LOC000066486906",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421524528",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -8460,7 +8940,8 @@
     "locID": "LOC000048665738",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421524529"
+    "gnaf_pid": "GAVIC421524529",
+    "ee": true
    }
   },
   {
@@ -8478,6 +8959,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421529399",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8496,6 +8978,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421529401",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8514,6 +8997,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421529403",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8532,6 +9016,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421529404",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8550,6 +9035,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421545032",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8568,6 +9054,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421545033",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8586,6 +9073,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421550957",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8604,6 +9092,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421550959",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8622,6 +9111,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421550962",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8640,6 +9130,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421550966",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8658,6 +9149,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421551040",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8676,6 +9168,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421553025",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8694,6 +9187,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421553028",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8712,6 +9206,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421553029",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8730,6 +9225,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421553030",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8747,7 +9243,8 @@
     "locID": "LOC000045597745",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421556037"
+    "gnaf_pid": "GAVIC421556037",
+    "ee": true
    }
   },
   {
@@ -8764,7 +9261,8 @@
     "locID": "LOC000026851393",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421556039"
+    "gnaf_pid": "GAVIC421556039",
+    "ee": true
    }
   },
   {
@@ -8782,6 +9280,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421557520",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8800,6 +9299,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421557522",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8818,6 +9318,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421557524",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8836,6 +9337,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421568521",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8854,6 +9356,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421568528",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8872,6 +9375,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421569602",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8890,6 +9394,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421574692",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8908,6 +9413,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421574693",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -8926,6 +9432,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421574695",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8944,6 +9451,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421574696",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8962,6 +9470,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421574697",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -8979,7 +9488,8 @@
     "locID": "LOC000050245954",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421574698"
+    "gnaf_pid": "GAVIC421574698",
+    "ee": true
    }
   },
   {
@@ -8997,6 +9507,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421574701",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9015,6 +9526,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421574702",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9033,6 +9545,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421574703",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9051,6 +9564,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421574704",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9069,6 +9583,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421574705",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9087,6 +9602,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421574706",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9105,6 +9621,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421587295",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9123,6 +9640,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421606396",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9141,6 +9659,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421611504",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9159,6 +9678,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421617540",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9177,6 +9697,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421621050",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9195,6 +9716,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421626158",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9213,6 +9735,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421628901",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9231,6 +9754,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC421633131",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -9249,6 +9773,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421636898",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9267,6 +9792,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421772605",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9285,6 +9811,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421782029",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9303,6 +9830,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421782030",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9321,6 +9849,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421782031",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9339,6 +9868,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421782032",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9357,6 +9887,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421782033",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9372,10 +9903,10 @@
    "properties": {
     "name": "110 RUTHERFORD STREET AVOCA 3467",
     "locID": "LOC000059739768",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421782034",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -9393,6 +9924,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421792809",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9411,6 +9943,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421792810",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9429,6 +9962,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421792814",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9444,10 +9978,10 @@
    "properties": {
     "name": "18 MOUNTAIN VIEW STREET AVOCA 3467",
     "locID": "LOC000059509476",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421792815",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -9465,6 +9999,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421792817",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9483,6 +10018,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421792818",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9501,6 +10037,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421792819",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9519,6 +10056,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421792820",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9537,6 +10075,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421792821",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9555,6 +10094,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421792823",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9573,6 +10113,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421792824",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9591,6 +10132,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421793034",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9609,6 +10151,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421793035",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9626,7 +10169,8 @@
     "locID": "LOC000045828326",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421793036"
+    "gnaf_pid": "GAVIC421793036",
+    "ee": true
    }
   },
   {
@@ -9644,6 +10188,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421804211",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9662,6 +10207,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421804212",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -9680,6 +10226,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421804359",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9698,6 +10245,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421804360",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9716,6 +10264,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421804361",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9734,6 +10283,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421804362",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9752,6 +10302,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421804364",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9770,6 +10321,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421804365",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9788,6 +10340,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421804366",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9806,6 +10359,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421813947",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9824,6 +10378,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421813948",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9842,6 +10397,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421813949",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9860,6 +10416,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421813950",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9878,6 +10435,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421813951",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9895,7 +10453,8 @@
     "locID": "LOC000079772307",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421815201"
+    "gnaf_pid": "GAVIC421815201",
+    "ee": true
    }
   },
   {
@@ -9913,6 +10472,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421815202",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9931,6 +10491,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421815204",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9949,6 +10510,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421815205",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9967,6 +10529,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421815206",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -9985,6 +10548,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421815209",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10003,6 +10567,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421815210",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10020,7 +10585,8 @@
     "locID": "LOC000070091615",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421815213"
+    "gnaf_pid": "GAVIC421815213",
+    "ee": true
    }
   },
   {
@@ -10038,6 +10604,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421815216",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10056,6 +10623,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421837711",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10074,6 +10642,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421861785",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10091,7 +10660,8 @@
     "locID": "LOC000190982728",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421861786"
+    "gnaf_pid": "GAVIC421861786",
+    "ee": true
    }
   },
   {
@@ -10109,6 +10679,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421861788",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10127,6 +10698,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421861791",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10145,6 +10717,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421869799",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10163,6 +10736,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421876290",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10181,6 +10755,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421876293",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10199,6 +10774,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421883593",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10217,6 +10793,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421893642",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10235,6 +10812,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421893643",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10253,6 +10831,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421893644",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10271,6 +10850,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421904640",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10289,6 +10869,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421919850",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10307,6 +10888,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421923086",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10325,6 +10907,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421923087",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10343,6 +10926,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421923090",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10361,6 +10945,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421923091",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10379,6 +10964,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421923093",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10396,7 +10982,8 @@
     "locID": "LOC000047818429",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421923094"
+    "gnaf_pid": "GAVIC421923094",
+    "ee": true
    }
   },
   {
@@ -10414,6 +11001,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421923095",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10429,10 +11017,10 @@
    "properties": {
     "name": "32 MOUNTAIN VIEW STREET AVOCA 3467",
     "locID": "LOC000045775368",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421923096",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -10450,6 +11038,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421923097",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10468,6 +11057,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421923098",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10483,10 +11073,10 @@
    "properties": {
     "name": "13 TEMPLETON STREET AVOCA 3467",
     "locID": "LOC000047849020",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421923099",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -10504,6 +11094,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421923100",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10522,6 +11113,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421923101",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10540,6 +11132,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421946301",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10558,6 +11151,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421947226",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10576,6 +11170,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421947255",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10594,6 +11189,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC421947257",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10612,6 +11208,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421948909",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10630,6 +11227,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421997742",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10647,7 +11245,8 @@
     "locID": "LOC000092543053",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC421997743"
+    "gnaf_pid": "GAVIC421997743",
+    "ee": true
    }
   },
   {
@@ -10665,6 +11264,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422077494",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10683,6 +11283,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422097410",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10701,6 +11302,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422104249",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10719,6 +11321,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422109475",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10737,6 +11340,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422135810",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10755,6 +11359,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422334741",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10773,6 +11378,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC422390058",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10790,7 +11396,8 @@
     "locID": "LOC000089239681",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC422400634"
+    "gnaf_pid": "GAVIC422400634",
+    "ee": true
    }
   },
   {
@@ -10808,6 +11415,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422406376",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10825,7 +11433,8 @@
     "locID": "LOC000100664918",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC422428397"
+    "gnaf_pid": "GAVIC422428397",
+    "ee": true
    }
   },
   {
@@ -10843,6 +11452,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423088933",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10860,7 +11470,8 @@
     "locID": "LOC000012765690",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC423102646"
+    "gnaf_pid": "GAVIC423102646",
+    "ee": true
    }
   },
   {
@@ -10877,7 +11488,8 @@
     "locID": "LOC000039226069",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC423108844"
+    "gnaf_pid": "GAVIC423108844",
+    "ee": true
    }
   },
   {
@@ -10895,6 +11507,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423154543",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10913,6 +11526,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423206525",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10931,6 +11545,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423206526",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -10949,6 +11564,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423278715",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -10967,6 +11583,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423289202",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -10985,6 +11602,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423289203",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -11003,6 +11621,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423621019",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11021,6 +11640,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423659431",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11039,6 +11659,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423702366",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11057,6 +11678,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423702368",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11075,6 +11697,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423706005",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11093,6 +11716,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423706007",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11111,6 +11735,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423764585",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11129,6 +11754,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423839195",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11147,6 +11773,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC423850763",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -11165,6 +11792,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423905249",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11183,6 +11811,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423917560",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11201,6 +11830,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423923439",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11219,6 +11849,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423923440",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11237,6 +11868,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423928550",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11255,6 +11887,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC423930204",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11273,6 +11906,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423934313",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11290,7 +11924,8 @@
     "locID": "LOC000094942181",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC423982050"
+    "gnaf_pid": "GAVIC423982050",
+    "ee": true
    }
   },
   {
@@ -11308,6 +11943,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424039380",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11326,6 +11962,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424041008",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11344,6 +11981,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424063775",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11362,6 +12000,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424071401",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11379,7 +12018,8 @@
     "locID": "LOC000124965453",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424087831"
+    "gnaf_pid": "GAVIC424087831",
+    "ee": true
    }
   },
   {
@@ -11397,6 +12037,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424252353",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11415,6 +12056,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424253753",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11432,7 +12074,8 @@
     "locID": "LOC000191822796",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424255769"
+    "gnaf_pid": "GAVIC424255769",
+    "ee": true
    }
   },
   {
@@ -11450,6 +12093,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424256500",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11468,6 +12112,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424256501",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11486,6 +12131,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424260189",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11504,6 +12150,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424262911",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11522,6 +12169,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424264322",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11539,7 +12187,8 @@
     "locID": "LOC000124943430",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424264674"
+    "gnaf_pid": "GAVIC424264674",
+    "ee": true
    }
   },
   {
@@ -11557,6 +12206,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424264676",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11575,6 +12225,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424264677",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11593,6 +12244,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424264891",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11610,7 +12262,8 @@
     "locID": "LOC000124952685",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424264892"
+    "gnaf_pid": "GAVIC424264892",
+    "ee": true
    }
   },
   {
@@ -11628,6 +12281,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424265984",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11646,6 +12300,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424267933",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11663,7 +12318,8 @@
     "locID": "LOC000054411616",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424268189"
+    "gnaf_pid": "GAVIC424268189",
+    "ee": true
    }
   },
   {
@@ -11681,6 +12337,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424269519",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11698,7 +12355,8 @@
     "locID": "LOC000124952573",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424269521"
+    "gnaf_pid": "GAVIC424269521",
+    "ee": true
    }
   },
   {
@@ -11716,6 +12374,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424269562",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11733,7 +12392,8 @@
     "locID": "LOC000124938982",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424269567"
+    "gnaf_pid": "GAVIC424269567",
+    "ee": true
    }
   },
   {
@@ -11751,6 +12411,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424269569",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11769,6 +12430,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424269571",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11787,6 +12449,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424270940",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -11805,6 +12468,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424273393",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11823,6 +12487,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424455190",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11841,6 +12506,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424456730",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11859,6 +12525,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424484137",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11877,6 +12544,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424484138",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -11895,6 +12563,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424484140",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11913,6 +12582,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424484141",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11931,6 +12601,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424486254",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11949,6 +12620,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424494370",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11967,6 +12639,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424500175",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -11985,6 +12658,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424503524",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12003,6 +12677,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424503525",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12019,9 +12694,10 @@
     "name": "53 RUTHERFORD STREET AVOCA 3467",
     "locID": "LOC000067870148",
     "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "upgrade": "FTTP",
     "gnaf_pid": "GAVIC424503526",
-    "tech_change_status": "Eligible to Order"
+    "ee": true,
+    "tech_change_status": "New Tech Connected"
    }
   },
   {
@@ -12039,6 +12715,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424585841",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12057,6 +12734,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424585842",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12075,6 +12753,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424586011",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12093,6 +12772,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424586012",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12111,6 +12791,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424587020",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12128,7 +12809,8 @@
     "locID": "LOC000192076186",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424587680"
+    "gnaf_pid": "GAVIC424587680",
+    "ee": true
    }
   },
   {
@@ -12146,6 +12828,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424589142",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12164,6 +12847,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424589846",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12182,6 +12866,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424615134",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12200,6 +12885,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424622947",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12218,6 +12904,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424672636",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12236,6 +12923,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424675898",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12254,6 +12942,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424675899",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12272,6 +12961,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424678043",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12290,6 +12980,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424679668",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12308,6 +12999,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424717041",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12326,6 +13018,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424719405",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12344,6 +13037,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424719406",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12361,7 +13055,8 @@
     "locID": "LOC000124948188",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424719407"
+    "gnaf_pid": "GAVIC424719407",
+    "ee": true
    }
   },
   {
@@ -12379,6 +13074,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424719408",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12397,6 +13093,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424720943",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12415,6 +13112,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424725459",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12433,6 +13131,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424778105",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12448,10 +13147,10 @@
    "properties": {
     "name": "106 BARNETT STREET AVOCA 3467",
     "locID": "LOC000124938995",
-    "tech": "FTTC",
-    "upgrade": "FTTP_SA",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424778815",
-    "tech_change_status": "Eligible to Order"
+    "ee": true
    }
   },
   {
@@ -12468,7 +13167,8 @@
     "locID": "LOC000124938924",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424779272"
+    "gnaf_pid": "GAVIC424779272",
+    "ee": true
    }
   },
   {
@@ -12485,7 +13185,8 @@
     "locID": "LOC000124943578",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424779277"
+    "gnaf_pid": "GAVIC424779277",
+    "ee": true
    }
   },
   {
@@ -12502,7 +13203,8 @@
     "locID": "LOC000190231458",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424779284"
+    "gnaf_pid": "GAVIC424779284",
+    "ee": true
    }
   },
   {
@@ -12520,6 +13222,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424781985",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12538,6 +13241,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424781986",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12556,6 +13260,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424790586",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12574,6 +13279,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424872289",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12592,6 +13298,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424877254",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12610,6 +13317,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424880171",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12628,6 +13336,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424880622",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12646,6 +13355,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424907580",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12664,6 +13374,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424907581",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12682,6 +13393,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424912410",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12700,6 +13412,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424915010",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12718,6 +13431,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424915896",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12736,6 +13450,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC424915897",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12753,7 +13468,8 @@
     "locID": "LOC000180671748",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424967294"
+    "gnaf_pid": "GAVIC424967294",
+    "ee": true
    }
   },
   {
@@ -12771,6 +13487,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425018875",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12788,7 +13505,8 @@
     "locID": "LOC000124948055",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425027727"
+    "gnaf_pid": "GAVIC425027727",
+    "ee": true
    }
   },
   {
@@ -12806,6 +13524,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425027728",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12824,6 +13543,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425029330",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12842,6 +13562,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425077401",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12860,6 +13581,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425078746",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12878,6 +13600,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425079387",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12896,6 +13619,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425097042",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12914,6 +13638,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425158153",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12931,7 +13656,8 @@
     "locID": "LOC000173343918",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425160030"
+    "gnaf_pid": "GAVIC425160030",
+    "ee": true
    }
   },
   {
@@ -12949,6 +13675,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425162358",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -12967,6 +13694,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425166340",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -12984,7 +13712,8 @@
     "locID": "LOC000181539364",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425245208"
+    "gnaf_pid": "GAVIC425245208",
+    "ee": true
    }
   },
   {
@@ -13002,6 +13731,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425278735",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13019,7 +13749,8 @@
     "locID": "LOC000166277737",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425278736"
+    "gnaf_pid": "GAVIC425278736",
+    "ee": true
    }
   },
   {
@@ -13037,6 +13768,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425278737",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13055,6 +13787,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425278738",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13073,6 +13806,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425278739",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13091,6 +13825,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425278740",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13109,6 +13844,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425278741",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13127,6 +13863,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425282016",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13144,7 +13881,8 @@
     "locID": "LOC000166279960",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425284514"
+    "gnaf_pid": "GAVIC425284514",
+    "ee": true
    }
   },
   {
@@ -13162,6 +13900,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425284515",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13179,7 +13918,8 @@
     "locID": "LOC000166280304",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425320881"
+    "gnaf_pid": "GAVIC425320881",
+    "ee": true
    }
   },
   {
@@ -13197,6 +13937,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425326539",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13214,7 +13955,8 @@
     "locID": "LOC000173344224",
     "tech": "FTTC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425367647"
+    "gnaf_pid": "GAVIC425367647",
+    "ee": true
    }
   },
   {
@@ -13232,6 +13974,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425398738",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -13250,6 +13993,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425398739",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -13268,6 +14012,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425404814",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13286,6 +14031,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425456100",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13304,6 +14050,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425494476",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13322,6 +14069,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425575577",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13340,6 +14088,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC425667011",
+    "ee": true,
     "tech_change_status": "MDU Complex Eligible To Apply"
    }
   },
@@ -13358,6 +14107,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425673402",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13376,6 +14126,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425680190",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13394,6 +14145,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425739942",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13412,6 +14164,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC425773444",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13429,7 +14182,8 @@
     "locID": "LOC000186999486",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC719310389"
+    "gnaf_pid": "GAVIC719310389",
+    "ee": true
    }
   },
   {
@@ -13447,6 +14201,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC719795809",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13465,6 +14220,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720217058",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13483,6 +14239,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720350890",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13500,7 +14257,8 @@
     "locID": "LOC000191847205",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720353047"
+    "gnaf_pid": "GAVIC720353047",
+    "ee": true
    }
   },
   {
@@ -13517,7 +14275,8 @@
     "locID": "LOC000193187299",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720353457"
+    "gnaf_pid": "GAVIC720353457",
+    "ee": true
    }
   },
   {
@@ -13534,7 +14293,8 @@
     "locID": "LOC000191483821",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720354260"
+    "gnaf_pid": "GAVIC720354260",
+    "ee": true
    }
   },
   {
@@ -13551,7 +14311,8 @@
     "locID": "LOC000075908952",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720354336"
+    "gnaf_pid": "GAVIC720354336",
+    "ee": true
    }
   },
   {
@@ -13568,7 +14329,8 @@
     "locID": "LOC000124948310",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720354572"
+    "gnaf_pid": "GAVIC720354572",
+    "ee": true
    }
   },
   {
@@ -13586,6 +14348,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720354597",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13603,7 +14366,8 @@
     "locID": "LOC000124952489",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720356549"
+    "gnaf_pid": "GAVIC720356549",
+    "ee": true
    }
   },
   {
@@ -13620,7 +14384,8 @@
     "locID": "LOC000183987810",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720357635"
+    "gnaf_pid": "GAVIC720357635",
+    "ee": true
    }
   },
   {
@@ -13637,7 +14402,8 @@
     "locID": "LOC000124943668",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720358657"
+    "gnaf_pid": "GAVIC720358657",
+    "ee": true
    }
   },
   {
@@ -13655,6 +14421,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720360006",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13672,7 +14439,8 @@
     "locID": "LOC000181539355",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720447730"
+    "gnaf_pid": "GAVIC720447730",
+    "ee": true
    }
   },
   {
@@ -13690,6 +14458,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720456814",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13708,6 +14477,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720457336",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13726,6 +14496,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720512244",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -13743,7 +14514,8 @@
     "locID": "LOC000190053257",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC720651246"
+    "gnaf_pid": "GAVIC720651246",
+    "ee": true
    }
   },
   {
@@ -13761,6 +14533,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720822062",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13779,6 +14552,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720822215",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13797,6 +14571,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720822925",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13815,6 +14590,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720823088",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13833,6 +14609,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720823404",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13851,6 +14628,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720823573",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13869,6 +14647,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720824175",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13887,6 +14666,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720824458",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13905,6 +14685,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720824487",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13923,6 +14704,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720824873",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13941,6 +14723,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720825020",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13959,6 +14742,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720825059",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13977,6 +14761,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720826470",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -13995,6 +14780,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720827741",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14013,6 +14799,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720828453",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14031,6 +14818,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720828958",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14049,6 +14837,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720829226",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14067,6 +14856,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720829577",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14085,6 +14875,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720829638",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14103,6 +14894,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720830535",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14121,6 +14913,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720830899",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14139,6 +14932,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720831501",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14157,6 +14951,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720832273",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14175,6 +14970,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720833210",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14193,6 +14989,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720833247",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14211,6 +15008,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720833603",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14229,6 +15027,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720833775",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14247,6 +15046,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720834231",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14265,6 +15065,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720834380",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14283,6 +15084,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720834553",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14301,6 +15103,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720834708",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14319,6 +15122,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720834730",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14337,6 +15141,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720834769",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14355,6 +15160,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720835299",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14373,6 +15179,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720835994",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14391,6 +15198,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720836212",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14409,6 +15217,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720836342",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14427,6 +15236,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720836632",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14445,6 +15255,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720837056",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14463,6 +15274,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720837283",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14481,6 +15293,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720837314",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14499,6 +15312,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720837347",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14517,6 +15331,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720838007",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14535,6 +15350,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720838970",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14553,6 +15369,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720839009",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14571,6 +15388,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720839934",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14589,6 +15407,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720840499",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14607,6 +15426,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720841121",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14625,6 +15445,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720923947",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14643,6 +15464,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC720924459",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14661,6 +15483,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720952701",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14679,6 +15502,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720965502",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14696,7 +15520,8 @@
     "locID": "LOC000190982737",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721019341"
+    "gnaf_pid": "GAVIC721019341",
+    "ee": true
    }
   },
   {
@@ -14713,7 +15538,8 @@
     "locID": "LOC000190982716",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721020366"
+    "gnaf_pid": "GAVIC721020366",
+    "ee": true
    }
   },
   {
@@ -14730,7 +15556,8 @@
     "locID": "LOC000183134381",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721024175"
+    "gnaf_pid": "GAVIC721024175",
+    "ee": true
    }
   },
   {
@@ -14747,7 +15574,8 @@
     "locID": "LOC000190982700",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721033194"
+    "gnaf_pid": "GAVIC721033194",
+    "ee": true
    }
   },
   {
@@ -14764,7 +15592,8 @@
     "locID": "LOC000190982744",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721037678"
+    "gnaf_pid": "GAVIC721037678",
+    "ee": true
    }
   },
   {
@@ -14782,6 +15611,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP",
     "gnaf_pid": "GAVIC721039258",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14800,6 +15630,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721211005",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14818,6 +15649,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721287719",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -14835,7 +15667,8 @@
     "locID": "LOC000011899449",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721288324"
+    "gnaf_pid": "GAVIC721288324",
+    "ee": true
    }
   },
   {
@@ -14852,7 +15685,8 @@
     "locID": "LOC000193246111",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721289812"
+    "gnaf_pid": "GAVIC721289812",
+    "ee": true
    }
   },
   {
@@ -14869,7 +15703,8 @@
     "locID": "LOC000183134381",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721293867"
+    "gnaf_pid": "GAVIC721293867",
+    "ee": true
    }
   },
   {
@@ -14887,6 +15722,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721297432",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14905,6 +15741,7 @@
     "tech": "FTTC",
     "upgrade": "FTTP_SA",
     "gnaf_pid": "GAVIC721303392",
+    "ee": true,
     "tech_change_status": "Eligible to Order"
    }
   },
@@ -14922,7 +15759,8 @@
     "locID": "LOC000194997714",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721476612"
+    "gnaf_pid": "GAVIC721476612",
+    "ee": true
    }
   },
   {
@@ -14939,7 +15777,8 @@
     "locID": "LOC000194997693",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721486510"
+    "gnaf_pid": "GAVIC721486510",
+    "ee": true
    }
   },
   {
@@ -14956,7 +15795,8 @@
     "locID": "LOC000194997733",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721486718"
+    "gnaf_pid": "GAVIC721486718",
+    "ee": true
    }
   }
  ]
