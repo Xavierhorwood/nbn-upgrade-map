@@ -1,8 +1,29 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-22T00:22:18.781948",
+ "generated": "2025-06-16T09:26:48.118181",
  "suburb": "FLORENTINE",
  "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.51425406,
+     -42.48766189
+    ]
+   },
+   "properties": {
+    "name": "10 RAYNERS ROAD FLORENTINE 7140",
+    "locID": "LOC000021291884",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GATAS716713569",
+    "ee": false,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -18,6 +39,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS716713571",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +58,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GATAS719065606",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   }
