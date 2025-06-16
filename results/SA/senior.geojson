@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-21T14:46:26.636680",
+ "generated": "2025-06-16T01:35:10.313523",
  "suburb": "SENIOR",
  "features": [
   {
@@ -18,6 +18,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_423200026",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.78745875,
+     -36.15075304
+    ]
+   },
+   "properties": {
+    "name": "56 SENIOR ROAD SENIOR 5268",
+    "locID": "LOC000059118663",
+    "tech": "FTTN",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_423200029",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,7 +56,29 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_423200030",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.78745875,
+     -36.15075304
+    ]
+   },
+   "properties": {
+    "name": "70 SENIOR ROAD SENIOR 5268",
+    "locID": "LOC000116251723",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GASA_423200031",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "Sep 2025"
    }
   },
   {
@@ -54,6 +96,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_423200032",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "Sep 2025"
@@ -74,6 +117,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424208984",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "Sep 2025"
@@ -94,6 +138,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424403625",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "Sep 2025"
@@ -114,6 +159,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424403626",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -132,6 +178,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424833303",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "Sep 2025"
@@ -152,6 +199,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424834335",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "Sep 2025"
@@ -172,6 +220,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424834683",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -190,6 +239,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424834684",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -208,6 +258,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424834685",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -226,6 +277,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424834687",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -244,6 +296,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424834688",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -262,6 +315,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424834689",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -280,6 +334,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424834690",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -298,6 +353,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424834691",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -316,6 +372,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424835117",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "Sep 2025"
@@ -336,6 +393,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424836845",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -354,6 +412,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837393",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -372,6 +431,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837394",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -390,6 +450,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837395",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -408,6 +469,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837396",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -426,6 +488,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837779",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -444,6 +507,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837780",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -462,6 +526,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837781",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -480,6 +545,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837782",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -498,6 +564,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837783",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "Jun 2025"
@@ -518,6 +585,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837784",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -536,6 +604,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837785",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -554,6 +623,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837786",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -572,6 +642,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837787",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -590,6 +661,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424837788",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -608,6 +680,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838288",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -626,6 +699,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838289",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -644,6 +718,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838291",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -662,6 +737,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838292",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -680,6 +756,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838293",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -698,6 +775,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838294",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -716,6 +794,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838295",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -734,6 +813,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838296",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -752,6 +832,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838298",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -770,6 +851,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838299",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -788,6 +870,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838300",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -806,6 +889,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838301",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -824,6 +908,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838302",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -842,6 +927,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838303",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -860,6 +946,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838304",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "Sep 2025"
@@ -880,6 +967,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838305",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "Sep 2025"
@@ -900,6 +988,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838306",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "Sep 2025"
@@ -920,6 +1009,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838307",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -938,6 +1028,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424838308",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -956,6 +1047,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424900933",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -974,6 +1066,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424904088",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -992,6 +1085,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424904470",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1010,6 +1104,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_424950261",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1028,6 +1123,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425068028",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1046,6 +1142,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425068882",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1064,6 +1161,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425296963",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "Sep 2025"
@@ -1084,6 +1182,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425299892",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1102,6 +1201,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425299996",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "Sep 2025"
@@ -1122,6 +1222,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_425299997",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "Sep 2025"
@@ -1142,6 +1243,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GASA_719778035",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }
