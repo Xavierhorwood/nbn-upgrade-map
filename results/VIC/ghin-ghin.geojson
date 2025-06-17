@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-23T11:00:58.469705",
+ "generated": "2025-06-17T11:52:52.563885",
  "suburb": "GHIN GHIN",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411455641",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419673031",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419707422",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +75,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419726439",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +94,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419749967",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -108,6 +113,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419766009",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -126,6 +132,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419775856",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -144,6 +151,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420046856",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -162,6 +170,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420046859",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -180,6 +189,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420264874",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -198,6 +208,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420265750",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -216,6 +227,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420282076",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -234,6 +246,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420368664",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -252,6 +265,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420369713",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -270,6 +284,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420392239",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -288,7 +303,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420582007",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.38280322,
+     -37.2050164
+    ]
+   },
+   "properties": {
+    "name": "35 GHIN GHIN ROAD GHIN GHIN 3717",
+    "locID": "LOC000195425118",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC420669926",
+    "ee": false
    }
   },
   {
@@ -306,6 +340,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420670627",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -324,6 +359,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420868236",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -342,6 +378,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420884255",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -360,6 +397,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420884258",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -378,6 +416,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420965916",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -396,6 +435,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420976843",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -414,6 +454,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421175671",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -432,6 +473,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421233958",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -450,6 +492,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421234293",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -468,6 +511,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421268461",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -486,6 +530,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421293573",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -504,6 +549,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421480902",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -522,6 +568,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421570701",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -540,6 +587,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421744680",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -558,6 +606,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421744686",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -576,6 +625,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421786860",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -594,6 +644,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421805050",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -612,6 +663,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421805054",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -630,6 +682,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421860663",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -648,6 +701,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423374036",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -666,6 +720,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423827600",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -684,6 +739,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423964058",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -702,6 +758,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423968072",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.37621207,
+     -37.19443319
+    ]
+   },
+   "properties": {
+    "name": "155 GHIN GHIN ROAD GHIN GHIN 3717",
+    "locID": "LOC000039970270",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC425464961",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -720,6 +796,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425824485",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -738,6 +815,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720134063",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }
