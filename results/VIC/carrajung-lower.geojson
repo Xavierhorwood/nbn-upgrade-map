@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-22T23:16:14.678662",
+ "generated": "2025-06-17T02:43:31.002175",
  "suburb": "CARRAJUNG LOWER",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC411070216",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419823926",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419828959",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +75,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420132262",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +94,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420425325",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -108,6 +113,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421058256",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -126,6 +132,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421321800",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -144,6 +151,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421347310",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -162,7 +170,29 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421350236",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.72591606,
+     -38.41575077
+    ]
+   },
+   "properties": {
+    "name": "205 CARRAJUNG LOWER ROAD CARRAJUNG LOWER 3844",
+    "locID": "LOC100086901510",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421351606",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -180,6 +210,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422027949",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -198,6 +229,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422031245",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -216,6 +248,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422035938",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -234,6 +267,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422132970",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -252,6 +286,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422133617",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -270,6 +305,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422133618",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -288,6 +324,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422134486",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -308,6 +345,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422134487",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -328,6 +366,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422134488",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -346,6 +385,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422134497",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -364,6 +404,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422134498",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -382,6 +423,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422134499",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -400,6 +442,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422134500",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -418,6 +461,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422152766",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -436,6 +480,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422158030",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -454,6 +499,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422158031",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -472,6 +518,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422158032",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -490,6 +537,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422158033",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -508,6 +556,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422158034",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -526,6 +575,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422158035",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -544,6 +594,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422158036",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -562,6 +613,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422158037",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -580,6 +632,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422178538",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -598,6 +651,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422178539",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -616,6 +670,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422178541",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -634,6 +689,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422178542",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -652,6 +708,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422314510",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -670,6 +727,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422319019",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.75946868,
+     -38.3749771
+    ]
+   },
+   "properties": {
+    "name": "48 CONNECTION ROAD CARRAJUNG LOWER 3844",
+    "locID": "LOC000010359891",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC423065733",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -688,6 +765,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423065734",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -706,6 +784,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423073915",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -724,6 +803,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423073916",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -742,6 +822,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423148592",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -760,6 +841,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423148593",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -778,6 +860,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423148594",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -796,6 +879,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423148595",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -814,6 +898,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423623711",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -832,6 +917,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423623968",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -850,6 +936,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423635623",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -868,6 +955,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423702225",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -886,6 +974,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423841102",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -904,6 +993,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423841103",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -922,6 +1012,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423884654",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -942,6 +1033,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423964084",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -960,6 +1052,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425018283",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -978,6 +1071,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719411596",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -996,6 +1090,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720356849",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1014,6 +1109,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720760535",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1032,6 +1128,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC720826736",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }
