@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-24T14:49:44.888262",
+ "generated": "2025-06-18T11:58:35.728537",
  "suburb": "SOUTH WHARF",
  "features": [
   {
@@ -17,7 +17,44 @@
     "locID": "LOC100066007875",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424079477"
+    "gnaf_pid": "GAVIC424079477",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.95602309,
+     -37.82379544
+    ]
+   },
+   "properties": {
+    "name": "2-26 CLARENDON STREET SOUTH WHARF 3006",
+    "locID": "LOC000176511156",
+    "tech": "FTTP",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC424079478",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.95602309,
+     -37.82379544
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 4 CLARENDON STREET SOUTH WHARF 3006",
+    "locID": "LOC000034949968",
+    "tech": "FTTB",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC424126828",
+    "ee": true
    }
   },
   {
@@ -34,7 +71,8 @@
     "locID": "LOC000122540163",
     "tech": "FTTC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424126840"
+    "gnaf_pid": "GAVIC424126840",
+    "ee": true
    }
   },
   {
@@ -51,7 +89,8 @@
     "locID": "LOC000122554611",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424258285"
+    "gnaf_pid": "GAVIC424258285",
+    "ee": true
    }
   },
   {
@@ -68,7 +107,8 @@
     "locID": "LOC000122557332",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424258286"
+    "gnaf_pid": "GAVIC424258286",
+    "ee": true
    }
   },
   {
@@ -85,7 +125,8 @@
     "locID": "LOC000178170112",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424372993"
+    "gnaf_pid": "GAVIC424372993",
+    "ee": true
    }
   },
   {
@@ -102,7 +143,8 @@
     "locID": "LOC100058186464",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424372994"
+    "gnaf_pid": "GAVIC424372994",
+    "ee": true
    }
   },
   {
@@ -119,7 +161,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424372995"
+    "gnaf_pid": "GAVIC424372995",
+    "ee": true
    }
   },
   {
@@ -136,7 +179,8 @@
     "locID": "LOC000052240951",
     "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424372997"
+    "gnaf_pid": "GAVIC424372997",
+    "ee": true
    }
   },
   {
@@ -153,7 +197,26 @@
     "locID": "LOC000122541748",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424372998"
+    "gnaf_pid": "GAVIC424372998",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.95602309,
+     -37.82379544
+    ]
+   },
+   "properties": {
+    "name": "4 CLARENDON STREET SOUTH WHARF 3006",
+    "locID": "LOC000170787161",
+    "tech": "FTTB",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC424418272",
+    "ee": true
    }
   },
   {
@@ -170,7 +233,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424488553"
+    "gnaf_pid": "GAVIC424488553",
+    "ee": true
    }
   },
   {
@@ -187,7 +251,8 @@
     "locID": "LOC000190431439",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424579440"
+    "gnaf_pid": "GAVIC424579440",
+    "ee": true
    }
   },
   {
@@ -204,7 +269,8 @@
     "locID": "LOC000190431439",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424579442"
+    "gnaf_pid": "GAVIC424579442",
+    "ee": true
    }
   },
   {
@@ -221,7 +287,8 @@
     "locID": "LOC000178169793",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424579444"
+    "gnaf_pid": "GAVIC424579444",
+    "ee": true
    }
   },
   {
@@ -238,7 +305,8 @@
     "locID": "LOC100076222619",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424579449"
+    "gnaf_pid": "GAVIC424579449",
+    "ee": true
    }
   },
   {
@@ -255,7 +323,8 @@
     "locID": "LOC000178169304",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424614373"
+    "gnaf_pid": "GAVIC424614373",
+    "ee": true
    }
   },
   {
@@ -272,7 +341,8 @@
     "locID": "LOC000122556904",
     "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424614375"
+    "gnaf_pid": "GAVIC424614375",
+    "ee": true
    }
   },
   {
@@ -289,7 +359,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727376"
+    "gnaf_pid": "GAVIC424727376",
+    "ee": true
    }
   },
   {
@@ -306,7 +377,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727377"
+    "gnaf_pid": "GAVIC424727377",
+    "ee": true
    }
   },
   {
@@ -323,7 +395,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727378"
+    "gnaf_pid": "GAVIC424727378",
+    "ee": true
    }
   },
   {
@@ -340,7 +413,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727379"
+    "gnaf_pid": "GAVIC424727379",
+    "ee": true
    }
   },
   {
@@ -357,7 +431,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727380"
+    "gnaf_pid": "GAVIC424727380",
+    "ee": true
    }
   },
   {
@@ -374,7 +449,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727381"
+    "gnaf_pid": "GAVIC424727381",
+    "ee": true
    }
   },
   {
@@ -391,7 +467,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727382"
+    "gnaf_pid": "GAVIC424727382",
+    "ee": true
    }
   },
   {
@@ -408,7 +485,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727383"
+    "gnaf_pid": "GAVIC424727383",
+    "ee": true
    }
   },
   {
@@ -425,7 +503,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727384"
+    "gnaf_pid": "GAVIC424727384",
+    "ee": true
    }
   },
   {
@@ -442,7 +521,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727385"
+    "gnaf_pid": "GAVIC424727385",
+    "ee": true
    }
   },
   {
@@ -459,7 +539,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727386"
+    "gnaf_pid": "GAVIC424727386",
+    "ee": true
    }
   },
   {
@@ -476,7 +557,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727387"
+    "gnaf_pid": "GAVIC424727387",
+    "ee": true
    }
   },
   {
@@ -493,7 +575,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727388"
+    "gnaf_pid": "GAVIC424727388",
+    "ee": true
    }
   },
   {
@@ -510,7 +593,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727389"
+    "gnaf_pid": "GAVIC424727389",
+    "ee": true
    }
   },
   {
@@ -527,7 +611,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727390"
+    "gnaf_pid": "GAVIC424727390",
+    "ee": true
    }
   },
   {
@@ -544,7 +629,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727391"
+    "gnaf_pid": "GAVIC424727391",
+    "ee": true
    }
   },
   {
@@ -561,7 +647,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727392"
+    "gnaf_pid": "GAVIC424727392",
+    "ee": true
    }
   },
   {
@@ -578,7 +665,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727393"
+    "gnaf_pid": "GAVIC424727393",
+    "ee": true
    }
   },
   {
@@ -595,7 +683,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727394"
+    "gnaf_pid": "GAVIC424727394",
+    "ee": true
    }
   },
   {
@@ -612,7 +701,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727395"
+    "gnaf_pid": "GAVIC424727395",
+    "ee": true
    }
   },
   {
@@ -629,7 +719,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727396"
+    "gnaf_pid": "GAVIC424727396",
+    "ee": true
    }
   },
   {
@@ -646,7 +737,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727397"
+    "gnaf_pid": "GAVIC424727397",
+    "ee": true
    }
   },
   {
@@ -663,7 +755,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727398"
+    "gnaf_pid": "GAVIC424727398",
+    "ee": true
    }
   },
   {
@@ -680,7 +773,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727399"
+    "gnaf_pid": "GAVIC424727399",
+    "ee": true
    }
   },
   {
@@ -697,7 +791,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727400"
+    "gnaf_pid": "GAVIC424727400",
+    "ee": true
    }
   },
   {
@@ -714,7 +809,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727401"
+    "gnaf_pid": "GAVIC424727401",
+    "ee": true
    }
   },
   {
@@ -731,7 +827,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727402"
+    "gnaf_pid": "GAVIC424727402",
+    "ee": true
    }
   },
   {
@@ -748,7 +845,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727403"
+    "gnaf_pid": "GAVIC424727403",
+    "ee": true
    }
   },
   {
@@ -765,7 +863,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727404"
+    "gnaf_pid": "GAVIC424727404",
+    "ee": true
    }
   },
   {
@@ -782,7 +881,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727405"
+    "gnaf_pid": "GAVIC424727405",
+    "ee": true
    }
   },
   {
@@ -799,7 +899,8 @@
     "locID": "LOC000178169370",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727406"
+    "gnaf_pid": "GAVIC424727406",
+    "ee": true
    }
   },
   {
@@ -816,7 +917,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727407"
+    "gnaf_pid": "GAVIC424727407",
+    "ee": true
    }
   },
   {
@@ -833,7 +935,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727408"
+    "gnaf_pid": "GAVIC424727408",
+    "ee": true
    }
   },
   {
@@ -850,7 +953,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727409"
+    "gnaf_pid": "GAVIC424727409",
+    "ee": true
    }
   },
   {
@@ -867,7 +971,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727410"
+    "gnaf_pid": "GAVIC424727410",
+    "ee": true
    }
   },
   {
@@ -884,7 +989,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727411"
+    "gnaf_pid": "GAVIC424727411",
+    "ee": true
    }
   },
   {
@@ -901,7 +1007,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727412"
+    "gnaf_pid": "GAVIC424727412",
+    "ee": true
    }
   },
   {
@@ -918,7 +1025,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424727413"
+    "gnaf_pid": "GAVIC424727413",
+    "ee": true
    }
   },
   {
@@ -935,7 +1043,8 @@
     "locID": "LOC000122541748",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424746738"
+    "gnaf_pid": "GAVIC424746738",
+    "ee": true
    }
   },
   {
@@ -952,7 +1061,8 @@
     "locID": "LOC000122541748",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424746739"
+    "gnaf_pid": "GAVIC424746739",
+    "ee": true
    }
   },
   {
@@ -969,7 +1079,8 @@
     "locID": "LOC000122541748",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424746740"
+    "gnaf_pid": "GAVIC424746740",
+    "ee": true
    }
   },
   {
@@ -986,7 +1097,8 @@
     "locID": "LOC000122541748",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424746741"
+    "gnaf_pid": "GAVIC424746741",
+    "ee": true
    }
   },
   {
@@ -1003,7 +1115,8 @@
     "locID": "LOC000122541748",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424746742"
+    "gnaf_pid": "GAVIC424746742",
+    "ee": true
    }
   },
   {
@@ -1020,7 +1133,8 @@
     "locID": "LOC000122541748",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424746743"
+    "gnaf_pid": "GAVIC424746743",
+    "ee": true
    }
   },
   {
@@ -1037,7 +1151,8 @@
     "locID": "LOC000122556904",
     "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424746744"
+    "gnaf_pid": "GAVIC424746744",
+    "ee": true
    }
   },
   {
@@ -1054,7 +1169,8 @@
     "locID": "LOC000122551995",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780795"
+    "gnaf_pid": "GAVIC424780795",
+    "ee": true
    }
   },
   {
@@ -1071,7 +1187,8 @@
     "locID": "LOC000190431378",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780796"
+    "gnaf_pid": "GAVIC424780796",
+    "ee": true
    }
   },
   {
@@ -1088,7 +1205,8 @@
     "locID": "LOC000178169900",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780797"
+    "gnaf_pid": "GAVIC424780797",
+    "ee": true
    }
   },
   {
@@ -1105,7 +1223,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780798"
+    "gnaf_pid": "GAVIC424780798",
+    "ee": true
    }
   },
   {
@@ -1122,7 +1241,8 @@
     "locID": "LOC000113030587",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780799"
+    "gnaf_pid": "GAVIC424780799",
+    "ee": true
    }
   },
   {
@@ -1139,7 +1259,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780800"
+    "gnaf_pid": "GAVIC424780800",
+    "ee": true
    }
   },
   {
@@ -1156,7 +1277,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780801"
+    "gnaf_pid": "GAVIC424780801",
+    "ee": true
    }
   },
   {
@@ -1173,7 +1295,8 @@
     "locID": "LOC100072175483",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780802"
+    "gnaf_pid": "GAVIC424780802",
+    "ee": true
    }
   },
   {
@@ -1190,7 +1313,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780803"
+    "gnaf_pid": "GAVIC424780803",
+    "ee": true
    }
   },
   {
@@ -1207,7 +1331,8 @@
     "locID": "LOC000114388345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780804"
+    "gnaf_pid": "GAVIC424780804",
+    "ee": true
    }
   },
   {
@@ -1224,7 +1349,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780805"
+    "gnaf_pid": "GAVIC424780805",
+    "ee": true
    }
   },
   {
@@ -1241,7 +1367,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780806"
+    "gnaf_pid": "GAVIC424780806",
+    "ee": true
    }
   },
   {
@@ -1258,7 +1385,8 @@
     "locID": "LOC000113197924",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780807"
+    "gnaf_pid": "GAVIC424780807",
+    "ee": true
    }
   },
   {
@@ -1275,7 +1403,8 @@
     "locID": "LOC000178223366",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780808"
+    "gnaf_pid": "GAVIC424780808",
+    "ee": true
    }
   },
   {
@@ -1292,7 +1421,8 @@
     "locID": "LOC000115106781",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780809"
+    "gnaf_pid": "GAVIC424780809",
+    "ee": true
    }
   },
   {
@@ -1309,7 +1439,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780810"
+    "gnaf_pid": "GAVIC424780810",
+    "ee": true
    }
   },
   {
@@ -1326,7 +1457,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780811"
+    "gnaf_pid": "GAVIC424780811",
+    "ee": true
    }
   },
   {
@@ -1343,7 +1475,8 @@
     "locID": "LOC000178169565",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780812"
+    "gnaf_pid": "GAVIC424780812",
+    "ee": true
    }
   },
   {
@@ -1360,7 +1493,8 @@
     "locID": "LOC100075346913",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780813"
+    "gnaf_pid": "GAVIC424780813",
+    "ee": true
    }
   },
   {
@@ -1377,7 +1511,8 @@
     "locID": "LOC000112861102",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780814"
+    "gnaf_pid": "GAVIC424780814",
+    "ee": true
    }
   },
   {
@@ -1394,7 +1529,8 @@
     "locID": "LOC000114624624",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780815"
+    "gnaf_pid": "GAVIC424780815",
+    "ee": true
    }
   },
   {
@@ -1411,7 +1547,8 @@
     "locID": "LOC000114681190",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780816"
+    "gnaf_pid": "GAVIC424780816",
+    "ee": true
    }
   },
   {
@@ -1428,7 +1565,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424780817"
+    "gnaf_pid": "GAVIC424780817",
+    "ee": true
    }
   },
   {
@@ -1445,7 +1583,8 @@
     "locID": "LOC000122551995",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791959"
+    "gnaf_pid": "GAVIC424791959",
+    "ee": true
    }
   },
   {
@@ -1462,7 +1601,8 @@
     "locID": "LOC000122551995",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791960"
+    "gnaf_pid": "GAVIC424791960",
+    "ee": true
    }
   },
   {
@@ -1479,7 +1619,8 @@
     "locID": "LOC000178169447",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791961"
+    "gnaf_pid": "GAVIC424791961",
+    "ee": true
    }
   },
   {
@@ -1496,7 +1637,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791962"
+    "gnaf_pid": "GAVIC424791962",
+    "ee": true
    }
   },
   {
@@ -1513,7 +1655,8 @@
     "locID": "LOC000114420274",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791963"
+    "gnaf_pid": "GAVIC424791963",
+    "ee": true
    }
   },
   {
@@ -1530,7 +1673,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791964"
+    "gnaf_pid": "GAVIC424791964",
+    "ee": true
    }
   },
   {
@@ -1547,7 +1691,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791965"
+    "gnaf_pid": "GAVIC424791965",
+    "ee": true
    }
   },
   {
@@ -1564,7 +1709,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791966"
+    "gnaf_pid": "GAVIC424791966",
+    "ee": true
    }
   },
   {
@@ -1581,7 +1727,8 @@
     "locID": "LOC100076222619",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791967"
+    "gnaf_pid": "GAVIC424791967",
+    "ee": true
    }
   },
   {
@@ -1598,7 +1745,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791968"
+    "gnaf_pid": "GAVIC424791968",
+    "ee": true
    }
   },
   {
@@ -1615,7 +1763,8 @@
     "locID": "LOC000178169225",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791969"
+    "gnaf_pid": "GAVIC424791969",
+    "ee": true
    }
   },
   {
@@ -1632,7 +1781,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791970"
+    "gnaf_pid": "GAVIC424791970",
+    "ee": true
    }
   },
   {
@@ -1649,7 +1799,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791971"
+    "gnaf_pid": "GAVIC424791971",
+    "ee": true
    }
   },
   {
@@ -1666,7 +1817,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791972"
+    "gnaf_pid": "GAVIC424791972",
+    "ee": true
    }
   },
   {
@@ -1683,7 +1835,8 @@
     "locID": "LOC000190416621",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791973"
+    "gnaf_pid": "GAVIC424791973",
+    "ee": true
    }
   },
   {
@@ -1700,7 +1853,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791974"
+    "gnaf_pid": "GAVIC424791974",
+    "ee": true
    }
   },
   {
@@ -1717,7 +1871,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791975"
+    "gnaf_pid": "GAVIC424791975",
+    "ee": true
    }
   },
   {
@@ -1734,7 +1889,8 @@
     "locID": "LOC100072175483",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791976"
+    "gnaf_pid": "GAVIC424791976",
+    "ee": true
    }
   },
   {
@@ -1751,7 +1907,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791977"
+    "gnaf_pid": "GAVIC424791977",
+    "ee": true
    }
   },
   {
@@ -1768,7 +1925,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791978"
+    "gnaf_pid": "GAVIC424791978",
+    "ee": true
    }
   },
   {
@@ -1785,7 +1943,8 @@
     "locID": "LOC100076222619",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791979"
+    "gnaf_pid": "GAVIC424791979",
+    "ee": true
    }
   },
   {
@@ -1802,7 +1961,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791980"
+    "gnaf_pid": "GAVIC424791980",
+    "ee": true
    }
   },
   {
@@ -1819,7 +1979,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791981"
+    "gnaf_pid": "GAVIC424791981",
+    "ee": true
    }
   },
   {
@@ -1836,7 +1997,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791982"
+    "gnaf_pid": "GAVIC424791982",
+    "ee": true
    }
   },
   {
@@ -1853,7 +2015,8 @@
     "locID": "LOC100076222619",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791983"
+    "gnaf_pid": "GAVIC424791983",
+    "ee": true
    }
   },
   {
@@ -1870,7 +2033,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791984"
+    "gnaf_pid": "GAVIC424791984",
+    "ee": true
    }
   },
   {
@@ -1887,7 +2051,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791985"
+    "gnaf_pid": "GAVIC424791985",
+    "ee": true
    }
   },
   {
@@ -1904,7 +2069,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791986"
+    "gnaf_pid": "GAVIC424791986",
+    "ee": true
    }
   },
   {
@@ -1921,7 +2087,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791987"
+    "gnaf_pid": "GAVIC424791987",
+    "ee": true
    }
   },
   {
@@ -1938,7 +2105,8 @@
     "locID": "LOC100076222619",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791988"
+    "gnaf_pid": "GAVIC424791988",
+    "ee": true
    }
   },
   {
@@ -1955,7 +2123,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791989"
+    "gnaf_pid": "GAVIC424791989",
+    "ee": true
    }
   },
   {
@@ -1972,7 +2141,8 @@
     "locID": "LOC000190431439",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791990"
+    "gnaf_pid": "GAVIC424791990",
+    "ee": true
    }
   },
   {
@@ -1989,7 +2159,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791991"
+    "gnaf_pid": "GAVIC424791991",
+    "ee": true
    }
   },
   {
@@ -2006,7 +2177,8 @@
     "locID": "LOC000178169406",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791992"
+    "gnaf_pid": "GAVIC424791992",
+    "ee": true
    }
   },
   {
@@ -2023,7 +2195,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791993"
+    "gnaf_pid": "GAVIC424791993",
+    "ee": true
    }
   },
   {
@@ -2040,7 +2213,8 @@
     "locID": "LOC000114944515",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791994"
+    "gnaf_pid": "GAVIC424791994",
+    "ee": true
    }
   },
   {
@@ -2057,7 +2231,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791995"
+    "gnaf_pid": "GAVIC424791995",
+    "ee": true
    }
   },
   {
@@ -2074,7 +2249,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791996"
+    "gnaf_pid": "GAVIC424791996",
+    "ee": true
    }
   },
   {
@@ -2091,7 +2267,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791997"
+    "gnaf_pid": "GAVIC424791997",
+    "ee": true
    }
   },
   {
@@ -2108,7 +2285,8 @@
     "locID": "LOC000178169944",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791998"
+    "gnaf_pid": "GAVIC424791998",
+    "ee": true
    }
   },
   {
@@ -2125,7 +2303,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424791999"
+    "gnaf_pid": "GAVIC424791999",
+    "ee": true
    }
   },
   {
@@ -2142,7 +2321,8 @@
     "locID": "LOC000168828518",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792000"
+    "gnaf_pid": "GAVIC424792000",
+    "ee": true
    }
   },
   {
@@ -2159,7 +2339,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792001"
+    "gnaf_pid": "GAVIC424792001",
+    "ee": true
    }
   },
   {
@@ -2176,7 +2357,8 @@
     "locID": "LOC100076222619",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792002"
+    "gnaf_pid": "GAVIC424792002",
+    "ee": true
    }
   },
   {
@@ -2193,7 +2375,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792003"
+    "gnaf_pid": "GAVIC424792003",
+    "ee": true
    }
   },
   {
@@ -2210,7 +2393,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792004"
+    "gnaf_pid": "GAVIC424792004",
+    "ee": true
    }
   },
   {
@@ -2227,7 +2411,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792005"
+    "gnaf_pid": "GAVIC424792005",
+    "ee": true
    }
   },
   {
@@ -2244,7 +2429,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792006"
+    "gnaf_pid": "GAVIC424792006",
+    "ee": true
    }
   },
   {
@@ -2261,7 +2447,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792007"
+    "gnaf_pid": "GAVIC424792007",
+    "ee": true
    }
   },
   {
@@ -2278,7 +2465,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792008"
+    "gnaf_pid": "GAVIC424792008",
+    "ee": true
    }
   },
   {
@@ -2295,7 +2483,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792009"
+    "gnaf_pid": "GAVIC424792009",
+    "ee": true
    }
   },
   {
@@ -2312,7 +2501,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792010"
+    "gnaf_pid": "GAVIC424792010",
+    "ee": true
    }
   },
   {
@@ -2329,7 +2519,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792011"
+    "gnaf_pid": "GAVIC424792011",
+    "ee": true
    }
   },
   {
@@ -2346,7 +2537,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792012"
+    "gnaf_pid": "GAVIC424792012",
+    "ee": true
    }
   },
   {
@@ -2363,7 +2555,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792013"
+    "gnaf_pid": "GAVIC424792013",
+    "ee": true
    }
   },
   {
@@ -2380,7 +2573,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792014"
+    "gnaf_pid": "GAVIC424792014",
+    "ee": true
    }
   },
   {
@@ -2397,7 +2591,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792015"
+    "gnaf_pid": "GAVIC424792015",
+    "ee": true
    }
   },
   {
@@ -2414,7 +2609,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792016"
+    "gnaf_pid": "GAVIC424792016",
+    "ee": true
    }
   },
   {
@@ -2431,7 +2627,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792017"
+    "gnaf_pid": "GAVIC424792017",
+    "ee": true
    }
   },
   {
@@ -2448,7 +2645,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792018"
+    "gnaf_pid": "GAVIC424792018",
+    "ee": true
    }
   },
   {
@@ -2465,7 +2663,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792019"
+    "gnaf_pid": "GAVIC424792019",
+    "ee": true
    }
   },
   {
@@ -2482,7 +2681,8 @@
     "locID": "LOC100075346913",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792020"
+    "gnaf_pid": "GAVIC424792020",
+    "ee": true
    }
   },
   {
@@ -2499,7 +2699,8 @@
     "locID": "LOC100075346913",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792021"
+    "gnaf_pid": "GAVIC424792021",
+    "ee": true
    }
   },
   {
@@ -2516,7 +2717,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792022"
+    "gnaf_pid": "GAVIC424792022",
+    "ee": true
    }
   },
   {
@@ -2533,7 +2735,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792023"
+    "gnaf_pid": "GAVIC424792023",
+    "ee": true
    }
   },
   {
@@ -2550,7 +2753,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792024"
+    "gnaf_pid": "GAVIC424792024",
+    "ee": true
    }
   },
   {
@@ -2567,7 +2771,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792025"
+    "gnaf_pid": "GAVIC424792025",
+    "ee": true
    }
   },
   {
@@ -2584,7 +2789,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792026"
+    "gnaf_pid": "GAVIC424792026",
+    "ee": true
    }
   },
   {
@@ -2601,7 +2807,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792027"
+    "gnaf_pid": "GAVIC424792027",
+    "ee": true
    }
   },
   {
@@ -2618,7 +2825,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792028"
+    "gnaf_pid": "GAVIC424792028",
+    "ee": true
    }
   },
   {
@@ -2635,7 +2843,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792029"
+    "gnaf_pid": "GAVIC424792029",
+    "ee": true
    }
   },
   {
@@ -2652,7 +2861,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792030"
+    "gnaf_pid": "GAVIC424792030",
+    "ee": true
    }
   },
   {
@@ -2669,7 +2879,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792031"
+    "gnaf_pid": "GAVIC424792031",
+    "ee": true
    }
   },
   {
@@ -2686,7 +2897,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792032"
+    "gnaf_pid": "GAVIC424792032",
+    "ee": true
    }
   },
   {
@@ -2703,7 +2915,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792033"
+    "gnaf_pid": "GAVIC424792033",
+    "ee": true
    }
   },
   {
@@ -2720,7 +2933,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792034"
+    "gnaf_pid": "GAVIC424792034",
+    "ee": true
    }
   },
   {
@@ -2737,7 +2951,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792035"
+    "gnaf_pid": "GAVIC424792035",
+    "ee": true
    }
   },
   {
@@ -2754,7 +2969,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792036"
+    "gnaf_pid": "GAVIC424792036",
+    "ee": true
    }
   },
   {
@@ -2771,7 +2987,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792037"
+    "gnaf_pid": "GAVIC424792037",
+    "ee": true
    }
   },
   {
@@ -2788,7 +3005,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792038"
+    "gnaf_pid": "GAVIC424792038",
+    "ee": true
    }
   },
   {
@@ -2805,7 +3023,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792039"
+    "gnaf_pid": "GAVIC424792039",
+    "ee": true
    }
   },
   {
@@ -2822,7 +3041,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792040"
+    "gnaf_pid": "GAVIC424792040",
+    "ee": true
    }
   },
   {
@@ -2839,7 +3059,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792041"
+    "gnaf_pid": "GAVIC424792041",
+    "ee": true
    }
   },
   {
@@ -2856,7 +3077,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792042"
+    "gnaf_pid": "GAVIC424792042",
+    "ee": true
    }
   },
   {
@@ -2873,7 +3095,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792043"
+    "gnaf_pid": "GAVIC424792043",
+    "ee": true
    }
   },
   {
@@ -2890,7 +3113,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792044"
+    "gnaf_pid": "GAVIC424792044",
+    "ee": true
    }
   },
   {
@@ -2907,7 +3131,8 @@
     "locID": "LOC000114860850",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792045"
+    "gnaf_pid": "GAVIC424792045",
+    "ee": true
    }
   },
   {
@@ -2924,7 +3149,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792046"
+    "gnaf_pid": "GAVIC424792046",
+    "ee": true
    }
   },
   {
@@ -2941,7 +3167,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792047"
+    "gnaf_pid": "GAVIC424792047",
+    "ee": true
    }
   },
   {
@@ -2958,7 +3185,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792048"
+    "gnaf_pid": "GAVIC424792048",
+    "ee": true
    }
   },
   {
@@ -2975,7 +3203,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792049"
+    "gnaf_pid": "GAVIC424792049",
+    "ee": true
    }
   },
   {
@@ -2992,7 +3221,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792050"
+    "gnaf_pid": "GAVIC424792050",
+    "ee": true
    }
   },
   {
@@ -3009,7 +3239,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792051"
+    "gnaf_pid": "GAVIC424792051",
+    "ee": true
    }
   },
   {
@@ -3026,7 +3257,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792052"
+    "gnaf_pid": "GAVIC424792052",
+    "ee": true
    }
   },
   {
@@ -3043,7 +3275,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792053"
+    "gnaf_pid": "GAVIC424792053",
+    "ee": true
    }
   },
   {
@@ -3060,7 +3293,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792054"
+    "gnaf_pid": "GAVIC424792054",
+    "ee": true
    }
   },
   {
@@ -3077,7 +3311,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792055"
+    "gnaf_pid": "GAVIC424792055",
+    "ee": true
    }
   },
   {
@@ -3094,7 +3329,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792056"
+    "gnaf_pid": "GAVIC424792056",
+    "ee": true
    }
   },
   {
@@ -3111,7 +3347,8 @@
     "locID": "LOC000113027785",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792057"
+    "gnaf_pid": "GAVIC424792057",
+    "ee": true
    }
   },
   {
@@ -3128,7 +3365,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792058"
+    "gnaf_pid": "GAVIC424792058",
+    "ee": true
    }
   },
   {
@@ -3145,7 +3383,8 @@
     "locID": "LOC000183849612",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792059"
+    "gnaf_pid": "GAVIC424792059",
+    "ee": true
    }
   },
   {
@@ -3162,7 +3401,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792060"
+    "gnaf_pid": "GAVIC424792060",
+    "ee": true
    }
   },
   {
@@ -3179,7 +3419,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792061"
+    "gnaf_pid": "GAVIC424792061",
+    "ee": true
    }
   },
   {
@@ -3196,7 +3437,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792062"
+    "gnaf_pid": "GAVIC424792062",
+    "ee": true
    }
   },
   {
@@ -3213,7 +3455,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792063"
+    "gnaf_pid": "GAVIC424792063",
+    "ee": true
    }
   },
   {
@@ -3230,7 +3473,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792064"
+    "gnaf_pid": "GAVIC424792064",
+    "ee": true
    }
   },
   {
@@ -3247,7 +3491,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792065"
+    "gnaf_pid": "GAVIC424792065",
+    "ee": true
    }
   },
   {
@@ -3264,7 +3509,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792066"
+    "gnaf_pid": "GAVIC424792066",
+    "ee": true
    }
   },
   {
@@ -3281,7 +3527,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792067"
+    "gnaf_pid": "GAVIC424792067",
+    "ee": true
    }
   },
   {
@@ -3298,7 +3545,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792068"
+    "gnaf_pid": "GAVIC424792068",
+    "ee": true
    }
   },
   {
@@ -3315,7 +3563,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792069"
+    "gnaf_pid": "GAVIC424792069",
+    "ee": true
    }
   },
   {
@@ -3332,7 +3581,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792070"
+    "gnaf_pid": "GAVIC424792070",
+    "ee": true
    }
   },
   {
@@ -3349,7 +3599,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792071"
+    "gnaf_pid": "GAVIC424792071",
+    "ee": true
    }
   },
   {
@@ -3366,7 +3617,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792072"
+    "gnaf_pid": "GAVIC424792072",
+    "ee": true
    }
   },
   {
@@ -3383,7 +3635,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792073"
+    "gnaf_pid": "GAVIC424792073",
+    "ee": true
    }
   },
   {
@@ -3400,7 +3653,8 @@
     "locID": "LOC000114947668",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792074"
+    "gnaf_pid": "GAVIC424792074",
+    "ee": true
    }
   },
   {
@@ -3417,7 +3671,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424792075"
+    "gnaf_pid": "GAVIC424792075",
+    "ee": true
    }
   },
   {
@@ -3434,7 +3689,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875828"
+    "gnaf_pid": "GAVIC424875828",
+    "ee": true
    }
   },
   {
@@ -3451,7 +3707,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875829"
+    "gnaf_pid": "GAVIC424875829",
+    "ee": true
    }
   },
   {
@@ -3468,7 +3725,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875830"
+    "gnaf_pid": "GAVIC424875830",
+    "ee": true
    }
   },
   {
@@ -3485,7 +3743,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875831"
+    "gnaf_pid": "GAVIC424875831",
+    "ee": true
    }
   },
   {
@@ -3502,7 +3761,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875832"
+    "gnaf_pid": "GAVIC424875832",
+    "ee": true
    }
   },
   {
@@ -3519,7 +3779,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875833"
+    "gnaf_pid": "GAVIC424875833",
+    "ee": true
    }
   },
   {
@@ -3536,7 +3797,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875834"
+    "gnaf_pid": "GAVIC424875834",
+    "ee": true
    }
   },
   {
@@ -3553,7 +3815,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875835"
+    "gnaf_pid": "GAVIC424875835",
+    "ee": true
    }
   },
   {
@@ -3570,7 +3833,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875836"
+    "gnaf_pid": "GAVIC424875836",
+    "ee": true
    }
   },
   {
@@ -3587,7 +3851,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875837"
+    "gnaf_pid": "GAVIC424875837",
+    "ee": true
    }
   },
   {
@@ -3604,7 +3869,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875838"
+    "gnaf_pid": "GAVIC424875838",
+    "ee": true
    }
   },
   {
@@ -3621,7 +3887,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875839"
+    "gnaf_pid": "GAVIC424875839",
+    "ee": true
    }
   },
   {
@@ -3638,7 +3905,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875840"
+    "gnaf_pid": "GAVIC424875840",
+    "ee": true
    }
   },
   {
@@ -3655,7 +3923,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875841"
+    "gnaf_pid": "GAVIC424875841",
+    "ee": true
    }
   },
   {
@@ -3672,7 +3941,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875842"
+    "gnaf_pid": "GAVIC424875842",
+    "ee": true
    }
   },
   {
@@ -3689,7 +3959,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875843"
+    "gnaf_pid": "GAVIC424875843",
+    "ee": true
    }
   },
   {
@@ -3706,7 +3977,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875844"
+    "gnaf_pid": "GAVIC424875844",
+    "ee": true
    }
   },
   {
@@ -3723,7 +3995,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875845"
+    "gnaf_pid": "GAVIC424875845",
+    "ee": true
    }
   },
   {
@@ -3740,7 +4013,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875846"
+    "gnaf_pid": "GAVIC424875846",
+    "ee": true
    }
   },
   {
@@ -3757,7 +4031,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875847"
+    "gnaf_pid": "GAVIC424875847",
+    "ee": true
    }
   },
   {
@@ -3774,7 +4049,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875848"
+    "gnaf_pid": "GAVIC424875848",
+    "ee": true
    }
   },
   {
@@ -3791,7 +4067,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875849"
+    "gnaf_pid": "GAVIC424875849",
+    "ee": true
    }
   },
   {
@@ -3808,7 +4085,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875850"
+    "gnaf_pid": "GAVIC424875850",
+    "ee": true
    }
   },
   {
@@ -3825,7 +4103,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875851"
+    "gnaf_pid": "GAVIC424875851",
+    "ee": true
    }
   },
   {
@@ -3842,7 +4121,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875852"
+    "gnaf_pid": "GAVIC424875852",
+    "ee": true
    }
   },
   {
@@ -3859,7 +4139,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875853"
+    "gnaf_pid": "GAVIC424875853",
+    "ee": true
    }
   },
   {
@@ -3876,7 +4157,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424875854"
+    "gnaf_pid": "GAVIC424875854",
+    "ee": true
    }
   },
   {
@@ -3893,7 +4175,8 @@
     "locID": "LOC000122557332",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424917530"
+    "gnaf_pid": "GAVIC424917530",
+    "ee": true
    }
   },
   {
@@ -3910,7 +4193,8 @@
     "locID": "LOC000122542372",
     "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424927798"
+    "gnaf_pid": "GAVIC424927798",
+    "ee": true
    }
   },
   {
@@ -3927,7 +4211,8 @@
     "locID": "LOC000122544872",
     "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424927799"
+    "gnaf_pid": "GAVIC424927799",
+    "ee": true
    }
   },
   {
@@ -3944,7 +4229,8 @@
     "locID": "LOC000186880498",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424927800"
+    "gnaf_pid": "GAVIC424927800",
+    "ee": true
    }
   },
   {
@@ -3961,7 +4247,8 @@
     "locID": "LOC000192448517",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424927803"
+    "gnaf_pid": "GAVIC424927803",
+    "ee": true
    }
   },
   {
@@ -3978,7 +4265,8 @@
     "locID": "LOC000122552177",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424927805"
+    "gnaf_pid": "GAVIC424927805",
+    "ee": true
    }
   },
   {
@@ -3995,7 +4283,8 @@
     "locID": "LOC000196174824",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424927807"
+    "gnaf_pid": "GAVIC424927807",
+    "ee": true
    }
   },
   {
@@ -4012,7 +4301,8 @@
     "locID": "LOC000122552363",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424927808"
+    "gnaf_pid": "GAVIC424927808",
+    "ee": true
    }
   },
   {
@@ -4029,7 +4319,8 @@
     "locID": "LOC000122547555",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424930935"
+    "gnaf_pid": "GAVIC424930935",
+    "ee": true
    }
   },
   {
@@ -4046,7 +4337,8 @@
     "locID": "LOC000122547658",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424930936"
+    "gnaf_pid": "GAVIC424930936",
+    "ee": true
    }
   },
   {
@@ -4063,7 +4355,8 @@
     "locID": "LOC000122550060",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424930937"
+    "gnaf_pid": "GAVIC424930937",
+    "ee": true
    }
   },
   {
@@ -4080,7 +4373,8 @@
     "locID": "LOC000122552257",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424930938"
+    "gnaf_pid": "GAVIC424930938",
+    "ee": true
    }
   },
   {
@@ -4097,7 +4391,8 @@
     "locID": "LOC000122552316",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424930939"
+    "gnaf_pid": "GAVIC424930939",
+    "ee": true
    }
   },
   {
@@ -4114,7 +4409,8 @@
     "locID": "LOC000122552337",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424930940"
+    "gnaf_pid": "GAVIC424930940",
+    "ee": true
    }
   },
   {
@@ -4131,7 +4427,8 @@
     "locID": "LOC000122554522",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424930941"
+    "gnaf_pid": "GAVIC424930941",
+    "ee": true
    }
   },
   {
@@ -4148,7 +4445,8 @@
     "locID": "LOC000122554598",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424930942"
+    "gnaf_pid": "GAVIC424930942",
+    "ee": true
    }
   },
   {
@@ -4165,7 +4463,8 @@
     "locID": "LOC000122554611",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424930943"
+    "gnaf_pid": "GAVIC424930943",
+    "ee": true
    }
   },
   {
@@ -4182,7 +4481,8 @@
     "locID": "LOC000122557252",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424930944"
+    "gnaf_pid": "GAVIC424930944",
+    "ee": true
    }
   },
   {
@@ -4199,7 +4499,8 @@
     "locID": "LOC000122557281",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC424930945"
+    "gnaf_pid": "GAVIC424930945",
+    "ee": true
    }
   },
   {
@@ -4216,7 +4517,8 @@
     "locID": "LOC000122541748",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425099752"
+    "gnaf_pid": "GAVIC425099752",
+    "ee": true
    }
   },
   {
@@ -4233,7 +4535,8 @@
     "locID": "LOC000122541748",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425099753"
+    "gnaf_pid": "GAVIC425099753",
+    "ee": true
    }
   },
   {
@@ -4250,7 +4553,8 @@
     "locID": "LOC000122541748",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425099754"
+    "gnaf_pid": "GAVIC425099754",
+    "ee": true
    }
   },
   {
@@ -4267,7 +4571,8 @@
     "locID": "LOC000122541748",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425099755"
+    "gnaf_pid": "GAVIC425099755",
+    "ee": true
    }
   },
   {
@@ -4284,7 +4589,8 @@
     "locID": "LOC100026387872",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425527984"
+    "gnaf_pid": "GAVIC425527984",
+    "ee": true
    }
   },
   {
@@ -4301,7 +4607,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC425612390"
+    "gnaf_pid": "GAVIC425612390",
+    "ee": true
    }
   },
   {
@@ -4318,7 +4625,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC719094199"
+    "gnaf_pid": "GAVIC719094199",
+    "ee": true
    }
   },
   {
@@ -4335,7 +4643,8 @@
     "locID": "LOC100058789345",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC719114361"
+    "gnaf_pid": "GAVIC719114361",
+    "ee": true
    }
   },
   {
@@ -4352,7 +4661,8 @@
     "locID": "LOC000169696375",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC719769199"
+    "gnaf_pid": "GAVIC719769199",
+    "ee": true
    }
   },
   {
@@ -4369,7 +4679,8 @@
     "locID": "LOC000122552337",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721290846"
+    "gnaf_pid": "GAVIC721290846",
+    "ee": true
    }
   },
   {
@@ -4386,7 +4697,8 @@
     "locID": "LOC000122542372",
     "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721292269"
+    "gnaf_pid": "GAVIC721292269",
+    "ee": true
    }
   },
   {
@@ -4403,7 +4715,8 @@
     "locID": "LOC100076222619",
     "tech": "FTTB",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAVIC721293173"
+    "gnaf_pid": "GAVIC721293173",
+    "ee": true
    }
   }
  ]
