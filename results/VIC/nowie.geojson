@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-24T07:04:37.888551",
+ "generated": "2025-06-18T05:40:14.671345",
  "suburb": "NOWIE",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412060056",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412063739",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421984045",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +75,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422136245",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +94,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422148013",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -106,9 +111,10 @@
     "name": "60 MAHER ROAD NOWIE 3585",
     "locID": "LOC000032588340",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC422166882",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
    }
   },
   {
@@ -126,6 +132,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422166883",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -144,6 +151,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422192563",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -162,6 +170,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422192564",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -178,9 +187,10 @@
     "name": "906 WAITCHIE ROAD NOWIE 3585",
     "locID": "LOC000069846211",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC422200103",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
    }
   }
  ]
