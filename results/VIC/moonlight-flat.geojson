@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-24T02:22:57.269302",
+ "generated": "2025-06-18T02:11:51.704271",
  "suburb": "MOONLIGHT FLAT",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420570183",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420838910",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421269323",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -70,9 +73,10 @@
     "name": "17 CALDER COURT MOONLIGHT FLAT 3465",
     "locID": "LOC000079465779",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC423062341",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
    }
   },
   {
@@ -88,9 +92,10 @@
     "name": "22 CALDER COURT MOONLIGHT FLAT 3465",
     "locID": "LOC000038238634",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC423062342",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
    }
   },
   {
@@ -108,6 +113,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423062343",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -124,9 +130,10 @@
     "name": "34 CALDER COURT MOONLIGHT FLAT 3465",
     "locID": "LOC000034508521",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC423062344",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
    }
   },
   {
@@ -144,6 +151,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423062345",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -162,6 +170,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423062346",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -180,6 +189,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423062347",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -198,6 +208,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423062349",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -216,6 +227,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423062350",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -234,6 +246,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423066403",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -252,6 +265,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423079725",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -268,9 +282,31 @@
     "name": "119 MOONLIGHT ROAD MOONLIGHT FLAT 3465",
     "locID": "LOC000063688500",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC423082748",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.68304715,
+     -37.05170688
+    ]
+   },
+   "properties": {
+    "name": "164 MOONLIGHT ROAD MOONLIGHT FLAT 3465",
+    "locID": "LOC000057050323",
+    "tech": "FTTN",
+    "upgrade": "FTTP_SA",
+    "gnaf_pid": "GAVIC423082749",
+    "ee": true,
+    "tech_change_status": "Eligible to Order",
+    "program_type": "On-Demand N2P SDU/MDU Simple",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -286,9 +322,10 @@
     "name": "179 MOONLIGHT ROAD MOONLIGHT FLAT 3465",
     "locID": "LOC000001886825",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC423082750",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
    }
   },
   {
@@ -304,9 +341,10 @@
     "name": "202 MOONLIGHT ROAD MOONLIGHT FLAT 3465",
     "locID": "LOC000035976133",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC423082751",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
    }
   },
   {
@@ -322,9 +360,52 @@
     "name": "205 MOONLIGHT ROAD MOONLIGHT FLAT 3465",
     "locID": "LOC000092866877",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC423082752",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.67693169,
+     -37.05386331
+    ]
+   },
+   "properties": {
+    "name": "224 MOONLIGHT ROAD MOONLIGHT FLAT 3465",
+    "locID": "LOC000061844661",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAVIC423082753",
+    "ee": true,
+    "tech_change_status": "Build Finalised",
+    "program_type": "On-Demand N2P SDU/MDU Simple",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.67605033,
+     -37.05352303
+    ]
+   },
+   "properties": {
+    "name": "228 MOONLIGHT ROAD MOONLIGHT FLAT 3465",
+    "locID": "LOC000080839078",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAVIC423082754",
+    "ee": true,
+    "tech_change_status": "Build Finalised",
+    "program_type": "On-Demand N2P SDU/MDU Simple",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -342,6 +423,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423082755",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -360,6 +442,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423082756",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -378,6 +461,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423082760",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -396,6 +480,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423082762",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -414,6 +499,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423082763",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -432,6 +518,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423082764",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -448,9 +535,10 @@
     "name": "85 MOONLIGHT ROAD MOONLIGHT FLAT 3465",
     "locID": "LOC000104875769",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC423082765",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
    }
   },
   {
@@ -468,6 +556,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423082766",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -486,7 +575,27 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423082767",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.69076447,
+     -37.05221445
+    ]
+   },
+   "properties": {
+    "name": "96 MOONLIGHT ROAD MOONLIGHT FLAT 3465",
+    "locID": "LOC000030977689",
+    "tech": "FTTN",
+    "upgrade": "FTTP",
+    "gnaf_pid": "GAVIC423082768",
+    "ee": true,
+    "tech_change_status": "Eligible to Order"
    }
   },
   {
@@ -504,6 +613,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423088711",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -522,6 +632,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423088712",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -540,6 +651,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423088713",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -558,6 +670,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423090128",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -576,6 +689,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423090768",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -594,6 +708,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423096584",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -612,6 +727,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423096585",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -630,6 +746,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423096586",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -648,6 +765,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423096587",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -666,6 +784,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423096589",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -684,6 +803,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423376527",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -702,6 +822,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423376528",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -720,6 +841,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423376533",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -738,6 +860,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424023347",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -758,6 +881,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424023348",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -776,6 +900,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAVIC424023355",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -796,6 +921,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAVIC424023358",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -816,6 +942,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424039234",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -834,6 +961,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424040012",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -852,6 +980,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAVIC424040708",
+    "ee": true,
     "tech_change_status": "New Tech Connected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -872,6 +1001,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424040711",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -892,6 +1022,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424040712",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -912,6 +1043,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAVIC424040713",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -932,6 +1064,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAVIC424040714",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -952,6 +1085,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061145",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -970,6 +1104,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061146",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -988,6 +1123,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061147",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1006,6 +1142,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061148",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1024,6 +1161,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061149",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1042,6 +1180,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061150",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1060,6 +1199,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061151",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1078,6 +1218,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061152",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1096,6 +1237,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061153",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1114,6 +1256,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061154",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1132,6 +1275,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061155",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1150,6 +1294,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061156",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1168,6 +1313,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061158",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1186,6 +1332,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424061159",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1206,6 +1353,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAVIC424061160",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1226,6 +1374,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061161",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1244,6 +1393,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424061162",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1262,6 +1412,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424250512",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1280,6 +1431,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424457450",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1298,6 +1450,7 @@
     "tech": "FTTP",
     "upgrade": "FTTP_NA",
     "gnaf_pid": "GAVIC424458250",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1318,6 +1471,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424488376",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1336,6 +1490,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424488379",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1354,6 +1509,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424502533",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1372,6 +1528,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424502534",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1392,6 +1549,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424619051",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1410,6 +1568,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424624130",
+    "ee": true,
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
    }
@@ -1429,6 +1588,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424720947",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1447,6 +1607,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425366356",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1465,6 +1626,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425683107",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1483,6 +1645,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719104450",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1501,6 +1664,7 @@
     "tech": "FTTN",
     "upgrade": "FTTP",
     "gnaf_pid": "GAVIC720298020",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "On-Demand N2P SDU/MDU Simple",
     "target_eligibility_quarter": "NA"
@@ -1521,6 +1685,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC721211052",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }
