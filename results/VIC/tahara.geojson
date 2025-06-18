@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-24T16:45:28.771965",
+ "generated": "2025-06-18T13:28:58.209878",
  "suburb": "TAHARA",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420274871",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -38,6 +39,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422138392",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -58,6 +60,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422138393",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -76,6 +79,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422138394",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -94,6 +98,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422138395",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -112,6 +117,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422138396",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -130,6 +136,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422142224",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -148,6 +155,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422142225",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -166,6 +174,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422177512",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -182,9 +191,10 @@
     "name": "1132 TAHARA-MERINO ROAD TAHARA 3301",
     "locID": "LOC000143071997",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC422194830",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
    }
   },
   {
@@ -200,9 +210,10 @@
     "name": "1090 MURNDAL ROAD TAHARA 3301",
     "locID": "LOC000052180295",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC422311799",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
    }
   },
   {
@@ -220,6 +231,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422311800",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -238,6 +250,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422311801",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -258,6 +271,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422316794",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -276,6 +290,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422316795",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -294,6 +309,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422316796",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -312,6 +328,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422322691",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -330,6 +347,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422322692",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -348,6 +366,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423056626",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }

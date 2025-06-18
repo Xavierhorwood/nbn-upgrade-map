@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-24T16:45:45.825453",
+ "generated": "2025-06-18T13:29:15.079648",
  "suburb": "TAHARA WEST",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422026670",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422152881",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422154309",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +75,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422157968",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +94,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422194826",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -106,9 +111,10 @@
     "name": "311 TAHARA-MERINO ROAD TAHARA WEST 3310",
     "locID": "LOC000124636876",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC422194827",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
    }
   },
   {
@@ -126,6 +132,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422194828",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -144,6 +151,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422194829",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -162,6 +170,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423410125",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -180,6 +189,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423728814",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }
