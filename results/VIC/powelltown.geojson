@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-24T10:11:01.775382",
+ "generated": "2025-06-18T08:17:25.312996",
  "suburb": "POWELLTOWN",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412113928",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412113930",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412113931",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +75,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412113932",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +94,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412116076",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -108,6 +113,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412116077",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -126,6 +132,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412123766",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -144,6 +151,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412123767",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -162,6 +170,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412123787",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -180,6 +189,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412124446",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -198,6 +208,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412125180",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -216,6 +227,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412127199",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -234,6 +246,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412127200",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -252,6 +265,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412127201",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -270,6 +284,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412127206",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -288,6 +303,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412127889",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -306,6 +322,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412127890",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -324,6 +341,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412127891",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -342,6 +360,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412127892",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -360,6 +379,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412127895",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -378,6 +398,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412132576",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -396,7 +417,29 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412132581",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.74932634,
+     -37.86467396
+    ]
+   },
+   "properties": {
+    "name": "29 YARRA STREET POWELLTOWN 3797",
+    "locID": "LOC000022036494",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAVIC412134388",
+    "ee": true,
+    "tech_change_status": "Committed",
+    "program_type": "On-Demand N2P SDU/MDU Simple",
+    "target_eligibility_quarter": "Sep 2025"
    }
   },
   {
@@ -414,6 +457,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412134471",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -432,6 +476,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412135155",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -450,6 +495,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC412135932",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -468,6 +514,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC414590521",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -486,6 +533,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC414590522",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -504,6 +552,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC414590525",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -522,6 +571,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC414590537",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -540,7 +590,71 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC414633800",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.75107509,
+     -37.86476128
+    ]
+   },
+   "properties": {
+    "name": "30 YARRA STREET POWELLTOWN 3797",
+    "locID": "LOC000125526760",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAVIC414633810",
+    "ee": true,
+    "tech_change_status": "Committed",
+    "program_type": "On-Demand N2P SDU/MDU Simple",
+    "target_eligibility_quarter": "Sep 2025"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.75107509,
+     -37.86476128
+    ]
+   },
+   "properties": {
+    "name": "32 YARRA STREET POWELLTOWN 3797",
+    "locID": "LOC000069913198",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAVIC414633812",
+    "ee": true,
+    "tech_change_status": "Committed",
+    "program_type": "On-Demand N2P SDU/MDU Simple",
+    "target_eligibility_quarter": "Sep 2025"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.75107509,
+     -37.86476128
+    ]
+   },
+   "properties": {
+    "name": "24 YARRA STREET POWELLTOWN 3797",
+    "locID": "LOC000049798769",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAVIC414633815",
+    "ee": true,
+    "tech_change_status": "Committed",
+    "program_type": "Customer-initiated N2P MDU Complex",
+    "target_eligibility_quarter": "Sep 2025"
    }
   },
   {
@@ -558,6 +672,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC414633817",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -576,6 +691,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420214146",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -594,6 +710,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422407285",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -612,6 +729,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422407286",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -630,6 +748,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422407287",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -648,6 +767,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423095029",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -666,6 +786,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423105240",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -684,6 +805,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423105241",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -702,6 +824,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423409914",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -720,6 +843,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423440211",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -738,6 +862,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423440212",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -756,6 +881,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423440213",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -774,6 +900,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423440214",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -792,6 +919,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423453342",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -810,6 +938,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423492160",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -828,6 +957,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423492163",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -846,6 +976,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423492164",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -864,7 +995,29 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423492165",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.74886981,
+     -37.86481934
+    ]
+   },
+   "properties": {
+    "name": "31 YARRA STREET POWELLTOWN 3797",
+    "locID": "LOC000080138365",
+    "tech": "FTTN",
+    "upgrade": "FTTP_NA",
+    "gnaf_pid": "GAVIC423502018",
+    "ee": true,
+    "tech_change_status": "Committed",
+    "program_type": "On-Demand N2P SDU/MDU Simple",
+    "target_eligibility_quarter": "Sep 2025"
    }
   },
   {
@@ -882,6 +1035,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424059916",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -900,6 +1054,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974450",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -918,6 +1073,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974451",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -936,6 +1092,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974452",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -954,6 +1111,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974453",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -972,6 +1130,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974454",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -990,6 +1149,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974455",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1008,6 +1168,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974456",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1026,6 +1187,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974457",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1044,6 +1206,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974459",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1062,6 +1225,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974460",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1080,6 +1244,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974461",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1098,6 +1263,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974462",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1116,6 +1282,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974463",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1134,6 +1301,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974464",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1152,6 +1320,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974466",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1170,6 +1339,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974467",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1188,6 +1358,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974468",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1206,6 +1377,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974469",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1224,6 +1396,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974470",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1242,6 +1415,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974471",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1260,6 +1434,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974472",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1278,6 +1453,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974473",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1296,6 +1472,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974475",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1314,6 +1491,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974476",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1332,6 +1510,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974479",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1350,6 +1529,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974480",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1368,6 +1548,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974482",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1386,6 +1567,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974484",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1404,6 +1586,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974485",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1422,6 +1605,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974486",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1440,6 +1624,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974487",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1458,6 +1643,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974488",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1476,6 +1662,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974489",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1494,6 +1681,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974491",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1512,6 +1700,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974492",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1530,6 +1719,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974493",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1548,6 +1738,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974494",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1566,6 +1757,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974495",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1584,6 +1776,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974496",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1602,6 +1795,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974497",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1620,6 +1814,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974498",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1638,6 +1833,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974499",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1656,6 +1852,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974500",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1674,6 +1871,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974501",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1692,6 +1890,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974502",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1710,6 +1909,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974503",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1728,6 +1928,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974504",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1746,6 +1947,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974505",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1764,6 +1966,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424974506",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1782,6 +1985,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC425032334",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }
