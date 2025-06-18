@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-24T19:54:20.682272",
+ "generated": "2025-06-18T15:56:45.844157",
  "suburb": "TURTONS CREEK",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC419666703",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420349186",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420394701",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +75,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420576515",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +94,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420577518",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -108,6 +113,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC420869490",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -126,6 +132,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421040589",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -144,6 +151,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421153333",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -162,6 +170,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC421497099",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.24644414,
+     -38.54499267
+    ]
+   },
+   "properties": {
+    "name": "875 TURTONS CREEK ROAD TURTONS CREEK 3960",
+    "locID": "LOC000012983515",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC421834926",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -180,6 +208,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422143788",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -198,6 +227,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422169334",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -216,6 +246,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422169335",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -234,6 +265,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422169336",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -252,7 +284,29 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422169338",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.24317186,
+     -38.54805467
+    ]
+   },
+   "properties": {
+    "name": "945 TURTONS CREEK ROAD TURTONS CREEK 3960",
+    "locID": "LOC000036483349",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAVIC422198563",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -270,6 +324,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422201743",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -288,6 +343,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422409955",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -306,6 +362,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422409956",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -324,6 +381,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422409957",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -342,6 +400,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC422409958",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -360,6 +419,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423067771",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -378,6 +438,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423098305",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -396,6 +457,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423376380",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -414,6 +476,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423822976",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -432,6 +495,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424237407",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -452,6 +516,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424237600",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -470,6 +535,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424632809",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -488,6 +554,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424639872",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -506,6 +573,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424688815",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -524,6 +592,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC424731418",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -542,6 +611,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719327564",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -560,6 +630,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC719943135",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"

@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-24T20:06:54.081906",
+ "generated": "2025-06-18T16:08:17.366179",
  "suburb": "ULTIMA EAST",
  "features": [
   {
@@ -16,9 +16,10 @@
     "name": "454 MACPHERSON ROAD ULTIMA EAST 3544",
     "locID": "LOC000006250821",
     "tech": "SATELLITE",
-    "upgrade": "NULL_NA",
+    "upgrade": "FW_NA",
     "gnaf_pid": "GAVIC420876371",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "Build Finalised"
    }
   },
   {
@@ -36,6 +37,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423972002",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAVIC423972004",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }
