@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-25T02:38:02.625764",
+ "generated": "2025-06-18T21:27:39.425367",
  "suburb": "BARRAGUP",
  "features": [
   {
@@ -17,7 +17,8 @@
     "locID": "LOC000037142144",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_146816363"
+    "gnaf_pid": "GAWA_146816363",
+    "ee": true
    }
   },
   {
@@ -34,7 +35,8 @@
     "locID": "LOC000017218949",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_146908937"
+    "gnaf_pid": "GAWA_146908937",
+    "ee": true
    }
   },
   {
@@ -51,7 +53,8 @@
     "locID": "LOC000003612532",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_146912982"
+    "gnaf_pid": "GAWA_146912982",
+    "ee": true
    }
   },
   {
@@ -68,7 +71,8 @@
     "locID": "LOC000003736933",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_147074683"
+    "gnaf_pid": "GAWA_147074683",
+    "ee": true
    }
   },
   {
@@ -85,7 +89,8 @@
     "locID": "LOC000047875758",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_147088301"
+    "gnaf_pid": "GAWA_147088301",
+    "ee": true
    }
   },
   {
@@ -103,6 +108,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147128211",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -123,6 +129,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147352076",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -143,6 +150,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147476719",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -162,7 +170,26 @@
     "locID": "LOC000089840491",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_147476722"
+    "gnaf_pid": "GAWA_147476722",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.78794635,
+     -32.55834026
+    ]
+   },
+   "properties": {
+    "name": "10 PINJARRA ROAD BARRAGUP 6209",
+    "locID": "LOC000004621846",
+    "tech": "FTTB",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_148969180",
+    "ee": true
    }
   },
   {
@@ -179,7 +206,8 @@
     "locID": "LOC000077929715",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160791732"
+    "gnaf_pid": "GAWA_160791732",
+    "ee": true
    }
   },
   {
@@ -196,7 +224,8 @@
     "locID": "LOC000077443392",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160791734"
+    "gnaf_pid": "GAWA_160791734",
+    "ee": true
    }
   },
   {
@@ -213,7 +242,8 @@
     "locID": "LOC000015611436",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160793899"
+    "gnaf_pid": "GAWA_160793899",
+    "ee": true
    }
   },
   {
@@ -230,7 +260,8 @@
     "locID": "LOC000084437579",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160793903"
+    "gnaf_pid": "GAWA_160793903",
+    "ee": true
    }
   },
   {
@@ -247,7 +278,8 @@
     "locID": "LOC000017927653",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160793906"
+    "gnaf_pid": "GAWA_160793906",
+    "ee": true
    }
   },
   {
@@ -264,7 +296,8 @@
     "locID": "LOC000028772863",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160793909"
+    "gnaf_pid": "GAWA_160793909",
+    "ee": true
    }
   },
   {
@@ -282,6 +315,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160797270",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -302,6 +336,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160797273",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -322,6 +357,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160797275",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -342,6 +378,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160797277",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -362,6 +399,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160797279",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -382,6 +420,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160797282",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -402,6 +441,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160797294",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -421,7 +461,8 @@
     "locID": "LOC000078131932",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160798226"
+    "gnaf_pid": "GAWA_160798226",
+    "ee": true
    }
   },
   {
@@ -438,7 +479,8 @@
     "locID": "LOC000063783254",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160798337"
+    "gnaf_pid": "GAWA_160798337",
+    "ee": true
    }
   },
   {
@@ -455,7 +497,8 @@
     "locID": "LOC000002955806",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160798340"
+    "gnaf_pid": "GAWA_160798340",
+    "ee": true
    }
   },
   {
@@ -472,7 +515,8 @@
     "locID": "LOC000105898278",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160798349"
+    "gnaf_pid": "GAWA_160798349",
+    "ee": true
    }
   },
   {
@@ -490,6 +534,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160799231",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -510,6 +555,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160803755",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -530,6 +576,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160803759",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -550,6 +597,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160803763",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -569,7 +617,8 @@
     "locID": "LOC000098805534",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160806002"
+    "gnaf_pid": "GAWA_160806002",
+    "ee": true
    }
   },
   {
@@ -586,7 +635,8 @@
     "locID": "LOC000079546970",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160806005"
+    "gnaf_pid": "GAWA_160806005",
+    "ee": true
    }
   },
   {
@@ -603,7 +653,8 @@
     "locID": "LOC000034264790",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160806007"
+    "gnaf_pid": "GAWA_160806007",
+    "ee": true
    }
   },
   {
@@ -620,7 +671,8 @@
     "locID": "LOC000012945402",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160806008"
+    "gnaf_pid": "GAWA_160806008",
+    "ee": true
    }
   },
   {
@@ -637,7 +689,8 @@
     "locID": "LOC000036156698",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160912003"
+    "gnaf_pid": "GAWA_160912003",
+    "ee": true
    }
   },
   {
@@ -654,7 +707,8 @@
     "locID": "LOC000004810098",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160912004"
+    "gnaf_pid": "GAWA_160912004",
+    "ee": true
    }
   },
   {
@@ -671,7 +725,8 @@
     "locID": "LOC000104250243",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160912005"
+    "gnaf_pid": "GAWA_160912005",
+    "ee": true
    }
   },
   {
@@ -688,7 +743,8 @@
     "locID": "LOC000066774001",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160912006"
+    "gnaf_pid": "GAWA_160912006",
+    "ee": true
    }
   },
   {
@@ -705,7 +761,8 @@
     "locID": "LOC000043735076",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160912008"
+    "gnaf_pid": "GAWA_160912008",
+    "ee": true
    }
   },
   {
@@ -722,7 +779,8 @@
     "locID": "LOC000059506003",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160912009"
+    "gnaf_pid": "GAWA_160912009",
+    "ee": true
    }
   },
   {
@@ -739,7 +797,8 @@
     "locID": "LOC000076613648",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160912010"
+    "gnaf_pid": "GAWA_160912010",
+    "ee": true
    }
   },
   {
@@ -756,7 +815,8 @@
     "locID": "LOC000007685128",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160913557"
+    "gnaf_pid": "GAWA_160913557",
+    "ee": true
    }
   },
   {
@@ -773,7 +833,8 @@
     "locID": "LOC000068860756",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160913558"
+    "gnaf_pid": "GAWA_160913558",
+    "ee": true
    }
   },
   {
@@ -790,7 +851,8 @@
     "locID": "LOC000071498097",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160913559"
+    "gnaf_pid": "GAWA_160913559",
+    "ee": true
    }
   },
   {
@@ -807,7 +869,8 @@
     "locID": "LOC000102112258",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160913560"
+    "gnaf_pid": "GAWA_160913560",
+    "ee": true
    }
   },
   {
@@ -824,7 +887,8 @@
     "locID": "LOC000002117270",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160913561"
+    "gnaf_pid": "GAWA_160913561",
+    "ee": true
    }
   },
   {
@@ -841,7 +905,8 @@
     "locID": "LOC000071310104",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160913562"
+    "gnaf_pid": "GAWA_160913562",
+    "ee": true
    }
   },
   {
@@ -858,7 +923,8 @@
     "locID": "LOC000097267871",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160913563"
+    "gnaf_pid": "GAWA_160913563",
+    "ee": true
    }
   },
   {
@@ -876,6 +942,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160914469",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -896,6 +963,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160914470",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -916,6 +984,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160914471",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -936,6 +1005,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160914472",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -956,6 +1026,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160914473",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -976,6 +1047,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160914474",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -996,6 +1068,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160914475",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1016,6 +1089,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160914476",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1035,7 +1109,8 @@
     "locID": "LOC000018081343",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160914690"
+    "gnaf_pid": "GAWA_160914690",
+    "ee": true
    }
   },
   {
@@ -1052,7 +1127,8 @@
     "locID": "LOC000014446203",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160914691"
+    "gnaf_pid": "GAWA_160914691",
+    "ee": true
    }
   },
   {
@@ -1069,7 +1145,8 @@
     "locID": "LOC000050478201",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160914692"
+    "gnaf_pid": "GAWA_160914692",
+    "ee": true
    }
   },
   {
@@ -1086,7 +1163,8 @@
     "locID": "LOC000046708387",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160914693"
+    "gnaf_pid": "GAWA_160914693",
+    "ee": true
    }
   },
   {
@@ -1103,7 +1181,8 @@
     "locID": "LOC000077443476",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160914694"
+    "gnaf_pid": "GAWA_160914694",
+    "ee": true
    }
   },
   {
@@ -1120,7 +1199,8 @@
     "locID": "LOC000079599519",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160914695"
+    "gnaf_pid": "GAWA_160914695",
+    "ee": true
    }
   },
   {
@@ -1138,6 +1218,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160914696",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1158,6 +1239,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160914697",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1178,6 +1260,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160914698",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1198,6 +1281,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160914699",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1218,6 +1302,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915071",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1238,6 +1323,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915072",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1258,6 +1344,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915073",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1278,6 +1365,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915074",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1298,6 +1386,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915075",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1318,6 +1407,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915293",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1338,6 +1428,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915294",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1358,6 +1449,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915295",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1378,6 +1470,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915353",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1398,6 +1491,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915354",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1418,6 +1512,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915878",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1438,6 +1533,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915879",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1458,6 +1554,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915880",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1478,6 +1575,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915881",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1498,6 +1596,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915882",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1518,6 +1617,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915883",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1538,6 +1638,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915884",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1558,6 +1659,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915885",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1578,6 +1680,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915886",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1598,6 +1701,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915887",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1618,6 +1722,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915888",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1638,6 +1743,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915889",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1658,6 +1764,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915890",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1678,6 +1785,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915891",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1698,6 +1806,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GAWA_160915892",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1718,6 +1827,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915893",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1738,6 +1848,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915894",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1758,6 +1869,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915895",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1778,6 +1890,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160915897",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1798,6 +1911,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916114",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1818,6 +1932,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916115",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1838,6 +1953,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916116",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1858,6 +1974,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916117",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1878,6 +1995,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916118",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1898,6 +2016,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916119",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1918,6 +2037,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916120",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1938,6 +2058,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916121",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -1957,7 +2078,8 @@
     "locID": "LOC000065230580",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916389"
+    "gnaf_pid": "GAWA_160916389",
+    "ee": true
    }
   },
   {
@@ -1974,7 +2096,8 @@
     "locID": "LOC000094685975",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916390"
+    "gnaf_pid": "GAWA_160916390",
+    "ee": true
    }
   },
   {
@@ -1991,7 +2114,8 @@
     "locID": "LOC000042804911",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916391"
+    "gnaf_pid": "GAWA_160916391",
+    "ee": true
    }
   },
   {
@@ -2008,7 +2132,8 @@
     "locID": "LOC000005683508",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916392"
+    "gnaf_pid": "GAWA_160916392",
+    "ee": true
    }
   },
   {
@@ -2025,7 +2150,8 @@
     "locID": "LOC000092952682",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916436"
+    "gnaf_pid": "GAWA_160916436",
+    "ee": true
    }
   },
   {
@@ -2042,7 +2168,8 @@
     "locID": "LOC000073181789",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916437"
+    "gnaf_pid": "GAWA_160916437",
+    "ee": true
    }
   },
   {
@@ -2059,7 +2186,8 @@
     "locID": "LOC000092890208",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916438"
+    "gnaf_pid": "GAWA_160916438",
+    "ee": true
    }
   },
   {
@@ -2076,7 +2204,8 @@
     "locID": "LOC000087462689",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916439"
+    "gnaf_pid": "GAWA_160916439",
+    "ee": true
    }
   },
   {
@@ -2093,7 +2222,8 @@
     "locID": "LOC000017859351",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916440"
+    "gnaf_pid": "GAWA_160916440",
+    "ee": true
    }
   },
   {
@@ -2110,7 +2240,8 @@
     "locID": "LOC000031477662",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916441"
+    "gnaf_pid": "GAWA_160916441",
+    "ee": true
    }
   },
   {
@@ -2127,7 +2258,8 @@
     "locID": "LOC000098821115",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916442"
+    "gnaf_pid": "GAWA_160916442",
+    "ee": true
    }
   },
   {
@@ -2144,7 +2276,8 @@
     "locID": "LOC000004798414",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916443"
+    "gnaf_pid": "GAWA_160916443",
+    "ee": true
    }
   },
   {
@@ -2161,7 +2294,8 @@
     "locID": "LOC000039038433",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916444"
+    "gnaf_pid": "GAWA_160916444",
+    "ee": true
    }
   },
   {
@@ -2178,7 +2312,8 @@
     "locID": "LOC000014581532",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916445"
+    "gnaf_pid": "GAWA_160916445",
+    "ee": true
    }
   },
   {
@@ -2195,7 +2330,8 @@
     "locID": "LOC000091625967",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916446"
+    "gnaf_pid": "GAWA_160916446",
+    "ee": true
    }
   },
   {
@@ -2212,7 +2348,8 @@
     "locID": "LOC000027827374",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916447"
+    "gnaf_pid": "GAWA_160916447",
+    "ee": true
    }
   },
   {
@@ -2229,7 +2366,8 @@
     "locID": "LOC000080479182",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916448"
+    "gnaf_pid": "GAWA_160916448",
+    "ee": true
    }
   },
   {
@@ -2246,7 +2384,8 @@
     "locID": "LOC000012657532",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916449"
+    "gnaf_pid": "GAWA_160916449",
+    "ee": true
    }
   },
   {
@@ -2263,7 +2402,8 @@
     "locID": "LOC000012077603",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916450"
+    "gnaf_pid": "GAWA_160916450",
+    "ee": true
    }
   },
   {
@@ -2280,7 +2420,8 @@
     "locID": "LOC000003037345",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916451"
+    "gnaf_pid": "GAWA_160916451",
+    "ee": true
    }
   },
   {
@@ -2297,7 +2438,8 @@
     "locID": "LOC000078130036",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916452"
+    "gnaf_pid": "GAWA_160916452",
+    "ee": true
    }
   },
   {
@@ -2314,7 +2456,8 @@
     "locID": "LOC000077084208",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916453"
+    "gnaf_pid": "GAWA_160916453",
+    "ee": true
    }
   },
   {
@@ -2331,7 +2474,8 @@
     "locID": "LOC000060266741",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916454"
+    "gnaf_pid": "GAWA_160916454",
+    "ee": true
    }
   },
   {
@@ -2348,7 +2492,8 @@
     "locID": "LOC000039146243",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916455"
+    "gnaf_pid": "GAWA_160916455",
+    "ee": true
    }
   },
   {
@@ -2365,7 +2510,8 @@
     "locID": "LOC000091601916",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916456"
+    "gnaf_pid": "GAWA_160916456",
+    "ee": true
    }
   },
   {
@@ -2382,7 +2528,8 @@
     "locID": "LOC000024550416",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916457"
+    "gnaf_pid": "GAWA_160916457",
+    "ee": true
    }
   },
   {
@@ -2399,7 +2546,8 @@
     "locID": "LOC000027842393",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160916458"
+    "gnaf_pid": "GAWA_160916458",
+    "ee": true
    }
   },
   {
@@ -2417,6 +2565,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916927",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2437,6 +2586,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916928",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2457,6 +2607,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916929",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2477,6 +2628,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916930",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2497,6 +2649,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916931",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2517,6 +2670,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916932",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2537,6 +2691,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916933",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2557,6 +2712,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916934",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2577,6 +2733,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916935",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2597,6 +2754,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916937",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2617,6 +2775,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916938",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2637,6 +2796,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916939",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2657,6 +2817,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916940",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2677,6 +2838,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160916941",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2696,7 +2858,8 @@
     "locID": "LOC000099987183",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160917582"
+    "gnaf_pid": "GAWA_160917582",
+    "ee": true
    }
   },
   {
@@ -2713,7 +2876,8 @@
     "locID": "LOC000042308099",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160917583"
+    "gnaf_pid": "GAWA_160917583",
+    "ee": true
    }
   },
   {
@@ -2730,7 +2894,8 @@
     "locID": "LOC000007036216",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160917584"
+    "gnaf_pid": "GAWA_160917584",
+    "ee": true
    }
   },
   {
@@ -2747,7 +2912,8 @@
     "locID": "LOC000012882450",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160917585"
+    "gnaf_pid": "GAWA_160917585",
+    "ee": true
    }
   },
   {
@@ -2765,6 +2931,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160917670",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2785,6 +2952,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160917671",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2805,6 +2973,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160917672",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2825,6 +2994,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160917673",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2844,7 +3014,8 @@
     "locID": "LOC000101747675",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918209"
+    "gnaf_pid": "GAWA_160918209",
+    "ee": true
    }
   },
   {
@@ -2861,7 +3032,8 @@
     "locID": "LOC000031462467",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918210"
+    "gnaf_pid": "GAWA_160918210",
+    "ee": true
    }
   },
   {
@@ -2878,7 +3050,8 @@
     "locID": "LOC000022024407",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918211"
+    "gnaf_pid": "GAWA_160918211",
+    "ee": true
    }
   },
   {
@@ -2895,7 +3068,8 @@
     "locID": "LOC000101587088",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918212"
+    "gnaf_pid": "GAWA_160918212",
+    "ee": true
    }
   },
   {
@@ -2912,7 +3086,8 @@
     "locID": "LOC000100678409",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918213"
+    "gnaf_pid": "GAWA_160918213",
+    "ee": true
    }
   },
   {
@@ -2930,6 +3105,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918649",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2950,6 +3126,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918650",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2970,6 +3147,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918651",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -2990,6 +3168,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918652",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3010,6 +3189,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918653",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3030,6 +3210,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918677",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3050,6 +3231,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918678",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3070,6 +3252,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918679",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3090,6 +3273,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918680",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3110,6 +3294,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918681",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3130,6 +3315,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918682",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3150,6 +3336,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918683",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3170,6 +3357,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918684",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3189,7 +3377,8 @@
     "locID": "LOC000089687584",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918840"
+    "gnaf_pid": "GAWA_160918840",
+    "ee": true
    }
   },
   {
@@ -3206,7 +3395,8 @@
     "locID": "LOC000065325328",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918841"
+    "gnaf_pid": "GAWA_160918841",
+    "ee": true
    }
   },
   {
@@ -3223,7 +3413,8 @@
     "locID": "LOC000056894769",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918842"
+    "gnaf_pid": "GAWA_160918842",
+    "ee": true
    }
   },
   {
@@ -3240,7 +3431,8 @@
     "locID": "LOC000012052564",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918843"
+    "gnaf_pid": "GAWA_160918843",
+    "ee": true
    }
   },
   {
@@ -3257,7 +3449,8 @@
     "locID": "LOC000003786237",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918844"
+    "gnaf_pid": "GAWA_160918844",
+    "ee": true
    }
   },
   {
@@ -3274,7 +3467,8 @@
     "locID": "LOC000022795433",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918845"
+    "gnaf_pid": "GAWA_160918845",
+    "ee": true
    }
   },
   {
@@ -3291,7 +3485,8 @@
     "locID": "LOC000079698999",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918846"
+    "gnaf_pid": "GAWA_160918846",
+    "ee": true
    }
   },
   {
@@ -3308,7 +3503,8 @@
     "locID": "LOC000102642405",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918847"
+    "gnaf_pid": "GAWA_160918847",
+    "ee": true
    }
   },
   {
@@ -3325,7 +3521,8 @@
     "locID": "LOC000060025101",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918848"
+    "gnaf_pid": "GAWA_160918848",
+    "ee": true
    }
   },
   {
@@ -3342,7 +3539,8 @@
     "locID": "LOC000089293650",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918849"
+    "gnaf_pid": "GAWA_160918849",
+    "ee": true
    }
   },
   {
@@ -3359,7 +3557,8 @@
     "locID": "LOC000059496179",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918850"
+    "gnaf_pid": "GAWA_160918850",
+    "ee": true
    }
   },
   {
@@ -3376,7 +3575,8 @@
     "locID": "LOC000031910072",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160918851"
+    "gnaf_pid": "GAWA_160918851",
+    "ee": true
    }
   },
   {
@@ -3394,6 +3594,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918852",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3414,6 +3615,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918853",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3434,6 +3636,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918854",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3454,6 +3657,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160918855",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3474,6 +3678,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919010",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3494,6 +3699,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919011",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3514,6 +3720,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919285",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3534,6 +3741,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919519",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3554,6 +3762,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919520",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3574,6 +3783,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919577",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3594,6 +3804,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919578",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3614,6 +3825,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919579",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3634,6 +3846,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919580",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3654,6 +3867,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919581",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3674,6 +3888,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919582",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3694,6 +3909,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919583",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3714,6 +3930,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919584",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3734,6 +3951,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919585",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3754,6 +3972,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919586",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3774,6 +3993,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919587",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3794,6 +4014,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919588",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3814,6 +4035,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160919589",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3834,6 +4056,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160921827",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3854,6 +4077,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160921828",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3874,6 +4098,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160921829",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3894,6 +4119,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160921830",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -3913,7 +4139,8 @@
     "locID": "LOC000033767961",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922314"
+    "gnaf_pid": "GAWA_160922314",
+    "ee": true
    }
   },
   {
@@ -3930,7 +4157,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922315"
+    "gnaf_pid": "GAWA_160922315",
+    "ee": true
    }
   },
   {
@@ -3947,7 +4175,8 @@
     "locID": "LOC000011505877",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922316"
+    "gnaf_pid": "GAWA_160922316",
+    "ee": true
    }
   },
   {
@@ -3964,7 +4193,8 @@
     "locID": "LOC000095966006",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922317"
+    "gnaf_pid": "GAWA_160922317",
+    "ee": true
    }
   },
   {
@@ -3981,7 +4211,8 @@
     "locID": "LOC000031113192",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922318"
+    "gnaf_pid": "GAWA_160922318",
+    "ee": true
    }
   },
   {
@@ -3998,7 +4229,8 @@
     "locID": "LOC000045234992",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922319"
+    "gnaf_pid": "GAWA_160922319",
+    "ee": true
    }
   },
   {
@@ -4015,7 +4247,8 @@
     "locID": "LOC000082168368",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922320"
+    "gnaf_pid": "GAWA_160922320",
+    "ee": true
    }
   },
   {
@@ -4032,7 +4265,8 @@
     "locID": "LOC000024513396",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922321"
+    "gnaf_pid": "GAWA_160922321",
+    "ee": true
    }
   },
   {
@@ -4049,7 +4283,8 @@
     "locID": "LOC000048372471",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922322"
+    "gnaf_pid": "GAWA_160922322",
+    "ee": true
    }
   },
   {
@@ -4066,7 +4301,8 @@
     "locID": "LOC000073502106",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922323"
+    "gnaf_pid": "GAWA_160922323",
+    "ee": true
    }
   },
   {
@@ -4083,7 +4319,8 @@
     "locID": "LOC000022049861",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922324"
+    "gnaf_pid": "GAWA_160922324",
+    "ee": true
    }
   },
   {
@@ -4100,7 +4337,8 @@
     "locID": "LOC000108069882",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922325"
+    "gnaf_pid": "GAWA_160922325",
+    "ee": true
    }
   },
   {
@@ -4117,7 +4355,8 @@
     "locID": "LOC000062410626",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922326"
+    "gnaf_pid": "GAWA_160922326",
+    "ee": true
    }
   },
   {
@@ -4134,7 +4373,8 @@
     "locID": "LOC000022833818",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922327"
+    "gnaf_pid": "GAWA_160922327",
+    "ee": true
    }
   },
   {
@@ -4151,7 +4391,8 @@
     "locID": "LOC000068529949",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922328"
+    "gnaf_pid": "GAWA_160922328",
+    "ee": true
    }
   },
   {
@@ -4168,7 +4409,8 @@
     "locID": "LOC000037536199",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922329"
+    "gnaf_pid": "GAWA_160922329",
+    "ee": true
    }
   },
   {
@@ -4185,7 +4427,8 @@
     "locID": "LOC000071779763",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922330"
+    "gnaf_pid": "GAWA_160922330",
+    "ee": true
    }
   },
   {
@@ -4202,7 +4445,8 @@
     "locID": "LOC000088245793",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922331"
+    "gnaf_pid": "GAWA_160922331",
+    "ee": true
    }
   },
   {
@@ -4219,7 +4463,8 @@
     "locID": "LOC000042703403",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922713"
+    "gnaf_pid": "GAWA_160922713",
+    "ee": true
    }
   },
   {
@@ -4236,7 +4481,8 @@
     "locID": "LOC000002076728",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922714"
+    "gnaf_pid": "GAWA_160922714",
+    "ee": true
    }
   },
   {
@@ -4253,7 +4499,8 @@
     "locID": "LOC000073606035",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922715"
+    "gnaf_pid": "GAWA_160922715",
+    "ee": true
    }
   },
   {
@@ -4270,7 +4517,8 @@
     "locID": "LOC000095828325",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922716"
+    "gnaf_pid": "GAWA_160922716",
+    "ee": true
    }
   },
   {
@@ -4287,7 +4535,8 @@
     "locID": "LOC000107510594",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922717"
+    "gnaf_pid": "GAWA_160922717",
+    "ee": true
    }
   },
   {
@@ -4304,7 +4553,8 @@
     "locID": "LOC000014583818",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922718"
+    "gnaf_pid": "GAWA_160922718",
+    "ee": true
    }
   },
   {
@@ -4321,7 +4571,8 @@
     "locID": "LOC000070650781",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922719"
+    "gnaf_pid": "GAWA_160922719",
+    "ee": true
    }
   },
   {
@@ -4338,7 +4589,8 @@
     "locID": "LOC000092717083",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922720"
+    "gnaf_pid": "GAWA_160922720",
+    "ee": true
    }
   },
   {
@@ -4355,7 +4607,8 @@
     "locID": "LOC000048395291",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922721"
+    "gnaf_pid": "GAWA_160922721",
+    "ee": true
    }
   },
   {
@@ -4372,7 +4625,8 @@
     "locID": "LOC000094321635",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922722"
+    "gnaf_pid": "GAWA_160922722",
+    "ee": true
    }
   },
   {
@@ -4389,7 +4643,8 @@
     "locID": "LOC000106613298",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160922723"
+    "gnaf_pid": "GAWA_160922723",
+    "ee": true
    }
   },
   {
@@ -4406,7 +4661,8 @@
     "locID": "LOC000083962576",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160925845"
+    "gnaf_pid": "GAWA_160925845",
+    "ee": true
    }
   },
   {
@@ -4423,7 +4679,8 @@
     "locID": "LOC000095985468",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160925846"
+    "gnaf_pid": "GAWA_160925846",
+    "ee": true
    }
   },
   {
@@ -4440,7 +4697,8 @@
     "locID": "LOC000068000520",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160925847"
+    "gnaf_pid": "GAWA_160925847",
+    "ee": true
    }
   },
   {
@@ -4457,7 +4715,8 @@
     "locID": "LOC000086586237",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160925848"
+    "gnaf_pid": "GAWA_160925848",
+    "ee": true
    }
   },
   {
@@ -4474,7 +4733,8 @@
     "locID": "LOC000046403563",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160925849"
+    "gnaf_pid": "GAWA_160925849",
+    "ee": true
    }
   },
   {
@@ -4491,7 +4751,8 @@
     "locID": "LOC000026916089",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160926506"
+    "gnaf_pid": "GAWA_160926506",
+    "ee": true
    }
   },
   {
@@ -4508,7 +4769,8 @@
     "locID": "LOC000019498045",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160926507"
+    "gnaf_pid": "GAWA_160926507",
+    "ee": true
    }
   },
   {
@@ -4525,7 +4787,8 @@
     "locID": "LOC000018934551",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160926508"
+    "gnaf_pid": "GAWA_160926508",
+    "ee": true
    }
   },
   {
@@ -4542,7 +4805,8 @@
     "locID": "LOC000073261978",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160926509"
+    "gnaf_pid": "GAWA_160926509",
+    "ee": true
    }
   },
   {
@@ -4559,7 +4823,8 @@
     "locID": "LOC000078987294",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160926510"
+    "gnaf_pid": "GAWA_160926510",
+    "ee": true
    }
   },
   {
@@ -4576,7 +4841,8 @@
     "locID": "LOC000092484569",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160926511"
+    "gnaf_pid": "GAWA_160926511",
+    "ee": true
    }
   },
   {
@@ -4594,6 +4860,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160926785",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4614,6 +4881,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160926786",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4634,6 +4902,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160926787",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4653,7 +4922,8 @@
     "locID": "LOC000051767452",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160926956"
+    "gnaf_pid": "GAWA_160926956",
+    "ee": true
    }
   },
   {
@@ -4671,6 +4941,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160926957",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4691,6 +4962,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160926958",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4711,6 +4983,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927175",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4731,6 +5004,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927176",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4751,6 +5025,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927246",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4771,6 +5046,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927247",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4791,6 +5067,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927308",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4811,6 +5088,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927309",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4831,6 +5109,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927310",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4851,6 +5130,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927312",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4871,6 +5151,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927710",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4891,6 +5172,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927711",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4911,6 +5193,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927712",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4931,6 +5214,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927713",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4951,6 +5235,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927714",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4971,6 +5256,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927715",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -4991,6 +5277,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927716",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5011,6 +5298,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927717",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5031,6 +5319,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927718",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5051,6 +5340,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927719",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5071,6 +5361,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927874",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5091,6 +5382,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927875",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5111,6 +5403,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160927876",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5130,7 +5423,8 @@
     "locID": "LOC000006927126",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160927962"
+    "gnaf_pid": "GAWA_160927962",
+    "ee": true
    }
   },
   {
@@ -5147,7 +5441,8 @@
     "locID": "LOC000055391886",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160927963"
+    "gnaf_pid": "GAWA_160927963",
+    "ee": true
    }
   },
   {
@@ -5164,7 +5459,8 @@
     "locID": "LOC000070769572",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160927964"
+    "gnaf_pid": "GAWA_160927964",
+    "ee": true
    }
   },
   {
@@ -5181,7 +5477,8 @@
     "locID": "LOC000064828315",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160927965"
+    "gnaf_pid": "GAWA_160927965",
+    "ee": true
    }
   },
   {
@@ -5198,7 +5495,8 @@
     "locID": "LOC000055385545",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160928064"
+    "gnaf_pid": "GAWA_160928064",
+    "ee": true
    }
   },
   {
@@ -5215,7 +5513,8 @@
     "locID": "LOC000086632255",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160928065"
+    "gnaf_pid": "GAWA_160928065",
+    "ee": true
    }
   },
   {
@@ -5232,7 +5531,8 @@
     "locID": "LOC000061456300",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160928066"
+    "gnaf_pid": "GAWA_160928066",
+    "ee": true
    }
   },
   {
@@ -5249,7 +5549,8 @@
     "locID": "LOC000018655408",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160928067"
+    "gnaf_pid": "GAWA_160928067",
+    "ee": true
    }
   },
   {
@@ -5266,7 +5567,8 @@
     "locID": "LOC000033077795",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160928068"
+    "gnaf_pid": "GAWA_160928068",
+    "ee": true
    }
   },
   {
@@ -5283,7 +5585,8 @@
     "locID": "LOC000003626685",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160928069"
+    "gnaf_pid": "GAWA_160928069",
+    "ee": true
    }
   },
   {
@@ -5300,7 +5603,8 @@
     "locID": "LOC000091321085",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160928655"
+    "gnaf_pid": "GAWA_160928655",
+    "ee": true
    }
   },
   {
@@ -5317,7 +5621,8 @@
     "locID": "LOC000096035506",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160928656"
+    "gnaf_pid": "GAWA_160928656",
+    "ee": true
    }
   },
   {
@@ -5334,7 +5639,8 @@
     "locID": "LOC000031973006",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160928657"
+    "gnaf_pid": "GAWA_160928657",
+    "ee": true
    }
   },
   {
@@ -5351,7 +5657,8 @@
     "locID": "LOC000008776201",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160928932"
+    "gnaf_pid": "GAWA_160928932",
+    "ee": true
    }
   },
   {
@@ -5369,6 +5676,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160929375",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5389,6 +5697,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160929376",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5409,6 +5718,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160929377",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5429,6 +5739,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160929380",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5448,7 +5759,8 @@
     "locID": "LOC000022903143",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160929466"
+    "gnaf_pid": "GAWA_160929466",
+    "ee": true
    }
   },
   {
@@ -5465,7 +5777,8 @@
     "locID": "LOC000109910279",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160929467"
+    "gnaf_pid": "GAWA_160929467",
+    "ee": true
    }
   },
   {
@@ -5482,7 +5795,8 @@
     "locID": "LOC000088646906",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160929468"
+    "gnaf_pid": "GAWA_160929468",
+    "ee": true
    }
   },
   {
@@ -5500,6 +5814,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160929470",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5520,6 +5835,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160929471",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -5538,6 +5854,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160929472",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5558,6 +5875,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160930428",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5578,6 +5896,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160930429",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5598,6 +5917,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160930430",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5618,6 +5938,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_160930431",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5637,7 +5958,8 @@
     "locID": "LOC000070508860",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_160930539"
+    "gnaf_pid": "GAWA_160930539",
+    "ee": true
    }
   },
   {
@@ -5654,7 +5976,8 @@
     "locID": "LOC000090195187",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_161027534"
+    "gnaf_pid": "GAWA_161027534",
+    "ee": true
    }
   },
   {
@@ -5671,7 +5994,8 @@
     "locID": "LOC000071227609",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_161033651"
+    "gnaf_pid": "GAWA_161033651",
+    "ee": true
    }
   },
   {
@@ -5688,7 +6012,8 @@
     "locID": "LOC000032854844",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_161033652"
+    "gnaf_pid": "GAWA_161033652",
+    "ee": true
    }
   },
   {
@@ -5705,7 +6030,8 @@
     "locID": "LOC000101620646",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_161033653"
+    "gnaf_pid": "GAWA_161033653",
+    "ee": true
    }
   },
   {
@@ -5722,7 +6048,8 @@
     "locID": "LOC000038867118",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_161033654"
+    "gnaf_pid": "GAWA_161033654",
+    "ee": true
    }
   },
   {
@@ -5739,7 +6066,8 @@
     "locID": "LOC000100830130",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_161033655"
+    "gnaf_pid": "GAWA_161033655",
+    "ee": true
    }
   },
   {
@@ -5756,7 +6084,8 @@
     "locID": "LOC000049714933",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_161033656"
+    "gnaf_pid": "GAWA_161033656",
+    "ee": true
    }
   },
   {
@@ -5773,7 +6102,8 @@
     "locID": "LOC000028713792",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_161033657"
+    "gnaf_pid": "GAWA_161033657",
+    "ee": true
    }
   },
   {
@@ -5791,6 +6121,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161035522",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5810,7 +6141,8 @@
     "locID": "LOC000069037566",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_161038932"
+    "gnaf_pid": "GAWA_161038932",
+    "ee": true
    }
   },
   {
@@ -5828,6 +6160,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161040526",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5848,6 +6181,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161482861",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5868,6 +6202,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161483032",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5888,6 +6223,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161483033",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5908,6 +6244,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161483304",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5928,6 +6265,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161484811",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5948,6 +6286,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161511252",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5968,6 +6307,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161511253",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -5988,6 +6328,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161511254",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6008,6 +6349,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161511255",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -6026,6 +6368,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161511256",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6046,6 +6389,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161511257",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6066,6 +6410,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161512127",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6086,6 +6431,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161512128",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6106,6 +6452,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161512129",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6126,6 +6473,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161512130",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6146,6 +6494,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161512131",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6166,6 +6515,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161512132",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6186,6 +6536,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161512133",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6206,6 +6557,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161512134",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6226,6 +6578,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161512548",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6246,6 +6599,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161513287",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6266,6 +6620,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161513288",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6286,6 +6641,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161515298",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6306,6 +6662,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161515929",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6326,6 +6683,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161515930",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6346,6 +6704,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161515931",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6366,6 +6725,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161515932",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6386,6 +6746,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161515933",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6406,6 +6767,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161515934",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6426,6 +6788,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161517668",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6445,7 +6808,8 @@
     "locID": "LOC000078144597",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_161519321"
+    "gnaf_pid": "GAWA_161519321",
+    "ee": true
    }
   },
   {
@@ -6463,6 +6827,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161519657",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6483,6 +6848,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161519658",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6502,7 +6868,8 @@
     "locID": "LOC000109269711",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_161521096"
+    "gnaf_pid": "GAWA_161521096",
+    "ee": true
    }
   },
   {
@@ -6519,7 +6886,8 @@
     "locID": "LOC000014545990",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_161895253"
+    "gnaf_pid": "GAWA_161895253",
+    "ee": true
    }
   },
   {
@@ -6537,6 +6905,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161897309",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6557,6 +6926,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162253399",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6577,6 +6947,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162273256",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6597,6 +6968,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162486367",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6617,6 +6989,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162486539",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6636,7 +7009,8 @@
     "locID": "LOC000081443391",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162487331"
+    "gnaf_pid": "GAWA_162487331",
+    "ee": true
    }
   },
   {
@@ -6654,6 +7028,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162489092",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6674,6 +7049,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162489093",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -6693,7 +7069,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647179"
+    "gnaf_pid": "GAWA_162647179",
+    "ee": true
    }
   },
   {
@@ -6710,7 +7087,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647180"
+    "gnaf_pid": "GAWA_162647180",
+    "ee": true
    }
   },
   {
@@ -6727,7 +7105,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647181"
+    "gnaf_pid": "GAWA_162647181",
+    "ee": true
    }
   },
   {
@@ -6744,7 +7123,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647182"
+    "gnaf_pid": "GAWA_162647182",
+    "ee": true
    }
   },
   {
@@ -6761,7 +7141,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647183"
+    "gnaf_pid": "GAWA_162647183",
+    "ee": true
    }
   },
   {
@@ -6778,7 +7159,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647184"
+    "gnaf_pid": "GAWA_162647184",
+    "ee": true
    }
   },
   {
@@ -6795,7 +7177,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647185"
+    "gnaf_pid": "GAWA_162647185",
+    "ee": true
    }
   },
   {
@@ -6812,7 +7195,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647186"
+    "gnaf_pid": "GAWA_162647186",
+    "ee": true
    }
   },
   {
@@ -6829,7 +7213,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647187"
+    "gnaf_pid": "GAWA_162647187",
+    "ee": true
    }
   },
   {
@@ -6846,7 +7231,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647188"
+    "gnaf_pid": "GAWA_162647188",
+    "ee": true
    }
   },
   {
@@ -6863,7 +7249,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647189"
+    "gnaf_pid": "GAWA_162647189",
+    "ee": true
    }
   },
   {
@@ -6880,7 +7267,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647190"
+    "gnaf_pid": "GAWA_162647190",
+    "ee": true
    }
   },
   {
@@ -6897,7 +7285,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647191"
+    "gnaf_pid": "GAWA_162647191",
+    "ee": true
    }
   },
   {
@@ -6914,7 +7303,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647192"
+    "gnaf_pid": "GAWA_162647192",
+    "ee": true
    }
   },
   {
@@ -6931,7 +7321,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647193"
+    "gnaf_pid": "GAWA_162647193",
+    "ee": true
    }
   },
   {
@@ -6948,7 +7339,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647194"
+    "gnaf_pid": "GAWA_162647194",
+    "ee": true
    }
   },
   {
@@ -6965,7 +7357,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647195"
+    "gnaf_pid": "GAWA_162647195",
+    "ee": true
    }
   },
   {
@@ -6982,7 +7375,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647196"
+    "gnaf_pid": "GAWA_162647196",
+    "ee": true
    }
   },
   {
@@ -6999,7 +7393,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647197"
+    "gnaf_pid": "GAWA_162647197",
+    "ee": true
    }
   },
   {
@@ -7016,7 +7411,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647198"
+    "gnaf_pid": "GAWA_162647198",
+    "ee": true
    }
   },
   {
@@ -7033,7 +7429,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647199"
+    "gnaf_pid": "GAWA_162647199",
+    "ee": true
    }
   },
   {
@@ -7050,7 +7447,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647200"
+    "gnaf_pid": "GAWA_162647200",
+    "ee": true
    }
   },
   {
@@ -7067,7 +7465,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647201"
+    "gnaf_pid": "GAWA_162647201",
+    "ee": true
    }
   },
   {
@@ -7084,7 +7483,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647202"
+    "gnaf_pid": "GAWA_162647202",
+    "ee": true
    }
   },
   {
@@ -7101,7 +7501,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647203"
+    "gnaf_pid": "GAWA_162647203",
+    "ee": true
    }
   },
   {
@@ -7118,7 +7519,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647204"
+    "gnaf_pid": "GAWA_162647204",
+    "ee": true
    }
   },
   {
@@ -7135,7 +7537,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647205"
+    "gnaf_pid": "GAWA_162647205",
+    "ee": true
    }
   },
   {
@@ -7152,7 +7555,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647206"
+    "gnaf_pid": "GAWA_162647206",
+    "ee": true
    }
   },
   {
@@ -7169,7 +7573,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647207"
+    "gnaf_pid": "GAWA_162647207",
+    "ee": true
    }
   },
   {
@@ -7186,7 +7591,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647208"
+    "gnaf_pid": "GAWA_162647208",
+    "ee": true
    }
   },
   {
@@ -7203,7 +7609,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647209"
+    "gnaf_pid": "GAWA_162647209",
+    "ee": true
    }
   },
   {
@@ -7220,7 +7627,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647210"
+    "gnaf_pid": "GAWA_162647210",
+    "ee": true
    }
   },
   {
@@ -7237,7 +7645,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647211"
+    "gnaf_pid": "GAWA_162647211",
+    "ee": true
    }
   },
   {
@@ -7254,7 +7663,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647213"
+    "gnaf_pid": "GAWA_162647213",
+    "ee": true
    }
   },
   {
@@ -7271,7 +7681,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647214"
+    "gnaf_pid": "GAWA_162647214",
+    "ee": true
    }
   },
   {
@@ -7288,7 +7699,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647215"
+    "gnaf_pid": "GAWA_162647215",
+    "ee": true
    }
   },
   {
@@ -7305,7 +7717,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647216"
+    "gnaf_pid": "GAWA_162647216",
+    "ee": true
    }
   },
   {
@@ -7322,7 +7735,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647217"
+    "gnaf_pid": "GAWA_162647217",
+    "ee": true
    }
   },
   {
@@ -7339,7 +7753,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647218"
+    "gnaf_pid": "GAWA_162647218",
+    "ee": true
    }
   },
   {
@@ -7356,7 +7771,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647219"
+    "gnaf_pid": "GAWA_162647219",
+    "ee": true
    }
   },
   {
@@ -7373,7 +7789,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647220"
+    "gnaf_pid": "GAWA_162647220",
+    "ee": true
    }
   },
   {
@@ -7390,7 +7807,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647221"
+    "gnaf_pid": "GAWA_162647221",
+    "ee": true
    }
   },
   {
@@ -7407,7 +7825,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647222"
+    "gnaf_pid": "GAWA_162647222",
+    "ee": true
    }
   },
   {
@@ -7424,7 +7843,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647223"
+    "gnaf_pid": "GAWA_162647223",
+    "ee": true
    }
   },
   {
@@ -7441,7 +7861,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647224"
+    "gnaf_pid": "GAWA_162647224",
+    "ee": true
    }
   },
   {
@@ -7458,7 +7879,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647225"
+    "gnaf_pid": "GAWA_162647225",
+    "ee": true
    }
   },
   {
@@ -7475,7 +7897,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647226"
+    "gnaf_pid": "GAWA_162647226",
+    "ee": true
    }
   },
   {
@@ -7492,7 +7915,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647227"
+    "gnaf_pid": "GAWA_162647227",
+    "ee": true
    }
   },
   {
@@ -7509,7 +7933,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647228"
+    "gnaf_pid": "GAWA_162647228",
+    "ee": true
    }
   },
   {
@@ -7526,7 +7951,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647229"
+    "gnaf_pid": "GAWA_162647229",
+    "ee": true
    }
   },
   {
@@ -7543,7 +7969,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647230"
+    "gnaf_pid": "GAWA_162647230",
+    "ee": true
    }
   },
   {
@@ -7560,7 +7987,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647231"
+    "gnaf_pid": "GAWA_162647231",
+    "ee": true
    }
   },
   {
@@ -7577,7 +8005,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647232"
+    "gnaf_pid": "GAWA_162647232",
+    "ee": true
    }
   },
   {
@@ -7594,7 +8023,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647233"
+    "gnaf_pid": "GAWA_162647233",
+    "ee": true
    }
   },
   {
@@ -7611,7 +8041,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647234"
+    "gnaf_pid": "GAWA_162647234",
+    "ee": true
    }
   },
   {
@@ -7628,7 +8059,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647235"
+    "gnaf_pid": "GAWA_162647235",
+    "ee": true
    }
   },
   {
@@ -7645,7 +8077,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647236"
+    "gnaf_pid": "GAWA_162647236",
+    "ee": true
    }
   },
   {
@@ -7662,7 +8095,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647237"
+    "gnaf_pid": "GAWA_162647237",
+    "ee": true
    }
   },
   {
@@ -7679,7 +8113,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647238"
+    "gnaf_pid": "GAWA_162647238",
+    "ee": true
    }
   },
   {
@@ -7696,7 +8131,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647239"
+    "gnaf_pid": "GAWA_162647239",
+    "ee": true
    }
   },
   {
@@ -7713,7 +8149,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647240"
+    "gnaf_pid": "GAWA_162647240",
+    "ee": true
    }
   },
   {
@@ -7730,7 +8167,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647241"
+    "gnaf_pid": "GAWA_162647241",
+    "ee": true
    }
   },
   {
@@ -7747,7 +8185,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647242"
+    "gnaf_pid": "GAWA_162647242",
+    "ee": true
    }
   },
   {
@@ -7764,7 +8203,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647243"
+    "gnaf_pid": "GAWA_162647243",
+    "ee": true
    }
   },
   {
@@ -7781,7 +8221,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647244"
+    "gnaf_pid": "GAWA_162647244",
+    "ee": true
    }
   },
   {
@@ -7798,7 +8239,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647245"
+    "gnaf_pid": "GAWA_162647245",
+    "ee": true
    }
   },
   {
@@ -7815,7 +8257,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647246"
+    "gnaf_pid": "GAWA_162647246",
+    "ee": true
    }
   },
   {
@@ -7832,7 +8275,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647247"
+    "gnaf_pid": "GAWA_162647247",
+    "ee": true
    }
   },
   {
@@ -7849,7 +8293,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647248"
+    "gnaf_pid": "GAWA_162647248",
+    "ee": true
    }
   },
   {
@@ -7866,7 +8311,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647249"
+    "gnaf_pid": "GAWA_162647249",
+    "ee": true
    }
   },
   {
@@ -7883,7 +8329,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647250"
+    "gnaf_pid": "GAWA_162647250",
+    "ee": true
    }
   },
   {
@@ -7900,7 +8347,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647251"
+    "gnaf_pid": "GAWA_162647251",
+    "ee": true
    }
   },
   {
@@ -7917,7 +8365,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647252"
+    "gnaf_pid": "GAWA_162647252",
+    "ee": true
    }
   },
   {
@@ -7934,7 +8383,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647253"
+    "gnaf_pid": "GAWA_162647253",
+    "ee": true
    }
   },
   {
@@ -7951,7 +8401,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647254"
+    "gnaf_pid": "GAWA_162647254",
+    "ee": true
    }
   },
   {
@@ -7968,7 +8419,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647255"
+    "gnaf_pid": "GAWA_162647255",
+    "ee": true
    }
   },
   {
@@ -7985,7 +8437,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647256"
+    "gnaf_pid": "GAWA_162647256",
+    "ee": true
    }
   },
   {
@@ -8002,7 +8455,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647257"
+    "gnaf_pid": "GAWA_162647257",
+    "ee": true
    }
   },
   {
@@ -8019,7 +8473,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647258"
+    "gnaf_pid": "GAWA_162647258",
+    "ee": true
    }
   },
   {
@@ -8036,7 +8491,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647259"
+    "gnaf_pid": "GAWA_162647259",
+    "ee": true
    }
   },
   {
@@ -8053,7 +8509,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647260"
+    "gnaf_pid": "GAWA_162647260",
+    "ee": true
    }
   },
   {
@@ -8070,7 +8527,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647261"
+    "gnaf_pid": "GAWA_162647261",
+    "ee": true
    }
   },
   {
@@ -8087,7 +8545,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647262"
+    "gnaf_pid": "GAWA_162647262",
+    "ee": true
    }
   },
   {
@@ -8104,7 +8563,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647263"
+    "gnaf_pid": "GAWA_162647263",
+    "ee": true
    }
   },
   {
@@ -8121,7 +8581,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647264"
+    "gnaf_pid": "GAWA_162647264",
+    "ee": true
    }
   },
   {
@@ -8138,7 +8599,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647265"
+    "gnaf_pid": "GAWA_162647265",
+    "ee": true
    }
   },
   {
@@ -8155,7 +8617,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647266"
+    "gnaf_pid": "GAWA_162647266",
+    "ee": true
    }
   },
   {
@@ -8172,7 +8635,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647267"
+    "gnaf_pid": "GAWA_162647267",
+    "ee": true
    }
   },
   {
@@ -8189,7 +8653,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647268"
+    "gnaf_pid": "GAWA_162647268",
+    "ee": true
    }
   },
   {
@@ -8206,7 +8671,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647269"
+    "gnaf_pid": "GAWA_162647269",
+    "ee": true
    }
   },
   {
@@ -8223,7 +8689,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647270"
+    "gnaf_pid": "GAWA_162647270",
+    "ee": true
    }
   },
   {
@@ -8240,7 +8707,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647271"
+    "gnaf_pid": "GAWA_162647271",
+    "ee": true
    }
   },
   {
@@ -8257,7 +8725,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647272"
+    "gnaf_pid": "GAWA_162647272",
+    "ee": true
    }
   },
   {
@@ -8274,7 +8743,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647273"
+    "gnaf_pid": "GAWA_162647273",
+    "ee": true
    }
   },
   {
@@ -8291,7 +8761,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647274"
+    "gnaf_pid": "GAWA_162647274",
+    "ee": true
    }
   },
   {
@@ -8308,7 +8779,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647275"
+    "gnaf_pid": "GAWA_162647275",
+    "ee": true
    }
   },
   {
@@ -8325,7 +8797,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647276"
+    "gnaf_pid": "GAWA_162647276",
+    "ee": true
    }
   },
   {
@@ -8342,7 +8815,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647277"
+    "gnaf_pid": "GAWA_162647277",
+    "ee": true
    }
   },
   {
@@ -8359,7 +8833,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647278"
+    "gnaf_pid": "GAWA_162647278",
+    "ee": true
    }
   },
   {
@@ -8376,7 +8851,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647279"
+    "gnaf_pid": "GAWA_162647279",
+    "ee": true
    }
   },
   {
@@ -8393,7 +8869,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647280"
+    "gnaf_pid": "GAWA_162647280",
+    "ee": true
    }
   },
   {
@@ -8410,7 +8887,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647281"
+    "gnaf_pid": "GAWA_162647281",
+    "ee": true
    }
   },
   {
@@ -8427,7 +8905,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647282"
+    "gnaf_pid": "GAWA_162647282",
+    "ee": true
    }
   },
   {
@@ -8444,7 +8923,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647283"
+    "gnaf_pid": "GAWA_162647283",
+    "ee": true
    }
   },
   {
@@ -8461,7 +8941,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647284"
+    "gnaf_pid": "GAWA_162647284",
+    "ee": true
    }
   },
   {
@@ -8478,7 +8959,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647285"
+    "gnaf_pid": "GAWA_162647285",
+    "ee": true
    }
   },
   {
@@ -8495,7 +8977,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647286"
+    "gnaf_pid": "GAWA_162647286",
+    "ee": true
    }
   },
   {
@@ -8512,7 +8995,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647287"
+    "gnaf_pid": "GAWA_162647287",
+    "ee": true
    }
   },
   {
@@ -8529,7 +9013,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647288"
+    "gnaf_pid": "GAWA_162647288",
+    "ee": true
    }
   },
   {
@@ -8546,7 +9031,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647289"
+    "gnaf_pid": "GAWA_162647289",
+    "ee": true
    }
   },
   {
@@ -8563,7 +9049,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647290"
+    "gnaf_pid": "GAWA_162647290",
+    "ee": true
    }
   },
   {
@@ -8580,7 +9067,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647291"
+    "gnaf_pid": "GAWA_162647291",
+    "ee": true
    }
   },
   {
@@ -8597,7 +9085,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647292"
+    "gnaf_pid": "GAWA_162647292",
+    "ee": true
    }
   },
   {
@@ -8614,7 +9103,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647293"
+    "gnaf_pid": "GAWA_162647293",
+    "ee": true
    }
   },
   {
@@ -8631,7 +9121,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647294"
+    "gnaf_pid": "GAWA_162647294",
+    "ee": true
    }
   },
   {
@@ -8648,7 +9139,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647295"
+    "gnaf_pid": "GAWA_162647295",
+    "ee": true
    }
   },
   {
@@ -8665,7 +9157,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647296"
+    "gnaf_pid": "GAWA_162647296",
+    "ee": true
    }
   },
   {
@@ -8682,7 +9175,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647297"
+    "gnaf_pid": "GAWA_162647297",
+    "ee": true
    }
   },
   {
@@ -8699,7 +9193,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647298"
+    "gnaf_pid": "GAWA_162647298",
+    "ee": true
    }
   },
   {
@@ -8716,7 +9211,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647299"
+    "gnaf_pid": "GAWA_162647299",
+    "ee": true
    }
   },
   {
@@ -8733,7 +9229,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162647300"
+    "gnaf_pid": "GAWA_162647300",
+    "ee": true
    }
   },
   {
@@ -8750,7 +9247,8 @@
     "locID": "LOC000013748042",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162728635"
+    "gnaf_pid": "GAWA_162728635",
+    "ee": true
    }
   },
   {
@@ -8767,7 +9265,8 @@
     "locID": "LOC000003782646",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162729815"
+    "gnaf_pid": "GAWA_162729815",
+    "ee": true
    }
   },
   {
@@ -8784,7 +9283,8 @@
     "locID": "LOC000107672787",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162836469"
+    "gnaf_pid": "GAWA_162836469",
+    "ee": true
    }
   },
   {
@@ -8801,7 +9301,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872888"
+    "gnaf_pid": "GAWA_162872888",
+    "ee": true
    }
   },
   {
@@ -8818,7 +9319,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872889"
+    "gnaf_pid": "GAWA_162872889",
+    "ee": true
    }
   },
   {
@@ -8835,7 +9337,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872890"
+    "gnaf_pid": "GAWA_162872890",
+    "ee": true
    }
   },
   {
@@ -8852,7 +9355,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872891"
+    "gnaf_pid": "GAWA_162872891",
+    "ee": true
    }
   },
   {
@@ -8869,7 +9373,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872892"
+    "gnaf_pid": "GAWA_162872892",
+    "ee": true
    }
   },
   {
@@ -8886,7 +9391,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872893"
+    "gnaf_pid": "GAWA_162872893",
+    "ee": true
    }
   },
   {
@@ -8903,7 +9409,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872894"
+    "gnaf_pid": "GAWA_162872894",
+    "ee": true
    }
   },
   {
@@ -8920,7 +9427,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872895"
+    "gnaf_pid": "GAWA_162872895",
+    "ee": true
    }
   },
   {
@@ -8937,7 +9445,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872896"
+    "gnaf_pid": "GAWA_162872896",
+    "ee": true
    }
   },
   {
@@ -8954,7 +9463,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872897"
+    "gnaf_pid": "GAWA_162872897",
+    "ee": true
    }
   },
   {
@@ -8971,7 +9481,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872898"
+    "gnaf_pid": "GAWA_162872898",
+    "ee": true
    }
   },
   {
@@ -8988,7 +9499,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872899"
+    "gnaf_pid": "GAWA_162872899",
+    "ee": true
    }
   },
   {
@@ -9005,7 +9517,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872900"
+    "gnaf_pid": "GAWA_162872900",
+    "ee": true
    }
   },
   {
@@ -9022,7 +9535,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872901"
+    "gnaf_pid": "GAWA_162872901",
+    "ee": true
    }
   },
   {
@@ -9039,7 +9553,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872902"
+    "gnaf_pid": "GAWA_162872902",
+    "ee": true
    }
   },
   {
@@ -9056,7 +9571,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872903"
+    "gnaf_pid": "GAWA_162872903",
+    "ee": true
    }
   },
   {
@@ -9073,7 +9589,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872904"
+    "gnaf_pid": "GAWA_162872904",
+    "ee": true
    }
   },
   {
@@ -9090,7 +9607,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872905"
+    "gnaf_pid": "GAWA_162872905",
+    "ee": true
    }
   },
   {
@@ -9107,7 +9625,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872906"
+    "gnaf_pid": "GAWA_162872906",
+    "ee": true
    }
   },
   {
@@ -9124,7 +9643,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872907"
+    "gnaf_pid": "GAWA_162872907",
+    "ee": true
    }
   },
   {
@@ -9141,7 +9661,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872908"
+    "gnaf_pid": "GAWA_162872908",
+    "ee": true
    }
   },
   {
@@ -9158,7 +9679,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872909"
+    "gnaf_pid": "GAWA_162872909",
+    "ee": true
    }
   },
   {
@@ -9175,7 +9697,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872910"
+    "gnaf_pid": "GAWA_162872910",
+    "ee": true
    }
   },
   {
@@ -9192,7 +9715,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872911"
+    "gnaf_pid": "GAWA_162872911",
+    "ee": true
    }
   },
   {
@@ -9209,7 +9733,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872912"
+    "gnaf_pid": "GAWA_162872912",
+    "ee": true
    }
   },
   {
@@ -9226,7 +9751,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872913"
+    "gnaf_pid": "GAWA_162872913",
+    "ee": true
    }
   },
   {
@@ -9243,7 +9769,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872914"
+    "gnaf_pid": "GAWA_162872914",
+    "ee": true
    }
   },
   {
@@ -9260,7 +9787,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872915"
+    "gnaf_pid": "GAWA_162872915",
+    "ee": true
    }
   },
   {
@@ -9277,7 +9805,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872916"
+    "gnaf_pid": "GAWA_162872916",
+    "ee": true
    }
   },
   {
@@ -9294,7 +9823,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872917"
+    "gnaf_pid": "GAWA_162872917",
+    "ee": true
    }
   },
   {
@@ -9311,7 +9841,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872918"
+    "gnaf_pid": "GAWA_162872918",
+    "ee": true
    }
   },
   {
@@ -9328,7 +9859,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872919"
+    "gnaf_pid": "GAWA_162872919",
+    "ee": true
    }
   },
   {
@@ -9345,7 +9877,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872920"
+    "gnaf_pid": "GAWA_162872920",
+    "ee": true
    }
   },
   {
@@ -9362,7 +9895,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872921"
+    "gnaf_pid": "GAWA_162872921",
+    "ee": true
    }
   },
   {
@@ -9379,7 +9913,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872922"
+    "gnaf_pid": "GAWA_162872922",
+    "ee": true
    }
   },
   {
@@ -9396,7 +9931,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872923"
+    "gnaf_pid": "GAWA_162872923",
+    "ee": true
    }
   },
   {
@@ -9413,7 +9949,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872924"
+    "gnaf_pid": "GAWA_162872924",
+    "ee": true
    }
   },
   {
@@ -9430,7 +9967,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872925"
+    "gnaf_pid": "GAWA_162872925",
+    "ee": true
    }
   },
   {
@@ -9447,7 +9985,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872926"
+    "gnaf_pid": "GAWA_162872926",
+    "ee": true
    }
   },
   {
@@ -9464,7 +10003,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872927"
+    "gnaf_pid": "GAWA_162872927",
+    "ee": true
    }
   },
   {
@@ -9481,7 +10021,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872928"
+    "gnaf_pid": "GAWA_162872928",
+    "ee": true
    }
   },
   {
@@ -9498,7 +10039,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872929"
+    "gnaf_pid": "GAWA_162872929",
+    "ee": true
    }
   },
   {
@@ -9515,7 +10057,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872930"
+    "gnaf_pid": "GAWA_162872930",
+    "ee": true
    }
   },
   {
@@ -9532,7 +10075,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872931"
+    "gnaf_pid": "GAWA_162872931",
+    "ee": true
    }
   },
   {
@@ -9549,7 +10093,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872932"
+    "gnaf_pid": "GAWA_162872932",
+    "ee": true
    }
   },
   {
@@ -9566,7 +10111,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872933"
+    "gnaf_pid": "GAWA_162872933",
+    "ee": true
    }
   },
   {
@@ -9583,7 +10129,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872934"
+    "gnaf_pid": "GAWA_162872934",
+    "ee": true
    }
   },
   {
@@ -9600,7 +10147,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872935"
+    "gnaf_pid": "GAWA_162872935",
+    "ee": true
    }
   },
   {
@@ -9617,7 +10165,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872936"
+    "gnaf_pid": "GAWA_162872936",
+    "ee": true
    }
   },
   {
@@ -9634,7 +10183,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872937"
+    "gnaf_pid": "GAWA_162872937",
+    "ee": true
    }
   },
   {
@@ -9651,7 +10201,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872938"
+    "gnaf_pid": "GAWA_162872938",
+    "ee": true
    }
   },
   {
@@ -9668,7 +10219,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872939"
+    "gnaf_pid": "GAWA_162872939",
+    "ee": true
    }
   },
   {
@@ -9685,7 +10237,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872940"
+    "gnaf_pid": "GAWA_162872940",
+    "ee": true
    }
   },
   {
@@ -9702,7 +10255,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872941"
+    "gnaf_pid": "GAWA_162872941",
+    "ee": true
    }
   },
   {
@@ -9719,7 +10273,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872942"
+    "gnaf_pid": "GAWA_162872942",
+    "ee": true
    }
   },
   {
@@ -9736,7 +10291,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872943"
+    "gnaf_pid": "GAWA_162872943",
+    "ee": true
    }
   },
   {
@@ -9753,7 +10309,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872944"
+    "gnaf_pid": "GAWA_162872944",
+    "ee": true
    }
   },
   {
@@ -9770,7 +10327,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872945"
+    "gnaf_pid": "GAWA_162872945",
+    "ee": true
    }
   },
   {
@@ -9787,7 +10345,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872946"
+    "gnaf_pid": "GAWA_162872946",
+    "ee": true
    }
   },
   {
@@ -9804,7 +10363,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872947"
+    "gnaf_pid": "GAWA_162872947",
+    "ee": true
    }
   },
   {
@@ -9821,7 +10381,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872948"
+    "gnaf_pid": "GAWA_162872948",
+    "ee": true
    }
   },
   {
@@ -9838,7 +10399,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872949"
+    "gnaf_pid": "GAWA_162872949",
+    "ee": true
    }
   },
   {
@@ -9855,7 +10417,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872950"
+    "gnaf_pid": "GAWA_162872950",
+    "ee": true
    }
   },
   {
@@ -9872,7 +10435,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872951"
+    "gnaf_pid": "GAWA_162872951",
+    "ee": true
    }
   },
   {
@@ -9889,7 +10453,8 @@
     "locID": "LOC000142985809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162872952"
+    "gnaf_pid": "GAWA_162872952",
+    "ee": true
    }
   },
   {
@@ -9906,7 +10471,8 @@
     "locID": "LOC000036263722",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162876712"
+    "gnaf_pid": "GAWA_162876712",
+    "ee": true
    }
   },
   {
@@ -9923,7 +10489,8 @@
     "locID": "LOC000050051384",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_162877640"
+    "gnaf_pid": "GAWA_162877640",
+    "ee": true
    }
   },
   {
@@ -9941,6 +10508,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163052360",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -9961,6 +10529,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163053215",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -9981,6 +10550,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163085992",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10001,6 +10571,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163203473",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10020,7 +10591,8 @@
     "locID": "LOC000079855116",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_163246017"
+    "gnaf_pid": "GAWA_163246017",
+    "ee": true
    }
   },
   {
@@ -10038,6 +10610,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163346778",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10058,6 +10631,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163346779",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10078,6 +10652,28 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163347138",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.78794635,
+     -32.55834026
+    ]
+   },
+   "properties": {
+    "name": "772 PINJARRA ROAD BARRAGUP 6209",
+    "locID": "LOC100055359218",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_718233596",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10097,7 +10693,8 @@
     "locID": "LOC000107512633",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718394690"
+    "gnaf_pid": "GAWA_718394690",
+    "ee": true
    }
   },
   {
@@ -10115,6 +10712,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718396240",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10134,7 +10732,8 @@
     "locID": "LOC000189401308",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718640230"
+    "gnaf_pid": "GAWA_718640230",
+    "ee": true
    }
   },
   {
@@ -10152,6 +10751,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718716024",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10172,6 +10772,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718913624",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10191,7 +10792,8 @@
     "locID": "LOC000174104565",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718961799"
+    "gnaf_pid": "GAWA_718961799",
+    "ee": true
    }
   },
   {
@@ -10208,7 +10810,8 @@
     "locID": "LOC000154670504",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_719151263"
+    "gnaf_pid": "GAWA_719151263",
+    "ee": true
    }
   },
   {
@@ -10225,7 +10828,8 @@
     "locID": "LOC000132799021",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_719405553"
+    "gnaf_pid": "GAWA_719405553",
+    "ee": true
    }
   },
   {
@@ -10243,6 +10847,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719499791",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10263,6 +10868,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719504507",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10283,6 +10889,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719504844",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10303,6 +10910,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719853228",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10323,6 +10931,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719858067",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10343,6 +10952,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719970843",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10363,6 +10973,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720047386",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10383,6 +10994,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720069797",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10402,7 +11014,8 @@
     "locID": "LOC000187830717",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_720490962"
+    "gnaf_pid": "GAWA_720490962",
+    "ee": true
    }
   },
   {
@@ -10420,6 +11033,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720560516",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10440,6 +11054,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720716535",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10460,6 +11075,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720726133",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10480,6 +11096,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_720816946",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10500,6 +11117,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721344733",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10520,6 +11138,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721405012",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10540,6 +11159,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721407728",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10560,6 +11180,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721409438",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -10580,6 +11201,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_721436842",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
