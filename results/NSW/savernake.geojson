@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-26T05:53:51.430730",
+ "generated": "2025-06-19T18:48:59.488753",
  "suburb": "SAVERNAKE",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712699685",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -38,6 +39,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712699686",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -56,6 +58,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712699687",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -74,6 +77,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717205203",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -92,6 +96,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717205206",
+    "ee": false,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -112,6 +117,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717205207",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -130,6 +136,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717212696",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -148,6 +155,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717216232",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -166,6 +174,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717223684",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -184,6 +193,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717229085",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -202,6 +212,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717229086",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -220,6 +231,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717229087",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -238,6 +250,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718080358",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -256,6 +269,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718175214",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -274,6 +288,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718189734",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -292,6 +307,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718209146",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -310,6 +326,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718209147",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -328,6 +345,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718245050",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -346,6 +364,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718245051",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -366,6 +385,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718262635",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -384,6 +404,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718262636",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -402,9 +423,29 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718265505",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.13389624,
+     -35.75963006
+    ]
+   },
+   "properties": {
+    "name": "10618 RIVERINA HIGHWAY SAVERNAKE 2646",
+    "locID": "LOC000121788190",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718269112",
+    "ee": true,
+    "tech_change_status": "Not Planned"
    }
   },
   {
@@ -422,6 +463,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718269113",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -440,7 +482,8 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GANSW718269115",
-    "tech_change_status": "Eligible to Order",
+    "ee": true,
+    "tech_change_status": "New Tech Connected",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
    }
@@ -460,6 +503,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718271321",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -480,6 +524,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718280882",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -500,6 +545,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718287264",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -520,6 +566,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718287265",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -538,6 +585,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718287266",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -558,6 +606,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718287466",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -576,6 +625,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718287467",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -594,6 +644,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718287468",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -612,6 +663,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718287469",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -630,6 +682,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718288075",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -650,6 +703,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718288076",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -670,6 +724,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718288077",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -690,6 +745,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GANSW718288578",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -710,6 +766,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718288579",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.12761554,
+     -35.76741767
+    ]
+   },
+   "properties": {
+    "name": "106 RIVERINA HIGHWAY SAVERNAKE 2646",
+    "locID": "LOC000121788190",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718566036",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -728,6 +804,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW721439101",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   }
