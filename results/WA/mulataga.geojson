@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-25T14:34:21.391031",
+ "generated": "2025-06-19T06:42:53.505611",
  "suburb": "MULATAGA",
  "features": [
   {
@@ -16,9 +16,12 @@
     "name": "LOT 3806 MILLSTREAM ROAD MULATAGA 6714",
     "locID": "LOC000133552520",
     "tech": "FTTN",
-    "upgrade": "NULL_NA",
+    "upgrade": "FTTP_NA",
     "gnaf_pid": "GAWA_161565127",
-    "tech_change_status": "Not Planned"
+    "ee": true,
+    "tech_change_status": "In Design",
+    "program_type": "On-Demand N2P SDU/MDU Simple",
+    "target_eligibility_quarter": "Sep 2027"
    }
   },
   {
@@ -36,6 +39,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161577399",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +58,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162805979",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +77,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162805980",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -89,7 +95,8 @@
     "locID": "LOC000140371729",
     "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718253686"
+    "gnaf_pid": "GAWA_718253686",
+    "ee": false
    }
   },
   {
@@ -106,7 +113,8 @@
     "locID": "LOC000140371729",
     "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718253687"
+    "gnaf_pid": "GAWA_718253687",
+    "ee": false
    }
   },
   {
@@ -123,7 +131,8 @@
     "locID": "LOC000140371729",
     "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718253688"
+    "gnaf_pid": "GAWA_718253688",
+    "ee": false
    }
   },
   {
@@ -140,7 +149,8 @@
     "locID": "LOC000140371729",
     "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718253689"
+    "gnaf_pid": "GAWA_718253689",
+    "ee": false
    }
   }
  ]
