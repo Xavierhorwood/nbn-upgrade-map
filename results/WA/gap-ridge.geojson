@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-25T08:40:36.623596",
+ "generated": "2025-06-19T02:09:30.197157",
  "suburb": "GAP RIDGE",
  "features": [
   {
@@ -16,10 +16,10 @@
     "name": "LOT 4689 BALMORAL ROAD GAP RIDGE 6714",
     "locID": "LOC000086421266",
     "tech": "FTTN",
-    "upgrade": "FTTP_NA",
+    "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161524259",
-    "tech_change_status": "Planned",
-    "program_type": "On-Demand N2P SDU/MDU Simple"
+    "ee": true,
+    "tech_change_status": "Not Planned"
    }
   },
   {
@@ -37,6 +37,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161525394",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -55,6 +56,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161568581",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -73,6 +75,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162694790",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -91,6 +94,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162773490",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -109,6 +113,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162773491",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -127,6 +132,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162773492",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -145,6 +151,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162781300",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -163,6 +170,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162781301",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -181,6 +189,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162835780",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -199,6 +208,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162835781",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -217,6 +227,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163053643",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -235,6 +246,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718249576",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -253,6 +265,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718253277",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -270,7 +283,8 @@
     "locID": "LOC000117604322",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296732"
+    "gnaf_pid": "GAWA_718296732",
+    "ee": true
    }
   },
   {
@@ -287,7 +301,8 @@
     "locID": "LOC000117604333",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296733"
+    "gnaf_pid": "GAWA_718296733",
+    "ee": true
    }
   },
   {
@@ -304,7 +319,8 @@
     "locID": "LOC000117604351",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296734"
+    "gnaf_pid": "GAWA_718296734",
+    "ee": true
    }
   },
   {
@@ -321,7 +337,8 @@
     "locID": "LOC000117605425",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296735"
+    "gnaf_pid": "GAWA_718296735",
+    "ee": true
    }
   },
   {
@@ -338,7 +355,8 @@
     "locID": "LOC000117605439",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296736"
+    "gnaf_pid": "GAWA_718296736",
+    "ee": true
    }
   },
   {
@@ -355,7 +373,8 @@
     "locID": "LOC000142040541",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296737"
+    "gnaf_pid": "GAWA_718296737",
+    "ee": true
    }
   },
   {
@@ -372,7 +391,8 @@
     "locID": "LOC000117605456",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296738"
+    "gnaf_pid": "GAWA_718296738",
+    "ee": true
    }
   },
   {
@@ -389,7 +409,8 @@
     "locID": "LOC000117604224",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296749"
+    "gnaf_pid": "GAWA_718296749",
+    "ee": true
    }
   },
   {
@@ -406,7 +427,8 @@
     "locID": "LOC000117604627",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296750"
+    "gnaf_pid": "GAWA_718296750",
+    "ee": true
    }
   },
   {
@@ -423,7 +445,8 @@
     "locID": "LOC000117604636",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296751"
+    "gnaf_pid": "GAWA_718296751",
+    "ee": true
    }
   },
   {
@@ -440,7 +463,8 @@
     "locID": "LOC000117604253",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296752"
+    "gnaf_pid": "GAWA_718296752",
+    "ee": true
    }
   },
   {
@@ -457,7 +481,8 @@
     "locID": "LOC000117604658",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296753"
+    "gnaf_pid": "GAWA_718296753",
+    "ee": true
    }
   },
   {
@@ -474,7 +499,8 @@
     "locID": "LOC000117604662",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296754"
+    "gnaf_pid": "GAWA_718296754",
+    "ee": true
    }
   },
   {
@@ -491,7 +517,8 @@
     "locID": "LOC000117604269",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296755"
+    "gnaf_pid": "GAWA_718296755",
+    "ee": true
    }
   },
   {
@@ -508,7 +535,8 @@
     "locID": "LOC000117604380",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296756"
+    "gnaf_pid": "GAWA_718296756",
+    "ee": true
    }
   },
   {
@@ -525,7 +553,8 @@
     "locID": "LOC000117604398",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296757"
+    "gnaf_pid": "GAWA_718296757",
+    "ee": true
    }
   },
   {
@@ -542,7 +571,8 @@
     "locID": "LOC000117604367",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296758"
+    "gnaf_pid": "GAWA_718296758",
+    "ee": true
    }
   },
   {
@@ -559,7 +589,8 @@
     "locID": "LOC000117604379",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296759"
+    "gnaf_pid": "GAWA_718296759",
+    "ee": true
    }
   },
   {
@@ -576,7 +607,8 @@
     "locID": "LOC000117604282",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296760"
+    "gnaf_pid": "GAWA_718296760",
+    "ee": true
    }
   },
   {
@@ -593,7 +625,8 @@
     "locID": "LOC000117604295",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296761"
+    "gnaf_pid": "GAWA_718296761",
+    "ee": true
    }
   },
   {
@@ -610,7 +643,8 @@
     "locID": "LOC000117604305",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296762"
+    "gnaf_pid": "GAWA_718296762",
+    "ee": true
    }
   },
   {
@@ -627,7 +661,8 @@
     "locID": "LOC000117604305",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296763"
+    "gnaf_pid": "GAWA_718296763",
+    "ee": true
    }
   },
   {
@@ -644,7 +679,8 @@
     "locID": "LOC000117604305",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296764"
+    "gnaf_pid": "GAWA_718296764",
+    "ee": true
    }
   },
   {
@@ -661,7 +697,8 @@
     "locID": "LOC000117604305",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296765"
+    "gnaf_pid": "GAWA_718296765",
+    "ee": true
    }
   },
   {
@@ -678,7 +715,8 @@
     "locID": "LOC000117604314",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718296766"
+    "gnaf_pid": "GAWA_718296766",
+    "ee": true
    }
   },
   {
@@ -695,7 +733,8 @@
     "locID": "LOC000117605332",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718449341"
+    "gnaf_pid": "GAWA_718449341",
+    "ee": true
    }
   },
   {
@@ -712,7 +751,8 @@
     "locID": "LOC000117605223",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718449343"
+    "gnaf_pid": "GAWA_718449343",
+    "ee": true
    }
   },
   {
@@ -729,7 +769,8 @@
     "locID": "LOC000117605089",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718482789"
+    "gnaf_pid": "GAWA_718482789",
+    "ee": true
    }
   },
   {
@@ -746,7 +787,8 @@
     "locID": "LOC000117606884",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718482892"
+    "gnaf_pid": "GAWA_718482892",
+    "ee": true
    }
   },
   {
@@ -763,7 +805,8 @@
     "locID": "LOC000117604691",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718484967"
+    "gnaf_pid": "GAWA_718484967",
+    "ee": true
    }
   },
   {
@@ -780,7 +823,8 @@
     "locID": "LOC000117604754",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718484968"
+    "gnaf_pid": "GAWA_718484968",
+    "ee": true
    }
   },
   {
@@ -797,7 +841,8 @@
     "locID": "LOC000117604765",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718484969"
+    "gnaf_pid": "GAWA_718484969",
+    "ee": true
    }
   },
   {
@@ -814,7 +859,8 @@
     "locID": "LOC000137161850",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486289"
+    "gnaf_pid": "GAWA_718486289",
+    "ee": true
    }
   },
   {
@@ -831,7 +877,8 @@
     "locID": "LOC000137161706",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486290"
+    "gnaf_pid": "GAWA_718486290",
+    "ee": true
    }
   },
   {
@@ -848,7 +895,8 @@
     "locID": "LOC000137161694",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486291"
+    "gnaf_pid": "GAWA_718486291",
+    "ee": true
    }
   },
   {
@@ -865,7 +913,8 @@
     "locID": "LOC000137161845",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486292"
+    "gnaf_pid": "GAWA_718486292",
+    "ee": true
    }
   },
   {
@@ -882,7 +931,8 @@
     "locID": "LOC000137161734",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486293"
+    "gnaf_pid": "GAWA_718486293",
+    "ee": true
    }
   },
   {
@@ -899,7 +949,8 @@
     "locID": "LOC000137161687",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486294"
+    "gnaf_pid": "GAWA_718486294",
+    "ee": true
    }
   },
   {
@@ -916,7 +967,8 @@
     "locID": "LOC000137161832",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486295"
+    "gnaf_pid": "GAWA_718486295",
+    "ee": true
    }
   },
   {
@@ -933,7 +985,8 @@
     "locID": "LOC000137161673",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486296"
+    "gnaf_pid": "GAWA_718486296",
+    "ee": true
    }
   },
   {
@@ -950,7 +1003,8 @@
     "locID": "LOC000137161660",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486297"
+    "gnaf_pid": "GAWA_718486297",
+    "ee": true
    }
   },
   {
@@ -967,7 +1021,8 @@
     "locID": "LOC000137161878",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486298"
+    "gnaf_pid": "GAWA_718486298",
+    "ee": true
    }
   },
   {
@@ -984,7 +1039,8 @@
     "locID": "LOC000137161821",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486299"
+    "gnaf_pid": "GAWA_718486299",
+    "ee": true
    }
   },
   {
@@ -1001,7 +1057,8 @@
     "locID": "LOC000137161656",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486300"
+    "gnaf_pid": "GAWA_718486300",
+    "ee": true
    }
   },
   {
@@ -1018,7 +1075,8 @@
     "locID": "LOC000137161813",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486301"
+    "gnaf_pid": "GAWA_718486301",
+    "ee": true
    }
   },
   {
@@ -1035,7 +1093,8 @@
     "locID": "LOC000137161809",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486302"
+    "gnaf_pid": "GAWA_718486302",
+    "ee": true
    }
   },
   {
@@ -1052,7 +1111,8 @@
     "locID": "LOC000137161799",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486303"
+    "gnaf_pid": "GAWA_718486303",
+    "ee": true
    }
   },
   {
@@ -1069,7 +1129,8 @@
     "locID": "LOC000137161781",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486304"
+    "gnaf_pid": "GAWA_718486304",
+    "ee": true
    }
   },
   {
@@ -1086,7 +1147,8 @@
     "locID": "LOC000137161775",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486305"
+    "gnaf_pid": "GAWA_718486305",
+    "ee": true
    }
   },
   {
@@ -1103,7 +1165,8 @@
     "locID": "LOC000137161768",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486306"
+    "gnaf_pid": "GAWA_718486306",
+    "ee": true
    }
   },
   {
@@ -1120,7 +1183,8 @@
     "locID": "LOC000137161723",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486307"
+    "gnaf_pid": "GAWA_718486307",
+    "ee": true
    }
   },
   {
@@ -1137,7 +1201,8 @@
     "locID": "LOC000137161752",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486308"
+    "gnaf_pid": "GAWA_718486308",
+    "ee": true
    }
   },
   {
@@ -1154,7 +1219,8 @@
     "locID": "LOC000137161747",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486309"
+    "gnaf_pid": "GAWA_718486309",
+    "ee": true
    }
   },
   {
@@ -1171,7 +1237,8 @@
     "locID": "LOC000137161866",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486310"
+    "gnaf_pid": "GAWA_718486310",
+    "ee": true
    }
   },
   {
@@ -1188,7 +1255,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486311"
+    "gnaf_pid": "GAWA_718486311",
+    "ee": true
    }
   },
   {
@@ -1205,7 +1273,8 @@
     "locID": "LOC000117606930",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486421"
+    "gnaf_pid": "GAWA_718486421",
+    "ee": true
    }
   },
   {
@@ -1222,7 +1291,8 @@
     "locID": "LOC000117606930",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486422"
+    "gnaf_pid": "GAWA_718486422",
+    "ee": true
    }
   },
   {
@@ -1239,7 +1309,8 @@
     "locID": "LOC000117606464",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486604"
+    "gnaf_pid": "GAWA_718486604",
+    "ee": true
    }
   },
   {
@@ -1256,7 +1327,8 @@
     "locID": "LOC000117606464",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486605"
+    "gnaf_pid": "GAWA_718486605",
+    "ee": true
    }
   },
   {
@@ -1273,7 +1345,8 @@
     "locID": "LOC000117606486",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486606"
+    "gnaf_pid": "GAWA_718486606",
+    "ee": true
    }
   },
   {
@@ -1290,7 +1363,8 @@
     "locID": "LOC000136693853",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486607"
+    "gnaf_pid": "GAWA_718486607",
+    "ee": true
    }
   },
   {
@@ -1307,7 +1381,8 @@
     "locID": "LOC000117606486",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486608"
+    "gnaf_pid": "GAWA_718486608",
+    "ee": true
    }
   },
   {
@@ -1324,7 +1399,8 @@
     "locID": "LOC000117606472",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486609"
+    "gnaf_pid": "GAWA_718486609",
+    "ee": true
    }
   },
   {
@@ -1341,7 +1417,8 @@
     "locID": "LOC000117606455",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486610"
+    "gnaf_pid": "GAWA_718486610",
+    "ee": true
    }
   },
   {
@@ -1358,7 +1435,8 @@
     "locID": "LOC000117606440",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486611"
+    "gnaf_pid": "GAWA_718486611",
+    "ee": true
    }
   },
   {
@@ -1375,7 +1453,8 @@
     "locID": "LOC000117606429",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486612"
+    "gnaf_pid": "GAWA_718486612",
+    "ee": true
    }
   },
   {
@@ -1392,7 +1471,8 @@
     "locID": "LOC000117606417",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486613"
+    "gnaf_pid": "GAWA_718486613",
+    "ee": true
    }
   },
   {
@@ -1409,7 +1489,8 @@
     "locID": "LOC000117605384",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486614"
+    "gnaf_pid": "GAWA_718486614",
+    "ee": true
    }
   },
   {
@@ -1426,7 +1507,8 @@
     "locID": "LOC000117605366",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718486615"
+    "gnaf_pid": "GAWA_718486615",
+    "ee": true
    }
   },
   {
@@ -1443,7 +1525,8 @@
     "locID": "LOC000191908571",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718487111"
+    "gnaf_pid": "GAWA_718487111",
+    "ee": true
    }
   },
   {
@@ -1460,7 +1543,8 @@
     "locID": "LOC000191908571",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718487112"
+    "gnaf_pid": "GAWA_718487112",
+    "ee": true
    }
   },
   {
@@ -1477,7 +1561,8 @@
     "locID": "LOC000117605015",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718520168"
+    "gnaf_pid": "GAWA_718520168",
+    "ee": true
    }
   },
   {
@@ -1494,7 +1579,8 @@
     "locID": "LOC000175032623",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_718520225"
+    "gnaf_pid": "GAWA_718520225",
+    "ee": true
    }
   },
   {
@@ -1512,6 +1598,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718788753",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1530,6 +1617,7 @@
     "tech": "FTTN",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718788754",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1548,6 +1636,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_719503264",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -1565,7 +1654,8 @@
     "locID": "LOC000153729314",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_720642430"
+    "gnaf_pid": "GAWA_720642430",
+    "ee": true
    }
   },
   {
@@ -1582,7 +1672,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721194052"
+    "gnaf_pid": "GAWA_721194052",
+    "ee": true
    }
   },
   {
@@ -1599,7 +1690,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721194159"
+    "gnaf_pid": "GAWA_721194159",
+    "ee": true
    }
   },
   {
@@ -1616,7 +1708,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721194230"
+    "gnaf_pid": "GAWA_721194230",
+    "ee": true
    }
   },
   {
@@ -1633,7 +1726,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721194410"
+    "gnaf_pid": "GAWA_721194410",
+    "ee": true
    }
   },
   {
@@ -1650,7 +1744,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721194638"
+    "gnaf_pid": "GAWA_721194638",
+    "ee": true
    }
   },
   {
@@ -1667,7 +1762,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721196046"
+    "gnaf_pid": "GAWA_721196046",
+    "ee": true
    }
   },
   {
@@ -1684,7 +1780,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721196860"
+    "gnaf_pid": "GAWA_721196860",
+    "ee": true
    }
   },
   {
@@ -1701,7 +1798,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721197092"
+    "gnaf_pid": "GAWA_721197092",
+    "ee": true
    }
   },
   {
@@ -1718,7 +1816,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721197629"
+    "gnaf_pid": "GAWA_721197629",
+    "ee": true
    }
   },
   {
@@ -1735,7 +1834,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721197890"
+    "gnaf_pid": "GAWA_721197890",
+    "ee": true
    }
   },
   {
@@ -1752,7 +1852,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721197940"
+    "gnaf_pid": "GAWA_721197940",
+    "ee": true
    }
   },
   {
@@ -1769,7 +1870,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721198143"
+    "gnaf_pid": "GAWA_721198143",
+    "ee": true
    }
   },
   {
@@ -1786,7 +1888,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721198449"
+    "gnaf_pid": "GAWA_721198449",
+    "ee": true
    }
   },
   {
@@ -1803,7 +1906,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721198466"
+    "gnaf_pid": "GAWA_721198466",
+    "ee": true
    }
   },
   {
@@ -1820,7 +1924,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721198482"
+    "gnaf_pid": "GAWA_721198482",
+    "ee": true
    }
   },
   {
@@ -1837,7 +1942,8 @@
     "locID": "LOC000137161710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_721198664"
+    "gnaf_pid": "GAWA_721198664",
+    "ee": true
    }
   }
  ]
