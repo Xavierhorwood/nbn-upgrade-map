@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-25T19:28:45.360631",
+ "generated": "2025-06-19T10:32:37.453500",
  "suburb": "UCARTY WEST",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161923594",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +37,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161925165",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +56,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161989550",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +75,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161989551",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +94,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161989552",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -108,6 +113,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161993606",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -126,6 +132,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161994373",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -144,6 +151,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161994374",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -162,6 +170,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161994467",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -180,6 +189,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161995480",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -198,6 +208,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161995481",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -216,6 +227,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161997312",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -234,6 +246,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161999644",
+    "ee": false,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.93917745,
+     -31.39860335
+    ]
+   },
+   "properties": {
+    "name": "374 SADLER ROAD UCARTY WEST 6460",
+    "locID": "LOC000042281036",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GAWA_163053205",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   }
