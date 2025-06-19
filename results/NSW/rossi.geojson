@@ -1,8 +1,27 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-26T01:22:53.767098",
+ "generated": "2025-06-19T15:13:47.303936",
  "suburb": "ROSSI",
  "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.51160403,
+     -35.46297756
+    ]
+   },
+   "properties": {
+    "name": "68 GALVINS CREEK ROAD ROSSI 2621",
+    "locID": "LOC000034722599",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705806879",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -18,6 +37,45 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705814312",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.48806029,
+     -35.45131235
+    ]
+   },
+   "properties": {
+    "name": "127 ROSSI ROAD ROSSI 2621",
+    "locID": "LOC000052681395",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705814313",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.49109576,
+     -35.45100648
+    ]
+   },
+   "properties": {
+    "name": "153 ROSSI ROAD ROSSI 2621",
+    "locID": "LOC000068470398",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705814314",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -36,6 +94,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705814316",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -54,6 +113,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705814317",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -72,6 +132,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705814318",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -90,6 +151,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705814319",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -108,6 +170,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705814320",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -126,6 +189,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705814322",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -144,6 +208,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705814323",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -162,6 +227,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705814330",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -180,6 +246,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705814331",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -198,6 +265,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705814333",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -216,6 +284,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705814334",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -234,6 +303,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705827801",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -252,6 +322,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705838068",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -270,6 +341,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705838069",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -288,6 +360,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705838070",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -306,6 +379,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706529669",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -324,6 +398,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712722474",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -342,7 +417,29 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW712742781",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.45742016,
+     -35.47357222
+    ]
+   },
+   "properties": {
+    "name": "2219 HOSKINSTOWN ROAD ROSSI 2621",
+    "locID": "LOC000021400760",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW713153568",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -360,6 +457,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GANSW715906720",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -380,6 +478,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716077421",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -398,6 +497,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716397796",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -416,6 +516,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716472737",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -434,6 +535,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716472738",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -452,6 +554,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716640124",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -470,6 +573,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716732677",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -488,6 +592,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716922118",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -506,6 +611,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716934010",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -524,6 +630,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717129012",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -542,6 +649,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717191278",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -560,6 +668,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717383062",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -578,6 +687,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718177463",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -596,6 +706,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718205188",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -614,6 +725,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718422697",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -632,6 +744,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718422698",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -650,6 +763,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718422699",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -668,6 +782,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718422700",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -686,6 +801,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718648789",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -704,6 +820,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718810511",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -722,6 +839,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718898650",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -740,6 +858,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719029365",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -758,7 +877,29 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719064391",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.47454764,
+     -35.45514825
+    ]
+   },
+   "properties": {
+    "name": "10 HOSKINSTOWN ROAD ROSSI 2621",
+    "locID": "LOC000044610824",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW719231933",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   }
  ]

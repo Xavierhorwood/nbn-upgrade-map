@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-26T00:40:30.555700",
+ "generated": "2025-06-19T14:46:57.188377",
  "suburb": "WAMBROOK",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716752643",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -38,6 +39,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716873452",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -56,6 +58,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716886300",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -76,6 +79,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716920074",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -94,6 +98,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GANSW716920075",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -114,6 +119,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716933463",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -134,6 +140,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716933464",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -154,6 +161,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716933465",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -174,6 +182,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716933466",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -194,6 +203,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716992109",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -212,6 +222,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GANSW717088777",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -232,6 +243,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717088778",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -252,6 +264,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717088779",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -272,6 +285,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717088780",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -292,6 +306,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717088781",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -310,6 +325,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717097864",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -328,6 +344,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717097867",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -348,6 +365,26 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717109861",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.93478148,
+     -36.21233454
+    ]
+   },
+   "properties": {
+    "name": "1823 SNOWY MOUNTAINS HIGHWAY WAMBROOK 2630",
+    "locID": "LOC000101751133",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW717109862",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -366,6 +403,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717358744",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -384,6 +422,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717358745",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -404,6 +443,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717358746",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -422,6 +462,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717872979",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -440,6 +481,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717919922",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -460,6 +502,26 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718000709",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.01566806,
+     -36.17239665
+    ]
+   },
+   "properties": {
+    "name": "1220 DRY PLAINS ROAD WAMBROOK 2630",
+    "locID": "LOC000148057522",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW718457296",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -478,6 +540,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719179458",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -496,6 +559,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719259542",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -514,6 +578,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW719813652",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -534,6 +599,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720081880",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -554,6 +620,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720084147",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"

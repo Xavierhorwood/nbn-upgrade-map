@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-26T01:26:01.311765",
+ "generated": "2025-06-19T15:17:17.450488",
  "suburb": "RAWSONVILLE",
  "features": [
   {
@@ -18,6 +18,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706534210",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -38,7 +39,29 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706554672",
+    "ee": true,
     "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.45256727,
+     -32.18817387
+    ]
+   },
+   "properties": {
+    "name": "7R RAWSONVILLE BRIDGE ROAD RAWSONVILLE 2830",
+    "locID": "LOC000122208882",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706554673",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
    }
   },
   {
@@ -56,6 +79,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706554674",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -74,6 +98,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706554675",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -94,6 +119,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706554676",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -114,6 +140,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706606462",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -134,6 +161,28 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW706606463",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.48825845,
+     -32.17304155
+    ]
+   },
+   "properties": {
+    "name": "15R RAWSONVILLE ROAD RAWSONVILLE 2830",
+    "locID": "LOC100079387632",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW706606464",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -154,6 +203,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716529673",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -174,6 +224,47 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW716531296",
+    "ee": true,
+    "tech_change_status": "Not Planned"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.47451373,
+     -32.17712164
+    ]
+   },
+   "properties": {
+    "name": "49R RAWSONVILLE ROAD RAWSONVILLE 2830",
+    "locID": "LOC000122201608",
+    "tech": "WIRELESS",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW717002992",
+    "ee": true,
+    "tech_change_status": "Not Planned",
+    "program_type": "Fixed Wireless and Satellite Upgrade Program",
+    "target_eligibility_quarter": "NA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.47501916,
+     -32.17287307
+    ]
+   },
+   "properties": {
+    "name": "68L RAWSONVILLE ROAD RAWSONVILLE 2830",
+    "locID": "LOC000122174944",
+    "tech": "SATELLITE",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW717002993",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -192,6 +283,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717132112",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -212,6 +304,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717456180",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -232,6 +325,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717651057",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -250,6 +344,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW717855172",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -270,6 +365,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718276704",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -288,6 +384,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718276705",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -306,6 +403,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718307536",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -324,6 +422,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718307537",
+    "ee": true,
     "tech_change_status": "Eligible to Order",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -344,6 +443,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718307538",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -364,6 +464,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718307539",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -384,6 +485,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718307540",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -404,6 +506,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718307541",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -422,6 +525,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718367717",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -442,6 +546,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718405107",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -462,6 +567,7 @@
     "tech": "SATELLITE",
     "upgrade": "WIRELESS",
     "gnaf_pid": "GANSW718436981",
+    "ee": true,
     "tech_change_status": "New Tech Connected",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -482,6 +588,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW718772607",
+    "ee": true,
     "tech_change_status": "Not Planned"
    }
   },
@@ -500,6 +607,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720385760",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
@@ -520,6 +628,7 @@
     "tech": "WIRELESS",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW720426462",
+    "ee": true,
     "tech_change_status": "Not Planned",
     "program_type": "Fixed Wireless and Satellite Upgrade Program",
     "target_eligibility_quarter": "NA"
