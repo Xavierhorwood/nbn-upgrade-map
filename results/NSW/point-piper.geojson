@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-26T00:14:52.457440",
+ "generated": "2025-06-19T14:16:47.635328",
  "suburb": "POINT PIPER",
  "features": [
   {
@@ -17,7 +17,8 @@
     "locID": "LOC000045138555",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647016"
+    "gnaf_pid": "GANSW705647016",
+    "ee": true
    }
   },
   {
@@ -34,7 +35,8 @@
     "locID": "LOC000167985594",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647020"
+    "gnaf_pid": "GANSW705647020",
+    "ee": true
    }
   },
   {
@@ -51,7 +53,8 @@
     "locID": "LOC000018884282",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647021"
+    "gnaf_pid": "GANSW705647021",
+    "ee": true
    }
   },
   {
@@ -68,7 +71,8 @@
     "locID": "LOC000021258007",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647022"
+    "gnaf_pid": "GANSW705647022",
+    "ee": true
    }
   },
   {
@@ -85,7 +89,8 @@
     "locID": "LOC000021335790",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647023"
+    "gnaf_pid": "GANSW705647023",
+    "ee": true
    }
   },
   {
@@ -102,7 +107,8 @@
     "locID": "LOC000012421816",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647030"
+    "gnaf_pid": "GANSW705647030",
+    "ee": true
    }
   },
   {
@@ -119,7 +125,8 @@
     "locID": "LOC000167985616",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647031"
+    "gnaf_pid": "GANSW705647031",
+    "ee": true
    }
   },
   {
@@ -136,7 +143,8 @@
     "locID": "LOC000167985616",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647032"
+    "gnaf_pid": "GANSW705647032",
+    "ee": true
    }
   },
   {
@@ -153,7 +161,8 @@
     "locID": "LOC000167985616",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647033"
+    "gnaf_pid": "GANSW705647033",
+    "ee": true
    }
   },
   {
@@ -170,7 +179,8 @@
     "locID": "LOC000167985637",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647035"
+    "gnaf_pid": "GANSW705647035",
+    "ee": true
    }
   },
   {
@@ -187,7 +197,8 @@
     "locID": "LOC000093318891",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647036"
+    "gnaf_pid": "GANSW705647036",
+    "ee": true
    }
   },
   {
@@ -204,7 +215,8 @@
     "locID": "LOC000093318891",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647037"
+    "gnaf_pid": "GANSW705647037",
+    "ee": true
    }
   },
   {
@@ -221,7 +233,8 @@
     "locID": "LOC000093318891",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647038"
+    "gnaf_pid": "GANSW705647038",
+    "ee": true
    }
   },
   {
@@ -238,7 +251,8 @@
     "locID": "LOC000033954212",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647039"
+    "gnaf_pid": "GANSW705647039",
+    "ee": true
    }
   },
   {
@@ -255,7 +269,8 @@
     "locID": "LOC000033954212",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647040"
+    "gnaf_pid": "GANSW705647040",
+    "ee": true
    }
   },
   {
@@ -272,7 +287,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647041"
+    "gnaf_pid": "GANSW705647041",
+    "ee": true
    }
   },
   {
@@ -289,7 +305,26 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647042"
+    "gnaf_pid": "GANSW705647042",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.24906109,
+     -33.86635994
+    ]
+   },
+   "properties": {
+    "name": "84-86 WOLSELEY ROAD POINT PIPER 2027",
+    "locID": "LOC000196629534",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705647337",
+    "ee": false
    }
   },
   {
@@ -306,7 +341,8 @@
     "locID": "LOC000022284042",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647340"
+    "gnaf_pid": "GANSW705647340",
+    "ee": true
    }
   },
   {
@@ -323,7 +359,8 @@
     "locID": "LOC000018046484",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705647383"
+    "gnaf_pid": "GANSW705647383",
+    "ee": true
    }
   },
   {
@@ -340,7 +377,8 @@
     "locID": "LOC000055420231",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650581"
+    "gnaf_pid": "GANSW705650581",
+    "ee": true
    }
   },
   {
@@ -357,7 +395,8 @@
     "locID": "LOC000078369074",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650582"
+    "gnaf_pid": "GANSW705650582",
+    "ee": true
    }
   },
   {
@@ -374,7 +413,8 @@
     "locID": "LOC000072186521",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650583"
+    "gnaf_pid": "GANSW705650583",
+    "ee": true
    }
   },
   {
@@ -391,7 +431,8 @@
     "locID": "LOC000072501844",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650584"
+    "gnaf_pid": "GANSW705650584",
+    "ee": true
    }
   },
   {
@@ -408,7 +449,8 @@
     "locID": "LOC000093637991",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650585"
+    "gnaf_pid": "GANSW705650585",
+    "ee": true
    }
   },
   {
@@ -425,7 +467,8 @@
     "locID": "LOC000066369506",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650587"
+    "gnaf_pid": "GANSW705650587",
+    "ee": true
    }
   },
   {
@@ -442,7 +485,8 @@
     "locID": "LOC000066413996",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650588"
+    "gnaf_pid": "GANSW705650588",
+    "ee": true
    }
   },
   {
@@ -459,7 +503,8 @@
     "locID": "LOC000025943193",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650589"
+    "gnaf_pid": "GANSW705650589",
+    "ee": true
    }
   },
   {
@@ -476,7 +521,8 @@
     "locID": "LOC000063406238",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650590"
+    "gnaf_pid": "GANSW705650590",
+    "ee": true
    }
   },
   {
@@ -493,7 +539,8 @@
     "locID": "LOC000055336847",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650591"
+    "gnaf_pid": "GANSW705650591",
+    "ee": true
    }
   },
   {
@@ -510,7 +557,8 @@
     "locID": "LOC000016184568",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650592"
+    "gnaf_pid": "GANSW705650592",
+    "ee": true
    }
   },
   {
@@ -527,7 +575,8 @@
     "locID": "LOC000009798363",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650593"
+    "gnaf_pid": "GANSW705650593",
+    "ee": true
    }
   },
   {
@@ -544,7 +593,8 @@
     "locID": "LOC000007271015",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650600"
+    "gnaf_pid": "GANSW705650600",
+    "ee": true
    }
   },
   {
@@ -561,7 +611,8 @@
     "locID": "LOC000007279779",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650601"
+    "gnaf_pid": "GANSW705650601",
+    "ee": true
    }
   },
   {
@@ -578,7 +629,8 @@
     "locID": "LOC000110066556",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650602"
+    "gnaf_pid": "GANSW705650602",
+    "ee": true
    }
   },
   {
@@ -595,7 +647,8 @@
     "locID": "LOC000007354233",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650603"
+    "gnaf_pid": "GANSW705650603",
+    "ee": true
    }
   },
   {
@@ -612,7 +665,8 @@
     "locID": "LOC000087885646",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650615"
+    "gnaf_pid": "GANSW705650615",
+    "ee": true
    }
   },
   {
@@ -629,7 +683,8 @@
     "locID": "LOC000088000464",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650616"
+    "gnaf_pid": "GANSW705650616",
+    "ee": true
    }
   },
   {
@@ -646,7 +701,8 @@
     "locID": "LOC000090085971",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650617"
+    "gnaf_pid": "GANSW705650617",
+    "ee": true
    }
   },
   {
@@ -663,7 +719,8 @@
     "locID": "LOC000088122319",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650618"
+    "gnaf_pid": "GANSW705650618",
+    "ee": true
    }
   },
   {
@@ -680,7 +737,8 @@
     "locID": "LOC000088000464",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650619"
+    "gnaf_pid": "GANSW705650619",
+    "ee": true
    }
   },
   {
@@ -697,7 +755,8 @@
     "locID": "LOC000089907410",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650620"
+    "gnaf_pid": "GANSW705650620",
+    "ee": true
    }
   },
   {
@@ -714,7 +773,8 @@
     "locID": "LOC000090032981",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650621"
+    "gnaf_pid": "GANSW705650621",
+    "ee": true
    }
   },
   {
@@ -731,7 +791,8 @@
     "locID": "LOC000063055051",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650958"
+    "gnaf_pid": "GANSW705650958",
+    "ee": true
    }
   },
   {
@@ -748,7 +809,8 @@
     "locID": "LOC000016343516",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650963"
+    "gnaf_pid": "GANSW705650963",
+    "ee": true
    }
   },
   {
@@ -765,7 +827,8 @@
     "locID": "LOC000045316421",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650964"
+    "gnaf_pid": "GANSW705650964",
+    "ee": true
    }
   },
   {
@@ -782,7 +845,8 @@
     "locID": "LOC000013109357",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650965"
+    "gnaf_pid": "GANSW705650965",
+    "ee": true
    }
   },
   {
@@ -799,7 +863,8 @@
     "locID": "LOC000013109357",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650966"
+    "gnaf_pid": "GANSW705650966",
+    "ee": true
    }
   },
   {
@@ -816,7 +881,8 @@
     "locID": "LOC000013080785",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650967"
+    "gnaf_pid": "GANSW705650967",
+    "ee": true
    }
   },
   {
@@ -833,7 +899,8 @@
     "locID": "LOC000013184556",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650968"
+    "gnaf_pid": "GANSW705650968",
+    "ee": true
    }
   },
   {
@@ -850,7 +917,8 @@
     "locID": "LOC000086707625",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650969"
+    "gnaf_pid": "GANSW705650969",
+    "ee": true
    }
   },
   {
@@ -867,7 +935,8 @@
     "locID": "LOC000013109357",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650970"
+    "gnaf_pid": "GANSW705650970",
+    "ee": true
    }
   },
   {
@@ -884,7 +953,8 @@
     "locID": "LOC000059033871",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650971"
+    "gnaf_pid": "GANSW705650971",
+    "ee": true
    }
   },
   {
@@ -901,7 +971,8 @@
     "locID": "LOC000059033871",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650972"
+    "gnaf_pid": "GANSW705650972",
+    "ee": true
    }
   },
   {
@@ -918,7 +989,8 @@
     "locID": "LOC000013184556",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650973"
+    "gnaf_pid": "GANSW705650973",
+    "ee": true
    }
   },
   {
@@ -935,7 +1007,8 @@
     "locID": "LOC000058537499",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650974"
+    "gnaf_pid": "GANSW705650974",
+    "ee": true
    }
   },
   {
@@ -952,7 +1025,8 @@
     "locID": "LOC000059033871",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650975"
+    "gnaf_pid": "GANSW705650975",
+    "ee": true
    }
   },
   {
@@ -969,7 +1043,8 @@
     "locID": "LOC000086815373",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650976"
+    "gnaf_pid": "GANSW705650976",
+    "ee": true
    }
   },
   {
@@ -986,7 +1061,8 @@
     "locID": "LOC000059005788",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650977"
+    "gnaf_pid": "GANSW705650977",
+    "ee": true
    }
   },
   {
@@ -1003,7 +1079,8 @@
     "locID": "LOC000059307524",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650978"
+    "gnaf_pid": "GANSW705650978",
+    "ee": true
    }
   },
   {
@@ -1020,7 +1097,8 @@
     "locID": "LOC000059045330",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650979"
+    "gnaf_pid": "GANSW705650979",
+    "ee": true
    }
   },
   {
@@ -1037,7 +1115,8 @@
     "locID": "LOC000059033871",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650980"
+    "gnaf_pid": "GANSW705650980",
+    "ee": true
    }
   },
   {
@@ -1054,7 +1133,8 @@
     "locID": "LOC000045804533",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650981"
+    "gnaf_pid": "GANSW705650981",
+    "ee": true
    }
   },
   {
@@ -1071,7 +1151,8 @@
     "locID": "LOC000045804533",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650982"
+    "gnaf_pid": "GANSW705650982",
+    "ee": true
    }
   },
   {
@@ -1088,7 +1169,8 @@
     "locID": "LOC000081903204",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650983"
+    "gnaf_pid": "GANSW705650983",
+    "ee": true
    }
   },
   {
@@ -1105,7 +1187,8 @@
     "locID": "LOC000081905537",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650984"
+    "gnaf_pid": "GANSW705650984",
+    "ee": true
    }
   },
   {
@@ -1122,7 +1205,8 @@
     "locID": "LOC000059005788",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650985"
+    "gnaf_pid": "GANSW705650985",
+    "ee": true
    }
   },
   {
@@ -1139,7 +1223,8 @@
     "locID": "LOC000082096392",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650986"
+    "gnaf_pid": "GANSW705650986",
+    "ee": true
    }
   },
   {
@@ -1156,7 +1241,8 @@
     "locID": "LOC000077138666",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650988"
+    "gnaf_pid": "GANSW705650988",
+    "ee": true
    }
   },
   {
@@ -1173,7 +1259,8 @@
     "locID": "LOC000040979538",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650989"
+    "gnaf_pid": "GANSW705650989",
+    "ee": true
    }
   },
   {
@@ -1190,7 +1277,8 @@
     "locID": "LOC000027265099",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650994"
+    "gnaf_pid": "GANSW705650994",
+    "ee": true
    }
   },
   {
@@ -1207,7 +1295,8 @@
     "locID": "LOC000088111819",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650995"
+    "gnaf_pid": "GANSW705650995",
+    "ee": true
    }
   },
   {
@@ -1224,7 +1313,8 @@
     "locID": "LOC000088325486",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650996"
+    "gnaf_pid": "GANSW705650996",
+    "ee": true
    }
   },
   {
@@ -1241,7 +1331,8 @@
     "locID": "LOC000088325486",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705650997"
+    "gnaf_pid": "GANSW705650997",
+    "ee": true
    }
   },
   {
@@ -1258,7 +1349,8 @@
     "locID": "LOC000047803089",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654468"
+    "gnaf_pid": "GANSW705654468",
+    "ee": true
    }
   },
   {
@@ -1275,7 +1367,8 @@
     "locID": "LOC000048156848",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654469"
+    "gnaf_pid": "GANSW705654469",
+    "ee": true
    }
   },
   {
@@ -1292,7 +1385,8 @@
     "locID": "LOC000048156848",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654470"
+    "gnaf_pid": "GANSW705654470",
+    "ee": true
    }
   },
   {
@@ -1309,7 +1403,8 @@
     "locID": "LOC000048156848",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654471"
+    "gnaf_pid": "GANSW705654471",
+    "ee": true
    }
   },
   {
@@ -1326,7 +1421,8 @@
     "locID": "LOC000102924615",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654472"
+    "gnaf_pid": "GANSW705654472",
+    "ee": true
    }
   },
   {
@@ -1343,7 +1439,8 @@
     "locID": "LOC000039962310",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654617"
+    "gnaf_pid": "GANSW705654617",
+    "ee": true
    }
   },
   {
@@ -1360,7 +1457,8 @@
     "locID": "LOC000039962310",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654625"
+    "gnaf_pid": "GANSW705654625",
+    "ee": true
    }
   },
   {
@@ -1377,7 +1475,8 @@
     "locID": "LOC000059033871",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654966"
+    "gnaf_pid": "GANSW705654966",
+    "ee": true
    }
   },
   {
@@ -1394,7 +1493,8 @@
     "locID": "LOC000059033871",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654967"
+    "gnaf_pid": "GANSW705654967",
+    "ee": true
    }
   },
   {
@@ -1411,7 +1511,8 @@
     "locID": "LOC000063199799",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654975"
+    "gnaf_pid": "GANSW705654975",
+    "ee": true
    }
   },
   {
@@ -1428,7 +1529,8 @@
     "locID": "LOC000063310829",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654976"
+    "gnaf_pid": "GANSW705654976",
+    "ee": true
    }
   },
   {
@@ -1445,7 +1547,8 @@
     "locID": "LOC000052410848",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654977"
+    "gnaf_pid": "GANSW705654977",
+    "ee": true
    }
   },
   {
@@ -1462,7 +1565,8 @@
     "locID": "LOC000052485401",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654978"
+    "gnaf_pid": "GANSW705654978",
+    "ee": true
    }
   },
   {
@@ -1479,7 +1583,8 @@
     "locID": "LOC000052796318",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654979"
+    "gnaf_pid": "GANSW705654979",
+    "ee": true
    }
   },
   {
@@ -1496,7 +1601,8 @@
     "locID": "LOC000052410848",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705654980"
+    "gnaf_pid": "GANSW705654980",
+    "ee": true
    }
   },
   {
@@ -1513,7 +1619,8 @@
     "locID": "LOC000021366555",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657301"
+    "gnaf_pid": "GANSW705657301",
+    "ee": true
    }
   },
   {
@@ -1530,7 +1637,8 @@
     "locID": "LOC000021542482",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657302"
+    "gnaf_pid": "GANSW705657302",
+    "ee": true
    }
   },
   {
@@ -1547,7 +1655,8 @@
     "locID": "LOC000021321508",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657303"
+    "gnaf_pid": "GANSW705657303",
+    "ee": true
    }
   },
   {
@@ -1564,7 +1673,8 @@
     "locID": "LOC000021488732",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657304"
+    "gnaf_pid": "GANSW705657304",
+    "ee": true
    }
   },
   {
@@ -1581,7 +1691,8 @@
     "locID": "LOC000021383273",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657305"
+    "gnaf_pid": "GANSW705657305",
+    "ee": true
    }
   },
   {
@@ -1598,7 +1709,8 @@
     "locID": "LOC000021379182",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657306"
+    "gnaf_pid": "GANSW705657306",
+    "ee": true
    }
   },
   {
@@ -1615,7 +1727,8 @@
     "locID": "LOC000021210042",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657307"
+    "gnaf_pid": "GANSW705657307",
+    "ee": true
    }
   },
   {
@@ -1632,7 +1745,8 @@
     "locID": "LOC000032971289",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657308"
+    "gnaf_pid": "GANSW705657308",
+    "ee": true
    }
   },
   {
@@ -1649,7 +1763,8 @@
     "locID": "LOC000033153763",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657309"
+    "gnaf_pid": "GANSW705657309",
+    "ee": true
    }
   },
   {
@@ -1666,7 +1781,8 @@
     "locID": "LOC000033291210",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657310"
+    "gnaf_pid": "GANSW705657310",
+    "ee": true
    }
   },
   {
@@ -1683,7 +1799,8 @@
     "locID": "LOC000018424022",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657312"
+    "gnaf_pid": "GANSW705657312",
+    "ee": true
    }
   },
   {
@@ -1700,7 +1817,8 @@
     "locID": "LOC000033930533",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657322"
+    "gnaf_pid": "GANSW705657322",
+    "ee": true
    }
   },
   {
@@ -1717,7 +1835,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657323"
+    "gnaf_pid": "GANSW705657323",
+    "ee": true
    }
   },
   {
@@ -1734,7 +1853,8 @@
     "locID": "LOC000034121856",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657324"
+    "gnaf_pid": "GANSW705657324",
+    "ee": true
    }
   },
   {
@@ -1751,7 +1871,8 @@
     "locID": "LOC000034008912",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657325"
+    "gnaf_pid": "GANSW705657325",
+    "ee": true
    }
   },
   {
@@ -1768,7 +1889,8 @@
     "locID": "LOC000033875199",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657326"
+    "gnaf_pid": "GANSW705657326",
+    "ee": true
    }
   },
   {
@@ -1785,7 +1907,8 @@
     "locID": "LOC000033626046",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657327"
+    "gnaf_pid": "GANSW705657327",
+    "ee": true
    }
   },
   {
@@ -1802,7 +1925,8 @@
     "locID": "LOC000033970425",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657328"
+    "gnaf_pid": "GANSW705657328",
+    "ee": true
    }
   },
   {
@@ -1819,7 +1943,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657329"
+    "gnaf_pid": "GANSW705657329",
+    "ee": true
    }
   },
   {
@@ -1836,7 +1961,8 @@
     "locID": "LOC000043713268",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657836"
+    "gnaf_pid": "GANSW705657836",
+    "ee": true
    }
   },
   {
@@ -1853,7 +1979,8 @@
     "locID": "LOC000068571687",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657837"
+    "gnaf_pid": "GANSW705657837",
+    "ee": true
    }
   },
   {
@@ -1870,7 +1997,8 @@
     "locID": "LOC000084593729",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657838"
+    "gnaf_pid": "GANSW705657838",
+    "ee": true
    }
   },
   {
@@ -1887,7 +2015,8 @@
     "locID": "LOC000014222847",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657839"
+    "gnaf_pid": "GANSW705657839",
+    "ee": true
    }
   },
   {
@@ -1904,7 +2033,8 @@
     "locID": "LOC000014089427",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657840"
+    "gnaf_pid": "GANSW705657840",
+    "ee": true
    }
   },
   {
@@ -1921,7 +2051,8 @@
     "locID": "LOC000014180868",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657841"
+    "gnaf_pid": "GANSW705657841",
+    "ee": true
    }
   },
   {
@@ -1938,7 +2069,8 @@
     "locID": "LOC000014007981",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657842"
+    "gnaf_pid": "GANSW705657842",
+    "ee": true
    }
   },
   {
@@ -1955,7 +2087,8 @@
     "locID": "LOC000014222847",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657843"
+    "gnaf_pid": "GANSW705657843",
+    "ee": true
    }
   },
   {
@@ -1972,7 +2105,8 @@
     "locID": "LOC000014177491",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657844"
+    "gnaf_pid": "GANSW705657844",
+    "ee": true
    }
   },
   {
@@ -1989,7 +2123,8 @@
     "locID": "LOC000014144139",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657845"
+    "gnaf_pid": "GANSW705657845",
+    "ee": true
    }
   },
   {
@@ -2006,7 +2141,8 @@
     "locID": "LOC000013819846",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657846"
+    "gnaf_pid": "GANSW705657846",
+    "ee": true
    }
   },
   {
@@ -2023,7 +2159,8 @@
     "locID": "LOC000014132440",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705657847"
+    "gnaf_pid": "GANSW705657847",
+    "ee": true
    }
   },
   {
@@ -2040,7 +2177,8 @@
     "locID": "LOC000035715098",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658109"
+    "gnaf_pid": "GANSW705658109",
+    "ee": true
    }
   },
   {
@@ -2057,7 +2195,8 @@
     "locID": "LOC000167985659",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658112"
+    "gnaf_pid": "GANSW705658112",
+    "ee": true
    }
   },
   {
@@ -2074,7 +2213,8 @@
     "locID": "LOC000023983406",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658121"
+    "gnaf_pid": "GANSW705658121",
+    "ee": true
    }
   },
   {
@@ -2091,7 +2231,8 @@
     "locID": "LOC000167985692",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658122"
+    "gnaf_pid": "GANSW705658122",
+    "ee": true
    }
   },
   {
@@ -2108,7 +2249,8 @@
     "locID": "LOC000028890444",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658123"
+    "gnaf_pid": "GANSW705658123",
+    "ee": true
    }
   },
   {
@@ -2125,7 +2267,8 @@
     "locID": "LOC000022261005",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658125"
+    "gnaf_pid": "GANSW705658125",
+    "ee": true
    }
   },
   {
@@ -2142,7 +2285,8 @@
     "locID": "LOC000022116185",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658126"
+    "gnaf_pid": "GANSW705658126",
+    "ee": true
    }
   },
   {
@@ -2159,7 +2303,8 @@
     "locID": "LOC000022302558",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658127"
+    "gnaf_pid": "GANSW705658127",
+    "ee": true
    }
   },
   {
@@ -2176,7 +2321,8 @@
     "locID": "LOC000077097313",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658311"
+    "gnaf_pid": "GANSW705658311",
+    "ee": true
    }
   },
   {
@@ -2193,7 +2339,8 @@
     "locID": "LOC100058572891",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658312"
+    "gnaf_pid": "GANSW705658312",
+    "ee": true
    }
   },
   {
@@ -2210,7 +2357,8 @@
     "locID": "LOC000108369551",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658313"
+    "gnaf_pid": "GANSW705658313",
+    "ee": true
    }
   },
   {
@@ -2227,7 +2375,8 @@
     "locID": "LOC000040173276",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658314"
+    "gnaf_pid": "GANSW705658314",
+    "ee": true
    }
   },
   {
@@ -2244,7 +2393,8 @@
     "locID": "LOC000103174928",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658315"
+    "gnaf_pid": "GANSW705658315",
+    "ee": true
    }
   },
   {
@@ -2261,7 +2411,8 @@
     "locID": "LOC000095524662",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658316"
+    "gnaf_pid": "GANSW705658316",
+    "ee": true
    }
   },
   {
@@ -2278,7 +2429,8 @@
     "locID": "LOC000027405509",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658317"
+    "gnaf_pid": "GANSW705658317",
+    "ee": true
    }
   },
   {
@@ -2295,7 +2447,8 @@
     "locID": "LOC000051740969",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658325"
+    "gnaf_pid": "GANSW705658325",
+    "ee": true
    }
   },
   {
@@ -2312,7 +2465,8 @@
     "locID": "LOC000099383686",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658326"
+    "gnaf_pid": "GANSW705658326",
+    "ee": true
    }
   },
   {
@@ -2329,7 +2483,8 @@
     "locID": "LOC000099007410",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705658327"
+    "gnaf_pid": "GANSW705658327",
+    "ee": true
    }
   },
   {
@@ -2346,7 +2501,8 @@
     "locID": "LOC000051536531",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660877"
+    "gnaf_pid": "GANSW705660877",
+    "ee": true
    }
   },
   {
@@ -2363,7 +2519,8 @@
     "locID": "LOC000088290881",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660878"
+    "gnaf_pid": "GANSW705660878",
+    "ee": true
    }
   },
   {
@@ -2380,7 +2537,8 @@
     "locID": "LOC000092449195",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660879"
+    "gnaf_pid": "GANSW705660879",
+    "ee": true
    }
   },
   {
@@ -2397,7 +2555,8 @@
     "locID": "LOC000007110213",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660880"
+    "gnaf_pid": "GANSW705660880",
+    "ee": true
    }
   },
   {
@@ -2414,7 +2573,8 @@
     "locID": "LOC000089915122",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660885"
+    "gnaf_pid": "GANSW705660885",
+    "ee": true
    }
   },
   {
@@ -2431,7 +2591,8 @@
     "locID": "LOC000088000464",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660886"
+    "gnaf_pid": "GANSW705660886",
+    "ee": true
    }
   },
   {
@@ -2448,7 +2609,8 @@
     "locID": "LOC000052124533",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660887"
+    "gnaf_pid": "GANSW705660887",
+    "ee": true
    }
   },
   {
@@ -2465,7 +2627,8 @@
     "locID": "LOC000051908432",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660888"
+    "gnaf_pid": "GANSW705660888",
+    "ee": true
    }
   },
   {
@@ -2482,7 +2645,8 @@
     "locID": "LOC000051908432",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660889"
+    "gnaf_pid": "GANSW705660889",
+    "ee": true
    }
   },
   {
@@ -2499,7 +2663,8 @@
     "locID": "LOC000051908432",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660890"
+    "gnaf_pid": "GANSW705660890",
+    "ee": true
    }
   },
   {
@@ -2516,7 +2681,8 @@
     "locID": "LOC000041749496",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660891"
+    "gnaf_pid": "GANSW705660891",
+    "ee": true
    }
   },
   {
@@ -2533,7 +2699,8 @@
     "locID": "LOC000102239743",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660892"
+    "gnaf_pid": "GANSW705660892",
+    "ee": true
    }
   },
   {
@@ -2550,7 +2717,8 @@
     "locID": "LOC000102372741",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660893"
+    "gnaf_pid": "GANSW705660893",
+    "ee": true
    }
   },
   {
@@ -2567,7 +2735,8 @@
     "locID": "LOC000102590179",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660894"
+    "gnaf_pid": "GANSW705660894",
+    "ee": true
    }
   },
   {
@@ -2584,7 +2753,8 @@
     "locID": "LOC000103062665",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660895"
+    "gnaf_pid": "GANSW705660895",
+    "ee": true
    }
   },
   {
@@ -2601,7 +2771,8 @@
     "locID": "LOC000102935046",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660896"
+    "gnaf_pid": "GANSW705660896",
+    "ee": true
    }
   },
   {
@@ -2618,7 +2789,8 @@
     "locID": "LOC000102997276",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660897"
+    "gnaf_pid": "GANSW705660897",
+    "ee": true
    }
   },
   {
@@ -2635,7 +2807,8 @@
     "locID": "LOC000102372741",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660898"
+    "gnaf_pid": "GANSW705660898",
+    "ee": true
    }
   },
   {
@@ -2652,7 +2825,8 @@
     "locID": "LOC000029583068",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660899"
+    "gnaf_pid": "GANSW705660899",
+    "ee": true
    }
   },
   {
@@ -2669,7 +2843,8 @@
     "locID": "LOC000083970042",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660900"
+    "gnaf_pid": "GANSW705660900",
+    "ee": true
    }
   },
   {
@@ -2686,7 +2861,8 @@
     "locID": "LOC000083970042",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660901"
+    "gnaf_pid": "GANSW705660901",
+    "ee": true
    }
   },
   {
@@ -2703,7 +2879,8 @@
     "locID": "LOC000070219271",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660907"
+    "gnaf_pid": "GANSW705660907",
+    "ee": true
    }
   },
   {
@@ -2720,7 +2897,8 @@
     "locID": "LOC000074310866",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660909"
+    "gnaf_pid": "GANSW705660909",
+    "ee": true
    }
   },
   {
@@ -2737,7 +2915,8 @@
     "locID": "LOC000054205491",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660910"
+    "gnaf_pid": "GANSW705660910",
+    "ee": true
    }
   },
   {
@@ -2754,7 +2933,8 @@
     "locID": "LOC000053794996",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660911"
+    "gnaf_pid": "GANSW705660911",
+    "ee": true
    }
   },
   {
@@ -2771,7 +2951,8 @@
     "locID": "LOC000050699028",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660912"
+    "gnaf_pid": "GANSW705660912",
+    "ee": true
    }
   },
   {
@@ -2788,7 +2969,8 @@
     "locID": "LOC000100129659",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660913"
+    "gnaf_pid": "GANSW705660913",
+    "ee": true
    }
   },
   {
@@ -2805,7 +2987,8 @@
     "locID": "LOC000022128372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660914"
+    "gnaf_pid": "GANSW705660914",
+    "ee": true
    }
   },
   {
@@ -2822,7 +3005,8 @@
     "locID": "LOC000022466673",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660915"
+    "gnaf_pid": "GANSW705660915",
+    "ee": true
    }
   },
   {
@@ -2839,7 +3023,8 @@
     "locID": "LOC000023855991",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660922"
+    "gnaf_pid": "GANSW705660922",
+    "ee": true
    }
   },
   {
@@ -2856,7 +3041,8 @@
     "locID": "LOC000024166894",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660923"
+    "gnaf_pid": "GANSW705660923",
+    "ee": true
    }
   },
   {
@@ -2873,7 +3059,8 @@
     "locID": "LOC000053610368",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660924"
+    "gnaf_pid": "GANSW705660924",
+    "ee": true
    }
   },
   {
@@ -2890,7 +3077,8 @@
     "locID": "LOC000167986224",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660925"
+    "gnaf_pid": "GANSW705660925",
+    "ee": true
    }
   },
   {
@@ -2907,7 +3095,8 @@
     "locID": "LOC000062757129",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660926"
+    "gnaf_pid": "GANSW705660926",
+    "ee": true
    }
   },
   {
@@ -2924,7 +3113,8 @@
     "locID": "LOC000052475402",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660927"
+    "gnaf_pid": "GANSW705660927",
+    "ee": true
    }
   },
   {
@@ -2941,7 +3131,8 @@
     "locID": "LOC000052669249",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660928"
+    "gnaf_pid": "GANSW705660928",
+    "ee": true
    }
   },
   {
@@ -2958,7 +3149,8 @@
     "locID": "LOC000052253090",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705660929"
+    "gnaf_pid": "GANSW705660929",
+    "ee": true
    }
   },
   {
@@ -2975,7 +3167,8 @@
     "locID": "LOC000078846764",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664467"
+    "gnaf_pid": "GANSW705664467",
+    "ee": true
    }
   },
   {
@@ -2992,7 +3185,8 @@
     "locID": "LOC000027180940",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664468"
+    "gnaf_pid": "GANSW705664468",
+    "ee": true
    }
   },
   {
@@ -3009,7 +3203,8 @@
     "locID": "LOC000027323354",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664469"
+    "gnaf_pid": "GANSW705664469",
+    "ee": true
    }
   },
   {
@@ -3026,7 +3221,8 @@
     "locID": "LOC000027402238",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664470"
+    "gnaf_pid": "GANSW705664470",
+    "ee": true
    }
   },
   {
@@ -3043,7 +3239,8 @@
     "locID": "LOC000062686448",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664471"
+    "gnaf_pid": "GANSW705664471",
+    "ee": true
    }
   },
   {
@@ -3060,7 +3257,8 @@
     "locID": "LOC000062686453",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664472"
+    "gnaf_pid": "GANSW705664472",
+    "ee": true
    }
   },
   {
@@ -3077,7 +3275,8 @@
     "locID": "LOC100058572891",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664474"
+    "gnaf_pid": "GANSW705664474",
+    "ee": true
    }
   },
   {
@@ -3094,7 +3293,8 @@
     "locID": "LOC100058572891",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664475"
+    "gnaf_pid": "GANSW705664475",
+    "ee": true
    }
   },
   {
@@ -3111,7 +3311,8 @@
     "locID": "LOC100058572891",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664476"
+    "gnaf_pid": "GANSW705664476",
+    "ee": true
    }
   },
   {
@@ -3128,7 +3329,8 @@
     "locID": "LOC100058572891",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664478"
+    "gnaf_pid": "GANSW705664478",
+    "ee": true
    }
   },
   {
@@ -3145,7 +3347,8 @@
     "locID": "LOC100058572891",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664479"
+    "gnaf_pid": "GANSW705664479",
+    "ee": true
    }
   },
   {
@@ -3162,7 +3365,8 @@
     "locID": "LOC100058572891",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664483"
+    "gnaf_pid": "GANSW705664483",
+    "ee": true
    }
   },
   {
@@ -3179,7 +3383,8 @@
     "locID": "LOC000167985518",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664495"
+    "gnaf_pid": "GANSW705664495",
+    "ee": true
    }
   },
   {
@@ -3196,7 +3401,8 @@
     "locID": "LOC000063230697",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664496"
+    "gnaf_pid": "GANSW705664496",
+    "ee": true
    }
   },
   {
@@ -3213,7 +3419,8 @@
     "locID": "LOC000063230697",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664497"
+    "gnaf_pid": "GANSW705664497",
+    "ee": true
    }
   },
   {
@@ -3230,7 +3437,8 @@
     "locID": "LOC000050726315",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705664498"
+    "gnaf_pid": "GANSW705664498",
+    "ee": true
    }
   },
   {
@@ -3247,7 +3455,8 @@
     "locID": "LOC000033953552",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705667564"
+    "gnaf_pid": "GANSW705667564",
+    "ee": true
    }
   },
   {
@@ -3264,7 +3473,8 @@
     "locID": "LOC000073412043",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705667573"
+    "gnaf_pid": "GANSW705667573",
+    "ee": true
    }
   },
   {
@@ -3281,7 +3491,8 @@
     "locID": "LOC000014167589",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705668114"
+    "gnaf_pid": "GANSW705668114",
+    "ee": true
    }
   },
   {
@@ -3298,7 +3509,8 @@
     "locID": "LOC000013841129",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705668115"
+    "gnaf_pid": "GANSW705668115",
+    "ee": true
    }
   },
   {
@@ -3315,7 +3527,8 @@
     "locID": "LOC000028079989",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705668116"
+    "gnaf_pid": "GANSW705668116",
+    "ee": true
    }
   },
   {
@@ -3332,7 +3545,8 @@
     "locID": "LOC000086699638",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705668117"
+    "gnaf_pid": "GANSW705668117",
+    "ee": true
    }
   },
   {
@@ -3349,7 +3563,8 @@
     "locID": "LOC000086864619",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705668118"
+    "gnaf_pid": "GANSW705668118",
+    "ee": true
    }
   },
   {
@@ -3366,7 +3581,8 @@
     "locID": "LOC000086878639",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705668119"
+    "gnaf_pid": "GANSW705668119",
+    "ee": true
    }
   },
   {
@@ -3383,7 +3599,8 @@
     "locID": "LOC000086577812",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705668120"
+    "gnaf_pid": "GANSW705668120",
+    "ee": true
    }
   },
   {
@@ -3400,7 +3617,8 @@
     "locID": "LOC000086990474",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705668121"
+    "gnaf_pid": "GANSW705668121",
+    "ee": true
    }
   },
   {
@@ -3417,7 +3635,8 @@
     "locID": "LOC000167985587",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705668124"
+    "gnaf_pid": "GANSW705668124",
+    "ee": true
    }
   },
   {
@@ -3434,7 +3653,8 @@
     "locID": "LOC000080974006",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705668145"
+    "gnaf_pid": "GANSW705668145",
+    "ee": true
    }
   },
   {
@@ -3451,7 +3671,8 @@
     "locID": "LOC000080974006",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705668146"
+    "gnaf_pid": "GANSW705668146",
+    "ee": true
    }
   },
   {
@@ -3468,7 +3689,8 @@
     "locID": "LOC000010556688",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705668148"
+    "gnaf_pid": "GANSW705668148",
+    "ee": true
    }
   },
   {
@@ -3485,7 +3707,8 @@
     "locID": "LOC000089842218",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671152"
+    "gnaf_pid": "GANSW705671152",
+    "ee": true
    }
   },
   {
@@ -3502,7 +3725,8 @@
     "locID": "LOC000045464332",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671153"
+    "gnaf_pid": "GANSW705671153",
+    "ee": true
    }
   },
   {
@@ -3519,7 +3743,8 @@
     "locID": "LOC000088045690",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671154"
+    "gnaf_pid": "GANSW705671154",
+    "ee": true
    }
   },
   {
@@ -3536,7 +3761,8 @@
     "locID": "LOC000087988620",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671155"
+    "gnaf_pid": "GANSW705671155",
+    "ee": true
    }
   },
   {
@@ -3553,7 +3779,8 @@
     "locID": "LOC000083970042",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671185"
+    "gnaf_pid": "GANSW705671185",
+    "ee": true
    }
   },
   {
@@ -3570,7 +3797,8 @@
     "locID": "LOC000059149624",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671186"
+    "gnaf_pid": "GANSW705671186",
+    "ee": true
    }
   },
   {
@@ -3587,7 +3815,8 @@
     "locID": "LOC000042128425",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671187"
+    "gnaf_pid": "GANSW705671187",
+    "ee": true
    }
   },
   {
@@ -3604,7 +3833,8 @@
     "locID": "LOC000015531903",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671188"
+    "gnaf_pid": "GANSW705671188",
+    "ee": true
    }
   },
   {
@@ -3621,7 +3851,8 @@
     "locID": "LOC000033948705",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671189"
+    "gnaf_pid": "GANSW705671189",
+    "ee": true
    }
   },
   {
@@ -3638,7 +3869,8 @@
     "locID": "LOC000052642382",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671194"
+    "gnaf_pid": "GANSW705671194",
+    "ee": true
    }
   },
   {
@@ -3655,7 +3887,8 @@
     "locID": "LOC000052475402",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671195"
+    "gnaf_pid": "GANSW705671195",
+    "ee": true
    }
   },
   {
@@ -3672,7 +3905,8 @@
     "locID": "LOC000052744740",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671196"
+    "gnaf_pid": "GANSW705671196",
+    "ee": true
    }
   },
   {
@@ -3689,7 +3923,8 @@
     "locID": "LOC100066478731",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671198"
+    "gnaf_pid": "GANSW705671198",
+    "ee": true
    }
   },
   {
@@ -3706,7 +3941,8 @@
     "locID": "LOC000064449749",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671199"
+    "gnaf_pid": "GANSW705671199",
+    "ee": true
    }
   },
   {
@@ -3723,7 +3959,8 @@
     "locID": "LOC000012231914",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671200"
+    "gnaf_pid": "GANSW705671200",
+    "ee": true
    }
   },
   {
@@ -3740,7 +3977,8 @@
     "locID": "LOC000001362471",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671201"
+    "gnaf_pid": "GANSW705671201",
+    "ee": true
    }
   },
   {
@@ -3757,7 +3995,8 @@
     "locID": "LOC000167986276",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671202"
+    "gnaf_pid": "GANSW705671202",
+    "ee": true
    }
   },
   {
@@ -3774,7 +4013,8 @@
     "locID": "LOC000088910239",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671203"
+    "gnaf_pid": "GANSW705671203",
+    "ee": true
    }
   },
   {
@@ -3791,7 +4031,8 @@
     "locID": "LOC000015770267",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671204"
+    "gnaf_pid": "GANSW705671204",
+    "ee": true
    }
   },
   {
@@ -3808,7 +4049,8 @@
     "locID": "LOC000064183160",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671205"
+    "gnaf_pid": "GANSW705671205",
+    "ee": true
    }
   },
   {
@@ -3825,7 +4067,8 @@
     "locID": "LOC000063902664",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671206"
+    "gnaf_pid": "GANSW705671206",
+    "ee": true
    }
   },
   {
@@ -3842,7 +4085,8 @@
     "locID": "LOC000086142505",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671207"
+    "gnaf_pid": "GANSW705671207",
+    "ee": true
    }
   },
   {
@@ -3859,7 +4103,8 @@
     "locID": "LOC000119383337",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671208"
+    "gnaf_pid": "GANSW705671208",
+    "ee": true
    }
   },
   {
@@ -3876,7 +4121,8 @@
     "locID": "LOC000052753245",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671209"
+    "gnaf_pid": "GANSW705671209",
+    "ee": true
    }
   },
   {
@@ -3893,7 +4139,8 @@
     "locID": "LOC000104098621",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671210"
+    "gnaf_pid": "GANSW705671210",
+    "ee": true
    }
   },
   {
@@ -3910,7 +4157,8 @@
     "locID": "LOC000119383363",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671211"
+    "gnaf_pid": "GANSW705671211",
+    "ee": true
    }
   },
   {
@@ -3927,7 +4175,8 @@
     "locID": "LOC000071201255",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671212"
+    "gnaf_pid": "GANSW705671212",
+    "ee": true
    }
   },
   {
@@ -3944,7 +4193,8 @@
     "locID": "LOC000014719713",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671218"
+    "gnaf_pid": "GANSW705671218",
+    "ee": true
    }
   },
   {
@@ -3961,7 +4211,8 @@
     "locID": "LOC000014850759",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671219"
+    "gnaf_pid": "GANSW705671219",
+    "ee": true
    }
   },
   {
@@ -3978,7 +4229,8 @@
     "locID": "LOC000014631863",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671220"
+    "gnaf_pid": "GANSW705671220",
+    "ee": true
    }
   },
   {
@@ -3995,7 +4247,8 @@
     "locID": "LOC000014622496",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671226"
+    "gnaf_pid": "GANSW705671226",
+    "ee": true
    }
   },
   {
@@ -4012,7 +4265,8 @@
     "locID": "LOC000015096512",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671232"
+    "gnaf_pid": "GANSW705671232",
+    "ee": true
    }
   },
   {
@@ -4029,7 +4283,8 @@
     "locID": "LOC000014577120",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671233"
+    "gnaf_pid": "GANSW705671233",
+    "ee": true
    }
   },
   {
@@ -4046,7 +4301,8 @@
     "locID": "LOC000014622496",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671234"
+    "gnaf_pid": "GANSW705671234",
+    "ee": true
    }
   },
   {
@@ -4063,7 +4319,8 @@
     "locID": "LOC000006502280",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671235"
+    "gnaf_pid": "GANSW705671235",
+    "ee": true
    }
   },
   {
@@ -4080,7 +4337,8 @@
     "locID": "LOC000011275932",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671236"
+    "gnaf_pid": "GANSW705671236",
+    "ee": true
    }
   },
   {
@@ -4097,7 +4355,8 @@
     "locID": "LOC000018045270",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671237"
+    "gnaf_pid": "GANSW705671237",
+    "ee": true
    }
   },
   {
@@ -4114,7 +4373,8 @@
     "locID": "LOC000077487306",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671238"
+    "gnaf_pid": "GANSW705671238",
+    "ee": true
    }
   },
   {
@@ -4131,7 +4391,8 @@
     "locID": "LOC000003281692",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671940"
+    "gnaf_pid": "GANSW705671940",
+    "ee": true
    }
   },
   {
@@ -4148,7 +4409,8 @@
     "locID": "LOC000003084516",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671941"
+    "gnaf_pid": "GANSW705671941",
+    "ee": true
    }
   },
   {
@@ -4165,7 +4427,8 @@
     "locID": "LOC000003167200",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671942"
+    "gnaf_pid": "GANSW705671942",
+    "ee": true
    }
   },
   {
@@ -4182,7 +4445,8 @@
     "locID": "LOC000003285955",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705671943"
+    "gnaf_pid": "GANSW705671943",
+    "ee": true
    }
   },
   {
@@ -4199,7 +4463,8 @@
     "locID": "LOC000103520681",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674766"
+    "gnaf_pid": "GANSW705674766",
+    "ee": true
    }
   },
   {
@@ -4216,7 +4481,8 @@
     "locID": "LOC000167985539",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674767"
+    "gnaf_pid": "GANSW705674767",
+    "ee": true
    }
   },
   {
@@ -4233,7 +4499,8 @@
     "locID": "LOC000099866208",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674768"
+    "gnaf_pid": "GANSW705674768",
+    "ee": true
    }
   },
   {
@@ -4250,7 +4517,8 @@
     "locID": "LOC000099150628",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674770"
+    "gnaf_pid": "GANSW705674770",
+    "ee": true
    }
   },
   {
@@ -4267,7 +4535,8 @@
     "locID": "LOC000099150628",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674771"
+    "gnaf_pid": "GANSW705674771",
+    "ee": true
    }
   },
   {
@@ -4284,7 +4553,8 @@
     "locID": "LOC000027405509",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674772"
+    "gnaf_pid": "GANSW705674772",
+    "ee": true
    }
   },
   {
@@ -4301,7 +4571,8 @@
     "locID": "LOC000087650030",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674773"
+    "gnaf_pid": "GANSW705674773",
+    "ee": true
    }
   },
   {
@@ -4318,7 +4589,8 @@
     "locID": "LOC000087480343",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674774"
+    "gnaf_pid": "GANSW705674774",
+    "ee": true
    }
   },
   {
@@ -4335,7 +4607,8 @@
     "locID": "LOC000087368322",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674775"
+    "gnaf_pid": "GANSW705674775",
+    "ee": true
    }
   },
   {
@@ -4352,7 +4625,8 @@
     "locID": "LOC000087388283",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674776"
+    "gnaf_pid": "GANSW705674776",
+    "ee": true
    }
   },
   {
@@ -4369,7 +4643,8 @@
     "locID": "LOC000087489699",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674777"
+    "gnaf_pid": "GANSW705674777",
+    "ee": true
    }
   },
   {
@@ -4386,7 +4661,8 @@
     "locID": "LOC000087188264",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674778"
+    "gnaf_pid": "GANSW705674778",
+    "ee": true
    }
   },
   {
@@ -4403,7 +4679,8 @@
     "locID": "LOC000087235756",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674779"
+    "gnaf_pid": "GANSW705674779",
+    "ee": true
    }
   },
   {
@@ -4420,7 +4697,8 @@
     "locID": "LOC000085599155",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674780"
+    "gnaf_pid": "GANSW705674780",
+    "ee": true
    }
   },
   {
@@ -4437,7 +4715,8 @@
     "locID": "LOC000087368322",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674781"
+    "gnaf_pid": "GANSW705674781",
+    "ee": true
    }
   },
   {
@@ -4454,7 +4733,8 @@
     "locID": "LOC000022285746",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674782"
+    "gnaf_pid": "GANSW705674782",
+    "ee": true
    }
   },
   {
@@ -4471,7 +4751,8 @@
     "locID": "LOC000049340468",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674783"
+    "gnaf_pid": "GANSW705674783",
+    "ee": true
    }
   },
   {
@@ -4488,7 +4769,8 @@
     "locID": "LOC000019314885",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674784"
+    "gnaf_pid": "GANSW705674784",
+    "ee": true
    }
   },
   {
@@ -4505,7 +4787,8 @@
     "locID": "LOC000018955927",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674785"
+    "gnaf_pid": "GANSW705674785",
+    "ee": true
    }
   },
   {
@@ -4522,7 +4805,8 @@
     "locID": "LOC000076514565",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674786"
+    "gnaf_pid": "GANSW705674786",
+    "ee": true
    }
   },
   {
@@ -4539,7 +4823,8 @@
     "locID": "LOC000076514565",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674787"
+    "gnaf_pid": "GANSW705674787",
+    "ee": true
    }
   },
   {
@@ -4556,7 +4841,8 @@
     "locID": "LOC000076514565",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674788"
+    "gnaf_pid": "GANSW705674788",
+    "ee": true
    }
   },
   {
@@ -4573,7 +4859,8 @@
     "locID": "LOC000076569030",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674789"
+    "gnaf_pid": "GANSW705674789",
+    "ee": true
    }
   },
   {
@@ -4590,7 +4877,8 @@
     "locID": "LOC000040119863",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674798"
+    "gnaf_pid": "GANSW705674798",
+    "ee": true
    }
   },
   {
@@ -4607,7 +4895,8 @@
     "locID": "LOC000040502706",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674799"
+    "gnaf_pid": "GANSW705674799",
+    "ee": true
    }
   },
   {
@@ -4624,7 +4913,8 @@
     "locID": "LOC000103181780",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674800"
+    "gnaf_pid": "GANSW705674800",
+    "ee": true
    }
   },
   {
@@ -4641,7 +4931,8 @@
     "locID": "LOC000102382800",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674801"
+    "gnaf_pid": "GANSW705674801",
+    "ee": true
    }
   },
   {
@@ -4658,7 +4949,8 @@
     "locID": "LOC000103050621",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674802"
+    "gnaf_pid": "GANSW705674802",
+    "ee": true
    }
   },
   {
@@ -4675,7 +4967,8 @@
     "locID": "LOC000102609024",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674803"
+    "gnaf_pid": "GANSW705674803",
+    "ee": true
    }
   },
   {
@@ -4692,7 +4985,8 @@
     "locID": "LOC000102207643",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705674804"
+    "gnaf_pid": "GANSW705674804",
+    "ee": true
    }
   },
   {
@@ -4709,7 +5003,8 @@
     "locID": "LOC000070845292",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705677574"
+    "gnaf_pid": "GANSW705677574",
+    "ee": true
    }
   },
   {
@@ -4726,7 +5021,8 @@
     "locID": "LOC000057309171",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705677575"
+    "gnaf_pid": "GANSW705677575",
+    "ee": true
    }
   },
   {
@@ -4743,7 +5039,8 @@
     "locID": "LOC000020623081",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705677576"
+    "gnaf_pid": "GANSW705677576",
+    "ee": true
    }
   },
   {
@@ -4760,7 +5057,8 @@
     "locID": "LOC000010908975",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705678135"
+    "gnaf_pid": "GANSW705678135",
+    "ee": true
    }
   },
   {
@@ -4777,7 +5075,8 @@
     "locID": "LOC000102924615",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705678136"
+    "gnaf_pid": "GANSW705678136",
+    "ee": true
    }
   },
   {
@@ -4794,7 +5093,8 @@
     "locID": "LOC000102688002",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705678137"
+    "gnaf_pid": "GANSW705678137",
+    "ee": true
    }
   },
   {
@@ -4811,7 +5111,8 @@
     "locID": "LOC000062275004",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705681040"
+    "gnaf_pid": "GANSW705681040",
+    "ee": true
    }
   },
   {
@@ -4828,7 +5129,8 @@
     "locID": "LOC000062275004",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705681041"
+    "gnaf_pid": "GANSW705681041",
+    "ee": true
    }
   },
   {
@@ -4845,7 +5147,8 @@
     "locID": "LOC000098190549",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705681042"
+    "gnaf_pid": "GANSW705681042",
+    "ee": true
    }
   },
   {
@@ -4862,7 +5165,8 @@
     "locID": "LOC000098724473",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705681043"
+    "gnaf_pid": "GANSW705681043",
+    "ee": true
    }
   },
   {
@@ -4879,7 +5183,8 @@
     "locID": "LOC000098607767",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705681044"
+    "gnaf_pid": "GANSW705681044",
+    "ee": true
    }
   },
   {
@@ -4896,7 +5201,8 @@
     "locID": "LOC000098817803",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705681045"
+    "gnaf_pid": "GANSW705681045",
+    "ee": true
    }
   },
   {
@@ -4913,7 +5219,8 @@
     "locID": "LOC000167985671",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705681075"
+    "gnaf_pid": "GANSW705681075",
+    "ee": true
    }
   },
   {
@@ -4930,7 +5237,8 @@
     "locID": "LOC000022466673",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705681461"
+    "gnaf_pid": "GANSW705681461",
+    "ee": true
    }
   },
   {
@@ -4947,7 +5255,8 @@
     "locID": "LOC000003859922",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705681462"
+    "gnaf_pid": "GANSW705681462",
+    "ee": true
    }
   },
   {
@@ -4964,7 +5273,8 @@
     "locID": "LOC000056147679",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705681463"
+    "gnaf_pid": "GANSW705681463",
+    "ee": true
    }
   },
   {
@@ -4981,7 +5291,8 @@
     "locID": "LOC000040979538",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705682301"
+    "gnaf_pid": "GANSW705682301",
+    "ee": true
    }
   },
   {
@@ -4998,7 +5309,8 @@
     "locID": "LOC000041177764",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705682302"
+    "gnaf_pid": "GANSW705682302",
+    "ee": true
    }
   },
   {
@@ -5015,7 +5327,8 @@
     "locID": "LOC000041205684",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705682303"
+    "gnaf_pid": "GANSW705682303",
+    "ee": true
    }
   },
   {
@@ -5032,7 +5345,8 @@
     "locID": "LOC000041424697",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705682304"
+    "gnaf_pid": "GANSW705682304",
+    "ee": true
    }
   },
   {
@@ -5049,7 +5363,8 @@
     "locID": "LOC000038642556",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705682305"
+    "gnaf_pid": "GANSW705682305",
+    "ee": true
    }
   },
   {
@@ -5066,7 +5381,8 @@
     "locID": "LOC000038402470",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705682306"
+    "gnaf_pid": "GANSW705682306",
+    "ee": true
    }
   },
   {
@@ -5083,7 +5399,8 @@
     "locID": "LOC000038563580",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705682307"
+    "gnaf_pid": "GANSW705682307",
+    "ee": true
    }
   },
   {
@@ -5100,7 +5417,8 @@
     "locID": "LOC000022179777",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684124"
+    "gnaf_pid": "GANSW705684124",
+    "ee": true
    }
   },
   {
@@ -5117,7 +5435,8 @@
     "locID": "LOC000022121333",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684125"
+    "gnaf_pid": "GANSW705684125",
+    "ee": true
    }
   },
   {
@@ -5134,7 +5453,8 @@
     "locID": "LOC000022178785",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684126"
+    "gnaf_pid": "GANSW705684126",
+    "ee": true
    }
   },
   {
@@ -5151,7 +5471,8 @@
     "locID": "LOC000022388526",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684127"
+    "gnaf_pid": "GANSW705684127",
+    "ee": true
    }
   },
   {
@@ -5168,7 +5489,8 @@
     "locID": "LOC000022121333",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684128"
+    "gnaf_pid": "GANSW705684128",
+    "ee": true
    }
   },
   {
@@ -5185,7 +5507,8 @@
     "locID": "LOC000051785213",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684129"
+    "gnaf_pid": "GANSW705684129",
+    "ee": true
    }
   },
   {
@@ -5202,7 +5525,8 @@
     "locID": "LOC000069980144",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684137"
+    "gnaf_pid": "GANSW705684137",
+    "ee": true
    }
   },
   {
@@ -5219,7 +5543,8 @@
     "locID": "LOC000069710556",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684138"
+    "gnaf_pid": "GANSW705684138",
+    "ee": true
    }
   },
   {
@@ -5236,7 +5561,8 @@
     "locID": "LOC000069309239",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684139"
+    "gnaf_pid": "GANSW705684139",
+    "ee": true
    }
   },
   {
@@ -5253,7 +5579,8 @@
     "locID": "LOC000069876167",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684140"
+    "gnaf_pid": "GANSW705684140",
+    "ee": true
    }
   },
   {
@@ -5270,7 +5597,8 @@
     "locID": "LOC000070048274",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684141"
+    "gnaf_pid": "GANSW705684141",
+    "ee": true
    }
   },
   {
@@ -5287,7 +5615,8 @@
     "locID": "LOC000077260625",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684659"
+    "gnaf_pid": "GANSW705684659",
+    "ee": true
    }
   },
   {
@@ -5304,7 +5633,8 @@
     "locID": "LOC000023855991",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684660"
+    "gnaf_pid": "GANSW705684660",
+    "ee": true
    }
   },
   {
@@ -5321,7 +5651,8 @@
     "locID": "LOC000099688171",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684681"
+    "gnaf_pid": "GANSW705684681",
+    "ee": true
    }
   },
   {
@@ -5338,7 +5669,8 @@
     "locID": "LOC000100100401",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684682"
+    "gnaf_pid": "GANSW705684682",
+    "ee": true
    }
   },
   {
@@ -5355,7 +5687,8 @@
     "locID": "LOC000099920392",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684683"
+    "gnaf_pid": "GANSW705684683",
+    "ee": true
    }
   },
   {
@@ -5372,7 +5705,8 @@
     "locID": "LOC000099688171",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684685"
+    "gnaf_pid": "GANSW705684685",
+    "ee": true
    }
   },
   {
@@ -5389,7 +5723,8 @@
     "locID": "LOC000003066778",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684686"
+    "gnaf_pid": "GANSW705684686",
+    "ee": true
    }
   },
   {
@@ -5406,7 +5741,8 @@
     "locID": "LOC000003158581",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684687"
+    "gnaf_pid": "GANSW705684687",
+    "ee": true
    }
   },
   {
@@ -5423,7 +5759,8 @@
     "locID": "LOC000003092943",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684688"
+    "gnaf_pid": "GANSW705684688",
+    "ee": true
    }
   },
   {
@@ -5440,7 +5777,8 @@
     "locID": "LOC000071338005",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684689"
+    "gnaf_pid": "GANSW705684689",
+    "ee": true
    }
   },
   {
@@ -5457,7 +5795,8 @@
     "locID": "LOC000015533392",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684692"
+    "gnaf_pid": "GANSW705684692",
+    "ee": true
    }
   },
   {
@@ -5474,7 +5813,8 @@
     "locID": "LOC000089235707",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684693"
+    "gnaf_pid": "GANSW705684693",
+    "ee": true
    }
   },
   {
@@ -5491,7 +5831,8 @@
     "locID": "LOC000003019000",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684695"
+    "gnaf_pid": "GANSW705684695",
+    "ee": true
    }
   },
   {
@@ -5508,7 +5849,8 @@
     "locID": "LOC000003285955",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684696"
+    "gnaf_pid": "GANSW705684696",
+    "ee": true
    }
   },
   {
@@ -5525,7 +5867,8 @@
     "locID": "LOC000003285955",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684697"
+    "gnaf_pid": "GANSW705684697",
+    "ee": true
    }
   },
   {
@@ -5542,7 +5885,8 @@
     "locID": "LOC000167986253",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705684700"
+    "gnaf_pid": "GANSW705684700",
+    "ee": true
    }
   },
   {
@@ -5559,7 +5903,8 @@
     "locID": "LOC000102384356",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705685077"
+    "gnaf_pid": "GANSW705685077",
+    "ee": true
    }
   },
   {
@@ -5576,7 +5921,8 @@
     "locID": "LOC000102665504",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705685078"
+    "gnaf_pid": "GANSW705685078",
+    "ee": true
    }
   },
   {
@@ -5593,7 +5939,8 @@
     "locID": "LOC000102052338",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705685079"
+    "gnaf_pid": "GANSW705685079",
+    "ee": true
    }
   },
   {
@@ -5610,7 +5957,8 @@
     "locID": "LOC000102743855",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705685080"
+    "gnaf_pid": "GANSW705685080",
+    "ee": true
    }
   },
   {
@@ -5627,7 +5975,8 @@
     "locID": "LOC000102751972",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705685081"
+    "gnaf_pid": "GANSW705685081",
+    "ee": true
    }
   },
   {
@@ -5644,7 +5993,8 @@
     "locID": "LOC000102667598",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705685082"
+    "gnaf_pid": "GANSW705685082",
+    "ee": true
    }
   },
   {
@@ -5661,7 +6011,8 @@
     "locID": "LOC000102751972",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705685083"
+    "gnaf_pid": "GANSW705685083",
+    "ee": true
    }
   },
   {
@@ -5678,7 +6029,8 @@
     "locID": "LOC000095779726",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705685084"
+    "gnaf_pid": "GANSW705685084",
+    "ee": true
    }
   },
   {
@@ -5695,7 +6047,8 @@
     "locID": "LOC000005992861",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688280"
+    "gnaf_pid": "GANSW705688280",
+    "ee": true
    }
   },
   {
@@ -5712,7 +6065,8 @@
     "locID": "LOC000063691321",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688281"
+    "gnaf_pid": "GANSW705688281",
+    "ee": true
    }
   },
   {
@@ -5730,6 +6084,7 @@
     "tech": "FTTP",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GANSW705688282",
+    "ee": true,
     "tech_change_status": "Previous Tech Disconnected"
    }
   },
@@ -5747,7 +6102,8 @@
     "locID": "LOC000050460710",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688283"
+    "gnaf_pid": "GANSW705688283",
+    "ee": true
    }
   },
   {
@@ -5764,7 +6120,8 @@
     "locID": "LOC000047874579",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688284"
+    "gnaf_pid": "GANSW705688284",
+    "ee": true
    }
   },
   {
@@ -5781,7 +6138,8 @@
     "locID": "LOC000043982505",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688285"
+    "gnaf_pid": "GANSW705688285",
+    "ee": true
    }
   },
   {
@@ -5798,7 +6156,8 @@
     "locID": "LOC000089563914",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688286"
+    "gnaf_pid": "GANSW705688286",
+    "ee": true
    }
   },
   {
@@ -5815,7 +6174,8 @@
     "locID": "LOC000012333295",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688287"
+    "gnaf_pid": "GANSW705688287",
+    "ee": true
    }
   },
   {
@@ -5832,7 +6192,8 @@
     "locID": "LOC000017930275",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688288"
+    "gnaf_pid": "GANSW705688288",
+    "ee": true
    }
   },
   {
@@ -5849,7 +6210,8 @@
     "locID": "LOC000035914044",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688289"
+    "gnaf_pid": "GANSW705688289",
+    "ee": true
    }
   },
   {
@@ -5866,7 +6228,8 @@
     "locID": "LOC000068311123",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688290"
+    "gnaf_pid": "GANSW705688290",
+    "ee": true
    }
   },
   {
@@ -5883,7 +6246,8 @@
     "locID": "LOC000051304455",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688291"
+    "gnaf_pid": "GANSW705688291",
+    "ee": true
    }
   },
   {
@@ -5900,7 +6264,8 @@
     "locID": "LOC000022257642",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688292"
+    "gnaf_pid": "GANSW705688292",
+    "ee": true
    }
   },
   {
@@ -5917,7 +6282,8 @@
     "locID": "LOC100069515774",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688293"
+    "gnaf_pid": "GANSW705688293",
+    "ee": true
    }
   },
   {
@@ -5934,7 +6300,8 @@
     "locID": "LOC000047803089",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688294"
+    "gnaf_pid": "GANSW705688294",
+    "ee": true
    }
   },
   {
@@ -5951,7 +6318,8 @@
     "locID": "LOC000047803089",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688295"
+    "gnaf_pid": "GANSW705688295",
+    "ee": true
    }
   },
   {
@@ -5968,7 +6336,8 @@
     "locID": "LOC000047628578",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688296"
+    "gnaf_pid": "GANSW705688296",
+    "ee": true
    }
   },
   {
@@ -5985,7 +6354,8 @@
     "locID": "LOC000050693657",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688297"
+    "gnaf_pid": "GANSW705688297",
+    "ee": true
    }
   },
   {
@@ -6002,7 +6372,8 @@
     "locID": "LOC000050142195",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688298"
+    "gnaf_pid": "GANSW705688298",
+    "ee": true
    }
   },
   {
@@ -6019,7 +6390,8 @@
     "locID": "LOC000047564126",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688299"
+    "gnaf_pid": "GANSW705688299",
+    "ee": true
    }
   },
   {
@@ -6036,7 +6408,8 @@
     "locID": "LOC000047215576",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688408"
+    "gnaf_pid": "GANSW705688408",
+    "ee": true
    }
   },
   {
@@ -6053,7 +6426,8 @@
     "locID": "LOC000047200450",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688409"
+    "gnaf_pid": "GANSW705688409",
+    "ee": true
    }
   },
   {
@@ -6070,7 +6444,8 @@
     "locID": "LOC000074773509",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688410"
+    "gnaf_pid": "GANSW705688410",
+    "ee": true
    }
   },
   {
@@ -6087,7 +6462,8 @@
     "locID": "LOC000016345624",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688411"
+    "gnaf_pid": "GANSW705688411",
+    "ee": true
    }
   },
   {
@@ -6104,7 +6480,8 @@
     "locID": "LOC000036011139",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688417"
+    "gnaf_pid": "GANSW705688417",
+    "ee": true
    }
   },
   {
@@ -6121,7 +6498,8 @@
     "locID": "LOC000067254369",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688419"
+    "gnaf_pid": "GANSW705688419",
+    "ee": true
    }
   },
   {
@@ -6138,7 +6516,8 @@
     "locID": "LOC000067663338",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688420"
+    "gnaf_pid": "GANSW705688420",
+    "ee": true
    }
   },
   {
@@ -6155,7 +6534,8 @@
     "locID": "LOC000067254369",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688421"
+    "gnaf_pid": "GANSW705688421",
+    "ee": true
    }
   },
   {
@@ -6172,7 +6552,8 @@
     "locID": "LOC000063862749",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688423"
+    "gnaf_pid": "GANSW705688423",
+    "ee": true
    }
   },
   {
@@ -6189,7 +6570,8 @@
     "locID": "LOC000063862749",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688424"
+    "gnaf_pid": "GANSW705688424",
+    "ee": true
    }
   },
   {
@@ -6206,7 +6588,8 @@
     "locID": "LOC000167985797",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688427"
+    "gnaf_pid": "GANSW705688427",
+    "ee": true
    }
   },
   {
@@ -6223,7 +6606,8 @@
     "locID": "LOC000091697353",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688428"
+    "gnaf_pid": "GANSW705688428",
+    "ee": true
    }
   },
   {
@@ -6240,7 +6624,8 @@
     "locID": "LOC000031255221",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688429"
+    "gnaf_pid": "GANSW705688429",
+    "ee": true
    }
   },
   {
@@ -6257,7 +6642,8 @@
     "locID": "LOC000086470003",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688430"
+    "gnaf_pid": "GANSW705688430",
+    "ee": true
    }
   },
   {
@@ -6274,7 +6660,8 @@
     "locID": "LOC000071142562",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688431"
+    "gnaf_pid": "GANSW705688431",
+    "ee": true
    }
   },
   {
@@ -6291,7 +6678,8 @@
     "locID": "LOC000037146435",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688432"
+    "gnaf_pid": "GANSW705688432",
+    "ee": true
    }
   },
   {
@@ -6308,7 +6696,8 @@
     "locID": "LOC000119383344",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688433"
+    "gnaf_pid": "GANSW705688433",
+    "ee": true
    }
   },
   {
@@ -6325,7 +6714,8 @@
     "locID": "LOC000016297136",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688434"
+    "gnaf_pid": "GANSW705688434",
+    "ee": true
    }
   },
   {
@@ -6342,7 +6732,8 @@
     "locID": "LOC000055792768",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688435"
+    "gnaf_pid": "GANSW705688435",
+    "ee": true
    }
   },
   {
@@ -6359,7 +6750,8 @@
     "locID": "LOC000041636717",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705688436"
+    "gnaf_pid": "GANSW705688436",
+    "ee": true
    }
   },
   {
@@ -6376,7 +6768,8 @@
     "locID": "LOC000054934978",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691339"
+    "gnaf_pid": "GANSW705691339",
+    "ee": true
    }
   },
   {
@@ -6393,7 +6786,8 @@
     "locID": "LOC000068169273",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691340"
+    "gnaf_pid": "GANSW705691340",
+    "ee": true
    }
   },
   {
@@ -6410,7 +6804,8 @@
     "locID": "LOC000023983406",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691343"
+    "gnaf_pid": "GANSW705691343",
+    "ee": true
    }
   },
   {
@@ -6427,7 +6822,8 @@
     "locID": "LOC000022297427",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691351"
+    "gnaf_pid": "GANSW705691351",
+    "ee": true
    }
   },
   {
@@ -6444,7 +6840,8 @@
     "locID": "LOC000022121333",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691352"
+    "gnaf_pid": "GANSW705691352",
+    "ee": true
    }
   },
   {
@@ -6461,7 +6858,8 @@
     "locID": "LOC000022238771",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691353"
+    "gnaf_pid": "GANSW705691353",
+    "ee": true
    }
   },
   {
@@ -6478,7 +6876,8 @@
     "locID": "LOC000022188842",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691354"
+    "gnaf_pid": "GANSW705691354",
+    "ee": true
    }
   },
   {
@@ -6495,7 +6894,8 @@
     "locID": "LOC000022280608",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691355"
+    "gnaf_pid": "GANSW705691355",
+    "ee": true
    }
   },
   {
@@ -6512,7 +6912,8 @@
     "locID": "LOC000022382644",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691356"
+    "gnaf_pid": "GANSW705691356",
+    "ee": true
    }
   },
   {
@@ -6529,7 +6930,8 @@
     "locID": "LOC000022266156",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691357"
+    "gnaf_pid": "GANSW705691357",
+    "ee": true
    }
   },
   {
@@ -6546,7 +6948,8 @@
     "locID": "LOC000022390462",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691358"
+    "gnaf_pid": "GANSW705691358",
+    "ee": true
    }
   },
   {
@@ -6563,7 +6966,8 @@
     "locID": "LOC000022121333",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691359"
+    "gnaf_pid": "GANSW705691359",
+    "ee": true
    }
   },
   {
@@ -6580,7 +6984,8 @@
     "locID": "LOC000022121333",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691360"
+    "gnaf_pid": "GANSW705691360",
+    "ee": true
    }
   },
   {
@@ -6597,7 +7002,8 @@
     "locID": "LOC000022416499",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691361"
+    "gnaf_pid": "GANSW705691361",
+    "ee": true
    }
   },
   {
@@ -6614,7 +7020,8 @@
     "locID": "LOC000022200819",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691362"
+    "gnaf_pid": "GANSW705691362",
+    "ee": true
    }
   },
   {
@@ -6631,7 +7038,8 @@
     "locID": "LOC000022174993",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691363"
+    "gnaf_pid": "GANSW705691363",
+    "ee": true
    }
   },
   {
@@ -6648,7 +7056,8 @@
     "locID": "LOC000022383150",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691364"
+    "gnaf_pid": "GANSW705691364",
+    "ee": true
    }
   },
   {
@@ -6665,7 +7074,8 @@
     "locID": "LOC000022117926",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691365"
+    "gnaf_pid": "GANSW705691365",
+    "ee": true
    }
   },
   {
@@ -6682,7 +7092,8 @@
     "locID": "LOC000022431731",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691366"
+    "gnaf_pid": "GANSW705691366",
+    "ee": true
    }
   },
   {
@@ -6699,7 +7110,8 @@
     "locID": "LOC000022288984",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691368"
+    "gnaf_pid": "GANSW705691368",
+    "ee": true
    }
   },
   {
@@ -6716,7 +7128,8 @@
     "locID": "LOC000022459281",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691369"
+    "gnaf_pid": "GANSW705691369",
+    "ee": true
    }
   },
   {
@@ -6733,7 +7146,8 @@
     "locID": "LOC000022121333",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691370"
+    "gnaf_pid": "GANSW705691370",
+    "ee": true
    }
   },
   {
@@ -6750,7 +7164,8 @@
     "locID": "LOC000038145660",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691380"
+    "gnaf_pid": "GANSW705691380",
+    "ee": true
    }
   },
   {
@@ -6767,7 +7182,44 @@
     "locID": "LOC000061562821",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691381"
+    "gnaf_pid": "GANSW705691381",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.24906109,
+     -33.86635994
+    ]
+   },
+   "properties": {
+    "name": "UNIT 1, 84-86 WOLSELEY ROAD POINT PIPER 2027",
+    "locID": "LOC000196629510",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705691382",
+    "ee": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.24906109,
+     -33.86635994
+    ]
+   },
+   "properties": {
+    "name": "UNIT 2, 84-86 WOLSELEY ROAD POINT PIPER 2027",
+    "locID": "LOC000196629523",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW705691383",
+    "ee": false
    }
   },
   {
@@ -6784,7 +7236,8 @@
     "locID": "LOC000081904875",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691426"
+    "gnaf_pid": "GANSW705691426",
+    "ee": true
    }
   },
   {
@@ -6801,7 +7254,8 @@
     "locID": "LOC000023896178",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691427"
+    "gnaf_pid": "GANSW705691427",
+    "ee": true
    }
   },
   {
@@ -6818,7 +7272,8 @@
     "locID": "LOC000079049497",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691428"
+    "gnaf_pid": "GANSW705691428",
+    "ee": true
    }
   },
   {
@@ -6835,7 +7290,8 @@
     "locID": "LOC000068139369",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705691429"
+    "gnaf_pid": "GANSW705691429",
+    "ee": true
    }
   },
   {
@@ -6852,7 +7308,8 @@
     "locID": "LOC000003285955",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694963"
+    "gnaf_pid": "GANSW705694963",
+    "ee": true
    }
   },
   {
@@ -6869,7 +7326,8 @@
     "locID": "LOC000003285955",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694964"
+    "gnaf_pid": "GANSW705694964",
+    "ee": true
    }
   },
   {
@@ -6886,7 +7344,8 @@
     "locID": "LOC000014622496",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694965"
+    "gnaf_pid": "GANSW705694965",
+    "ee": true
    }
   },
   {
@@ -6903,7 +7362,8 @@
     "locID": "LOC000015098337",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694966"
+    "gnaf_pid": "GANSW705694966",
+    "ee": true
    }
   },
   {
@@ -6920,7 +7380,8 @@
     "locID": "LOC000014854707",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694967"
+    "gnaf_pid": "GANSW705694967",
+    "ee": true
    }
   },
   {
@@ -6937,7 +7398,8 @@
     "locID": "LOC000015008436",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694968"
+    "gnaf_pid": "GANSW705694968",
+    "ee": true
    }
   },
   {
@@ -6954,7 +7416,8 @@
     "locID": "LOC000014809346",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694969"
+    "gnaf_pid": "GANSW705694969",
+    "ee": true
    }
   },
   {
@@ -6971,7 +7434,8 @@
     "locID": "LOC000003285955",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694970"
+    "gnaf_pid": "GANSW705694970",
+    "ee": true
    }
   },
   {
@@ -6988,7 +7452,8 @@
     "locID": "LOC000003285955",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694971"
+    "gnaf_pid": "GANSW705694971",
+    "ee": true
    }
   },
   {
@@ -7005,7 +7470,8 @@
     "locID": "LOC000003285955",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694972"
+    "gnaf_pid": "GANSW705694972",
+    "ee": true
    }
   },
   {
@@ -7022,7 +7488,8 @@
     "locID": "LOC000003285955",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694973"
+    "gnaf_pid": "GANSW705694973",
+    "ee": true
    }
   },
   {
@@ -7039,7 +7506,8 @@
     "locID": "LOC000089835698",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694976"
+    "gnaf_pid": "GANSW705694976",
+    "ee": true
    }
   },
   {
@@ -7056,7 +7524,8 @@
     "locID": "LOC000073344895",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694977"
+    "gnaf_pid": "GANSW705694977",
+    "ee": true
    }
   },
   {
@@ -7073,7 +7542,8 @@
     "locID": "LOC000028690206",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694978"
+    "gnaf_pid": "GANSW705694978",
+    "ee": true
    }
   },
   {
@@ -7090,7 +7560,8 @@
     "locID": "LOC000086334221",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694979"
+    "gnaf_pid": "GANSW705694979",
+    "ee": true
    }
   },
   {
@@ -7107,7 +7578,8 @@
     "locID": "LOC000042112153",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694980"
+    "gnaf_pid": "GANSW705694980",
+    "ee": true
    }
   },
   {
@@ -7124,7 +7596,8 @@
     "locID": "LOC000044143205",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694981"
+    "gnaf_pid": "GANSW705694981",
+    "ee": true
    }
   },
   {
@@ -7141,7 +7614,8 @@
     "locID": "LOC000023833314",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694982"
+    "gnaf_pid": "GANSW705694982",
+    "ee": true
    }
   },
   {
@@ -7158,7 +7632,8 @@
     "locID": "LOC000049478149",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694983"
+    "gnaf_pid": "GANSW705694983",
+    "ee": true
    }
   },
   {
@@ -7175,7 +7650,8 @@
     "locID": "LOC000045473285",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694992"
+    "gnaf_pid": "GANSW705694992",
+    "ee": true
    }
   },
   {
@@ -7192,7 +7668,8 @@
     "locID": "LOC000045520033",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694993"
+    "gnaf_pid": "GANSW705694993",
+    "ee": true
    }
   },
   {
@@ -7209,7 +7686,8 @@
     "locID": "LOC000045473285",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694994"
+    "gnaf_pid": "GANSW705694994",
+    "ee": true
    }
   },
   {
@@ -7226,7 +7704,8 @@
     "locID": "LOC000044868660",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694995"
+    "gnaf_pid": "GANSW705694995",
+    "ee": true
    }
   },
   {
@@ -7243,7 +7722,8 @@
     "locID": "LOC000045382749",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694996"
+    "gnaf_pid": "GANSW705694996",
+    "ee": true
    }
   },
   {
@@ -7260,7 +7740,8 @@
     "locID": "LOC000045294069",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694997"
+    "gnaf_pid": "GANSW705694997",
+    "ee": true
    }
   },
   {
@@ -7277,7 +7758,8 @@
     "locID": "LOC000087062696",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705694998"
+    "gnaf_pid": "GANSW705694998",
+    "ee": true
    }
   },
   {
@@ -7294,7 +7776,8 @@
     "locID": "LOC000013949489",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705695002"
+    "gnaf_pid": "GANSW705695002",
+    "ee": true
    }
   },
   {
@@ -7311,7 +7794,8 @@
     "locID": "LOC100066478720",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705695003"
+    "gnaf_pid": "GANSW705695003",
+    "ee": true
    }
   },
   {
@@ -7328,7 +7812,8 @@
     "locID": "LOC000063124093",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705695004"
+    "gnaf_pid": "GANSW705695004",
+    "ee": true
    }
   },
   {
@@ -7345,7 +7830,8 @@
     "locID": "LOC000063310829",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705695005"
+    "gnaf_pid": "GANSW705695005",
+    "ee": true
    }
   },
   {
@@ -7362,7 +7848,8 @@
     "locID": "LOC000063310829",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705695006"
+    "gnaf_pid": "GANSW705695006",
+    "ee": true
    }
   },
   {
@@ -7379,7 +7866,8 @@
     "locID": "LOC000063518055",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705695007"
+    "gnaf_pid": "GANSW705695007",
+    "ee": true
    }
   },
   {
@@ -7396,7 +7884,8 @@
     "locID": "LOC000015005455",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705700059"
+    "gnaf_pid": "GANSW705700059",
+    "ee": true
    }
   },
   {
@@ -7413,7 +7902,8 @@
     "locID": "LOC000109548834",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705700060"
+    "gnaf_pid": "GANSW705700060",
+    "ee": true
    }
   },
   {
@@ -7430,7 +7920,8 @@
     "locID": "LOC000013824161",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705700082"
+    "gnaf_pid": "GANSW705700082",
+    "ee": true
    }
   },
   {
@@ -7447,7 +7938,8 @@
     "locID": "LOC000013841129",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705700083"
+    "gnaf_pid": "GANSW705700083",
+    "ee": true
    }
   },
   {
@@ -7464,7 +7956,8 @@
     "locID": "LOC000013963216",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705700084"
+    "gnaf_pid": "GANSW705700084",
+    "ee": true
    }
   },
   {
@@ -7481,7 +7974,8 @@
     "locID": "LOC000014136490",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705700085"
+    "gnaf_pid": "GANSW705700085",
+    "ee": true
    }
   },
   {
@@ -7498,7 +7992,8 @@
     "locID": "LOC000013893779",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705700086"
+    "gnaf_pid": "GANSW705700086",
+    "ee": true
    }
   },
   {
@@ -7515,7 +8010,8 @@
     "locID": "LOC000013685186",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705700087"
+    "gnaf_pid": "GANSW705700087",
+    "ee": true
    }
   },
   {
@@ -7532,7 +8028,8 @@
     "locID": "LOC000014065678",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705700088"
+    "gnaf_pid": "GANSW705700088",
+    "ee": true
    }
   },
   {
@@ -7549,7 +8046,8 @@
     "locID": "LOC000014157020",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705700089"
+    "gnaf_pid": "GANSW705700089",
+    "ee": true
    }
   },
   {
@@ -7566,7 +8064,8 @@
     "locID": "LOC000076532971",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705706313"
+    "gnaf_pid": "GANSW705706313",
+    "ee": true
    }
   },
   {
@@ -7583,7 +8082,8 @@
     "locID": "LOC000107989670",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705706314"
+    "gnaf_pid": "GANSW705706314",
+    "ee": true
    }
   },
   {
@@ -7600,7 +8100,8 @@
     "locID": "LOC000035540457",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705706315"
+    "gnaf_pid": "GANSW705706315",
+    "ee": true
    }
   },
   {
@@ -7617,7 +8118,8 @@
     "locID": "LOC000035938745",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705706316"
+    "gnaf_pid": "GANSW705706316",
+    "ee": true
    }
   },
   {
@@ -7634,7 +8136,8 @@
     "locID": "LOC000035591906",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705706317"
+    "gnaf_pid": "GANSW705706317",
+    "ee": true
    }
   },
   {
@@ -7651,7 +8154,8 @@
     "locID": "LOC000035608803",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705706318"
+    "gnaf_pid": "GANSW705706318",
+    "ee": true
    }
   },
   {
@@ -7668,7 +8172,8 @@
     "locID": "LOC000096265960",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705706319"
+    "gnaf_pid": "GANSW705706319",
+    "ee": true
    }
   },
   {
@@ -7685,7 +8190,8 @@
     "locID": "LOC000044207494",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705706320"
+    "gnaf_pid": "GANSW705706320",
+    "ee": true
    }
   },
   {
@@ -7702,7 +8208,8 @@
     "locID": "LOC000102623013",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705706326"
+    "gnaf_pid": "GANSW705706326",
+    "ee": true
    }
   },
   {
@@ -7719,7 +8226,8 @@
     "locID": "LOC000102751972",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705706327"
+    "gnaf_pid": "GANSW705706327",
+    "ee": true
    }
   },
   {
@@ -7736,7 +8244,8 @@
     "locID": "LOC000102039310",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705706328"
+    "gnaf_pid": "GANSW705706328",
+    "ee": true
    }
   },
   {
@@ -7753,7 +8262,8 @@
     "locID": "LOC000167985587",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705710365"
+    "gnaf_pid": "GANSW705710365",
+    "ee": true
    }
   },
   {
@@ -7770,7 +8280,8 @@
     "locID": "LOC000167985587",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705710366"
+    "gnaf_pid": "GANSW705710366",
+    "ee": true
    }
   },
   {
@@ -7787,7 +8298,8 @@
     "locID": "LOC000007286203",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705744108"
+    "gnaf_pid": "GANSW705744108",
+    "ee": true
    }
   },
   {
@@ -7804,7 +8316,8 @@
     "locID": "LOC000094357701",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705744109"
+    "gnaf_pid": "GANSW705744109",
+    "ee": true
    }
   },
   {
@@ -7821,7 +8334,8 @@
     "locID": "LOC000167985811",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW705744110"
+    "gnaf_pid": "GANSW705744110",
+    "ee": true
    }
   },
   {
@@ -7838,7 +8352,8 @@
     "locID": "LOC000101383440",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706566074"
+    "gnaf_pid": "GANSW706566074",
+    "ee": true
    }
   },
   {
@@ -7855,7 +8370,8 @@
     "locID": "LOC000167985491",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706566075"
+    "gnaf_pid": "GANSW706566075",
+    "ee": true
    }
   },
   {
@@ -7872,7 +8388,8 @@
     "locID": "LOC000080168683",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706566076"
+    "gnaf_pid": "GANSW706566076",
+    "ee": true
    }
   },
   {
@@ -7889,7 +8406,8 @@
     "locID": "LOC000187906479",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706566077"
+    "gnaf_pid": "GANSW706566077",
+    "ee": true
    }
   },
   {
@@ -7906,7 +8424,8 @@
     "locID": "LOC000187906479",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706566078"
+    "gnaf_pid": "GANSW706566078",
+    "ee": true
    }
   },
   {
@@ -7923,7 +8442,8 @@
     "locID": "LOC000101666730",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706566095"
+    "gnaf_pid": "GANSW706566095",
+    "ee": true
    }
   },
   {
@@ -7940,7 +8460,8 @@
     "locID": "LOC000102120201",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706576318"
+    "gnaf_pid": "GANSW706576318",
+    "ee": true
    }
   },
   {
@@ -7957,7 +8478,8 @@
     "locID": "LOC000101504962",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706576319"
+    "gnaf_pid": "GANSW706576319",
+    "ee": true
    }
   },
   {
@@ -7974,7 +8496,8 @@
     "locID": "LOC000101390238",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706576320"
+    "gnaf_pid": "GANSW706576320",
+    "ee": true
    }
   },
   {
@@ -7991,7 +8514,8 @@
     "locID": "LOC000008899593",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706576370"
+    "gnaf_pid": "GANSW706576370",
+    "ee": true
    }
   },
   {
@@ -8008,7 +8532,8 @@
     "locID": "LOC000049607580",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706576371"
+    "gnaf_pid": "GANSW706576371",
+    "ee": true
    }
   },
   {
@@ -8025,7 +8550,8 @@
     "locID": "LOC000022423476",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706582927"
+    "gnaf_pid": "GANSW706582927",
+    "ee": true
    }
   },
   {
@@ -8042,7 +8568,8 @@
     "locID": "LOC000099937562",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706596601"
+    "gnaf_pid": "GANSW706596601",
+    "ee": true
    }
   },
   {
@@ -8059,7 +8586,8 @@
     "locID": "LOC000099421594",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706596602"
+    "gnaf_pid": "GANSW706596602",
+    "ee": true
    }
   },
   {
@@ -8076,7 +8604,8 @@
     "locID": "LOC000099721708",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706596603"
+    "gnaf_pid": "GANSW706596603",
+    "ee": true
    }
   },
   {
@@ -8093,7 +8622,8 @@
     "locID": "LOC000099559408",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706596604"
+    "gnaf_pid": "GANSW706596604",
+    "ee": true
    }
   },
   {
@@ -8110,7 +8640,8 @@
     "locID": "LOC000099584391",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706596605"
+    "gnaf_pid": "GANSW706596605",
+    "ee": true
    }
   },
   {
@@ -8127,7 +8658,8 @@
     "locID": "LOC000003899687",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706596607"
+    "gnaf_pid": "GANSW706596607",
+    "ee": true
    }
   },
   {
@@ -8144,7 +8676,8 @@
     "locID": "LOC000101840230",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706606758"
+    "gnaf_pid": "GANSW706606758",
+    "ee": true
    }
   },
   {
@@ -8161,7 +8694,8 @@
     "locID": "LOC000101785553",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706606769"
+    "gnaf_pid": "GANSW706606769",
+    "ee": true
    }
   },
   {
@@ -8178,7 +8712,8 @@
     "locID": "LOC000086392457",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW706613811"
+    "gnaf_pid": "GANSW706613811",
+    "ee": true
    }
   },
   {
@@ -8195,7 +8730,8 @@
     "locID": "LOC000099920392",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707551239"
+    "gnaf_pid": "GANSW707551239",
+    "ee": true
    }
   },
   {
@@ -8212,7 +8748,8 @@
     "locID": "LOC000003220213",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707551240"
+    "gnaf_pid": "GANSW707551240",
+    "ee": true
    }
   },
   {
@@ -8229,7 +8766,8 @@
     "locID": "LOC000045804533",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707551292"
+    "gnaf_pid": "GANSW707551292",
+    "ee": true
    }
   },
   {
@@ -8246,7 +8784,8 @@
     "locID": "LOC000063230697",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707551296"
+    "gnaf_pid": "GANSW707551296",
+    "ee": true
    }
   },
   {
@@ -8263,7 +8802,8 @@
     "locID": "LOC000086864619",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707567729"
+    "gnaf_pid": "GANSW707567729",
+    "ee": true
    }
   },
   {
@@ -8280,7 +8820,8 @@
     "locID": "LOC000080974006",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707567736"
+    "gnaf_pid": "GANSW707567736",
+    "ee": true
    }
   },
   {
@@ -8297,7 +8838,8 @@
     "locID": "LOC000167985766",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707571212"
+    "gnaf_pid": "GANSW707571212",
+    "ee": true
    }
   },
   {
@@ -8314,7 +8856,8 @@
     "locID": "LOC000045473285",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707581937"
+    "gnaf_pid": "GANSW707581937",
+    "ee": true
    }
   },
   {
@@ -8331,7 +8874,8 @@
     "locID": "LOC000041424697",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707581938"
+    "gnaf_pid": "GANSW707581938",
+    "ee": true
    }
   },
   {
@@ -8348,7 +8892,8 @@
     "locID": "LOC000063230697",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707581939"
+    "gnaf_pid": "GANSW707581939",
+    "ee": true
    }
   },
   {
@@ -8365,7 +8910,8 @@
     "locID": "LOC000069980144",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707585294"
+    "gnaf_pid": "GANSW707585294",
+    "ee": true
    }
   },
   {
@@ -8382,7 +8928,8 @@
     "locID": "LOC000021335790",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707602313"
+    "gnaf_pid": "GANSW707602313",
+    "ee": true
    }
   },
   {
@@ -8399,7 +8946,8 @@
     "locID": "LOC000167985616",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707602314"
+    "gnaf_pid": "GANSW707602314",
+    "ee": true
    }
   },
   {
@@ -8416,7 +8964,8 @@
     "locID": "LOC000032971289",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707602410"
+    "gnaf_pid": "GANSW707602410",
+    "ee": true
    }
   },
   {
@@ -8433,7 +8982,8 @@
     "locID": "LOC000098724473",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707615895"
+    "gnaf_pid": "GANSW707615895",
+    "ee": true
    }
   },
   {
@@ -8450,7 +9000,8 @@
     "locID": "LOC000077503640",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707615896"
+    "gnaf_pid": "GANSW707615896",
+    "ee": true
    }
   },
   {
@@ -8467,7 +9018,8 @@
     "locID": "LOC000048156848",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707642770"
+    "gnaf_pid": "GANSW707642770",
+    "ee": true
    }
   },
   {
@@ -8484,7 +9036,8 @@
     "locID": "LOC000067254369",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW707642771"
+    "gnaf_pid": "GANSW707642771",
+    "ee": true
    }
   },
   {
@@ -8501,7 +9054,8 @@
     "locID": "LOC000084593729",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708290515"
+    "gnaf_pid": "GANSW708290515",
+    "ee": true
    }
   },
   {
@@ -8518,7 +9072,8 @@
     "locID": "LOC000048190891",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708290526"
+    "gnaf_pid": "GANSW708290526",
+    "ee": true
    }
   },
   {
@@ -8535,7 +9090,8 @@
     "locID": "LOC000048250672",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708291446"
+    "gnaf_pid": "GANSW708291446",
+    "ee": true
    }
   },
   {
@@ -8552,7 +9108,8 @@
     "locID": "LOC000006575731",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708295666"
+    "gnaf_pid": "GANSW708295666",
+    "ee": true
    }
   },
   {
@@ -8569,7 +9126,8 @@
     "locID": "LOC000084227234",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708295672"
+    "gnaf_pid": "GANSW708295672",
+    "ee": true
    }
   },
   {
@@ -8586,7 +9144,8 @@
     "locID": "LOC000084173467",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708296704"
+    "gnaf_pid": "GANSW708296704",
+    "ee": true
    }
   },
   {
@@ -8603,7 +9162,8 @@
     "locID": "LOC000049008139",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708299378"
+    "gnaf_pid": "GANSW708299378",
+    "ee": true
    }
   },
   {
@@ -8620,7 +9180,8 @@
     "locID": "LOC000048192213",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708299379"
+    "gnaf_pid": "GANSW708299379",
+    "ee": true
    }
   },
   {
@@ -8637,7 +9198,8 @@
     "locID": "LOC000084240679",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708302116"
+    "gnaf_pid": "GANSW708302116",
+    "ee": true
    }
   },
   {
@@ -8654,7 +9216,8 @@
     "locID": "LOC000083929380",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708302118"
+    "gnaf_pid": "GANSW708302118",
+    "ee": true
    }
   },
   {
@@ -8671,7 +9234,8 @@
     "locID": "LOC000084337736",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708302119"
+    "gnaf_pid": "GANSW708302119",
+    "ee": true
    }
   },
   {
@@ -8688,7 +9252,8 @@
     "locID": "LOC000084173467",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708306125"
+    "gnaf_pid": "GANSW708306125",
+    "ee": true
    }
   },
   {
@@ -8705,7 +9270,8 @@
     "locID": "LOC000006575731",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708308224"
+    "gnaf_pid": "GANSW708308224",
+    "ee": true
    }
   },
   {
@@ -8722,7 +9288,8 @@
     "locID": "LOC000084120342",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708309439"
+    "gnaf_pid": "GANSW708309439",
+    "ee": true
    }
   },
   {
@@ -8739,7 +9306,8 @@
     "locID": "LOC000048434989",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708309448"
+    "gnaf_pid": "GANSW708309448",
+    "ee": true
    }
   },
   {
@@ -8756,7 +9324,8 @@
     "locID": "LOC000048419910",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708309953"
+    "gnaf_pid": "GANSW708309953",
+    "ee": true
    }
   },
   {
@@ -8773,7 +9342,8 @@
     "locID": "LOC000048419910",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708309962"
+    "gnaf_pid": "GANSW708309962",
+    "ee": true
    }
   },
   {
@@ -8790,7 +9360,8 @@
     "locID": "LOC000084486020",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708311095"
+    "gnaf_pid": "GANSW708311095",
+    "ee": true
    }
   },
   {
@@ -8807,7 +9378,8 @@
     "locID": "LOC000048419910",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708312970"
+    "gnaf_pid": "GANSW708312970",
+    "ee": true
    }
   },
   {
@@ -8824,7 +9396,8 @@
     "locID": "LOC000084151600",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708313225"
+    "gnaf_pid": "GANSW708313225",
+    "ee": true
    }
   },
   {
@@ -8841,7 +9414,8 @@
     "locID": "LOC000047989365",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708314233"
+    "gnaf_pid": "GANSW708314233",
+    "ee": true
    }
   },
   {
@@ -8858,7 +9432,8 @@
     "locID": "LOC000048372348",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708314774"
+    "gnaf_pid": "GANSW708314774",
+    "ee": true
    }
   },
   {
@@ -8875,7 +9450,8 @@
     "locID": "LOC000048184514",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708315897"
+    "gnaf_pid": "GANSW708315897",
+    "ee": true
    }
   },
   {
@@ -8892,7 +9468,8 @@
     "locID": "LOC000049194326",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708315898"
+    "gnaf_pid": "GANSW708315898",
+    "ee": true
    }
   },
   {
@@ -8909,7 +9486,8 @@
     "locID": "LOC000048272689",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708315964"
+    "gnaf_pid": "GANSW708315964",
+    "ee": true
    }
   },
   {
@@ -8926,7 +9504,8 @@
     "locID": "LOC000048156848",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708315971"
+    "gnaf_pid": "GANSW708315971",
+    "ee": true
    }
   },
   {
@@ -8943,7 +9522,8 @@
     "locID": "LOC000048312407",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708316907"
+    "gnaf_pid": "GANSW708316907",
+    "ee": true
    }
   },
   {
@@ -8960,7 +9540,8 @@
     "locID": "LOC000048517641",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708317282"
+    "gnaf_pid": "GANSW708317282",
+    "ee": true
    }
   },
   {
@@ -8977,7 +9558,8 @@
     "locID": "LOC000048362572",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW708318290"
+    "gnaf_pid": "GANSW708318290",
+    "ee": true
    }
   },
   {
@@ -8994,7 +9576,8 @@
     "locID": "LOC000187906479",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW709913744"
+    "gnaf_pid": "GANSW709913744",
+    "ee": true
    }
   },
   {
@@ -9011,7 +9594,8 @@
     "locID": "LOC000075022193",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW709930627"
+    "gnaf_pid": "GANSW709930627",
+    "ee": true
    }
   },
   {
@@ -9028,7 +9612,8 @@
     "locID": "LOC000102795027",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW709983273"
+    "gnaf_pid": "GANSW709983273",
+    "ee": true
    }
   },
   {
@@ -9045,7 +9630,8 @@
     "locID": "LOC000102364728",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW709983274"
+    "gnaf_pid": "GANSW709983274",
+    "ee": true
    }
   },
   {
@@ -9062,7 +9648,8 @@
     "locID": "LOC000119381736",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW709983283"
+    "gnaf_pid": "GANSW709983283",
+    "ee": true
    }
   },
   {
@@ -9079,7 +9666,8 @@
     "locID": "LOC000024079946",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413508"
+    "gnaf_pid": "GANSW710413508",
+    "ee": true
    }
   },
   {
@@ -9096,7 +9684,8 @@
     "locID": "LOC000084510052",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413518"
+    "gnaf_pid": "GANSW710413518",
+    "ee": true
    }
   },
   {
@@ -9113,7 +9702,8 @@
     "locID": "LOC000167985830",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413523"
+    "gnaf_pid": "GANSW710413523",
+    "ee": true
    }
   },
   {
@@ -9130,7 +9720,8 @@
     "locID": "LOC000076823805",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413609"
+    "gnaf_pid": "GANSW710413609",
+    "ee": true
    }
   },
   {
@@ -9147,7 +9738,8 @@
     "locID": "LOC000076788515",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413610"
+    "gnaf_pid": "GANSW710413610",
+    "ee": true
    }
   },
   {
@@ -9164,7 +9756,8 @@
     "locID": "LOC000077194645",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413611"
+    "gnaf_pid": "GANSW710413611",
+    "ee": true
    }
   },
   {
@@ -9181,7 +9774,8 @@
     "locID": "LOC000076536200",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413614"
+    "gnaf_pid": "GANSW710413614",
+    "ee": true
    }
   },
   {
@@ -9198,7 +9792,8 @@
     "locID": "LOC000076195117",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413615"
+    "gnaf_pid": "GANSW710413615",
+    "ee": true
    }
   },
   {
@@ -9215,7 +9810,8 @@
     "locID": "LOC000077194645",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413618"
+    "gnaf_pid": "GANSW710413618",
+    "ee": true
    }
   },
   {
@@ -9232,7 +9828,8 @@
     "locID": "LOC000095789051",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413620"
+    "gnaf_pid": "GANSW710413620",
+    "ee": true
    }
   },
   {
@@ -9249,7 +9846,8 @@
     "locID": "LOC000027341653",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413621"
+    "gnaf_pid": "GANSW710413621",
+    "ee": true
    }
   },
   {
@@ -9266,7 +9864,8 @@
     "locID": "LOC000076309291",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413622"
+    "gnaf_pid": "GANSW710413622",
+    "ee": true
    }
   },
   {
@@ -9283,7 +9882,8 @@
     "locID": "LOC000076497214",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413623"
+    "gnaf_pid": "GANSW710413623",
+    "ee": true
    }
   },
   {
@@ -9300,7 +9900,8 @@
     "locID": "LOC000077175948",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413628"
+    "gnaf_pid": "GANSW710413628",
+    "ee": true
    }
   },
   {
@@ -9317,7 +9918,8 @@
     "locID": "LOC000076692638",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710413629"
+    "gnaf_pid": "GANSW710413629",
+    "ee": true
    }
   },
   {
@@ -9334,7 +9936,8 @@
     "locID": "LOC000063240630",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414207"
+    "gnaf_pid": "GANSW710414207",
+    "ee": true
    }
   },
   {
@@ -9351,7 +9954,8 @@
     "locID": "LOC000063159784",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414210"
+    "gnaf_pid": "GANSW710414210",
+    "ee": true
    }
   },
   {
@@ -9368,7 +9972,8 @@
     "locID": "LOC000063428632",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414211"
+    "gnaf_pid": "GANSW710414211",
+    "ee": true
    }
   },
   {
@@ -9385,7 +9990,8 @@
     "locID": "LOC000063347942",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414212"
+    "gnaf_pid": "GANSW710414212",
+    "ee": true
    }
   },
   {
@@ -9402,7 +10008,8 @@
     "locID": "LOC000063203781",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414213"
+    "gnaf_pid": "GANSW710414213",
+    "ee": true
    }
   },
   {
@@ -9419,7 +10026,8 @@
     "locID": "LOC000076309291",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414271"
+    "gnaf_pid": "GANSW710414271",
+    "ee": true
    }
   },
   {
@@ -9436,7 +10044,8 @@
     "locID": "LOC000076305224",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414274"
+    "gnaf_pid": "GANSW710414274",
+    "ee": true
    }
   },
   {
@@ -9453,7 +10062,8 @@
     "locID": "LOC000062964599",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414276"
+    "gnaf_pid": "GANSW710414276",
+    "ee": true
    }
   },
   {
@@ -9470,7 +10080,8 @@
     "locID": "LOC000099866208",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414278"
+    "gnaf_pid": "GANSW710414278",
+    "ee": true
    }
   },
   {
@@ -9487,7 +10098,8 @@
     "locID": "LOC000087368322",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414294"
+    "gnaf_pid": "GANSW710414294",
+    "ee": true
    }
   },
   {
@@ -9504,7 +10116,8 @@
     "locID": "LOC000063111161",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414300"
+    "gnaf_pid": "GANSW710414300",
+    "ee": true
    }
   },
   {
@@ -9521,7 +10134,8 @@
     "locID": "LOC000063752490",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414302"
+    "gnaf_pid": "GANSW710414302",
+    "ee": true
    }
   },
   {
@@ -9538,7 +10152,8 @@
     "locID": "LOC000063230697",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414304"
+    "gnaf_pid": "GANSW710414304",
+    "ee": true
    }
   },
   {
@@ -9555,7 +10170,8 @@
     "locID": "LOC000063358930",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414305"
+    "gnaf_pid": "GANSW710414305",
+    "ee": true
    }
   },
   {
@@ -9572,7 +10188,8 @@
     "locID": "LOC000063137706",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414306"
+    "gnaf_pid": "GANSW710414306",
+    "ee": true
    }
   },
   {
@@ -9589,7 +10206,8 @@
     "locID": "LOC000167985616",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414987"
+    "gnaf_pid": "GANSW710414987",
+    "ee": true
    }
   },
   {
@@ -9606,7 +10224,8 @@
     "locID": "LOC000167985616",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414988"
+    "gnaf_pid": "GANSW710414988",
+    "ee": true
    }
   },
   {
@@ -9623,7 +10242,8 @@
     "locID": "LOC000090631595",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414989"
+    "gnaf_pid": "GANSW710414989",
+    "ee": true
    }
   },
   {
@@ -9640,7 +10260,8 @@
     "locID": "LOC000167985637",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710414990"
+    "gnaf_pid": "GANSW710414990",
+    "ee": true
    }
   },
   {
@@ -9657,7 +10278,8 @@
     "locID": "LOC000050453596",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415018"
+    "gnaf_pid": "GANSW710415018",
+    "ee": true
    }
   },
   {
@@ -9674,7 +10296,8 @@
     "locID": "LOC000010940019",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415021"
+    "gnaf_pid": "GANSW710415021",
+    "ee": true
    }
   },
   {
@@ -9691,7 +10314,8 @@
     "locID": "LOC000107106270",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415022"
+    "gnaf_pid": "GANSW710415022",
+    "ee": true
    }
   },
   {
@@ -9708,7 +10332,8 @@
     "locID": "LOC000010850246",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415023"
+    "gnaf_pid": "GANSW710415023",
+    "ee": true
    }
   },
   {
@@ -9725,7 +10350,8 @@
     "locID": "LOC000010503946",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415024"
+    "gnaf_pid": "GANSW710415024",
+    "ee": true
    }
   },
   {
@@ -9742,7 +10368,8 @@
     "locID": "LOC000107384899",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415025"
+    "gnaf_pid": "GANSW710415025",
+    "ee": true
    }
   },
   {
@@ -9759,7 +10386,8 @@
     "locID": "LOC000002255653",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415026"
+    "gnaf_pid": "GANSW710415026",
+    "ee": true
    }
   },
   {
@@ -9776,7 +10404,8 @@
     "locID": "LOC000010556688",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415027"
+    "gnaf_pid": "GANSW710415027",
+    "ee": true
    }
   },
   {
@@ -9793,7 +10422,8 @@
     "locID": "LOC000010556688",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415028"
+    "gnaf_pid": "GANSW710415028",
+    "ee": true
    }
   },
   {
@@ -9810,7 +10440,8 @@
     "locID": "LOC000060823597",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415030"
+    "gnaf_pid": "GANSW710415030",
+    "ee": true
    }
   },
   {
@@ -9827,7 +10458,8 @@
     "locID": "LOC000053271563",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415038"
+    "gnaf_pid": "GANSW710415038",
+    "ee": true
    }
   },
   {
@@ -9844,7 +10476,8 @@
     "locID": "LOC000045038812",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415040"
+    "gnaf_pid": "GANSW710415040",
+    "ee": true
    }
   },
   {
@@ -9861,7 +10494,8 @@
     "locID": "LOC000062701792",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415065"
+    "gnaf_pid": "GANSW710415065",
+    "ee": true
    }
   },
   {
@@ -9878,7 +10512,8 @@
     "locID": "LOC000063387526",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415067"
+    "gnaf_pid": "GANSW710415067",
+    "ee": true
    }
   },
   {
@@ -9895,7 +10530,8 @@
     "locID": "LOC000063152371",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415068"
+    "gnaf_pid": "GANSW710415068",
+    "ee": true
    }
   },
   {
@@ -9912,7 +10548,8 @@
     "locID": "LOC000063231683",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415069"
+    "gnaf_pid": "GANSW710415069",
+    "ee": true
    }
   },
   {
@@ -9929,7 +10566,8 @@
     "locID": "LOC000063190563",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415070"
+    "gnaf_pid": "GANSW710415070",
+    "ee": true
    }
   },
   {
@@ -9946,7 +10584,8 @@
     "locID": "LOC000063467923",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415071"
+    "gnaf_pid": "GANSW710415071",
+    "ee": true
    }
   },
   {
@@ -9963,7 +10602,8 @@
     "locID": "LOC000063159784",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415073"
+    "gnaf_pid": "GANSW710415073",
+    "ee": true
    }
   },
   {
@@ -9980,7 +10620,8 @@
     "locID": "LOC000081851129",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415075"
+    "gnaf_pid": "GANSW710415075",
+    "ee": true
    }
   },
   {
@@ -9997,7 +10638,8 @@
     "locID": "LOC000063068722",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415076"
+    "gnaf_pid": "GANSW710415076",
+    "ee": true
    }
   },
   {
@@ -10014,7 +10656,8 @@
     "locID": "LOC000063017783",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415077"
+    "gnaf_pid": "GANSW710415077",
+    "ee": true
    }
   },
   {
@@ -10031,7 +10674,8 @@
     "locID": "LOC000005577982",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415160"
+    "gnaf_pid": "GANSW710415160",
+    "ee": true
    }
   },
   {
@@ -10048,7 +10692,8 @@
     "locID": "LOC000099961606",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415167"
+    "gnaf_pid": "GANSW710415167",
+    "ee": true
    }
   },
   {
@@ -10065,7 +10710,8 @@
     "locID": "LOC000089235707",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415174"
+    "gnaf_pid": "GANSW710415174",
+    "ee": true
    }
   },
   {
@@ -10082,7 +10728,8 @@
     "locID": "LOC000089105333",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415175"
+    "gnaf_pid": "GANSW710415175",
+    "ee": true
    }
   },
   {
@@ -10099,7 +10746,8 @@
     "locID": "LOC000063512044",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415315"
+    "gnaf_pid": "GANSW710415315",
+    "ee": true
    }
   },
   {
@@ -10116,7 +10764,8 @@
     "locID": "LOC000063074485",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415316"
+    "gnaf_pid": "GANSW710415316",
+    "ee": true
    }
   },
   {
@@ -10133,7 +10782,8 @@
     "locID": "LOC000063518778",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415317"
+    "gnaf_pid": "GANSW710415317",
+    "ee": true
    }
   },
   {
@@ -10150,7 +10800,8 @@
     "locID": "LOC000035337797",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415318"
+    "gnaf_pid": "GANSW710415318",
+    "ee": true
    }
   },
   {
@@ -10167,7 +10818,8 @@
     "locID": "LOC000059612541",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415819"
+    "gnaf_pid": "GANSW710415819",
+    "ee": true
    }
   },
   {
@@ -10184,7 +10836,8 @@
     "locID": "LOC000051383864",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415824"
+    "gnaf_pid": "GANSW710415824",
+    "ee": true
    }
   },
   {
@@ -10201,7 +10854,8 @@
     "locID": "LOC000090631595",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415835"
+    "gnaf_pid": "GANSW710415835",
+    "ee": true
    }
   },
   {
@@ -10218,7 +10872,8 @@
     "locID": "LOC000045138555",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415840"
+    "gnaf_pid": "GANSW710415840",
+    "ee": true
    }
   },
   {
@@ -10235,7 +10890,8 @@
     "locID": "LOC000062790439",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415920"
+    "gnaf_pid": "GANSW710415920",
+    "ee": true
    }
   },
   {
@@ -10252,7 +10908,8 @@
     "locID": "LOC000063161699",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415922"
+    "gnaf_pid": "GANSW710415922",
+    "ee": true
    }
   },
   {
@@ -10269,7 +10926,8 @@
     "locID": "LOC000063497668",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415923"
+    "gnaf_pid": "GANSW710415923",
+    "ee": true
    }
   },
   {
@@ -10286,7 +10944,8 @@
     "locID": "LOC000063142483",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415924"
+    "gnaf_pid": "GANSW710415924",
+    "ee": true
    }
   },
   {
@@ -10303,7 +10962,8 @@
     "locID": "LOC000062818587",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415925"
+    "gnaf_pid": "GANSW710415925",
+    "ee": true
    }
   },
   {
@@ -10320,7 +10980,8 @@
     "locID": "LOC000063240006",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710415927"
+    "gnaf_pid": "GANSW710415927",
+    "ee": true
    }
   },
   {
@@ -10337,7 +10998,8 @@
     "locID": "LOC000167986276",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416030"
+    "gnaf_pid": "GANSW710416030",
+    "ee": true
    }
   },
   {
@@ -10354,7 +11016,8 @@
     "locID": "LOC000167986322",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416032"
+    "gnaf_pid": "GANSW710416032",
+    "ee": true
    }
   },
   {
@@ -10371,7 +11034,8 @@
     "locID": "LOC000167986276",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416034"
+    "gnaf_pid": "GANSW710416034",
+    "ee": true
    }
   },
   {
@@ -10388,7 +11052,8 @@
     "locID": "LOC000089181421",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416035"
+    "gnaf_pid": "GANSW710416035",
+    "ee": true
    }
   },
   {
@@ -10405,7 +11070,8 @@
     "locID": "LOC000167986305",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416037"
+    "gnaf_pid": "GANSW710416037",
+    "ee": true
    }
   },
   {
@@ -10422,7 +11088,8 @@
     "locID": "LOC000089200946",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416038"
+    "gnaf_pid": "GANSW710416038",
+    "ee": true
    }
   },
   {
@@ -10439,7 +11106,8 @@
     "locID": "LOC000167986295",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416040"
+    "gnaf_pid": "GANSW710416040",
+    "ee": true
    }
   },
   {
@@ -10456,7 +11124,8 @@
     "locID": "LOC000167986333",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416055"
+    "gnaf_pid": "GANSW710416055",
+    "ee": true
    }
   },
   {
@@ -10473,7 +11142,8 @@
     "locID": "LOC000088845016",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416059"
+    "gnaf_pid": "GANSW710416059",
+    "ee": true
    }
   },
   {
@@ -10490,7 +11160,8 @@
     "locID": "LOC000006502280",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416064"
+    "gnaf_pid": "GANSW710416064",
+    "ee": true
    }
   },
   {
@@ -10507,7 +11178,8 @@
     "locID": "LOC000088910239",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416065"
+    "gnaf_pid": "GANSW710416065",
+    "ee": true
    }
   },
   {
@@ -10524,7 +11196,8 @@
     "locID": "LOC000167986282",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416066"
+    "gnaf_pid": "GANSW710416066",
+    "ee": true
    }
   },
   {
@@ -10541,7 +11214,8 @@
     "locID": "LOC000018884282",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416094"
+    "gnaf_pid": "GANSW710416094",
+    "ee": true
    }
   },
   {
@@ -10558,7 +11232,8 @@
     "locID": "LOC000018825812",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416095"
+    "gnaf_pid": "GANSW710416095",
+    "ee": true
    }
   },
   {
@@ -10575,7 +11250,8 @@
     "locID": "LOC000018819980",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416096"
+    "gnaf_pid": "GANSW710416096",
+    "ee": true
    }
   },
   {
@@ -10592,7 +11268,8 @@
     "locID": "LOC000018848886",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416097"
+    "gnaf_pid": "GANSW710416097",
+    "ee": true
    }
   },
   {
@@ -10609,7 +11286,8 @@
     "locID": "LOC000018884282",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416098"
+    "gnaf_pid": "GANSW710416098",
+    "ee": true
    }
   },
   {
@@ -10626,7 +11304,8 @@
     "locID": "LOC000105341519",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416570"
+    "gnaf_pid": "GANSW710416570",
+    "ee": true
    }
   },
   {
@@ -10643,7 +11322,8 @@
     "locID": "LOC000107384899",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416703"
+    "gnaf_pid": "GANSW710416703",
+    "ee": true
    }
   },
   {
@@ -10660,7 +11340,8 @@
     "locID": "LOC000010556688",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416713"
+    "gnaf_pid": "GANSW710416713",
+    "ee": true
    }
   },
   {
@@ -10677,7 +11358,8 @@
     "locID": "LOC000045138555",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416714"
+    "gnaf_pid": "GANSW710416714",
+    "ee": true
    }
   },
   {
@@ -10694,7 +11376,8 @@
     "locID": "LOC000018817544",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416716"
+    "gnaf_pid": "GANSW710416716",
+    "ee": true
    }
   },
   {
@@ -10711,7 +11394,8 @@
     "locID": "LOC000018884282",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416717"
+    "gnaf_pid": "GANSW710416717",
+    "ee": true
    }
   },
   {
@@ -10728,7 +11412,8 @@
     "locID": "LOC000018782703",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416718"
+    "gnaf_pid": "GANSW710416718",
+    "ee": true
    }
   },
   {
@@ -10745,7 +11430,8 @@
     "locID": "LOC000019290642",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416719"
+    "gnaf_pid": "GANSW710416719",
+    "ee": true
    }
   },
   {
@@ -10762,7 +11448,8 @@
     "locID": "LOC000010997644",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416720"
+    "gnaf_pid": "GANSW710416720",
+    "ee": true
    }
   },
   {
@@ -10779,7 +11466,8 @@
     "locID": "LOC000010993705",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416721"
+    "gnaf_pid": "GANSW710416721",
+    "ee": true
    }
   },
   {
@@ -10796,7 +11484,8 @@
     "locID": "LOC000010908975",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416722"
+    "gnaf_pid": "GANSW710416722",
+    "ee": true
    }
   },
   {
@@ -10813,7 +11502,8 @@
     "locID": "LOC000083970042",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416900"
+    "gnaf_pid": "GANSW710416900",
+    "ee": true
    }
   },
   {
@@ -10830,7 +11520,8 @@
     "locID": "LOC000167986224",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416901"
+    "gnaf_pid": "GANSW710416901",
+    "ee": true
    }
   },
   {
@@ -10847,7 +11538,8 @@
     "locID": "LOC000167986224",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416902"
+    "gnaf_pid": "GANSW710416902",
+    "ee": true
    }
   },
   {
@@ -10864,7 +11556,8 @@
     "locID": "LOC000167986224",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416903"
+    "gnaf_pid": "GANSW710416903",
+    "ee": true
    }
   },
   {
@@ -10881,7 +11574,8 @@
     "locID": "LOC000010018260",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416904"
+    "gnaf_pid": "GANSW710416904",
+    "ee": true
    }
   },
   {
@@ -10898,7 +11592,8 @@
     "locID": "LOC000010036646",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416906"
+    "gnaf_pid": "GANSW710416906",
+    "ee": true
    }
   },
   {
@@ -10915,7 +11610,8 @@
     "locID": "LOC000167986314",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416907"
+    "gnaf_pid": "GANSW710416907",
+    "ee": true
    }
   },
   {
@@ -10932,7 +11628,8 @@
     "locID": "LOC000089537676",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416910"
+    "gnaf_pid": "GANSW710416910",
+    "ee": true
    }
   },
   {
@@ -10949,7 +11646,8 @@
     "locID": "LOC000167985637",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416919"
+    "gnaf_pid": "GANSW710416919",
+    "ee": true
    }
   },
   {
@@ -10966,7 +11664,8 @@
     "locID": "LOC000090631595",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416920"
+    "gnaf_pid": "GANSW710416920",
+    "ee": true
    }
   },
   {
@@ -10983,7 +11682,8 @@
     "locID": "LOC000167985637",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416921"
+    "gnaf_pid": "GANSW710416921",
+    "ee": true
    }
   },
   {
@@ -11000,7 +11700,8 @@
     "locID": "LOC000167985637",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710416922"
+    "gnaf_pid": "GANSW710416922",
+    "ee": true
    }
   },
   {
@@ -11017,7 +11718,8 @@
     "locID": "LOC000119381736",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710417027"
+    "gnaf_pid": "GANSW710417027",
+    "ee": true
    }
   },
   {
@@ -11034,7 +11736,8 @@
     "locID": "LOC000107174521",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710417649"
+    "gnaf_pid": "GANSW710417649",
+    "ee": true
    }
   },
   {
@@ -11051,7 +11754,8 @@
     "locID": "LOC000010556688",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710417650"
+    "gnaf_pid": "GANSW710417650",
+    "ee": true
    }
   },
   {
@@ -11068,7 +11772,8 @@
     "locID": "LOC000055793763",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710417678"
+    "gnaf_pid": "GANSW710417678",
+    "ee": true
    }
   },
   {
@@ -11085,7 +11790,8 @@
     "locID": "LOC000010488929",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710417679"
+    "gnaf_pid": "GANSW710417679",
+    "ee": true
    }
   },
   {
@@ -11102,7 +11808,8 @@
     "locID": "LOC000010458671",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710417689"
+    "gnaf_pid": "GANSW710417689",
+    "ee": true
    }
   },
   {
@@ -11119,7 +11826,8 @@
     "locID": "LOC000107230174",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710417691"
+    "gnaf_pid": "GANSW710417691",
+    "ee": true
    }
   },
   {
@@ -11136,7 +11844,8 @@
     "locID": "LOC000107091145",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710417695"
+    "gnaf_pid": "GANSW710417695",
+    "ee": true
    }
   },
   {
@@ -11153,7 +11862,8 @@
     "locID": "LOC000056711643",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710417702"
+    "gnaf_pid": "GANSW710417702",
+    "ee": true
    }
   },
   {
@@ -11170,7 +11880,8 @@
     "locID": "LOC000055870668",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710417706"
+    "gnaf_pid": "GANSW710417706",
+    "ee": true
    }
   },
   {
@@ -11187,7 +11898,8 @@
     "locID": "LOC000107493419",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710417710"
+    "gnaf_pid": "GANSW710417710",
+    "ee": true
    }
   },
   {
@@ -11204,7 +11916,8 @@
     "locID": "LOC000055998762",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710419257"
+    "gnaf_pid": "GANSW710419257",
+    "ee": true
    }
   },
   {
@@ -11221,7 +11934,8 @@
     "locID": "LOC000077503640",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710419259"
+    "gnaf_pid": "GANSW710419259",
+    "ee": true
    }
   },
   {
@@ -11238,7 +11952,8 @@
     "locID": "LOC000045473285",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710419939"
+    "gnaf_pid": "GANSW710419939",
+    "ee": true
    }
   },
   {
@@ -11255,7 +11970,8 @@
     "locID": "LOC000045473285",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710419940"
+    "gnaf_pid": "GANSW710419940",
+    "ee": true
    }
   },
   {
@@ -11272,7 +11988,8 @@
     "locID": "LOC000045473285",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710419941"
+    "gnaf_pid": "GANSW710419941",
+    "ee": true
    }
   },
   {
@@ -11289,7 +12006,8 @@
     "locID": "LOC000045395219",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710419942"
+    "gnaf_pid": "GANSW710419942",
+    "ee": true
    }
   },
   {
@@ -11306,7 +12024,8 @@
     "locID": "LOC000105253265",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710419984"
+    "gnaf_pid": "GANSW710419984",
+    "ee": true
    }
   },
   {
@@ -11323,7 +12042,8 @@
     "locID": "LOC000105389454",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710419985"
+    "gnaf_pid": "GANSW710419985",
+    "ee": true
    }
   },
   {
@@ -11340,7 +12060,8 @@
     "locID": "LOC000105054594",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710419986"
+    "gnaf_pid": "GANSW710419986",
+    "ee": true
    }
   },
   {
@@ -11357,7 +12078,8 @@
     "locID": "LOC000105517661",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710419991"
+    "gnaf_pid": "GANSW710419991",
+    "ee": true
    }
   },
   {
@@ -11374,7 +12096,8 @@
     "locID": "LOC000087753639",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420000"
+    "gnaf_pid": "GANSW710420000",
+    "ee": true
    }
   },
   {
@@ -11391,7 +12114,8 @@
     "locID": "LOC000103119549",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420054"
+    "gnaf_pid": "GANSW710420054",
+    "ee": true
    }
   },
   {
@@ -11408,7 +12132,8 @@
     "locID": "LOC000107372307",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420057"
+    "gnaf_pid": "GANSW710420057",
+    "ee": true
    }
   },
   {
@@ -11425,7 +12150,8 @@
     "locID": "LOC000181749567",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420061"
+    "gnaf_pid": "GANSW710420061",
+    "ee": true
    }
   },
   {
@@ -11442,7 +12168,8 @@
     "locID": "LOC000167985811",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420071"
+    "gnaf_pid": "GANSW710420071",
+    "ee": true
    }
   },
   {
@@ -11459,7 +12186,8 @@
     "locID": "LOC000022121333",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420076"
+    "gnaf_pid": "GANSW710420076",
+    "ee": true
    }
   },
   {
@@ -11476,7 +12204,8 @@
     "locID": "LOC000030566805",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420080"
+    "gnaf_pid": "GANSW710420080",
+    "ee": true
    }
   },
   {
@@ -11493,7 +12222,8 @@
     "locID": "LOC000047564126",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420150"
+    "gnaf_pid": "GANSW710420150",
+    "ee": true
    }
   },
   {
@@ -11510,7 +12240,8 @@
     "locID": "LOC000084153144",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420151"
+    "gnaf_pid": "GANSW710420151",
+    "ee": true
    }
   },
   {
@@ -11527,7 +12258,8 @@
     "locID": "LOC000018825812",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420152"
+    "gnaf_pid": "GANSW710420152",
+    "ee": true
    }
   },
   {
@@ -11544,7 +12276,8 @@
     "locID": "LOC000034008912",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420153"
+    "gnaf_pid": "GANSW710420153",
+    "ee": true
    }
   },
   {
@@ -11561,7 +12294,8 @@
     "locID": "LOC000055649017",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420159"
+    "gnaf_pid": "GANSW710420159",
+    "ee": true
    }
   },
   {
@@ -11578,7 +12312,8 @@
     "locID": "LOC000105063822",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420847"
+    "gnaf_pid": "GANSW710420847",
+    "ee": true
    }
   },
   {
@@ -11595,7 +12330,8 @@
     "locID": "LOC000105433365",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420853"
+    "gnaf_pid": "GANSW710420853",
+    "ee": true
    }
   },
   {
@@ -11612,7 +12348,8 @@
     "locID": "LOC000089835698",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420857"
+    "gnaf_pid": "GANSW710420857",
+    "ee": true
    }
   },
   {
@@ -11629,7 +12366,26 @@
     "locID": "LOC000003821740",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420885"
+    "gnaf_pid": "GANSW710420885",
+    "ee": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.24906109,
+     -33.86635994
+    ]
+   },
+   "properties": {
+    "name": "86 WOLSELEY ROAD POINT PIPER 2027",
+    "locID": "LOC000196629523",
+    "tech": "NULL",
+    "upgrade": "NULL_NA",
+    "gnaf_pid": "GANSW710420967",
+    "ee": false
    }
   },
   {
@@ -11646,7 +12402,8 @@
     "locID": "LOC000119381736",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710420970"
+    "gnaf_pid": "GANSW710420970",
+    "ee": true
    }
   },
   {
@@ -11663,7 +12420,8 @@
     "locID": "LOC000010544037",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421024"
+    "gnaf_pid": "GANSW710421024",
+    "ee": true
    }
   },
   {
@@ -11680,7 +12438,8 @@
     "locID": "LOC000010419939",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421025"
+    "gnaf_pid": "GANSW710421025",
+    "ee": true
    }
   },
   {
@@ -11697,7 +12456,8 @@
     "locID": "LOC000010515664",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421026"
+    "gnaf_pid": "GANSW710421026",
+    "ee": true
    }
   },
   {
@@ -11714,7 +12474,8 @@
     "locID": "LOC000028079989",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421069"
+    "gnaf_pid": "GANSW710421069",
+    "ee": true
    }
   },
   {
@@ -11731,7 +12492,8 @@
     "locID": "LOC000028079989",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421070"
+    "gnaf_pid": "GANSW710421070",
+    "ee": true
    }
   },
   {
@@ -11748,7 +12510,8 @@
     "locID": "LOC000028079989",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421071"
+    "gnaf_pid": "GANSW710421071",
+    "ee": true
    }
   },
   {
@@ -11765,7 +12528,8 @@
     "locID": "LOC000028079989",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421072"
+    "gnaf_pid": "GANSW710421072",
+    "ee": true
    }
   },
   {
@@ -11782,7 +12546,8 @@
     "locID": "LOC000167985587",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421074"
+    "gnaf_pid": "GANSW710421074",
+    "ee": true
    }
   },
   {
@@ -11799,7 +12564,8 @@
     "locID": "LOC000167985587",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421075"
+    "gnaf_pid": "GANSW710421075",
+    "ee": true
    }
   },
   {
@@ -11816,7 +12582,8 @@
     "locID": "LOC000045489940",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421123"
+    "gnaf_pid": "GANSW710421123",
+    "ee": true
    }
   },
   {
@@ -11833,7 +12600,8 @@
     "locID": "LOC000051785213",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421124"
+    "gnaf_pid": "GANSW710421124",
+    "ee": true
    }
   },
   {
@@ -11850,7 +12618,8 @@
     "locID": "LOC000039962310",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421125"
+    "gnaf_pid": "GANSW710421125",
+    "ee": true
    }
   },
   {
@@ -11867,7 +12636,8 @@
     "locID": "LOC000002328487",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421127"
+    "gnaf_pid": "GANSW710421127",
+    "ee": true
    }
   },
   {
@@ -11884,7 +12654,8 @@
     "locID": "LOC000063111161",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421522"
+    "gnaf_pid": "GANSW710421522",
+    "ee": true
    }
   },
   {
@@ -11901,7 +12672,8 @@
     "locID": "LOC000063146153",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421527"
+    "gnaf_pid": "GANSW710421527",
+    "ee": true
    }
   },
   {
@@ -11918,7 +12690,8 @@
     "locID": "LOC000063358930",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421529"
+    "gnaf_pid": "GANSW710421529",
+    "ee": true
    }
   },
   {
@@ -11935,7 +12708,8 @@
     "locID": "LOC000063358930",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421530"
+    "gnaf_pid": "GANSW710421530",
+    "ee": true
    }
   },
   {
@@ -11952,7 +12726,8 @@
     "locID": "LOC000167985539",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421531"
+    "gnaf_pid": "GANSW710421531",
+    "ee": true
    }
   },
   {
@@ -11969,7 +12744,8 @@
     "locID": "LOC000063089420",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421533"
+    "gnaf_pid": "GANSW710421533",
+    "ee": true
    }
   },
   {
@@ -11986,7 +12762,8 @@
     "locID": "LOC000091703560",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421837"
+    "gnaf_pid": "GANSW710421837",
+    "ee": true
    }
   },
   {
@@ -12003,7 +12780,8 @@
     "locID": "LOC000187906511",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421841"
+    "gnaf_pid": "GANSW710421841",
+    "ee": true
    }
   },
   {
@@ -12020,7 +12798,8 @@
     "locID": "LOC000102134433",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421842"
+    "gnaf_pid": "GANSW710421842",
+    "ee": true
    }
   },
   {
@@ -12037,7 +12816,8 @@
     "locID": "LOC000077175948",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421845"
+    "gnaf_pid": "GANSW710421845",
+    "ee": true
    }
   },
   {
@@ -12054,7 +12834,8 @@
     "locID": "LOC000022121333",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421926"
+    "gnaf_pid": "GANSW710421926",
+    "ee": true
    }
   },
   {
@@ -12071,7 +12852,8 @@
     "locID": "LOC000036011139",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421931"
+    "gnaf_pid": "GANSW710421931",
+    "ee": true
    }
   },
   {
@@ -12088,7 +12870,8 @@
     "locID": "LOC000051785213",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421932"
+    "gnaf_pid": "GANSW710421932",
+    "ee": true
    }
   },
   {
@@ -12105,7 +12888,8 @@
     "locID": "LOC000036296346",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710421936"
+    "gnaf_pid": "GANSW710421936",
+    "ee": true
    }
   },
   {
@@ -12122,7 +12906,8 @@
     "locID": "LOC000039962310",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710422578"
+    "gnaf_pid": "GANSW710422578",
+    "ee": true
    }
   },
   {
@@ -12139,7 +12924,8 @@
     "locID": "LOC000086392457",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423353"
+    "gnaf_pid": "GANSW710423353",
+    "ee": true
    }
   },
   {
@@ -12156,7 +12942,8 @@
     "locID": "LOC000086815373",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423356"
+    "gnaf_pid": "GANSW710423356",
+    "ee": true
    }
   },
   {
@@ -12173,7 +12960,8 @@
     "locID": "LOC000099559408",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423631"
+    "gnaf_pid": "GANSW710423631",
+    "ee": true
    }
   },
   {
@@ -12190,7 +12978,8 @@
     "locID": "LOC000101882212",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423633"
+    "gnaf_pid": "GANSW710423633",
+    "ee": true
    }
   },
   {
@@ -12207,7 +12996,8 @@
     "locID": "LOC000102439605",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423635"
+    "gnaf_pid": "GANSW710423635",
+    "ee": true
    }
   },
   {
@@ -12224,7 +13014,8 @@
     "locID": "LOC000101390238",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423638"
+    "gnaf_pid": "GANSW710423638",
+    "ee": true
    }
   },
   {
@@ -12241,7 +13032,8 @@
     "locID": "LOC000045473285",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423975"
+    "gnaf_pid": "GANSW710423975",
+    "ee": true
    }
   },
   {
@@ -12258,7 +13050,8 @@
     "locID": "LOC000045473285",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423976"
+    "gnaf_pid": "GANSW710423976",
+    "ee": true
    }
   },
   {
@@ -12275,7 +13068,8 @@
     "locID": "LOC000045316421",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423977"
+    "gnaf_pid": "GANSW710423977",
+    "ee": true
    }
   },
   {
@@ -12292,7 +13086,8 @@
     "locID": "LOC000045395219",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423978"
+    "gnaf_pid": "GANSW710423978",
+    "ee": true
    }
   },
   {
@@ -12309,7 +13104,8 @@
     "locID": "LOC000045622302",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423979"
+    "gnaf_pid": "GANSW710423979",
+    "ee": true
    }
   },
   {
@@ -12326,7 +13122,8 @@
     "locID": "LOC000045491416",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423980"
+    "gnaf_pid": "GANSW710423980",
+    "ee": true
    }
   },
   {
@@ -12343,7 +13140,8 @@
     "locID": "LOC000045804533",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423981"
+    "gnaf_pid": "GANSW710423981",
+    "ee": true
    }
   },
   {
@@ -12360,7 +13158,8 @@
     "locID": "LOC000045255393",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423982"
+    "gnaf_pid": "GANSW710423982",
+    "ee": true
    }
   },
   {
@@ -12377,7 +13176,8 @@
     "locID": "LOC000045159360",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710423983"
+    "gnaf_pid": "GANSW710423983",
+    "ee": true
    }
   },
   {
@@ -12394,7 +13194,8 @@
     "locID": "LOC000105498699",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424002"
+    "gnaf_pid": "GANSW710424002",
+    "ee": true
    }
   },
   {
@@ -12411,7 +13212,8 @@
     "locID": "LOC000003220213",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424004"
+    "gnaf_pid": "GANSW710424004",
+    "ee": true
    }
   },
   {
@@ -12428,7 +13230,8 @@
     "locID": "LOC000105310673",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424005"
+    "gnaf_pid": "GANSW710424005",
+    "ee": true
    }
   },
   {
@@ -12445,7 +13248,8 @@
     "locID": "LOC000105586396",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424008"
+    "gnaf_pid": "GANSW710424008",
+    "ee": true
    }
   },
   {
@@ -12462,7 +13266,8 @@
     "locID": "LOC000003220213",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424013"
+    "gnaf_pid": "GANSW710424013",
+    "ee": true
    }
   },
   {
@@ -12479,7 +13284,8 @@
     "locID": "LOC000105171214",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424015"
+    "gnaf_pid": "GANSW710424015",
+    "ee": true
    }
   },
   {
@@ -12496,7 +13302,8 @@
     "locID": "LOC000105066292",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424017"
+    "gnaf_pid": "GANSW710424017",
+    "ee": true
    }
   },
   {
@@ -12513,7 +13320,8 @@
     "locID": "LOC000087062696",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424182"
+    "gnaf_pid": "GANSW710424182",
+    "ee": true
    }
   },
   {
@@ -12530,7 +13338,8 @@
     "locID": "LOC000086707625",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424186"
+    "gnaf_pid": "GANSW710424186",
+    "ee": true
    }
   },
   {
@@ -12547,7 +13356,8 @@
     "locID": "LOC000086392457",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424187"
+    "gnaf_pid": "GANSW710424187",
+    "ee": true
    }
   },
   {
@@ -12564,7 +13374,8 @@
     "locID": "LOC000059033871",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424188"
+    "gnaf_pid": "GANSW710424188",
+    "ee": true
    }
   },
   {
@@ -12581,7 +13392,8 @@
     "locID": "LOC000045395219",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424195"
+    "gnaf_pid": "GANSW710424195",
+    "ee": true
    }
   },
   {
@@ -12598,7 +13410,8 @@
     "locID": "LOC000045395219",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424196"
+    "gnaf_pid": "GANSW710424196",
+    "ee": true
    }
   },
   {
@@ -12615,7 +13428,8 @@
     "locID": "LOC000059033871",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424197"
+    "gnaf_pid": "GANSW710424197",
+    "ee": true
    }
   },
   {
@@ -12632,7 +13446,8 @@
     "locID": "LOC000187906511",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424280"
+    "gnaf_pid": "GANSW710424280",
+    "ee": true
    }
   },
   {
@@ -12649,7 +13464,8 @@
     "locID": "LOC000101785553",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424281"
+    "gnaf_pid": "GANSW710424281",
+    "ee": true
    }
   },
   {
@@ -12666,7 +13482,8 @@
     "locID": "LOC000102045475",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424282"
+    "gnaf_pid": "GANSW710424282",
+    "ee": true
    }
   },
   {
@@ -12683,7 +13500,8 @@
     "locID": "LOC000101417294",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424283"
+    "gnaf_pid": "GANSW710424283",
+    "ee": true
    }
   },
   {
@@ -12700,7 +13518,8 @@
     "locID": "LOC000102120201",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424284"
+    "gnaf_pid": "GANSW710424284",
+    "ee": true
    }
   },
   {
@@ -12717,7 +13536,8 @@
     "locID": "LOC000101840230",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424285"
+    "gnaf_pid": "GANSW710424285",
+    "ee": true
    }
   },
   {
@@ -12734,7 +13554,8 @@
     "locID": "LOC000101504962",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424286"
+    "gnaf_pid": "GANSW710424286",
+    "ee": true
    }
   },
   {
@@ -12751,7 +13572,8 @@
     "locID": "LOC000102070406",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424287"
+    "gnaf_pid": "GANSW710424287",
+    "ee": true
    }
   },
   {
@@ -12768,7 +13590,8 @@
     "locID": "LOC000101873413",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424289"
+    "gnaf_pid": "GANSW710424289",
+    "ee": true
    }
   },
   {
@@ -12785,7 +13608,8 @@
     "locID": "LOC000187906511",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424290"
+    "gnaf_pid": "GANSW710424290",
+    "ee": true
    }
   },
   {
@@ -12802,7 +13626,8 @@
     "locID": "LOC000101840230",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424291"
+    "gnaf_pid": "GANSW710424291",
+    "ee": true
    }
   },
   {
@@ -12819,7 +13644,8 @@
     "locID": "LOC000099866208",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424295"
+    "gnaf_pid": "GANSW710424295",
+    "ee": true
    }
   },
   {
@@ -12836,7 +13662,8 @@
     "locID": "LOC000018868254",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424296"
+    "gnaf_pid": "GANSW710424296",
+    "ee": true
    }
   },
   {
@@ -12853,7 +13680,8 @@
     "locID": "LOC000098999944",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424300"
+    "gnaf_pid": "GANSW710424300",
+    "ee": true
    }
   },
   {
@@ -12870,7 +13698,8 @@
     "locID": "LOC000052475402",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424305"
+    "gnaf_pid": "GANSW710424305",
+    "ee": true
    }
   },
   {
@@ -12887,7 +13716,8 @@
     "locID": "LOC000012231914",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424312"
+    "gnaf_pid": "GANSW710424312",
+    "ee": true
    }
   },
   {
@@ -12904,7 +13734,8 @@
     "locID": "LOC000007177759",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424316"
+    "gnaf_pid": "GANSW710424316",
+    "ee": true
    }
   },
   {
@@ -12921,7 +13752,8 @@
     "locID": "LOC000056050153",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424317"
+    "gnaf_pid": "GANSW710424317",
+    "ee": true
    }
   },
   {
@@ -12938,7 +13770,8 @@
     "locID": "LOC000099559408",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424351"
+    "gnaf_pid": "GANSW710424351",
+    "ee": true
    }
   },
   {
@@ -12955,7 +13788,8 @@
     "locID": "LOC000099804797",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424394"
+    "gnaf_pid": "GANSW710424394",
+    "ee": true
    }
   },
   {
@@ -12972,7 +13806,8 @@
     "locID": "LOC000107339444",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424569"
+    "gnaf_pid": "GANSW710424569",
+    "ee": true
    }
   },
   {
@@ -12989,7 +13824,8 @@
     "locID": "LOC000106489619",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424570"
+    "gnaf_pid": "GANSW710424570",
+    "ee": true
    }
   },
   {
@@ -13006,7 +13842,8 @@
     "locID": "LOC000055896007",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424575"
+    "gnaf_pid": "GANSW710424575",
+    "ee": true
    }
   },
   {
@@ -13023,7 +13860,8 @@
     "locID": "LOC000010954567",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424576"
+    "gnaf_pid": "GANSW710424576",
+    "ee": true
    }
   },
   {
@@ -13040,7 +13878,8 @@
     "locID": "LOC000010981844",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424579"
+    "gnaf_pid": "GANSW710424579",
+    "ee": true
    }
   },
   {
@@ -13057,7 +13896,8 @@
     "locID": "LOC000010621612",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424580"
+    "gnaf_pid": "GANSW710424580",
+    "ee": true
    }
   },
   {
@@ -13074,7 +13914,8 @@
     "locID": "LOC000010946452",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424583"
+    "gnaf_pid": "GANSW710424583",
+    "ee": true
    }
   },
   {
@@ -13091,7 +13932,8 @@
     "locID": "LOC000050453596",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710424589"
+    "gnaf_pid": "GANSW710424589",
+    "ee": true
    }
   },
   {
@@ -13108,7 +13950,8 @@
     "locID": "LOC100066478720",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710425069"
+    "gnaf_pid": "GANSW710425069",
+    "ee": true
    }
   },
   {
@@ -13125,7 +13968,8 @@
     "locID": "LOC000099063154",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710425152"
+    "gnaf_pid": "GANSW710425152",
+    "ee": true
    }
   },
   {
@@ -13142,7 +13986,8 @@
     "locID": "LOC000084234896",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710425153"
+    "gnaf_pid": "GANSW710425153",
+    "ee": true
    }
   },
   {
@@ -13159,7 +14004,8 @@
     "locID": "LOC000098869043",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710425166"
+    "gnaf_pid": "GANSW710425166",
+    "ee": true
    }
   },
   {
@@ -13176,7 +14022,8 @@
     "locID": "LOC000098869043",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710425173"
+    "gnaf_pid": "GANSW710425173",
+    "ee": true
    }
   },
   {
@@ -13193,7 +14040,8 @@
     "locID": "LOC000089600888",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710425176"
+    "gnaf_pid": "GANSW710425176",
+    "ee": true
    }
   },
   {
@@ -13210,7 +14058,8 @@
     "locID": "LOC000089433621",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710426033"
+    "gnaf_pid": "GANSW710426033",
+    "ee": true
    }
   },
   {
@@ -13227,7 +14076,8 @@
     "locID": "LOC000089223377",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710426035"
+    "gnaf_pid": "GANSW710426035",
+    "ee": true
    }
   },
   {
@@ -13244,7 +14094,8 @@
     "locID": "LOC000089460399",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710426036"
+    "gnaf_pid": "GANSW710426036",
+    "ee": true
    }
   },
   {
@@ -13261,7 +14112,8 @@
     "locID": "LOC000088910239",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710426037"
+    "gnaf_pid": "GANSW710426037",
+    "ee": true
    }
   },
   {
@@ -13278,7 +14130,8 @@
     "locID": "LOC000010582650",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710429062"
+    "gnaf_pid": "GANSW710429062",
+    "ee": true
    }
   },
   {
@@ -13295,7 +14148,8 @@
     "locID": "LOC000010515664",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710429889"
+    "gnaf_pid": "GANSW710429889",
+    "ee": true
    }
   },
   {
@@ -13312,7 +14166,8 @@
     "locID": "LOC000010515664",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710429890"
+    "gnaf_pid": "GANSW710429890",
+    "ee": true
    }
   },
   {
@@ -13329,7 +14184,8 @@
     "locID": "LOC000010544037",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710429925"
+    "gnaf_pid": "GANSW710429925",
+    "ee": true
    }
   },
   {
@@ -13346,7 +14202,8 @@
     "locID": "LOC000010376842",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710429927"
+    "gnaf_pid": "GANSW710429927",
+    "ee": true
    }
   },
   {
@@ -13363,7 +14220,8 @@
     "locID": "LOC000056711643",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW710433378"
+    "gnaf_pid": "GANSW710433378",
+    "ee": true
    }
   },
   {
@@ -13380,7 +14238,8 @@
     "locID": "LOC000018884282",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW713087927"
+    "gnaf_pid": "GANSW713087927",
+    "ee": true
    }
   },
   {
@@ -13397,7 +14256,8 @@
     "locID": "LOC000003289015",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW713098828"
+    "gnaf_pid": "GANSW713098828",
+    "ee": true
    }
   },
   {
@@ -13414,7 +14274,8 @@
     "locID": "LOC000086688058",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW713112410"
+    "gnaf_pid": "GANSW713112410",
+    "ee": true
    }
   },
   {
@@ -13431,7 +14292,8 @@
     "locID": "LOC000167985616",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW713112432"
+    "gnaf_pid": "GANSW713112432",
+    "ee": true
    }
   },
   {
@@ -13448,7 +14310,8 @@
     "locID": "LOC000187906511",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW715403174"
+    "gnaf_pid": "GANSW715403174",
+    "ee": true
    }
   },
   {
@@ -13465,7 +14328,8 @@
     "locID": "LOC000081788225",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW715667059"
+    "gnaf_pid": "GANSW715667059",
+    "ee": true
    }
   },
   {
@@ -13482,7 +14346,8 @@
     "locID": "LOC000007401276",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW715669290"
+    "gnaf_pid": "GANSW715669290",
+    "ee": true
    }
   },
   {
@@ -13499,7 +14364,8 @@
     "locID": "LOC000084153144",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW716430562"
+    "gnaf_pid": "GANSW716430562",
+    "ee": true
    }
   },
   {
@@ -13516,7 +14382,8 @@
     "locID": "LOC000006575731",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW716565762"
+    "gnaf_pid": "GANSW716565762",
+    "ee": true
    }
   },
   {
@@ -13533,7 +14400,8 @@
     "locID": "LOC000075132763",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW716643352"
+    "gnaf_pid": "GANSW716643352",
+    "ee": true
    }
   },
   {
@@ -13550,7 +14418,8 @@
     "locID": "LOC000099150628",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717091186"
+    "gnaf_pid": "GANSW717091186",
+    "ee": true
    }
   },
   {
@@ -13567,7 +14436,8 @@
     "locID": "LOC000099150628",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717091187"
+    "gnaf_pid": "GANSW717091187",
+    "ee": true
    }
   },
   {
@@ -13584,7 +14454,8 @@
     "locID": "LOC000044060598",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717152472"
+    "gnaf_pid": "GANSW717152472",
+    "ee": true
    }
   },
   {
@@ -13601,7 +14472,8 @@
     "locID": "LOC000044207494",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717152473"
+    "gnaf_pid": "GANSW717152473",
+    "ee": true
    }
   },
   {
@@ -13618,7 +14490,8 @@
     "locID": "LOC000043865175",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717152475"
+    "gnaf_pid": "GANSW717152475",
+    "ee": true
    }
   },
   {
@@ -13635,7 +14508,8 @@
     "locID": "LOC000043827323",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717152477"
+    "gnaf_pid": "GANSW717152477",
+    "ee": true
    }
   },
   {
@@ -13652,7 +14526,8 @@
     "locID": "LOC000043945348",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717152479"
+    "gnaf_pid": "GANSW717152479",
+    "ee": true
    }
   },
   {
@@ -13669,7 +14544,8 @@
     "locID": "LOC000044207494",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717152480"
+    "gnaf_pid": "GANSW717152480",
+    "ee": true
    }
   },
   {
@@ -13686,7 +14562,8 @@
     "locID": "LOC000043962198",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717152481"
+    "gnaf_pid": "GANSW717152481",
+    "ee": true
    }
   },
   {
@@ -13703,7 +14580,8 @@
     "locID": "LOC000167985692",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717152859"
+    "gnaf_pid": "GANSW717152859",
+    "ee": true
    }
   },
   {
@@ -13720,7 +14598,8 @@
     "locID": "LOC000044239551",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717178202"
+    "gnaf_pid": "GANSW717178202",
+    "ee": true
    }
   },
   {
@@ -13737,7 +14616,8 @@
     "locID": "LOC000171252169",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717178203"
+    "gnaf_pid": "GANSW717178203",
+    "ee": true
    }
   },
   {
@@ -13754,7 +14634,8 @@
     "locID": "LOC000167985541",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717178204"
+    "gnaf_pid": "GANSW717178204",
+    "ee": true
    }
   },
   {
@@ -13771,7 +14652,8 @@
     "locID": "LOC000043843927",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717203257"
+    "gnaf_pid": "GANSW717203257",
+    "ee": true
    }
   },
   {
@@ -13788,7 +14670,8 @@
     "locID": "LOC000044207494",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717227946"
+    "gnaf_pid": "GANSW717227946",
+    "ee": true
    }
   },
   {
@@ -13805,7 +14688,8 @@
     "locID": "LOC000171252169",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717227947"
+    "gnaf_pid": "GANSW717227947",
+    "ee": true
    }
   },
   {
@@ -13822,7 +14706,8 @@
     "locID": "LOC000044207494",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717227948"
+    "gnaf_pid": "GANSW717227948",
+    "ee": true
    }
   },
   {
@@ -13839,7 +14724,8 @@
     "locID": "LOC000023855991",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717228833"
+    "gnaf_pid": "GANSW717228833",
+    "ee": true
    }
   },
   {
@@ -13856,7 +14742,8 @@
     "locID": "LOC000089172709",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717351431"
+    "gnaf_pid": "GANSW717351431",
+    "ee": true
    }
   },
   {
@@ -13873,7 +14760,8 @@
     "locID": "LOC000086142505",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717351676"
+    "gnaf_pid": "GANSW717351676",
+    "ee": true
    }
   },
   {
@@ -13890,7 +14778,8 @@
     "locID": "LOC000119383385",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717351678"
+    "gnaf_pid": "GANSW717351678",
+    "ee": true
    }
   },
   {
@@ -13907,7 +14796,8 @@
     "locID": "LOC000102134433",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717718804"
+    "gnaf_pid": "GANSW717718804",
+    "ee": true
    }
   },
   {
@@ -13924,7 +14814,8 @@
     "locID": "LOC000168716997",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717724316"
+    "gnaf_pid": "GANSW717724316",
+    "ee": true
    }
   },
   {
@@ -13941,7 +14832,8 @@
     "locID": "LOC000105487577",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717741238"
+    "gnaf_pid": "GANSW717741238",
+    "ee": true
    }
   },
   {
@@ -13958,7 +14850,8 @@
     "locID": "LOC000063862749",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717752528"
+    "gnaf_pid": "GANSW717752528",
+    "ee": true
    }
   },
   {
@@ -13975,7 +14868,8 @@
     "locID": "LOC000048419910",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717752530"
+    "gnaf_pid": "GANSW717752530",
+    "ee": true
    }
   },
   {
@@ -13992,7 +14886,8 @@
     "locID": "LOC000167985594",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717789874"
+    "gnaf_pid": "GANSW717789874",
+    "ee": true
    }
   },
   {
@@ -14009,7 +14904,8 @@
     "locID": "LOC000077503640",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717789876"
+    "gnaf_pid": "GANSW717789876",
+    "ee": true
    }
   },
   {
@@ -14026,7 +14922,8 @@
     "locID": "LOC000022121333",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717789877"
+    "gnaf_pid": "GANSW717789877",
+    "ee": true
    }
   },
   {
@@ -14043,7 +14940,8 @@
     "locID": "LOC000167985594",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717789878"
+    "gnaf_pid": "GANSW717789878",
+    "ee": true
    }
   },
   {
@@ -14060,7 +14958,8 @@
     "locID": "LOC000077503640",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717789879"
+    "gnaf_pid": "GANSW717789879",
+    "ee": true
    }
   },
   {
@@ -14077,7 +14976,8 @@
     "locID": "LOC000167985594",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717789881"
+    "gnaf_pid": "GANSW717789881",
+    "ee": true
    }
   },
   {
@@ -14092,9 +14992,10 @@
    "properties": {
     "name": "UNIT 3, 84-86 WOLSELEY ROAD POINT PIPER 2027",
     "locID": "LOC000196629534",
-    "tech": "FTTP",
+    "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717789882"
+    "gnaf_pid": "GANSW717789882",
+    "ee": false
    }
   },
   {
@@ -14111,7 +15012,8 @@
     "locID": "LOC000014784950",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717790386"
+    "gnaf_pid": "GANSW717790386",
+    "ee": true
    }
   },
   {
@@ -14128,7 +15030,8 @@
     "locID": "LOC000119381704",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717903493"
+    "gnaf_pid": "GANSW717903493",
+    "ee": true
    }
   },
   {
@@ -14145,7 +15048,8 @@
     "locID": "LOC000018884282",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717971167"
+    "gnaf_pid": "GANSW717971167",
+    "ee": true
    }
   },
   {
@@ -14162,7 +15066,8 @@
     "locID": "LOC000024963996",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717977973"
+    "gnaf_pid": "GANSW717977973",
+    "ee": true
    }
   },
   {
@@ -14179,7 +15084,8 @@
     "locID": "LOC000024624405",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717977974"
+    "gnaf_pid": "GANSW717977974",
+    "ee": true
    }
   },
   {
@@ -14196,7 +15102,8 @@
     "locID": "LOC000047841611",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717987401"
+    "gnaf_pid": "GANSW717987401",
+    "ee": true
    }
   },
   {
@@ -14213,7 +15120,8 @@
     "locID": "LOC000086864619",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW717987402"
+    "gnaf_pid": "GANSW717987402",
+    "ee": true
    }
   },
   {
@@ -14230,7 +15138,8 @@
     "locID": "LOC000018884282",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718040635"
+    "gnaf_pid": "GANSW718040635",
+    "ee": true
    }
   },
   {
@@ -14247,7 +15156,8 @@
     "locID": "LOC000119382253",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718040636"
+    "gnaf_pid": "GANSW718040636",
+    "ee": true
    }
   },
   {
@@ -14264,7 +15174,8 @@
     "locID": "LOC000022200819",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718061504"
+    "gnaf_pid": "GANSW718061504",
+    "ee": true
    }
   },
   {
@@ -14281,7 +15192,8 @@
     "locID": "LOC000119381704",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718109155"
+    "gnaf_pid": "GANSW718109155",
+    "ee": true
    }
   },
   {
@@ -14298,7 +15210,8 @@
     "locID": "LOC000119381715",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718109157"
+    "gnaf_pid": "GANSW718109157",
+    "ee": true
    }
   },
   {
@@ -14315,7 +15228,8 @@
     "locID": "LOC000119381727",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718109159"
+    "gnaf_pid": "GANSW718109159",
+    "ee": true
    }
   },
   {
@@ -14332,7 +15246,8 @@
     "locID": "LOC000081897812",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718133718"
+    "gnaf_pid": "GANSW718133718",
+    "ee": true
    }
   },
   {
@@ -14349,7 +15264,8 @@
     "locID": "LOC000110749514",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718138933"
+    "gnaf_pid": "GANSW718138933",
+    "ee": true
    }
   },
   {
@@ -14366,7 +15282,8 @@
     "locID": "LOC000101840230",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718162578"
+    "gnaf_pid": "GANSW718162578",
+    "ee": true
    }
   },
   {
@@ -14383,7 +15300,8 @@
     "locID": "LOC000101840230",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718162579"
+    "gnaf_pid": "GANSW718162579",
+    "ee": true
    }
   },
   {
@@ -14400,7 +15318,8 @@
     "locID": "LOC000101840230",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718162580"
+    "gnaf_pid": "GANSW718162580",
+    "ee": true
    }
   },
   {
@@ -14417,7 +15336,8 @@
     "locID": "LOC000101840230",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718162581"
+    "gnaf_pid": "GANSW718162581",
+    "ee": true
    }
   },
   {
@@ -14434,7 +15354,8 @@
     "locID": "LOC000101840230",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718162582"
+    "gnaf_pid": "GANSW718162582",
+    "ee": true
    }
   },
   {
@@ -14451,7 +15372,8 @@
     "locID": "LOC000119381318",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165087"
+    "gnaf_pid": "GANSW718165087",
+    "ee": true
    }
   },
   {
@@ -14468,7 +15390,8 @@
     "locID": "LOC000119381325",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165088"
+    "gnaf_pid": "GANSW718165088",
+    "ee": true
    }
   },
   {
@@ -14485,7 +15408,8 @@
     "locID": "LOC000119381339",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165089"
+    "gnaf_pid": "GANSW718165089",
+    "ee": true
    }
   },
   {
@@ -14502,7 +15426,8 @@
     "locID": "LOC000119381341",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165090"
+    "gnaf_pid": "GANSW718165090",
+    "ee": true
    }
   },
   {
@@ -14519,7 +15444,8 @@
     "locID": "LOC000167985766",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165092"
+    "gnaf_pid": "GANSW718165092",
+    "ee": true
    }
   },
   {
@@ -14536,7 +15462,8 @@
     "locID": "LOC000119381302",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165093"
+    "gnaf_pid": "GANSW718165093",
+    "ee": true
    }
   },
   {
@@ -14553,7 +15480,8 @@
     "locID": "LOC000010515664",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165094"
+    "gnaf_pid": "GANSW718165094",
+    "ee": true
    }
   },
   {
@@ -14570,7 +15498,8 @@
     "locID": "LOC000167985766",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165095"
+    "gnaf_pid": "GANSW718165095",
+    "ee": true
    }
   },
   {
@@ -14587,7 +15516,8 @@
     "locID": "LOC000119381302",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165096"
+    "gnaf_pid": "GANSW718165096",
+    "ee": true
    }
   },
   {
@@ -14604,7 +15534,8 @@
     "locID": "LOC000010515664",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165097"
+    "gnaf_pid": "GANSW718165097",
+    "ee": true
    }
   },
   {
@@ -14621,7 +15552,8 @@
     "locID": "LOC000010515664",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165098"
+    "gnaf_pid": "GANSW718165098",
+    "ee": true
    }
   },
   {
@@ -14638,7 +15570,8 @@
     "locID": "LOC000119381373",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165099"
+    "gnaf_pid": "GANSW718165099",
+    "ee": true
    }
   },
   {
@@ -14655,7 +15588,8 @@
     "locID": "LOC000119381387",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165100"
+    "gnaf_pid": "GANSW718165100",
+    "ee": true
    }
   },
   {
@@ -14672,7 +15606,8 @@
     "locID": "LOC000119381394",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165101"
+    "gnaf_pid": "GANSW718165101",
+    "ee": true
    }
   },
   {
@@ -14689,7 +15624,8 @@
     "locID": "LOC000119381409",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165102"
+    "gnaf_pid": "GANSW718165102",
+    "ee": true
    }
   },
   {
@@ -14706,7 +15642,8 @@
     "locID": "LOC000119381683",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718165103"
+    "gnaf_pid": "GANSW718165103",
+    "ee": true
    }
   },
   {
@@ -14723,7 +15660,8 @@
     "locID": "LOC000119382248",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718289063"
+    "gnaf_pid": "GANSW718289063",
+    "ee": true
    }
   },
   {
@@ -14740,7 +15678,8 @@
     "locID": "LOC000119383371",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718364784"
+    "gnaf_pid": "GANSW718364784",
+    "ee": true
    }
   },
   {
@@ -14757,7 +15696,8 @@
     "locID": "LOC000167985659",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718365088"
+    "gnaf_pid": "GANSW718365088",
+    "ee": true
    }
   },
   {
@@ -14774,7 +15714,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718365089"
+    "gnaf_pid": "GANSW718365089",
+    "ee": true
    }
   },
   {
@@ -14791,7 +15732,8 @@
     "locID": "LOC000167985797",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718365090"
+    "gnaf_pid": "GANSW718365090",
+    "ee": true
    }
   },
   {
@@ -14808,7 +15750,8 @@
     "locID": "LOC000167985663",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718365091"
+    "gnaf_pid": "GANSW718365091",
+    "ee": true
    }
   },
   {
@@ -14825,7 +15768,8 @@
     "locID": "LOC000102148065",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718365093"
+    "gnaf_pid": "GANSW718365093",
+    "ee": true
    }
   },
   {
@@ -14842,7 +15786,8 @@
     "locID": "LOC000119383836",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718365094"
+    "gnaf_pid": "GANSW718365094",
+    "ee": true
    }
   },
   {
@@ -14859,7 +15804,8 @@
     "locID": "LOC000088000464",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718365182"
+    "gnaf_pid": "GANSW718365182",
+    "ee": true
    }
   },
   {
@@ -14876,7 +15822,8 @@
     "locID": "LOC100066478731",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718365183"
+    "gnaf_pid": "GANSW718365183",
+    "ee": true
    }
   },
   {
@@ -14893,7 +15840,8 @@
     "locID": "LOC000088000464",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718365184"
+    "gnaf_pid": "GANSW718365184",
+    "ee": true
    }
   },
   {
@@ -14910,7 +15858,8 @@
     "locID": "LOC100066478731",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718365186"
+    "gnaf_pid": "GANSW718365186",
+    "ee": true
    }
   },
   {
@@ -14927,7 +15876,8 @@
     "locID": "LOC100066478731",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718365187"
+    "gnaf_pid": "GANSW718365187",
+    "ee": true
    }
   },
   {
@@ -14944,7 +15894,8 @@
     "locID": "LOC100066478731",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718365188"
+    "gnaf_pid": "GANSW718365188",
+    "ee": true
    }
   },
   {
@@ -14961,7 +15912,8 @@
     "locID": "LOC100066478731",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718365189"
+    "gnaf_pid": "GANSW718365189",
+    "ee": true
    }
   },
   {
@@ -14978,7 +15930,8 @@
     "locID": "LOC000167985797",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718429263"
+    "gnaf_pid": "GANSW718429263",
+    "ee": true
    }
   },
   {
@@ -14995,7 +15948,8 @@
     "locID": "LOC000049542376",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718429267"
+    "gnaf_pid": "GANSW718429267",
+    "ee": true
    }
   },
   {
@@ -15012,7 +15966,8 @@
     "locID": "LOC100066478731",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718429639"
+    "gnaf_pid": "GANSW718429639",
+    "ee": true
    }
   },
   {
@@ -15029,7 +15984,8 @@
     "locID": "LOC000014622496",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718429699"
+    "gnaf_pid": "GANSW718429699",
+    "ee": true
    }
   },
   {
@@ -15046,7 +16002,8 @@
     "locID": "LOC000168717050",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718477667"
+    "gnaf_pid": "GANSW718477667",
+    "ee": true
    }
   },
   {
@@ -15063,7 +16020,8 @@
     "locID": "LOC000168717066",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718477668"
+    "gnaf_pid": "GANSW718477668",
+    "ee": true
    }
   },
   {
@@ -15080,7 +16038,8 @@
     "locID": "LOC000168716529",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718537056"
+    "gnaf_pid": "GANSW718537056",
+    "ee": true
    }
   },
   {
@@ -15097,7 +16056,8 @@
     "locID": "LOC000039962310",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718568856"
+    "gnaf_pid": "GANSW718568856",
+    "ee": true
    }
   },
   {
@@ -15114,7 +16074,8 @@
     "locID": "LOC000167985797",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718703534"
+    "gnaf_pid": "GANSW718703534",
+    "ee": true
    }
   },
   {
@@ -15131,7 +16092,8 @@
     "locID": "LOC000167985797",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718703535"
+    "gnaf_pid": "GANSW718703535",
+    "ee": true
    }
   },
   {
@@ -15148,7 +16110,8 @@
     "locID": "LOC000168716529",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718959340"
+    "gnaf_pid": "GANSW718959340",
+    "ee": true
    }
   },
   {
@@ -15165,7 +16128,8 @@
     "locID": "LOC000168716529",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718959341"
+    "gnaf_pid": "GANSW718959341",
+    "ee": true
    }
   },
   {
@@ -15182,7 +16146,8 @@
     "locID": "LOC000179202602",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW718966955"
+    "gnaf_pid": "GANSW718966955",
+    "ee": true
    }
   },
   {
@@ -15199,7 +16164,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719152932"
+    "gnaf_pid": "GANSW719152932",
+    "ee": true
    }
   },
   {
@@ -15216,7 +16182,8 @@
     "locID": "LOC000033626046",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719152933"
+    "gnaf_pid": "GANSW719152933",
+    "ee": true
    }
   },
   {
@@ -15233,7 +16200,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719155280"
+    "gnaf_pid": "GANSW719155280",
+    "ee": true
    }
   },
   {
@@ -15250,7 +16218,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719155281"
+    "gnaf_pid": "GANSW719155281",
+    "ee": true
    }
   },
   {
@@ -15267,7 +16236,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719155282"
+    "gnaf_pid": "GANSW719155282",
+    "ee": true
    }
   },
   {
@@ -15284,7 +16254,8 @@
     "locID": "LOC000034008912",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719157561"
+    "gnaf_pid": "GANSW719157561",
+    "ee": true
    }
   },
   {
@@ -15301,7 +16272,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719157562"
+    "gnaf_pid": "GANSW719157562",
+    "ee": true
    }
   },
   {
@@ -15318,7 +16290,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719159817"
+    "gnaf_pid": "GANSW719159817",
+    "ee": true
    }
   },
   {
@@ -15335,7 +16308,8 @@
     "locID": "LOC000014622496",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719159818"
+    "gnaf_pid": "GANSW719159818",
+    "ee": true
    }
   },
   {
@@ -15352,7 +16326,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719162164"
+    "gnaf_pid": "GANSW719162164",
+    "ee": true
    }
   },
   {
@@ -15369,7 +16344,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719164514"
+    "gnaf_pid": "GANSW719164514",
+    "ee": true
    }
   },
   {
@@ -15386,7 +16362,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719166811"
+    "gnaf_pid": "GANSW719166811",
+    "ee": true
    }
   },
   {
@@ -15403,7 +16380,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719166812"
+    "gnaf_pid": "GANSW719166812",
+    "ee": true
    }
   },
   {
@@ -15420,7 +16398,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719169020"
+    "gnaf_pid": "GANSW719169020",
+    "ee": true
    }
   },
   {
@@ -15437,7 +16416,8 @@
     "locID": "LOC000015098337",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719169021"
+    "gnaf_pid": "GANSW719169021",
+    "ee": true
    }
   },
   {
@@ -15454,7 +16434,8 @@
     "locID": "LOC000014622496",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719169022"
+    "gnaf_pid": "GANSW719169022",
+    "ee": true
    }
   },
   {
@@ -15471,7 +16452,8 @@
     "locID": "LOC000034083372",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719169023"
+    "gnaf_pid": "GANSW719169023",
+    "ee": true
    }
   },
   {
@@ -15488,7 +16470,8 @@
     "locID": "LOC000029583068",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719233636"
+    "gnaf_pid": "GANSW719233636",
+    "ee": true
    }
   },
   {
@@ -15505,7 +16488,8 @@
     "locID": "LOC000102148065",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719349618"
+    "gnaf_pid": "GANSW719349618",
+    "ee": true
    }
   },
   {
@@ -15522,7 +16506,8 @@
     "locID": "LOC000105550908",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719349781"
+    "gnaf_pid": "GANSW719349781",
+    "ee": true
    }
   },
   {
@@ -15539,7 +16524,8 @@
     "locID": "LOC000168716997",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719350563"
+    "gnaf_pid": "GANSW719350563",
+    "ee": true
    }
   },
   {
@@ -15556,7 +16542,8 @@
     "locID": "LOC000105038418",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719351109"
+    "gnaf_pid": "GANSW719351109",
+    "ee": true
    }
   },
   {
@@ -15573,7 +16560,8 @@
     "locID": "LOC000167986346",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719351522"
+    "gnaf_pid": "GANSW719351522",
+    "ee": true
    }
   },
   {
@@ -15590,7 +16578,8 @@
     "locID": "LOC000168716997",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719351866"
+    "gnaf_pid": "GANSW719351866",
+    "ee": true
    }
   },
   {
@@ -15607,7 +16596,8 @@
     "locID": "LOC000167986351",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719352309"
+    "gnaf_pid": "GANSW719352309",
+    "ee": true
    }
   },
   {
@@ -15624,7 +16614,8 @@
     "locID": "LOC000105522091",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719352439"
+    "gnaf_pid": "GANSW719352439",
+    "ee": true
    }
   },
   {
@@ -15641,7 +16632,8 @@
     "locID": "LOC000105063822",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719353155"
+    "gnaf_pid": "GANSW719353155",
+    "ee": true
    }
   },
   {
@@ -15658,7 +16650,8 @@
     "locID": "LOC000105030505",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719353236"
+    "gnaf_pid": "GANSW719353236",
+    "ee": true
    }
   },
   {
@@ -15675,7 +16668,8 @@
     "locID": "LOC000105119291",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719354004"
+    "gnaf_pid": "GANSW719354004",
+    "ee": true
    }
   },
   {
@@ -15692,7 +16686,8 @@
     "locID": "LOC000105171214",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719354964"
+    "gnaf_pid": "GANSW719354964",
+    "ee": true
    }
   },
   {
@@ -15709,7 +16704,8 @@
     "locID": "LOC000105487577",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719355090"
+    "gnaf_pid": "GANSW719355090",
+    "ee": true
    }
   },
   {
@@ -15726,7 +16722,8 @@
     "locID": "LOC000105403964",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719355093"
+    "gnaf_pid": "GANSW719355093",
+    "ee": true
    }
   },
   {
@@ -15743,7 +16740,8 @@
     "locID": "LOC000105301099",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719355329"
+    "gnaf_pid": "GANSW719355329",
+    "ee": true
    }
   },
   {
@@ -15760,7 +16758,8 @@
     "locID": "LOC000105066292",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719356119"
+    "gnaf_pid": "GANSW719356119",
+    "ee": true
    }
   },
   {
@@ -15777,7 +16776,8 @@
     "locID": "LOC000105689464",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719356134"
+    "gnaf_pid": "GANSW719356134",
+    "ee": true
    }
   },
   {
@@ -15794,7 +16794,8 @@
     "locID": "LOC000168716997",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719356623"
+    "gnaf_pid": "GANSW719356623",
+    "ee": true
    }
   },
   {
@@ -15811,7 +16812,8 @@
     "locID": "LOC000102148065",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719356678"
+    "gnaf_pid": "GANSW719356678",
+    "ee": true
    }
   },
   {
@@ -15828,7 +16830,8 @@
     "locID": "LOC000168716997",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719357407"
+    "gnaf_pid": "GANSW719357407",
+    "ee": true
    }
   },
   {
@@ -15845,7 +16848,8 @@
     "locID": "LOC000105261816",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719357412"
+    "gnaf_pid": "GANSW719357412",
+    "ee": true
    }
   },
   {
@@ -15862,7 +16866,8 @@
     "locID": "LOC000105375895",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719357611"
+    "gnaf_pid": "GANSW719357611",
+    "ee": true
    }
   },
   {
@@ -15879,7 +16884,8 @@
     "locID": "LOC000105685130",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719357988"
+    "gnaf_pid": "GANSW719357988",
+    "ee": true
    }
   },
   {
@@ -15896,7 +16902,8 @@
     "locID": "LOC000102148065",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719358719"
+    "gnaf_pid": "GANSW719358719",
+    "ee": true
    }
   },
   {
@@ -15913,7 +16920,8 @@
     "locID": "LOC000168716997",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719358727"
+    "gnaf_pid": "GANSW719358727",
+    "ee": true
    }
   },
   {
@@ -15930,7 +16938,8 @@
     "locID": "LOC000105289755",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719358790"
+    "gnaf_pid": "GANSW719358790",
+    "ee": true
    }
   },
   {
@@ -15947,7 +16956,8 @@
     "locID": "LOC000105487577",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719359216"
+    "gnaf_pid": "GANSW719359216",
+    "ee": true
    }
   },
   {
@@ -15964,7 +16974,8 @@
     "locID": "LOC000105371112",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719359568"
+    "gnaf_pid": "GANSW719359568",
+    "ee": true
    }
   },
   {
@@ -15981,7 +16992,8 @@
     "locID": "LOC000102148065",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719360046"
+    "gnaf_pid": "GANSW719360046",
+    "ee": true
    }
   },
   {
@@ -15998,7 +17010,8 @@
     "locID": "LOC000105348272",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719360069"
+    "gnaf_pid": "GANSW719360069",
+    "ee": true
    }
   },
   {
@@ -16015,7 +17028,8 @@
     "locID": "LOC000105231440",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719360089"
+    "gnaf_pid": "GANSW719360089",
+    "ee": true
    }
   },
   {
@@ -16032,7 +17046,8 @@
     "locID": "LOC000105137988",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719360260"
+    "gnaf_pid": "GANSW719360260",
+    "ee": true
    }
   },
   {
@@ -16049,7 +17064,8 @@
     "locID": "LOC000102148065",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719361019"
+    "gnaf_pid": "GANSW719361019",
+    "ee": true
    }
   },
   {
@@ -16066,7 +17082,8 @@
     "locID": "LOC000105230655",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719361788"
+    "gnaf_pid": "GANSW719361788",
+    "ee": true
    }
   },
   {
@@ -16083,7 +17100,8 @@
     "locID": "LOC000102148065",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719361915"
+    "gnaf_pid": "GANSW719361915",
+    "ee": true
    }
   },
   {
@@ -16100,7 +17118,8 @@
     "locID": "LOC000168716997",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719362562"
+    "gnaf_pid": "GANSW719362562",
+    "ee": true
    }
   },
   {
@@ -16117,7 +17136,8 @@
     "locID": "LOC000168716997",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719362720"
+    "gnaf_pid": "GANSW719362720",
+    "ee": true
    }
   },
   {
@@ -16134,7 +17154,8 @@
     "locID": "LOC000105293821",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719362948"
+    "gnaf_pid": "GANSW719362948",
+    "ee": true
    }
   },
   {
@@ -16151,7 +17172,8 @@
     "locID": "LOC000102148065",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719363138"
+    "gnaf_pid": "GANSW719363138",
+    "ee": true
    }
   },
   {
@@ -16168,7 +17190,8 @@
     "locID": "LOC000105276878",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719363429"
+    "gnaf_pid": "GANSW719363429",
+    "ee": true
    }
   },
   {
@@ -16185,7 +17208,8 @@
     "locID": "LOC000105382854",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719363478"
+    "gnaf_pid": "GANSW719363478",
+    "ee": true
    }
   },
   {
@@ -16202,7 +17226,8 @@
     "locID": "LOC000105272659",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719364607"
+    "gnaf_pid": "GANSW719364607",
+    "ee": true
    }
   },
   {
@@ -16219,7 +17244,8 @@
     "locID": "LOC000105368820",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719364753"
+    "gnaf_pid": "GANSW719364753",
+    "ee": true
    }
   },
   {
@@ -16236,7 +17262,8 @@
     "locID": "LOC000102148065",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719364756"
+    "gnaf_pid": "GANSW719364756",
+    "ee": true
    }
   },
   {
@@ -16253,7 +17280,8 @@
     "locID": "LOC000168716997",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW719365104"
+    "gnaf_pid": "GANSW719365104",
+    "ee": true
    }
   },
   {
@@ -16270,7 +17298,8 @@
     "locID": "LOC000188834968",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720609683"
+    "gnaf_pid": "GANSW720609683",
+    "ee": true
    }
   },
   {
@@ -16287,7 +17316,8 @@
     "locID": "LOC000022174993",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720612831"
+    "gnaf_pid": "GANSW720612831",
+    "ee": true
    }
   },
   {
@@ -16304,7 +17334,8 @@
     "locID": "LOC100058572891",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720613005"
+    "gnaf_pid": "GANSW720613005",
+    "ee": true
    }
   },
   {
@@ -16321,7 +17352,8 @@
     "locID": "LOC000188834947",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720616881"
+    "gnaf_pid": "GANSW720616881",
+    "ee": true
    }
   },
   {
@@ -16338,7 +17370,8 @@
     "locID": "LOC000192879183",
     "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720779366"
+    "gnaf_pid": "GANSW720779366",
+    "ee": false
    }
   },
   {
@@ -16355,7 +17388,8 @@
     "locID": "LOC000192879196",
     "tech": "NULL",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW720782844"
+    "gnaf_pid": "GANSW720782844",
+    "ee": false
    }
   },
   {
@@ -16372,7 +17406,8 @@
     "locID": "LOC000187906511",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW721050191"
+    "gnaf_pid": "GANSW721050191",
+    "ee": true
    }
   },
   {
@@ -16389,7 +17424,8 @@
     "locID": "LOC000168716749",
     "tech": "HFC",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW721055606"
+    "gnaf_pid": "GANSW721055606",
+    "ee": true
    }
   },
   {
@@ -16406,7 +17442,8 @@
     "locID": "LOC000188834975",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW721316338"
+    "gnaf_pid": "GANSW721316338",
+    "ee": true
    }
   },
   {
@@ -16423,7 +17460,8 @@
     "locID": "LOC000188834975",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW721317271"
+    "gnaf_pid": "GANSW721317271",
+    "ee": true
    }
   },
   {
@@ -16440,7 +17478,8 @@
     "locID": "LOC000188834975",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW721326981"
+    "gnaf_pid": "GANSW721326981",
+    "ee": true
    }
   },
   {
@@ -16457,7 +17496,8 @@
     "locID": "LOC000188834975",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GANSW721327430"
+    "gnaf_pid": "GANSW721327430",
+    "ee": true
    }
   }
  ]
