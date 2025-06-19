@@ -1,6 +1,6 @@
 {
  "type": "FeatureCollection",
- "generated": "2025-05-25T11:57:53.003587",
+ "generated": "2025-06-19T04:44:28.264565",
  "suburb": "LATHAM",
  "features": [
   {
@@ -17,7 +17,8 @@
     "locID": "LOC000185862989",
     "tech": "FTTP",
     "upgrade": "NULL_NA",
-    "gnaf_pid": "GAWA_147395677"
+    "gnaf_pid": "GAWA_147395677",
+    "ee": true
    }
   },
   {
@@ -35,6 +36,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147395678",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -53,6 +55,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147403661",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -71,6 +74,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_147403667",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -89,6 +93,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161034876",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -107,6 +112,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161034878",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -125,6 +131,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161597931",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -143,6 +150,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161989745",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -161,6 +169,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161989751",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -179,6 +188,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161989753",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -197,6 +207,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161989755",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -215,6 +226,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161989760",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -233,6 +245,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161990172",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -251,6 +264,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161990174",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -269,6 +283,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161990176",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -287,6 +302,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161994219",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -305,6 +321,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_161994220",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -323,6 +340,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162258851",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -341,6 +359,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162258852",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -359,6 +378,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162259351",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -377,6 +397,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162259352",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -395,6 +416,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162260840",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -413,6 +435,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162261323",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -431,6 +454,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162261324",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -449,6 +473,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162262371",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -467,6 +492,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162262766",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -485,6 +511,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162265499",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -503,6 +530,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162268456",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -521,6 +549,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162268936",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -539,6 +568,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162270165",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -557,6 +587,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162270367",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -575,6 +606,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162270368",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -593,6 +625,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162270369",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -611,6 +644,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162270370",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -629,6 +663,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162270371",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -647,6 +682,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162270733",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -665,6 +701,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162270734",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -683,6 +720,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162271078",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -701,6 +739,7 @@
     "tech": "SATELLITE",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162271261",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -719,6 +758,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162337865",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -737,6 +777,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_162641611",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -755,6 +796,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_163380200",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   },
@@ -773,6 +815,7 @@
     "tech": "NULL",
     "upgrade": "NULL_NA",
     "gnaf_pid": "GAWA_718569251",
+    "ee": false,
     "tech_change_status": "Not Planned"
    }
   }
